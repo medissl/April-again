@@ -59,10 +59,12 @@ namespace AprilAgain
                     personAreas.Add(new Rect(px+90,260,420,770));secondaryIndex++;
                 }
             }
+            var wayfinding=new System.Collections.Generic.List<ExitData>();
             foreach(var exit in loc.exits??Array.Empty<ExitData>())
             {
                 var r=exit.rect;var center=new Vector2((r[0]+r[2]/2)*1920,(r[1]+r[3]/2)*1080);
-                DoorTarget(world,PlaceName(exit.destination),r[0]*1920,r[1]*1080,r[2]*1920,r[3]*1080,Font,()=>Travel(exit.destination,true),()=>audioPlayer.Sfx("hover"),!personAreas.Any(a=>a.Contains(center)));
+                if(exit.kind=="wayfinding"||personAreas.Any(a=>a.Contains(center)))wayfinding.Add(exit);
+                else DoorTarget(world,PlaceName(exit.destination),r[0]*1920,r[1]*1080,r[2]*1920,r[3]*1080,Font,()=>Travel(exit.destination,true),()=>audioPlayer.Sfx("hover"));
             }
             for(int i=0;i<present.Length;i++)
             {
@@ -81,6 +83,11 @@ namespace AprilAgain
                 }
             }
             DrawSchoolHud();
+            // Off-camera wings and doors obscured by a classmate remain reachable.
+            for(int i=0;i<wayfinding.Count;i++)
+            {
+                var exit=wayfinding[i];Btn(hud,PlaceName(exit.destination)+" ›",48+i*304,988,288,60,()=>Travel(exit.destination,true));
+            }
             if(session.location=="bedroom")
             {
                 Btn(hud,"Sleep • next day",1430,942,390,70,Sleep,!session.opening,true);

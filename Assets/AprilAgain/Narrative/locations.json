@@ -21,7 +21,8 @@
       "gate",
       "corridor",
       "canteen",
-      "field"
+      "field",
+      "class_a"
     ],
     "purpose": "Shared noticeboard, supplies, open-campus display."
   },
@@ -68,7 +69,8 @@
   "class_a": {
     "name": "Class A",
     "neighbors": [
-      "corridor"
+      "corridor",
+      "lobby"
     ],
     "purpose": "MC and Akira's homeroom, supervised tech and survey project."
   },

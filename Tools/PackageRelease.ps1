@@ -32,10 +32,8 @@ Copy-Item -LiteralPath (Join-Path $sourceProject 'Documentation/AudioSources/Rai
 Copy-Item -LiteralPath (Join-Path $sourceProject 'Documentation/ThirdParty/NSIS.txt') -Destination (Join-Path $legal 'NSIS.txt')
 @'
 April, again
-Created by Medissl, with Codex / OpenAI production tools.
 
 Original game illustrations, screenplay and music were made for this project.
-MENFENG menu hover/select/open cues are reused with their creator's permission.
 Additional interface effects: Kenney Interface Sounds (CC0).
 https://kenney.nl/assets/interface-sounds
 Door recording: Kenney RPG Audio (CC0).
@@ -54,7 +52,7 @@ April, again
 Run AprilAgain.exe. Keep AprilAgain_Data, MonoBleedingEdge and UnityPlayer.dll beside it.
 
 Click or Space: reveal / advance dialogue. Escape: menu. H: hide the interface.
-F5: quick save. F9: quick load. Skip stops at unread text and choices.
+F5: quick save. F9: quick load. Reading settings control skipping; skip always waits at choices.
 
 Use doors or the map to travel; travel and inspection are free.
 On the first day, notice all five classmates before heading home.
@@ -67,7 +65,7 @@ Saves are stored in AppData/LocalLow/Medissl/April, again/AprilAgain.
 $files=Get-ChildItem -LiteralPath $release -File -Recurse
 if($files.Name -contains 'autosave.json' -or $files.Name -contains 'preferences.json'){throw 'QA progress must not be packaged.'}
 $proof=@{
-    target='Windows x64';version='1.0.0';packagedUtc=[DateTime]::UtcNow.ToString('o')
+    target='Windows x64';version='1.0.1';packagedUtc=[DateTime]::UtcNow.ToString('o')
     executable='Builds/Windows/AprilAgain.exe';executableBytes=(Get-Item -LiteralPath (Join-Path $release 'AprilAgain.exe')).Length
     files=$files.Count;totalBytes=($files | Measure-Object -Property Length -Sum).Sum
     contentSha256=(Get-FileHash -LiteralPath (Join-Path $sourceProject 'Assets/AprilAgain/GameData/content.json')).Hash

@@ -1,0 +1,35 @@
+{
+  "tool": "Built-in imagegen",
+  "date": "2026-11-23",
+  "method": "Individual high-resolution full-body redraws from approved wardrobe sprites; targeted lower-body corrections on observation plates.",
+  "assets": [
+    {
+      "file": "Characters/svea/Wardrobes/school_sports_jacket_and_trousers/full_body.png",
+      "generation": "98df15ec-3509-45c4-8503-43abf25a8bcd"
+    },
+    {
+      "file": "Characters/katya/Wardrobes/school_tracksuit/full_body.png",
+      "generation": "fdfa2833-1bcc-41cd-83ef-07278bc7e884"
+    },
+    {
+      "file": "Characters/katya/Wardrobes/fencing_kit_with_mask/full_body.png",
+      "generation": "442e3d0c-67b3-44fd-aa3b-1024a24dd27b"
+    },
+    {
+      "file": "Characters/mari/Wardrobes/aikido_gi_and_trousers/full_body.png",
+      "generation": "4f71c51a-4a2a-463b-8c2d-e06b5acd80cc"
+    },
+    {
+      "file": "Characters/mari/Wardrobes/uniform_with_apron/full_body.png",
+      "generation": "e5448a07-5677-4b16-9bc1-714ab1d251a6"
+    },
+    {
+      "file": "Observations/day_one_katya.png",
+      "generation": "0050d3f9-935e-4761-a8d4-31a7251f8602"
+    },
+    {
+      "file": "Observations/day_one_mari.png",
+      "generation": "f286ddbd-8fb0-4b67-9f27-8a4c1950c6d0"
+    }
+  ]
+}

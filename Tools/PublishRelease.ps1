@@ -1,4 +1,4 @@
-param([string]$Tag='v1.0.0')
+param([string]$Tag='v1.0.1')
 $ErrorActionPreference='Stop'
 $project=[IO.Path]::GetFullPath((Join-Path $PSScriptRoot '..'))
 $repository='medissl/April-again'
@@ -18,7 +18,7 @@ try{
     try{$release=Invoke-RestMethod -Uri "$api/releases/tags/$Tag" -Headers $headers}catch{if([int]$_.Exception.Response.StatusCode -ne 404){throw}}
     if(-not $release){
         $commit=(git -C $project rev-parse HEAD).Trim()
-        $body=@{tag_name=$Tag;target_commitish=$commit;name='April, again 1.0.0';body=$notes;draft=$true;prerelease=$false}|ConvertTo-Json
+        $body=@{tag_name=$Tag;target_commitish=$commit;name=('April, again '+$Tag.TrimStart('v'));body=$notes;draft=$true;prerelease=$false}|ConvertTo-Json
         $release=Invoke-RestMethod -Uri "$api/releases" -Method Post -Headers $headers -ContentType 'application/json; charset=utf-8' -Body ([Text.Encoding]::UTF8.GetBytes($body))
     }
     elseif($release.draft){

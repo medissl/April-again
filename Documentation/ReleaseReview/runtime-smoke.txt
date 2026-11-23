@@ -1,1 +1,1 @@
-Runtime smoke passed: 21 assertions; intro, 5 observations, home/sleep, encounter, mid-response load, menus, corruption recovery.
+Runtime smoke passed: 22 assertions; intro, 5 observations, home/sleep, encounter, mid-response load, menus, corruption recovery.

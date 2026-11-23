@@ -1,0 +1,1 @@
+Runtime ending checks passed: 15 finales, independent checkpoints, CG unlocks and credits transitions.

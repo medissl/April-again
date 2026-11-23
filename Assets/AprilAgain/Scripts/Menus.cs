@@ -59,7 +59,7 @@ namespace AprilAgain
         }
         void Pause()
         {
-            auto=skip=false;RefreshReadingControls();
+            auto=skip=resumeSkipAfterChoice=false;RefreshReadingControls();
             var p=OpenPanel("Menu",1050,850);
             Btn(p,"Resume",180,224,690,66,()=>CloseOverlay(),true,true);
             Btn(p,"Save",180,314,330,64,()=>Saves(true));Btn(p,"Load",540,314,330,64,()=>Saves(false));
@@ -148,11 +148,13 @@ namespace AprilAgain
             Icon(overlay,"Back to gallery","back",40,32,76,Gallery,Paper);
             Icon(overlay,"Close","close",1800,32,76,DismissOverlay,Paper);
         }
-        void Settings()
+        int settingsTab;
+        void Settings()=>SettingsPage(settingsTab);
+        void SettingsPage(int page)
         {
+            settingsTab=page;
             var p=OpenPanel("Settings",1640,954);
-            Text(p,"Sound",160,224,580,54,catalog.titleFont,30,Rose);
-            Text(p,"Reading & display",900,224,580,54,catalog.titleFont,30,Rose);
+            for(int i=0;i<3;i++){int index=i;Btn(p,new[]{"Reading","Sound","Display"}[i],160+i*430,224,400,58,()=>SettingsPage(index),true,page==i);}
             void SliderRow(string label,float x,float y,float value,float min,float max,Action<float> changed,string format)
             {
                 Text(p,label,x,y,400,40,Font,25);
@@ -166,23 +168,41 @@ namespace AprilAgain
                 slider.fillRect=fill.rectTransform;slider.handleRect=handle.rectTransform;slider.targetGraphic=handle;slider.minValue=min;slider.maxValue=max;slider.value=value;
                 slider.onValueChanged.AddListener(v=>{number.text=v.ToString(format);changed(v);audioPlayer.Apply();});
             }
-            SliderRow("Master",160,292,prefs.master,0,1,v=>prefs.master=v,"P0");
-            SliderRow("Music",160,412,prefs.music,0,1,v=>prefs.music=v,"P0");
-            SliderRow("Sound effects",160,532,prefs.sound,0,1,v=>prefs.sound=v,"P0");
-            SliderRow("Ambience",160,652,prefs.ambience,0,1,v=>prefs.ambience=v,"P0");
-            SliderRow("Text speed",900,292,prefs.textSpeed,15,100,v=>prefs.textSpeed=v,"0");
-            SliderRow("Auto pause",900,412,prefs.autoDelay,1,6,v=>prefs.autoDelay=v,"0.0 's'");
-            Btn(p,"Reduced motion  "+(prefs.reducedMotion?"On":"Off"),900,540,520,62,()=>{prefs.reducedMotion=!prefs.reducedMotion;PersistPreferences();Settings();});
-            Btn(p,"Fullscreen  "+(prefs.fullscreen?"On":"Off"),900,624,520,62,()=>{prefs.fullscreen=!prefs.fullscreen;Screen.fullScreen=prefs.fullscreen;PersistPreferences();Settings();});
-            Btn(p,"Mute outside game  "+(prefs.muteUnfocused?"On":"Off"),900,708,520,62,()=>{prefs.muteUnfocused=!prefs.muteUnfocused;PersistPreferences();Settings();});
-            Quiet(p,"Controls",170,830,230,60,()=>Message("Click or Space to advance. Escape opens the menu. H hides the interface.\n\nAuto reads at your pace. Skip stops at unread text and choices.\n\nF5: quick save. F9: quick load.",Settings));
+            void Toggle(string label,bool value,float x,float y,Action change)=>Btn(p,label+"  "+(value?"On":"Off"),x,y,580,66,()=>{change();PersistPreferences();Settings();});
+            if(page==0)
+            {
+                SliderRow("Text speed",160,354,prefs.textSpeed,15,100,v=>prefs.textSpeed=v,"0");
+                SliderRow("Auto pause",160,504,prefs.autoDelay,1,6,v=>prefs.autoDelay=v,"0.0 's'");
+                Toggle("Instant text",prefs.instantText,160,654,()=>prefs.instantText=!prefs.instantText);
+                Toggle("Skip unread text",prefs.skipUnread,900,354,()=>prefs.skipUnread=!prefs.skipUnread);
+                Toggle("Resume skip after choices",prefs.skipAfterChoices,900,454,()=>prefs.skipAfterChoices=!prefs.skipAfterChoices);
+                Toggle("Keep auto after a click",prefs.autoAfterClick,900,554,()=>prefs.autoAfterClick=!prefs.autoAfterClick);
+                Text(p,"Skip always waits for your choice.",916,660,540,80,Font,25,Muted);
+            }
+            else if(page==1)
+            {
+                SliderRow("Master",160,354,prefs.master,0,1,v=>prefs.master=v,"P0");
+                SliderRow("Music",160,504,prefs.music,0,1,v=>prefs.music=v,"P0");
+                SliderRow("Sound effects",900,354,prefs.sound,0,1,v=>prefs.sound=v,"P0");
+                SliderRow("Ambience",900,504,prefs.ambience,0,1,v=>prefs.ambience=v,"P0");
+                Toggle("Mute outside game",prefs.muteUnfocused,160,654,()=>prefs.muteUnfocused=!prefs.muteUnfocused);
+            }
+            else
+            {
+                Btn(p,prefs.fullscreen?"Borderless fullscreen":"Windowed",160,354,580,66,()=>{prefs.fullscreen=!prefs.fullscreen;ApplyDisplay();PersistPreferences();Settings();});
+                Text(p,prefs.fullscreen?"Uses your display's native resolution.":"Choose the window size below.",176,438,540,78,Font,25,Muted);
+                Btn(p,"Window size  "+new[]{"1280 × 720","1600 × 900","1920 × 1080"}[Mathf.Clamp(prefs.windowSize,0,2)],160,544,580,66,()=>{prefs.windowSize=(prefs.windowSize+1)%3;ApplyDisplay();PersistPreferences();Settings();},!prefs.fullscreen);
+                Toggle("Reduced motion",prefs.reducedMotion,900,354,()=>prefs.reducedMotion=!prefs.reducedMotion);
+                Toggle("VSync",prefs.vsync,900,454,()=>{prefs.vsync=!prefs.vsync;ApplyDisplay();});
+            }
+            Quiet(p,"Controls",170,830,230,60,()=>Message("Click anywhere in the scene or press Space to reveal and advance dialogue. Escape opens the menu. H hides the interface.\n\nAuto reads at your pace. Skip follows your Reading settings and always waits at choices.\n\nF5: quick save. F9: quick load.",Settings));
             Btn(p,"Done",1110,830,310,64,()=>{PersistPreferences();CloseOverlay();},true,true);
         }
         void Credits(bool ending)
         {
             var p=OpenPanel(ending?Content.endings.First(x=>x.id==session.pendingEnding).title:"April, again",1420,920);
             Text(p,"Thank you for spending these days at Seiran.",150,224,1120,90,catalog.titleFont,32,Rose,TextAlignmentOptions.Center);
-            Text(p,"Created by Medissl\nWith Codex / OpenAI production tools\n\nMenu cues: MENFENG · Door and interface: Kenney (CC0)\nRain recording: alxl (CC0)\nOriginal music made for April, again\n\nNunito — SIL Open Font License",190,340,1040,364,Font,27,Ink,TextAlignmentOptions.Center);
+            Text(p,"Door and interface sounds: Kenney (CC0)\nRain recording: alxl (CC0)\nOriginal music made for April, again\n\nNunito — SIL Open Font License",190,340,1040,364,Font,27,Ink,TextAlignmentOptions.Center);
             Btn(p,ending?"Return to title":"Return",470,784,480,72,()=>{if(ending){Autosave();ShowTitle();}else CloseOverlay();},true,true);
         }
     }

@@ -25,6 +25,17 @@
         ],
         "kind": "door_or_path",
         "label": "Main corridor"
+      },
+      {
+        "destination": "lobby",
+        "label": "Lobby",
+        "kind": "wayfinding",
+        "hitRect": [
+          0.025,
+          0.915,
+          0.15,
+          0.055
+        ]
       }
     ],
     "class_b": [
@@ -164,7 +175,7 @@
         "label": "Main corridor"
       },
       {
-        "destination": "canteen",
+        "destination": "class_a",
         "hitRect": [
           0.16,
           0.24,
@@ -172,7 +183,7 @@
           0.39
         ],
         "kind": "door_or_path",
-        "label": "Canteen"
+        "label": "Class A"
       },
       {
         "destination": "gate",
@@ -195,6 +206,17 @@
         ],
         "kind": "door_or_path",
         "label": "Sports field / hardcourt"
+      },
+      {
+        "destination": "canteen",
+        "label": "Canteen",
+        "kind": "wayfinding",
+        "hitRect": [
+          0.025,
+          0.915,
+          0.15,
+          0.055
+        ]
       }
     ],
     "corridor": [
@@ -241,8 +263,30 @@
         ],
         "kind": "door_or_path",
         "label": "Lobby"
+      },
+      {
+        "destination": "infirmary",
+        "label": "Infirmary",
+        "kind": "wayfinding",
+        "hitRect": [
+          0.025,
+          0.915,
+          0.15,
+          0.055
+        ]
+      },
+      {
+        "destination": "library",
+        "label": "Library",
+        "kind": "wayfinding",
+        "hitRect": [
+          0.185,
+          0.915,
+          0.15,
+          0.055
+        ]
       }
     ]
   },
-  "note": "Only visible doorways receive world targets. Off-camera wings remain accessible through the campus map. One target and one hover caption per doorway."
+  "note": "Visible doors use a single target. Off-camera wings have labelled wayfinding links along the lower left edge; every adjacent room is reachable without opening the map."
 }

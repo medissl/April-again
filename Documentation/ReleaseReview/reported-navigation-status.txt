@@ -1,0 +1,1 @@
+48 world scenes; 149 pointer/navigation checks; 0 failures

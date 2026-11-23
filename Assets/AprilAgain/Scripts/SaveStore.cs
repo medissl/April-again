@@ -6,9 +6,10 @@ namespace AprilAgain
 {
     public static class SaveStore
     {
+        static readonly bool IsolatedQA=Array.IndexOf(Environment.GetCommandLineArgs(),"-april-qa")>=0;
         public static string Root => Application.isEditor
             ? Path.GetFullPath(Path.Combine(Application.dataPath,"../Library/AprilAgainPlaytest"))
-            : Path.Combine(Application.persistentDataPath, "AprilAgain");
+            : IsolatedQA?Path.Combine(Application.temporaryCachePath,"AprilAgainPlaytest"):Path.Combine(Application.persistentDataPath, "AprilAgain");
         static string PathFor(string slot) => Path.Combine(Root, slot + ".json");
         public static void Write(string slot, object value)
         {

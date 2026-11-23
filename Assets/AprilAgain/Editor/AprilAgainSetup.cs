@@ -24,9 +24,9 @@ namespace AprilAgain.Editor
             {
                 var t=AssetImporter.GetAtPath(a.path) as TextureImporter;if(t==null)throw new Exception("Missing art "+a.path);
                 var border=a.border!=null&&a.border.Length==4?new Vector4(a.border[0],a.border[1],a.border[2],a.border[3]):Vector4.zero;
-                if(t.textureType==TextureImporterType.Sprite&&t.spriteImportMode==SpriteImportMode.Single&&t.alphaIsTransparency&&t.maxTextureSize==2048&&t.spriteBorder==border)continue;
+                if(t.textureType==TextureImporterType.Sprite&&t.spriteImportMode==SpriteImportMode.Single&&t.alphaIsTransparency&&t.maxTextureSize==4096&&t.spriteBorder==border&&!t.mipmapEnabled&&t.textureCompression==TextureImporterCompression.Uncompressed)continue;
                 t.textureType=TextureImporterType.Sprite;t.spriteImportMode=SpriteImportMode.Single;t.alphaIsTransparency=true;t.mipmapEnabled=false;t.isReadable=false;
-                t.wrapMode=TextureWrapMode.Clamp;t.filterMode=FilterMode.Bilinear;t.maxTextureSize=2048;t.textureCompression=TextureImporterCompression.Compressed;t.spriteBorder=border;
+                t.wrapMode=TextureWrapMode.Clamp;t.filterMode=FilterMode.Bilinear;t.maxTextureSize=4096;t.textureCompression=TextureImporterCompression.Uncompressed;t.spriteBorder=border;
                 t.SaveAndReimport();
             }
             var path=Root+"GameData/GameCatalog.asset";
@@ -49,9 +49,11 @@ namespace AprilAgain.Editor
             var game=new GameObject("April again",typeof(AprilAgainGame));game.GetComponent<AprilAgainGame>().catalog=catalog;
             EditorSceneManager.SaveScene(scene,"Assets/Scenes/AprilAgain.unity");
             EditorBuildSettings.scenes=new[]{new EditorBuildSettingsScene("Assets/Scenes/AprilAgain.unity",true)};
-            PlayerSettings.companyName="Medissl";PlayerSettings.productName="April, again";PlayerSettings.bundleVersion="1.0.0";
-            PlayerSettings.defaultScreenWidth=1280;PlayerSettings.defaultScreenHeight=720;PlayerSettings.resizableWindow=true;
-            PlayerSettings.fullScreenMode=FullScreenMode.Windowed;PlayerSettings.runInBackground=true;
+            PlayerSettings.companyName="Medissl";PlayerSettings.productName="April, again";PlayerSettings.bundleVersion="1.0.1";
+            PlayerSettings.defaultScreenWidth=1920;PlayerSettings.defaultScreenHeight=1080;PlayerSettings.resizableWindow=true;
+            PlayerSettings.fullScreenMode=FullScreenMode.FullScreenWindow;PlayerSettings.runInBackground=true;
+            PlayerSettings.SetUseDefaultGraphicsAPIs(BuildTarget.StandaloneWindows64,false);
+            PlayerSettings.SetGraphicsAPIs(BuildTarget.StandaloneWindows64,new[]{UnityEngine.Rendering.GraphicsDeviceType.Direct3D11});
             PlayerSettings.SplashScreen.show=false;
             var icon=AssetDatabase.LoadAssetAtPath<Texture2D>(Root+"Art/Title/app_icon_final.png");
             if(icon==null)throw new Exception("Missing game icon");

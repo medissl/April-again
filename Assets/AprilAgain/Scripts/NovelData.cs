@@ -40,6 +40,7 @@ namespace AprilAgain
         public string location = "bedroom", mode = "dialogue", segment = "opening.bedroom", after = "intro.gate";
         public string girl = "", scene = "", background = "bg_bedroom_day", portrait = "", lastChoice = "", pendingEnding = "";
         public bool opening = true, endingUnlocked;
+        public string firstName = "Ren", lastName = "Takahashi";
         public RouteState[] routes;
         public List<string> observed = new List<string>(), used = new List<string>(), choices = new List<string>(), history = new List<string>();
         public Line[] lines;
@@ -50,7 +51,9 @@ namespace AprilAgain
     [Serializable] public class Preferences
     {
         public float master = .8f, music = .45f, sound = .65f, ambience = .28f, textSpeed = 45f, autoDelay = 2.5f;
-        public bool reducedMotion, fullscreen, muteUnfocused;
+        public bool reducedMotion, muteUnfocused, displayInitialized, skipUnread, skipAfterChoices, autoAfterClick, instantText;
+        public bool fullscreen = true, vsync = true;
+        public int windowSize = 1;
         public List<string> read = new List<string>(), gallery = new List<string>();
     }
     public static class GameRules

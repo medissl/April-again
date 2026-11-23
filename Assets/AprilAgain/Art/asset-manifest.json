@@ -1063,23 +1063,17 @@
       "id": "wardrobe_katya_school_tracksuit_full_body",
       "file": "Characters/katya/Wardrobes/school_tracksuit/full_body.png",
       "category": "sprite_export",
-      "atlas": "Characters/katya/Wardrobes/school_tracksuit.png",
-      "rectTopLeft": [
-        0,
-        0,
-        627,
-        627
-      ],
-      "width": 627,
-      "height": 627,
+      "width": 1024,
+      "height": 1536,
       "mode": "RGBA",
       "alphaBounds": [
         0,
-        1,
-        627,
-        627
+        0,
+        1004,
+        1536
       ],
-      "sha256": "1ae409e067a066d4de87442214fc293981f3009c3afa7fba57c5bb1d947a18bc"
+      "sha256": "e8053f0a4c7c1b0d4c5f13b2f5d3426b4c917ed34f31e6524f928f9a1e40d6c3",
+      "method": "individual HD production sprite"
     },
     "wardrobe_katya_school_tracksuit_neutral": {
       "id": "wardrobe_katya_school_tracksuit_neutral",
@@ -1177,23 +1171,17 @@
       "id": "wardrobe_katya_fencing_kit_with_mask_full_body",
       "file": "Characters/katya/Wardrobes/fencing_kit_with_mask/full_body.png",
       "category": "sprite_export",
-      "atlas": "Characters/katya/Wardrobes/fencing_kit_with_mask.png",
-      "rectTopLeft": [
-        0,
-        0,
-        627,
-        627
-      ],
-      "width": 627,
-      "height": 627,
+      "width": 1024,
+      "height": 1536,
       "mode": "RGBA",
       "alphaBounds": [
-        75,
-        5,
-        605,
-        627
+        49,
+        0,
+        936,
+        1536
       ],
-      "sha256": "16efadff0888eceb3d8ccb31c99cad5578d90a82c9e77cf0b213c927d126aef0"
+      "sha256": "b05313bec9d338f08b8d42993b77ebe076c08eda8ab93623cb046cfc1a57edcf",
+      "method": "individual HD production sprite"
     },
     "wardrobe_katya_fencing_kit_with_mask_neutral": {
       "id": "wardrobe_katya_fencing_kit_with_mask_neutral",
@@ -1291,23 +1279,17 @@
       "id": "wardrobe_mari_aikido_gi_and_trousers_full_body",
       "file": "Characters/mari/Wardrobes/aikido_gi_and_trousers/full_body.png",
       "category": "sprite_export",
-      "atlas": "Characters/mari/Wardrobes/aikido_gi_and_trousers.png",
-      "rectTopLeft": [
-        0,
-        0,
-        627,
-        627
-      ],
-      "width": 627,
-      "height": 627,
+      "width": 1024,
+      "height": 1536,
       "mode": "RGBA",
       "alphaBounds": [
+        27,
         0,
-        0,
-        627,
-        627
+        1004,
+        1536
       ],
-      "sha256": "5f4b0273b71aa3e351f6f27fd8a844552ba2eb1cf469e21df0666bdfd5dc6b05"
+      "sha256": "50730c7e71c3f7771f148a6e7b26eeaf7e916d18b6b3d35de80e3f86a0a03665",
+      "method": "individual HD production sprite"
     },
     "wardrobe_mari_aikido_gi_and_trousers_neutral": {
       "id": "wardrobe_mari_aikido_gi_and_trousers_neutral",
@@ -1405,23 +1387,17 @@
       "id": "wardrobe_mari_uniform_with_apron_full_body",
       "file": "Characters/mari/Wardrobes/uniform_with_apron/full_body.png",
       "category": "sprite_export",
-      "atlas": "Characters/mari/Wardrobes/uniform_with_apron.png",
-      "rectTopLeft": [
-        0,
-        0,
-        627,
-        627
-      ],
-      "width": 627,
-      "height": 627,
+      "width": 1024,
+      "height": 1536,
       "mode": "RGBA",
       "alphaBounds": [
         0,
         0,
-        627,
-        627
+        950,
+        1536
       ],
-      "sha256": "06d7a4d5451263d86cc7bbaf1289c7125f7c206d3a0f9ab44928251f2daa1210"
+      "sha256": "fca32760e4dc3457e7cc0dc5671f8251651ff825ca9c70372eead91ffa29a93f",
+      "method": "individual HD production sprite"
     },
     "wardrobe_mari_uniform_with_apron_neutral": {
       "id": "wardrobe_mari_uniform_with_apron_neutral",
@@ -1519,23 +1495,17 @@
       "id": "wardrobe_svea_school_sports_jacket_and_trousers_full_body",
       "file": "Characters/svea/Wardrobes/school_sports_jacket_and_trousers/full_body.png",
       "category": "sprite_export",
-      "atlas": "Characters/svea/Wardrobes/school_sports_jacket_and_trousers.png",
-      "rectTopLeft": [
-        0,
-        0,
-        627,
-        627
-      ],
-      "width": 627,
-      "height": 627,
+      "width": 1024,
+      "height": 1536,
       "mode": "RGBA",
       "alphaBounds": [
-        27,
-        5,
-        627,
-        627
+        241,
+        0,
+        978,
+        1521
       ],
-      "sha256": "dd86e9ac005a8e3de0d3d1cb9a60f823e562d1929986b188386d0a90e589a765"
+      "sha256": "46ffe4a15e539306406d2ff05bd55a058761e2aaa132a98b7451c07a442a0d67",
+      "method": "individual HD production sprite"
     },
     "wardrobe_svea_school_sports_jacket_and_trousers_neutral": {
       "id": "wardrobe_svea_school_sports_jacket_and_trousers_neutral",
@@ -2855,7 +2825,7 @@
         1672,
         941
       ],
-      "sha256": "85e9b9e4004d61ed95892b7f541aeacd2d6204b12b0dc7ef0c88efcbb497d1cd"
+      "sha256": "af9e7dda0c2bfa6d18fbcd80e46b932f377b12b4203cfa46f280bd6fe44edc43"
     },
     "observation_akira": {
       "id": "observation_akira",
@@ -2894,16 +2864,16 @@
       "file": "Observations/day_one_mari.png",
       "category": "observation",
       "method": "built-in image_gen",
-      "width": 1671,
+      "width": 1670,
       "height": 941,
       "mode": "RGB",
       "alphaBounds": [
         0,
         0,
-        1671,
+        1670,
         941
       ],
-      "sha256": "8252ee3bfaf1aaad571d6e12a215b23ac2f011403288cc5f6e0ab4d28e5e523b"
+      "sha256": "d385cad32fc83983210be5026c646bc93f097db6185ac09503456eac028618be"
     },
     "observation_svea": {
       "id": "observation_svea",
@@ -5447,7 +5417,7 @@
         640,
         880
       ],
-      "sha256": "9fef98bbcb76125ced4b0cce92604217b901981b0ef3c701b4676ce28070449d"
+      "sha256": "20ab93b8a569aed5a14a62456dc0a33517c4788b5cb6d76dee904229192d51d9"
     },
     "native_forms": {
       "id": "forms",
@@ -5719,7 +5689,7 @@
         640,
         880
       ],
-      "sha256": "a4cdd3e67f043bc8ad346f2dc6116cabb1648014ae191cc2b4e88086f9300fc0"
+      "sha256": "4aac7bda2925622216ab8052a7dfc7d8c1f4f069577c66a2d6b4abdb10e4ea47"
     },
     "native_project_notebook": {
       "id": "project_notebook",

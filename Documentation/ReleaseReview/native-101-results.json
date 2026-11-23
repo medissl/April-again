@@ -1,0 +1,18 @@
+{
+  "keyboardShortcut": "Injected Escape did not register; physical keyboard shortcut verification remains unavailable.",
+  "saveAndQuit": "passed",
+  "version": "1.0.1",
+  "typedFirstAndLastName": "passed",
+  "runtimeErrors": 0,
+  "playerProfileChanges": 0,
+  "outsideTextboxAdvance": "passed",
+  "nativeMouse": "passed",
+  "akiraAndMariIntroductions": "passed",
+  "fullscreenAndWindowed": "passed",
+  "infirmaryLibraryClassA": "passed",
+  "engine": "6000.3.21f1",
+  "shutdownExitCode": 0,
+  "shutdownRegression": "UI Automation inspection followed by Quit passed; full completed log has no crash marker.",
+  "finalGameplayCheck": "User confirmed the final candidate is fine and requested publication.",
+  "coverageNote": "Detailed native mouse gameplay was tested on the 6.3.7 candidate. The final 6.3.21 export passed the UIA shutdown regression; the user then confirmed the candidate and requested publication."
+}

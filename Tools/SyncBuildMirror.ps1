@@ -33,7 +33,7 @@ if($PullGenerated){
         }
         Copy-RelativeFile $mirrorProject $sourceProject $relative
     }
-    foreach($relative in @('Assets/AprilAgain/GameData/GameCatalog.asset','Assets/AprilAgain/GameData/NunitoDefaultFont.asset','Assets/TextMesh Pro/Resources/TMP Settings.asset','Assets/Scenes/AprilAgain.unity','ProjectSettings/ProjectSettings.asset','ProjectSettings/EditorBuildSettings.asset')){
+    foreach($relative in @('Assets/AprilAgain/GameData/GameCatalog.asset','Assets/AprilAgain/GameData/NunitoDefaultFont.asset','Assets/TextMesh Pro/Resources/TMP Settings.asset','Assets/Scenes/AprilAgain.unity','ProjectSettings/ProjectSettings.asset','ProjectSettings/EditorBuildSettings.asset','ProjectSettings/ProjectVersion.txt','Packages/manifest.json','Packages/packages-lock.json')){
         if(Test-Path -LiteralPath (Join-Path $mirrorProject $relative)){Copy-RelativeFile $mirrorProject $sourceProject $relative}
     }
     $reportSource=Join-Path $mirrorProject 'Documentation/Testing'
@@ -44,7 +44,7 @@ if($PullGenerated){
     }
     Write-Output 'Pulled generated catalog, font assets, new metadata and verification records.'
 }else{
-    foreach($folder in @('Assets/AprilAgain/Scripts','Assets/AprilAgain/Editor','Assets/AprilAgain/Art/UI/Spring','Assets/AprilAgain/Art/UI/Final','Assets/AprilAgain/Art/Fonts/Nunito','Assets/AprilAgain/Art/Title','Assets/AprilAgain/Audio/World')){
+    foreach($folder in @('Assets/AprilAgain/Scripts','Assets/AprilAgain/Editor','Assets/AprilAgain/Narrative','Assets/AprilAgain/Art/Documents','Assets/AprilAgain/Art/Characters','Assets/AprilAgain/Art/Observations','Assets/AprilAgain/Art/Rooms','Assets/AprilAgain/Art/Map','Assets/AprilAgain/Art/UI/Spring','Assets/AprilAgain/Art/UI/Final','Assets/AprilAgain/Art/Fonts/Nunito','Assets/AprilAgain/Art/Title','Assets/AprilAgain/Audio/World')){
         foreach($file in Get-ChildItem -LiteralPath (Join-Path $sourceProject $folder) -File -Recurse){
             $relative=$file.FullName.Substring($sourceProject.Length+1)
             if($file.Extension -eq '.meta' -and (Test-Path -LiteralPath (Join-Path $mirrorProject $relative))){continue}

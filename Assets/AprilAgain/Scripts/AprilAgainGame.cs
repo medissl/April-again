@@ -19,7 +19,7 @@ namespace AprilAgain
         public ContentData Content => catalog.Data;
         Session session; Preferences prefs; GameAudio audioPlayer;
         RectTransform stage, world, hud, dialogue, overlay;
-        TextMeshProUGUI body; bool modal, title=true, auto, skip, hidden;
+        TextMeshProUGUI body; bool modal, title=true, auto, skip, hidden, resumeSkipAfterChoice;
         Action overlayReturn;
         float reveal, finishedAt; string lineKey="";
         TMP_FontAsset Font => catalog.bodyFont;
@@ -30,7 +30,8 @@ namespace AprilAgain
             prefs.read=prefs.read??new List<string>();prefs.gallery=prefs.gallery??new List<string>();
             prefs.master=Mathf.Clamp01(prefs.master);prefs.music=Mathf.Clamp01(prefs.music);prefs.sound=Mathf.Clamp01(prefs.sound);prefs.ambience=Mathf.Clamp01(prefs.ambience);
             prefs.textSpeed=Mathf.Clamp(prefs.textSpeed,15,100);prefs.autoDelay=Mathf.Clamp(prefs.autoDelay,1,6);
-            if(!Application.isEditor)Screen.fullScreen=prefs.fullscreen;
+            if(!prefs.displayInitialized){prefs.fullscreen=true;prefs.displayInitialized=true;}
+            ApplyDisplay();
             audioPlayer=gameObject.AddComponent<GameAudio>();audioPlayer.Init(catalog,prefs);
             NovelUI.Skin=catalog;MakeCanvas(); ShowTitle();
         }
@@ -41,23 +42,16 @@ namespace AprilAgain
             camera.orthographic=true;camera.backgroundColor=Hex("261D2B");camera.clearFlags=CameraClearFlags.SolidColor;
             var go=new GameObject("April again UI",typeof(RectTransform),typeof(Canvas),typeof(CanvasScaler),typeof(GraphicRaycaster));
             var canvas=go.GetComponent<Canvas>();canvas.renderMode=RenderMode.ScreenSpaceCamera;canvas.worldCamera=camera;canvas.planeDistance=1;
-            var scaler=go.GetComponent<CanvasScaler>();scaler.uiScaleMode=CanvasScaler.ScaleMode.ScaleWithScreenSize;scaler.referenceResolution=new Vector2(1920,1080);scaler.matchWidthOrHeight=.5f;
+            var scaler=go.GetComponent<CanvasScaler>();scaler.uiScaleMode=CanvasScaler.ScaleMode.ScaleWithScreenSize;scaler.referenceResolution=new Vector2(1920,1080);scaler.screenMatchMode=CanvasScaler.ScreenMatchMode.Expand;
             stage=Rect("16 by 9 stage",go.transform,0,0,1920,1080);stage.anchorMin=stage.anchorMax=new Vector2(.5f,.5f);stage.pivot=new Vector2(.5f,.5f);stage.anchoredPosition=Vector2.zero;
             stage.gameObject.AddComponent<RectMask2D>();
             NovelUI.Stage=stage;
             world=Rect("World",stage,0,0,1920,1080);dialogue=Rect("Dialogue",stage,0,0,1920,1080);hud=Rect("HUD",stage,0,0,1920,1080);overlay=Rect("Menus",stage,0,0,1920,1080);
             if(FindAnyObjectByType<EventSystem>()==null){new GameObject("Event System",typeof(EventSystem),typeof(InputSystemUIInputModule));}
-            ResizeStage();Canvas.willRenderCanvases+=ResizeStage;
-        }
-        void ResizeStage()
-        {
-            if(stage==null)return;
-            var p=(RectTransform)stage.parent;float scale=Mathf.Min(p.rect.width/1920f,p.rect.height/1080f);
-            if(Mathf.Abs(stage.localScale.x-scale)>.00001f)stage.localScale=Vector3.one*scale;
         }
         void Update()
         {
-            if(stage==null)return; ResizeStage();
+            if(stage==null)return;
             var k=Keyboard.current;
             if(k!=null&&k.escapeKey.wasPressedThisFrame){if(hidden){hidden=false;dialogue.gameObject.SetActive(true);hud.gameObject.SetActive(true);}else if(modal)DismissOverlay();else if(!title)Pause();}
             if(hidden&&Mouse.current!=null&&Mouse.current.leftButton.wasPressedThisFrame){hidden=false;dialogue.gameObject.SetActive(true);hud.gameObject.SetActive(true);return;}
@@ -70,8 +64,8 @@ namespace AprilAgain
                 reveal+=Time.unscaledDeltaTime*prefs.textSpeed;body.maxVisibleCharacters=Mathf.FloorToInt(reveal);
                 bool complete=body.maxVisibleCharacters>=body.textInfo.characterCount;
                 if(complete&&finishedAt<0)finishedAt=Time.unscaledTime;
-                if(k!=null&&(k.spaceKey.wasPressedThisFrame||k.rightArrowKey.wasPressedThisFrame))NextLine();
-                else if(skip){if(prefs.read.Contains(lineKey)){reveal=100000;if(complete&&Time.unscaledTime-finishedAt>.06f)NextLine();}else {skip=false;RefreshReadingControls();}}
+                if(k!=null&&(k.spaceKey.wasPressedThisFrame||k.rightArrowKey.wasPressedThisFrame))AdvanceInput();
+                else if(skip){if(prefs.skipUnread||prefs.read.Contains(lineKey)){reveal=100000;if(complete&&Time.unscaledTime-finishedAt>.06f)NextLine();}else {skip=false;RefreshReadingControls();}}
                 else if(auto&&complete&&Time.unscaledTime-finishedAt>prefs.autoDelay+body.text.Length/75f)NextLine();
             }
         }
@@ -87,7 +81,7 @@ namespace AprilAgain
             => IconButton(p,label,icon,x,y,size,Font,()=>{audioPlayer.Sfx("select");action();},()=>audioPlayer.Sfx("hover"),tint);
         string Familiar(string name)
         {
-            if(name=="MC")return "Ren";
+            if(name=="MC")return PlayerFirst;
             if(name.Contains("Seo-yun"))return "Seo-yun";
             if(name.Contains("Mari"))return "Mari";
             if(name.Contains("Svea"))return "Svea";
@@ -96,15 +90,13 @@ namespace AprilAgain
         }
         void ShowTitle()
         {
-            title=true;modal=false;auto=skip=hidden=false;body=null;
+            title=true;modal=false;auto=skip=hidden=resumeSkipAfterChoice=false;body=null;
             hud.gameObject.SetActive(true);dialogue.gameObject.SetActive(true);
             Clear(hud);Clear(dialogue);Clear(overlay);Background("title_establishing");
             audioPlayer.Music("bgm_daily");audioPlayer.Ambience("");
             Image(hud,"Title stationery",62,100,710,880,new Color(1,1,1,.88f),catalog.Sprite("spring_menu"));
             Image(hud,"April again",110,135,620,350,Color.white,catalog.Sprite("spring_wordmark"),true);
-            Btn(hud,"New game",182,520,480,70,()=>{
-                if(session!=null&&!title)Confirm("Start a new story?",NewGame);else NewGame();
-            },true,true);
+            Btn(hud,"New game",182,520,480,70,NameEntry,true,true);
             Btn(hud,"Continue",182,608,480,70,()=>Load("autosave"),SaveStore.Load("autosave",Content)!=null);
             Btn(hud,"Load",182,696,225,66,()=>Saves(false));
             Btn(hud,"Gallery",433,696,229,66,Gallery);
@@ -114,7 +106,12 @@ namespace AprilAgain
         }
         public void NewGame()
         {
-            session=Session.New(Content);title=false;StartSequence("opening.bedroom","intro.gate");
+            NewGame("Ren","Takahashi");
+        }
+        public void NewGame(string first,string last)
+        {
+            session=Session.New(Content);session.firstName=first;session.lastName=last;
+            title=false;auto=skip=resumeSkipAfterChoice=false;StartSequence("opening.bedroom","intro.gate");
         }
         SequenceData Seq(string id)=>Content.sequences.First(x=>x.id==id);
         SceneData CurrentScene=>Content.scenes.First(x=>x.id==session.scene);
@@ -125,7 +122,7 @@ namespace AprilAgain
         }
         void StartLines(IEnumerable<Line> lines,string segment,string after)
         {
-            session.lines=lines.ToArray();session.segment=segment;session.lineIndex=0;session.after=after;session.mode="dialogue";
+            session.lines=PersonalizedLines(lines);session.segment=segment;session.lineIndex=0;session.after=after;session.mode="dialogue";
             title=false;CloseOverlay(false);DrawDialogue();Autosave();
         }
         void DrawDialogue()
@@ -135,8 +132,9 @@ namespace AprilAgain
             audioPlayer.Music(session.pendingEnding!=""?"bgm_ending_"+session.pendingEnding.Split('.').Last():session.location=="bedroom"?"bgm_reflection":"bgm_daily");
             DrawActor();
             if(string.IsNullOrEmpty(session.pendingEnding))DrawSchoolHud(true);
+            HitArea(dialogue,"Advance story",0,0,1920,1080,AdvanceInput);
             var panel=Image(dialogue,"Dialogue paper",24,792,1872,264,new Color(1,1,1,.84f),catalog.Sprite("spring_dialogue"));panel.raycastTarget=true;
-            var advance=panel.gameObject.AddComponent<Button>();advance.transition=Selectable.Transition.None;advance.onClick.AddListener(NextLine);
+            var advance=panel.gameObject.AddComponent<Button>();advance.transition=Selectable.Transition.None;advance.onClick.AddListener(AdvanceInput);
             if(session.lineIndex>=session.lines.Length){FinishSegment();return;}
             var l=session.lines[session.lineIndex];
             uint hash=2166136261;foreach(char ch in l.text)hash=unchecked((hash^ch)*16777619);
@@ -145,11 +143,11 @@ namespace AprilAgain
             if(speaker!="")
             {
                 Image(dialogue,"Name ribbon",40,736,400,128,Color.white,catalog.Sprite("spring_name"),true);
-                Text(dialogue,speaker,150,756,260,64,catalog.titleFont,38,Paper,TextAlignmentOptions.Center);
+                var name=Text(dialogue,speaker,150,756,260,64,catalog.titleFont,38,Paper,TextAlignmentOptions.Center);name.enableAutoSizing=true;name.fontSizeMin=24;name.fontSizeMax=38;
             }
             body=Text(dialogue,l.text,164,844,1560,112,catalog.titleFont,40,Ink);body.margin=Vector4.zero;
             if(session.segment.StartsWith("observe.")&&l.speaker=="MC")body.fontStyle=FontStyles.Italic;
-            body.ForceMeshUpdate();reveal=prefs.reducedMotion?100000:0;body.maxVisibleCharacters=(int)reveal;finishedAt=-1;
+            body.ForceMeshUpdate();reveal=prefs.reducedMotion||prefs.instantText?100000:0;body.maxVisibleCharacters=(int)reveal;finishedAt=-1;
             string[] labels={"Log","Auto","Skip","Save","Load","Menu"};
             string[] icons={"chat","play","skip","load","upload","settings"};
             Action[] actions={History,()=>{auto=!auto;skip=false;RefreshReadingControls();},()=>{skip=!skip;auto=false;RefreshReadingControls();},()=>Saves(true),()=>Saves(false),Pause};
@@ -188,7 +186,8 @@ namespace AprilAgain
             // Neutral staging follows the approved three-quarter composition;
             // emotional beats use the closer expression sprites.
             if(acted!=null&&expression!="neutral"&&session.mode!="choices")Image(world,"Character sprite",760,32,650,790,Color.white,acted,true);
-            else Image(world,"Character sprite",session.mode=="choices"?740:520,0,1067,1600,Color.white,catalog.Sprite(id)??catalog.Sprite(session.portrait),true);
+            else if(session.mode=="choices")Image(world,"Character sprite",990,20,670,1020,Color.white,catalog.Sprite(id)??catalog.Sprite(session.portrait),true);
+            else Image(world,"Character sprite",520,0,1067,1600,Color.white,catalog.Sprite(id)??catalog.Sprite(session.portrait),true);
         }
         public void NextLine()
         {
@@ -197,7 +196,7 @@ namespace AprilAgain
             if(session.lineIndex<session.lines.Length)
             {
                 var l=session.lines[session.lineIndex];
-                session.history.Add((l.speaker=="Narration"?"":l.speaker=="MC"?"Ren: ":l.speaker+": ")+l.text);
+                session.history.Add((l.speaker=="Narration"?"":l.speaker=="MC"?PlayerFirst+": ":l.speaker+": ")+l.text);
                 if(session.history.Count>400)session.history.RemoveAt(0);
                 if(!prefs.read.Contains(lineKey))prefs.read.Add(lineKey);
                 session.lineIndex++;
@@ -260,12 +259,12 @@ namespace AprilAgain
         }
         void ShowChoices()
         {
-            session.mode="choices";auto=skip=false;DrawDialogueBase();
+            session.mode="choices";resumeSkipAfterChoice=skip&&prefs.skipAfterChoices;auto=skip=false;DrawDialogueBase();
             var scene=CurrentScene;var order=Enumerable.Range(0,scene.choices.Length).OrderBy(i=>(i+scene.number)%3).ToArray();
             for(int j=0;j<order.Length;j++)
             {
                 var choice=scene.choices[order[j]];
-                var b=Btn(dialogue,choice.text,112,390+j*148,960,126,()=>Choose(choice.id));
+                var b=Btn(dialogue,PlayerText(choice.text),112,390+j*148,960,126,()=>Choose(choice.id));
                 var label=b.GetComponentInChildren<TextMeshProUGUI>();label.fontSize=27;label.enableAutoSizing=true;label.fontSizeMin=24;label.fontSizeMax=27;
                 label.rectTransform.anchoredPosition=new Vector2(32,-8);label.rectTransform.sizeDelta=new Vector2(896,110);
                 ((Image)b.targetGraphic).sprite=catalog.Sprite("final_choice");
@@ -284,6 +283,7 @@ namespace AprilAgain
             try{GameRules.Commit(Content,session,scene,choice);}
             catch(InvalidOperationException ex){Message(ex.Message);return;}
             StartLines(choice.response.Concat(scene.closing),choice.id+".response","encounter");
+            skip=resumeSkipAfterChoice;resumeSkipAfterChoice=false;RefreshReadingControls();
         }
         void StartEnding()
         {
@@ -309,7 +309,7 @@ namespace AprilAgain
         void Load(string slot)
         {
             var loaded=SaveStore.Load(slot,Content);if(loaded==null){Message("This save is missing or damaged. Its backup could not be recovered.");return;}
-            session=loaded;title=false;auto=skip=false;hidden=false;dialogue.gameObject.SetActive(true);hud.gameObject.SetActive(true);CloseOverlay(false);RenderSession();
+            session=loaded;title=false;auto=skip=resumeSkipAfterChoice=false;hidden=false;dialogue.gameObject.SetActive(true);hud.gameObject.SetActive(true);CloseOverlay(false);RenderSession();
         }
         public void RenderSession()
         {
@@ -317,7 +317,6 @@ namespace AprilAgain
             if(session.mode=="dialogue")DrawDialogue();else if(session.mode=="choices")ShowChoices();else if(session.mode=="ended")Credits(true);else Explore();
         }
         void OnApplicationQuit(){if(!title&&session!=null)Save("autosave",false);PersistPreferences();}
-        void OnDestroy(){Canvas.willRenderCanvases-=ResizeStage;}
 #if UNITY_EDITOR
         public void TestFinishDialogue()
         {

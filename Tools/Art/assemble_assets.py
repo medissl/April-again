@@ -32,6 +32,8 @@ def facts(path):
 
 def export_atlases(rows):
     assets = {}
+    replacements=DOC/'release-101-replacements.json'
+    standalone={a['file'] for a in read(replacements)['assets']} if replacements.exists() else set()
     for j in rows:
         p = ART/j['target']
         item = dict(id=j['id'],file=j['target'],category=j['category'],method=j['method'],**facts(p))
@@ -61,8 +63,12 @@ def export_atlases(rows):
                 else:
                     dest = Path('Props/Items')/f'{cell}.png'; sid = cell
                 (ART/dest).parent.mkdir(parents=True,exist_ok=True)
-                im.crop(rect).save(ART/dest)
-                sprite = dict(id=sid,file=dest.as_posix(),category='sprite_export',atlas=j['target'],rectTopLeft=list(rect),**facts(ART/dest))
+                if dest.as_posix() in standalone:
+                    if not (ART/dest).exists():raise FileNotFoundError('Missing approved HD sprite: '+str(dest))
+                    sprite=dict(id=sid,file=dest.as_posix(),category='sprite_export',method='individual HD production sprite',**facts(ART/dest))
+                else:
+                    im.crop(rect).save(ART/dest)
+                    sprite = dict(id=sid,file=dest.as_posix(),category='sprite_export',atlas=j['target'],rectTopLeft=list(rect),**facts(ART/dest))
                 assets[sid] = sprite
                 item['sprites'].append(sid)
         assets[j['id']] = item

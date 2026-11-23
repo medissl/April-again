@@ -2,7 +2,7 @@
 
 The current milestone is a complete local Windows visual novel built from the authored 75 encounters, 225 choices and 15 endings. The earlier screenplay-only boundary is superseded by the user's request to implement and test the full game.
 
-The runtime uses Unity 6000.3.7f1, uGUI, TextMesh Pro and the Input System. Content is compiled by `Tools/Game/build_content.py` from the authored JSON and asset bindings. Original screenplay and illustration masters remain preserved. `AprilAgain.unity` is the playable scene; SampleScene remains available unchanged. `April Again/Prepare game`, `Validate rules` and `Build Windows player` are Editor menu commands.
+The runtime uses Unity 6000.3.21f1, uGUI, TextMesh Pro and the Input System. Content is compiled by `Tools/Game/build_content.py` from the authored JSON and asset bindings. Original screenplay and illustration masters remain preserved. `AprilAgain.unity` is the playable scene; SampleScene remains available unchanged. `April Again/Prepare game`, `Validate rules` and `Build Windows player` are Editor menu commands.
 
 Schedule: two three-hour blocks on ordinary school days, three on Saturday, Sunday at home. Each classmate has a displayed appointment, one encounter per day and fifteen encounters total. Navigation and inspection are free. The first completed route ends the playthrough. Neutral choices contribute equally to good/bad totals. Save files include dialogue position and committed decisions. A separate pre-finale snapshot and global CG unlocks preserve replay options.
 
@@ -13,3 +13,9 @@ Windows builds use a comma-free, owner-marked staging project because Unity's li
 Local verification captures remain in `Documentation/Testing`; curated public evidence is in `Documentation/ReleaseReview`. The release includes a portable ZIP and a per-user NSIS installer built by `Tools/BuildInstaller.ps1`. The custom game icon and disabled Unity splash are set by Prepare. Both distribution formats keep saves outside the installation directory.
 
 To regenerate compiled content, install `Tools/requirements.txt` and run `python Tools/Game/build_content.py`. Already vendored interface cues are used when the author's original audio folders are unavailable. The checked-in scene/catalog/assets are sufficient to open and play the project without running art generation.
+
+Version 1.0.1 adds optional player names to the existing version-1 save contract; missing names use Ren Takahashi. Live text is personalized and measured before pagination. A transparent dialogue-layer target handles scene clicks beneath HUD/menu controls. Reading preferences remain global; skipping never commits a choice. Native-resolution borderless fullscreen is initialized once when upgrading old display preferences. CanvasScaler Expand owns scaling, replacing the previous second scale calculation.
+
+Every scene neighbor has an exit. Doors hidden by character targets and off-camera destinations use a compact wayfinding row. Observation hit areas use the actual painted character bounds. Five small wardrobe atlas tiles were replaced by individual HD sprites; Prepare imports images without lossy texture compression and preserves sources up to 4096px. The replacement manifest prevents atlas assembly from overwriting these approved sprites.
+
+For standalone QA, launch the built executable with `-april-qa`. This uses a separate temporary-cache profile and never touches the player's normal saves. It does not grant progress or gallery unlocks. Ordinary launches retain the existing persistent save directory. `ReportedBugsChecks` covers pointer targets, naming, old saves and reading behavior; all test progress stays outside release packages.

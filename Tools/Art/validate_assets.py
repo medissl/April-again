@@ -1,8 +1,8 @@
 """Validate full-game asset coverage, exported media and reference integrity."""
 from pathlib import Path
-import json, wave, math
+import json, wave, math, sys
+from array import array
 from PIL import Image, ImageFont
-import numpy as np
 ROOT=Path(__file__).resolve().parents[2]
 ART=ROOT/'Assets/AprilAgain/Art'
 NAR=ROOT/'Assets/AprilAgain/Narrative'
@@ -66,8 +66,9 @@ def main():
     for a in audio:
         with wave.open(str(ROOT/'Assets/AprilAgain/Audio'/a['file']),'rb') as w:
             check(w.getnchannels()==2 and w.getsampwidth()==2,'Invalid audio format: '+a['id'])
-            data=np.frombuffer(w.readframes(w.getnframes()),dtype='<i2')
-            check(len(data)>0 and np.max(np.abs(data.astype(np.int32)))<32767,'Clipped/empty audio: '+a['id'])
+            data=array('h',w.readframes(w.getnframes()))
+            if sys.byteorder!='little':data.byteswap()
+            check(len(data)>0 and min(data)>-32767 and max(data)<32767,'Clipped/empty audio: '+a['id'])
     # Both source copy and state frames must keep normal text contrast.
     def lum(h):
         a=[int(h[i:i+2],16)/255 for i in [1,3,5]]

@@ -40,7 +40,7 @@ namespace AprilAgain.Editor
             Check(game.TestSave("smoke-roundtrip"),"save mid-response");
             game.TestFinishDialogue();game.TestLoad("smoke-roundtrip");Check(game.State.mode=="dialogue"&&game.State.choices.Count==1,"mid-response resume");
             game.TestFinishDialogue();game.Talk(girl.id);Check(game.State.choices.Count==1,"busy click awards nothing");game.TestFinishDialogue();
-            game.TestMap();Click("Close");game.TestJournal();Click("Close");game.TestSettings();
+            game.TestMap();Click("Close");game.TestJournal();Click("Close");game.TestSettings();Click("Sound");
             Canvas.ForceUpdateCanvases();
             var sliders=UnityEngine.Object.FindObjectsByType<Slider>(FindObjectsSortMode.None);
             Check(sliders.All(x=>x.fillRect.rect.width<=535&&x.handleRect.rect.height<=57),"slider geometry stays within track");
