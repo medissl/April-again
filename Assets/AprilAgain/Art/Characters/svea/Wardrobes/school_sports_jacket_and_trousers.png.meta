@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: ff159a80198c5dc46beaa8230090e9d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9192879203569134714
+    second: school_sports_jacket_and_trousers_0
+  - first:
+      213: 6075191685870304871
+    second: school_sports_jacket_and_trousers_1
+  - first:
+      213: -6735492561664410228
+    second: school_sports_jacket_and_trousers_2
+  - first:
+      213: -8085152651925208238
+    second: school_sports_jacket_and_trousers_3
+  - first:
+      213: 3539575126554017937
+    second: school_sports_jacket_and_trousers_4
+  - first:
+      213: -714869208107082516
+    second: school_sports_jacket_and_trousers_5
+  - first:
+      213: 8849056592112505981
+    second: school_sports_jacket_and_trousers_6
+  - first:
+      213: 2743483007006343217
+    second: school_sports_jacket_and_trousers_7
+  - first:
+      213: -2518914415227870008
+    second: school_sports_jacket_and_trousers_8
+  - first:
+      213: 876074326687821810
+    second: school_sports_jacket_and_trousers_9
+  - first:
+      213: 1605835733980589505
+    second: school_sports_jacket_and_trousers_10
+  - first:
+      213: -6152602677816360636
+    second: school_sports_jacket_and_trousers_11
+  - first:
+      213: -5929716781037709972
+    second: school_sports_jacket_and_trousers_12
+  - first:
+      213: 4601330169352034788
+    second: school_sports_jacket_and_trousers_13
+  - first:
+      213: -4031213399521096769
+    second: school_sports_jacket_and_trousers_14
+  - first:
+      213: 7478877484553171695
+    second: school_sports_jacket_and_trousers_15
+  - first:
+      213: 1104327984161269494
+    second: school_sports_jacket_and_trousers_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: school_sports_jacket_and_trousers_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 618
+        width: 465
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6839f2002155c6080800000000000000
+      internalID: -9192879203569134714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_sports_jacket_and_trousers_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1147
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76eb4ba86aa6f4450800000000000000
+      internalID: 6075191685870304871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_sports_jacket_and_trousers_2
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 612
+        width: 745
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8df4ba8339b682a0800000000000000
+      internalID: -6735492561664410228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_sports_jacket_and_trousers_3
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1083
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253c0330084cbcf80800000000000000
+      internalID: -8085152651925208238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_sports_jacket_and_trousers_4
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 825
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1908f0af2d81f1130800000000000000
+      internalID: 3539575126554017937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_sports_jacket_and_trousers_5
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 805
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec99e52e364416f0800000000000000
+      internalID: -714869208107082516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_sports_jacket_and_trousers_6
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 779
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74d132161a2eca70800000000000000
+      internalID: 8849056592112505981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_sports_jacket_and_trousers_7
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 698
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1300fef524fc21620800000000000000
+      internalID: 2743483007006343217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_sports_jacket_and_trousers_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 580
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c46bb46fa40b0dd0800000000000000
+      internalID: -2518914415227870008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_sports_jacket_and_trousers_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 562
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff211f55f0782c00800000000000000
+      internalID: 876074326687821810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_sports_jacket_and_trousers_10
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 0
+        width: 590
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdaa8b8713194610800000000000000
+      internalID: 1605835733980589505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_sports_jacket_and_trousers_11
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 497
+        width: 79
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44183a066709d9aa0800000000000000
+      internalID: -6152602677816360636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_sports_jacket_and_trousers_12
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 467
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65139f210a65bda0800000000000000
+      internalID: -5929716781037709972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_sports_jacket_and_trousers_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9148ef8653bdf30800000000000000
+      internalID: 4601330169352034788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_sports_jacket_and_trousers_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 216
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb00cb75c04e08c0800000000000000
+      internalID: -4031213399521096769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_sports_jacket_and_trousers_15
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 184
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe27579827f4ac760800000000000000
+      internalID: 7478877484553171695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_sports_jacket_and_trousers_16
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 184
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6a47b537c535f00800000000000000
+      internalID: 1104327984161269494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      school_sports_jacket_and_trousers_0: -9192879203569134714
+      school_sports_jacket_and_trousers_1: 6075191685870304871
+      school_sports_jacket_and_trousers_10: 1605835733980589505
+      school_sports_jacket_and_trousers_11: -6152602677816360636
+      school_sports_jacket_and_trousers_12: -5929716781037709972
+      school_sports_jacket_and_trousers_13: 4601330169352034788
+      school_sports_jacket_and_trousers_14: -4031213399521096769
+      school_sports_jacket_and_trousers_15: 7478877484553171695
+      school_sports_jacket_and_trousers_16: 1104327984161269494
+      school_sports_jacket_and_trousers_2: -6735492561664410228
+      school_sports_jacket_and_trousers_3: -8085152651925208238
+      school_sports_jacket_and_trousers_4: 3539575126554017937
+      school_sports_jacket_and_trousers_5: -714869208107082516
+      school_sports_jacket_and_trousers_6: 8849056592112505981
+      school_sports_jacket_and_trousers_7: 2743483007006343217
+      school_sports_jacket_and_trousers_8: -2518914415227870008
+      school_sports_jacket_and_trousers_9: 876074326687821810
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1508 @@
+fileFormatVersion: 2
+guid: 00acba36b34fd8d4f961f720c517674a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7431787293105664171
+    second: aikido_gi_and_trousers_0
+  - first:
+      213: 8935709073784659454
+    second: aikido_gi_and_trousers_1
+  - first:
+      213: 8932982283154801932
+    second: aikido_gi_and_trousers_2
+  - first:
+      213: -6200051240491893440
+    second: aikido_gi_and_trousers_3
+  - first:
+      213: -6016857836202048137
+    second: aikido_gi_and_trousers_4
+  - first:
+      213: 3262485764630909299
+    second: aikido_gi_and_trousers_5
+  - first:
+      213: 3728143274289379340
+    second: aikido_gi_and_trousers_6
+  - first:
+      213: -177001560429968065
+    second: aikido_gi_and_trousers_7
+  - first:
+      213: -1938917731367926151
+    second: aikido_gi_and_trousers_8
+  - first:
+      213: -7197562847037275057
+    second: aikido_gi_and_trousers_9
+  - first:
+      213: 8699775416656810512
+    second: aikido_gi_and_trousers_10
+  - first:
+      213: -671165517667659950
+    second: aikido_gi_and_trousers_11
+  - first:
+      213: -8911279961978110534
+    second: aikido_gi_and_trousers_12
+  - first:
+      213: -1583391749625514373
+    second: aikido_gi_and_trousers_13
+  - first:
+      213: 5879684264537289006
+    second: aikido_gi_and_trousers_14
+  - first:
+      213: 1973808242886659184
+    second: aikido_gi_and_trousers_15
+  - first:
+      213: -570862932145526810
+    second: aikido_gi_and_trousers_16
+  - first:
+      213: -2067561989265324045
+    second: aikido_gi_and_trousers_17
+  - first:
+      213: 8939084462270892998
+    second: aikido_gi_and_trousers_18
+  - first:
+      213: -1157652137691856326
+    second: aikido_gi_and_trousers_19
+  - first:
+      213: -6189776758104869475
+    second: aikido_gi_and_trousers_20
+  - first:
+      213: 4147940130998672178
+    second: aikido_gi_and_trousers_21
+  - first:
+      213: -5275652489262195587
+    second: aikido_gi_and_trousers_22
+  - first:
+      213: 920959318267004630
+    second: aikido_gi_and_trousers_23
+  - first:
+      213: -2377947654024831920
+    second: aikido_gi_and_trousers_24
+  - first:
+      213: 7848652166588215851
+    second: aikido_gi_and_trousers_25
+  - first:
+      213: 4454095100952942208
+    second: aikido_gi_and_trousers_26
+  - first:
+      213: 8928068247634871207
+    second: aikido_gi_and_trousers_27
+  - first:
+      213: -4721036550364646459
+    second: aikido_gi_and_trousers_28
+  - first:
+      213: 4463714038946055294
+    second: aikido_gi_and_trousers_29
+  - first:
+      213: 261767751288458383
+    second: aikido_gi_and_trousers_30
+  - first:
+      213: -8095482695420417024
+    second: aikido_gi_and_trousers_31
+  - first:
+      213: 8944954264162077633
+    second: aikido_gi_and_trousers_32
+  - first:
+      213: -3175419363012116369
+    second: aikido_gi_and_trousers_33
+  - first:
+      213: -5131201458321224253
+    second: aikido_gi_and_trousers_34
+  - first:
+      213: -5954736113578429476
+    second: aikido_gi_and_trousers_35
+  - first:
+      213: 8877625897010733844
+    second: aikido_gi_and_trousers_36
+  - first:
+      213: 7271917513433487027
+    second: aikido_gi_and_trousers_37
+  - first:
+      213: 804971385855725393
+    second: aikido_gi_and_trousers_38
+  - first:
+      213: 3215490080392253523
+    second: aikido_gi_and_trousers_39
+  - first:
+      213: 28575856847004741
+    second: aikido_gi_and_trousers_40
+  - first:
+      213: -8609485355664976078
+    second: aikido_gi_and_trousers_41
+  - first:
+      213: -6686519923103710832
+    second: aikido_gi_and_trousers_42
+  - first:
+      213: 6211530283845203132
+    second: aikido_gi_and_trousers_43
+  - first:
+      213: -1329578724541952929
+    second: aikido_gi_and_trousers_44
+  - first:
+      213: -1817367571618041552
+    second: aikido_gi_and_trousers_45
+  - first:
+      213: 8965403086910296011
+    second: aikido_gi_and_trousers_46
+  - first:
+      213: -8976906194987298713
+    second: aikido_gi_and_trousers_47
+  - first:
+      213: 7288603704025783171
+    second: aikido_gi_and_trousers_48
+  - first:
+      213: -7477407390041468376
+    second: aikido_gi_and_trousers_49
+  - first:
+      213: 5475855009002368468
+    second: aikido_gi_and_trousers_50
+  - first:
+      213: 9105557667520588289
+    second: aikido_gi_and_trousers_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 899
+        width: 112
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba033d3fa23032760800000000000000
+      internalID: 7431787293105664171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1105
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd5b272f04020c70800000000000000
+      internalID: 8935709073784659454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1130
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05cc4cbe0458fb70800000000000000
+      internalID: 8932982283154801932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1126
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04db24dfe3ef4f9a0800000000000000
+      internalID: -6200051240491893440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1098
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775c6293da3df7ca0800000000000000
+      internalID: -6016857836202048137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1084
+        width: 70
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371189d748da64d20800000000000000
+      internalID: 3262485764630909299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 615
+        width: 202
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08b7cf2e860db330800000000000000
+      internalID: 3728143274289379340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_7
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1084
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35c1e1c40a2b8df0800000000000000
+      internalID: -177001560429968065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_8
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1064
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976cb1d98949715e0800000000000000
+      internalID: -1938917731367926151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_9
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1140
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f444bc599be1d1c90800000000000000
+      internalID: -7197562847037275057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_10
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1094
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0125187e5afcbb870800000000000000
+      internalID: 8699775416656810512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_11
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1004
+        width: 64
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f8de5848a8fa6f0800000000000000
+      internalID: -671165517667659950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_12
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1134
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdfc3ca616c45480800000000000000
+      internalID: -8911279961978110534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_13
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1205
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b767947c799a60ae0800000000000000
+      internalID: -1583391749625514373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_14
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1138
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21f23bcfa5d89150800000000000000
+      internalID: 5879684264537289006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_15
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 618
+        width: 596
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c4ff3a320646b10800000000000000
+      internalID: 1973808242886659184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_16
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1108
+        width: 162
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e727021033e318f0800000000000000
+      internalID: -570862932145526810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_17
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1082
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f78dbe335b8e43e0800000000000000
+      internalID: -2067561989265324045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_18
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1048
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbced605f10e0c70800000000000000
+      internalID: 8939084462270892998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_19
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 759
+        width: 34
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32c767a3813fefe0800000000000000
+      internalID: -1157652137691856326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 628
+        width: 209
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95b03655de791aa0800000000000000
+      internalID: -6189776758104869475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_21
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 867
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b53c98291709930800000000000000
+      internalID: 4147940130998672178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_22
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 797
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c1f1b330e19c6b0800000000000000
+      internalID: -5275652489262195587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_23
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 853
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d604e9de97e7cc00800000000000000
+      internalID: 920959318267004630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_24
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 805
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c50632535dffed0800000000000000
+      internalID: -2377947654024831920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_25
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 736
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b223713cf830cec60800000000000000
+      internalID: 7848652166588215851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 196
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0869b1045ef10dd30800000000000000
+      internalID: 4454095100952942208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_27
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 682
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a388bea4ced6eb70800000000000000
+      internalID: 8928068247634871207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_28
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 631
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c331e345428b7eb0800000000000000
+      internalID: -4721036550364646459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_29
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 658
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74cd46c44c42fd30800000000000000
+      internalID: 4463714038946055294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_30
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 650
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c8335026cf1a300800000000000000
+      internalID: 261767751288458383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_31
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 623
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ce426516117af80800000000000000
+      internalID: -8095482695420417024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_32
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 612
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb0f77c28cd22c70800000000000000
+      internalID: 8944954264162077633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_33
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 486
+        width: 214
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6004c6d9e4aee3d0800000000000000
+      internalID: -3175419363012116369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 570
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd0ccdb57f4ac8b0800000000000000
+      internalID: -5131201458321224253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_35
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 0
+        width: 624
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3b7f2ed078c5da0800000000000000
+      internalID: -5954736113578429476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_36
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 578
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4132228b7b9a33b70800000000000000
+      internalID: 8877625897010733844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_37
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 546
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b61520437a0be460800000000000000
+      internalID: 7271917513433487027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_38
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 568
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fc844e535db2b00800000000000000
+      internalID: 804971385855725393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_39
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 511
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35092941137bf9c20800000000000000
+      internalID: 3215490080392253523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_40
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 531
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544a4842795856000800000000000000
+      internalID: 28575856847004741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_41
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 393
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23759ac1fa6f48880800000000000000
+      internalID: -8609485355664976078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_42
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 377
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091c4df7e85b433a0800000000000000
+      internalID: -6686519923103710832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_43
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 339
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4bc2012e9c33650800000000000000
+      internalID: 6211530283845203132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 106
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c82c6c1336c8de0800000000000000
+      internalID: -1329578724541952929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_45
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 175
+        width: 192
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031746b82d967c6e0800000000000000
+      internalID: -1817367571618041552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_46
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 289
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf8a775b928b6c70800000000000000
+      internalID: 8965403086910296011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_47
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 83
+        width: 41
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76057c9906f9b6380800000000000000
+      internalID: -8976906194987298713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_48
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 158
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b9d0fb372562560800000000000000
+      internalID: 7288603704025783171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_49
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 152
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82292b38899ea3890800000000000000
+      internalID: -7477407390041468376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd212d4e152efb40800000000000000
+      internalID: 5475855009002368468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aikido_gi_and_trousers_51
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 97
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a266e84707d5e70800000000000000
+      internalID: 9105557667520588289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      aikido_gi_and_trousers_0: 7431787293105664171
+      aikido_gi_and_trousers_1: 8935709073784659454
+      aikido_gi_and_trousers_10: 8699775416656810512
+      aikido_gi_and_trousers_11: -671165517667659950
+      aikido_gi_and_trousers_12: -8911279961978110534
+      aikido_gi_and_trousers_13: -1583391749625514373
+      aikido_gi_and_trousers_14: 5879684264537289006
+      aikido_gi_and_trousers_15: 1973808242886659184
+      aikido_gi_and_trousers_16: -570862932145526810
+      aikido_gi_and_trousers_17: -2067561989265324045
+      aikido_gi_and_trousers_18: 8939084462270892998
+      aikido_gi_and_trousers_19: -1157652137691856326
+      aikido_gi_and_trousers_2: 8932982283154801932
+      aikido_gi_and_trousers_20: -6189776758104869475
+      aikido_gi_and_trousers_21: 4147940130998672178
+      aikido_gi_and_trousers_22: -5275652489262195587
+      aikido_gi_and_trousers_23: 920959318267004630
+      aikido_gi_and_trousers_24: -2377947654024831920
+      aikido_gi_and_trousers_25: 7848652166588215851
+      aikido_gi_and_trousers_26: 4454095100952942208
+      aikido_gi_and_trousers_27: 8928068247634871207
+      aikido_gi_and_trousers_28: -4721036550364646459
+      aikido_gi_and_trousers_29: 4463714038946055294
+      aikido_gi_and_trousers_3: -6200051240491893440
+      aikido_gi_and_trousers_30: 261767751288458383
+      aikido_gi_and_trousers_31: -8095482695420417024
+      aikido_gi_and_trousers_32: 8944954264162077633
+      aikido_gi_and_trousers_33: -3175419363012116369
+      aikido_gi_and_trousers_34: -5131201458321224253
+      aikido_gi_and_trousers_35: -5954736113578429476
+      aikido_gi_and_trousers_36: 8877625897010733844
+      aikido_gi_and_trousers_37: 7271917513433487027
+      aikido_gi_and_trousers_38: 804971385855725393
+      aikido_gi_and_trousers_39: 3215490080392253523
+      aikido_gi_and_trousers_4: -6016857836202048137
+      aikido_gi_and_trousers_40: 28575856847004741
+      aikido_gi_and_trousers_41: -8609485355664976078
+      aikido_gi_and_trousers_42: -6686519923103710832
+      aikido_gi_and_trousers_43: 6211530283845203132
+      aikido_gi_and_trousers_44: -1329578724541952929
+      aikido_gi_and_trousers_45: -1817367571618041552
+      aikido_gi_and_trousers_46: 8965403086910296011
+      aikido_gi_and_trousers_47: -8976906194987298713
+      aikido_gi_and_trousers_48: 7288603704025783171
+      aikido_gi_and_trousers_49: -7477407390041468376
+      aikido_gi_and_trousers_5: 3262485764630909299
+      aikido_gi_and_trousers_50: 5475855009002368468
+      aikido_gi_and_trousers_51: 9105557667520588289
+      aikido_gi_and_trousers_6: 3728143274289379340
+      aikido_gi_and_trousers_7: -177001560429968065
+      aikido_gi_and_trousers_8: -1938917731367926151
+      aikido_gi_and_trousers_9: -7197562847037275057
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

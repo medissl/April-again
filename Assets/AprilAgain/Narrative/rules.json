@@ -1,0 +1,70 @@
+{
+  "openingDay": {
+    "observationsRequired": 5,
+    "scoredEncounters": 0,
+    "travelCostsTime": false
+  },
+  "normalBlocks": [
+    {
+      "id": "midday",
+      "start": "12:00",
+      "end": "15:00"
+    },
+    {
+      "id": "late",
+      "start": "15:00",
+      "end": "18:00"
+    }
+  ],
+  "clubExtraBlock": {
+    "id": "morning",
+    "start": "09:00",
+    "end": "12:00"
+  },
+  "playableWeek": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+  ],
+  "clubDay": "Saturday",
+  "sunday": "brief non-scoring home transition",
+  "schedule": "On school day d, route index i has its story window at midday if (d+i)%5 < 3, otherwise late. Indices: katya0,akira1,seoyun2,mari3,svea4. Saturday also exposes pending eligible scenes in morning. A scene's requiredBlock overrides rotation and the extra Saturday window: all finales are late, Mari09 is Saturday morning only. Club-only scenes require Saturday. Story appointment room is the next scene's location; other windows use idle routine locations. Show appointment before player commits time.",
+  "temperature": {
+    "warmAtMargin": 3,
+    "coolAtMargin": -3,
+    "default": "mixed"
+  },
+  "endingRule": {
+    "good": "rawGood + rawNeutral",
+    "bad": "rawBad + rawNeutral",
+    "select": "compare; equality means neutral",
+    "evaluateAfter": "scene15 choice commits"
+  },
+  "sameGirlDailyLimit": 1,
+  "sceneHours": 3,
+  "travelHours": 0,
+  "commit": "Check expected route scene, available block, open room and girl not used today. Display choice, then atomically store choice ID, raw counter delta, next scene index, used-today set and spent block. Reject duplicate choice IDs. Save all of that in one snapshot.",
+  "saveFields": [
+    "schemaVersion",
+    "schoolDay",
+    "weekday",
+    "block",
+    "location",
+    "openingObservationFlags",
+    "routeNextIndices",
+    "rawGoodBadNeutral",
+    "completedChoiceIds",
+    "girlsUsedToday",
+    "lastChoice",
+    "pendingEnding",
+    "galleryUnlocks"
+  ],
+  "gallery": "Global unlocks are separate from session saves and survive New Game.",
+  "finaleSave": "Write a separate pre-finale snapshot before entering scene15, after warning confirmation. Never overwrite the only manual save. If saving fails, show the failure and allow cancelling the finale.",
+  "postEnding": "Unlock only the actual selected CG, show credits, return to title. Other routes do not continue in this playthrough.",
+  "wait": "Waiting spends a block without score. Home/sleep remains reachable if no eligible scene is available. Offer explicit fast-forward when every pending scene is waiting for Saturday. Never silently skip a pending scene.",
+  "implementationStatus": "Screenplay and validated content contract only; runtime saving, scheduling and scoring have not yet been implemented in Unity."
+}

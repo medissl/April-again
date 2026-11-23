@@ -1,0 +1,1 @@
+Checked 1625 spoken/narration lines. Maximum dialogue height at 40px / 1560px: 109.12. Available: 112. Longest: I checked the acceptance list twice, then a third time in case the first two were a shared misunderstanding.

@@ -1,0 +1,554 @@
+[
+  {
+    "id": "backing_card",
+    "file": "Documents/backing_card.png",
+    "source": "Documents/backing_card.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "budget_sheet",
+    "file": "Documents/budget_sheet.png",
+    "source": "Documents/budget_sheet.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "class_register",
+    "file": "Documents/class_register.png",
+    "source": "Documents/class_register.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "committee_notes",
+    "file": "Documents/committee_notes.png",
+    "source": "Documents/committee_notes.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "final_report",
+    "file": "Documents/final_report.png",
+    "source": "Documents/final_report.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "forms",
+    "file": "Documents/forms.png",
+    "source": "Documents/forms.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "music_note",
+    "file": "Documents/music_note.png",
+    "source": "Documents/music_note.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "paper_labels",
+    "file": "Documents/paper_labels.png",
+    "source": "Documents/paper_labels.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "paper_samples",
+    "file": "Documents/paper_samples.png",
+    "source": "Documents/paper_samples.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "receipt",
+    "file": "Documents/receipt.png",
+    "source": "Documents/receipt.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "room_signs",
+    "file": "Documents/room_signs.png",
+    "source": "Documents/room_signs.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "supply_clipboard",
+    "file": "Documents/supply_clipboard.png",
+    "source": "Documents/supply_clipboard.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "three_drafts",
+    "file": "Documents/three_drafts.png",
+    "source": "Documents/three_drafts.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "anonymous_form",
+    "file": "Documents/anonymous_form.png",
+    "source": "Documents/anonymous_form.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "anonymous_survey",
+    "file": "Documents/anonymous_survey.png",
+    "source": "Documents/anonymous_survey.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "consent_text",
+    "file": "Documents/consent_text.png",
+    "source": "Documents/consent_text.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "feature_sheet",
+    "file": "Documents/feature_sheet.png",
+    "source": "Documents/feature_sheet.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "maintenance_guide",
+    "file": "Documents/maintenance_guide.png",
+    "source": "Documents/maintenance_guide.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "offline_notice",
+    "file": "Documents/offline_notice.png",
+    "source": "Documents/offline_notice.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "paper_mockups",
+    "file": "Documents/paper_mockups.png",
+    "source": "Documents/paper_mockups.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "presentation",
+    "file": "Documents/presentation.png",
+    "source": "Documents/presentation.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "project_notebook",
+    "file": "Documents/project_notebook.png",
+    "source": "Documents/project_notebook.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "queue_survey",
+    "file": "Documents/queue_survey.png",
+    "source": "Documents/queue_survey.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "teacher_approval",
+    "file": "Documents/teacher_approval.png",
+    "source": "Documents/teacher_approval.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "adviser_questions",
+    "file": "Documents/adviser_questions.png",
+    "source": "Documents/adviser_questions.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "caption_drafts",
+    "file": "Documents/caption_drafts.png",
+    "source": "Documents/caption_drafts.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "credit_labels",
+    "file": "Documents/credit_labels.png",
+    "source": "Documents/credit_labels.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "feedback_sheets",
+    "file": "Documents/feedback_sheets.png",
+    "source": "Documents/feedback_sheets.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "handouts",
+    "file": "Documents/handouts.png",
+    "source": "Documents/handouts.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "library_record",
+    "file": "Documents/library_record.png",
+    "source": "Documents/library_record.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "menu",
+    "file": "Documents/menu.png",
+    "source": "Documents/menu.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "reference_cards",
+    "file": "Documents/reference_cards.png",
+    "source": "Documents/reference_cards.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "study_options",
+    "file": "Documents/study_options.png",
+    "source": "Documents/study_options.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "window_essay",
+    "file": "Documents/window_essay.png",
+    "source": "Documents/window_essay.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "drying_paper",
+    "file": "Documents/drying_paper.png",
+    "source": "Documents/drying_paper.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "finished_reading_corner",
+    "file": "Documents/finished_reading_corner.png",
+    "source": "Documents/finished_reading_corner.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "homework",
+    "file": "Documents/homework.png",
+    "source": "Documents/homework.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "household_plan",
+    "file": "Documents/household_plan.png",
+    "source": "Documents/household_plan.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "leaflet_list",
+    "file": "Documents/leaflet_list.png",
+    "source": "Documents/leaflet_list.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "meal_worksheet",
+    "file": "Documents/meal_worksheet.png",
+    "source": "Documents/meal_worksheet.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "noticeboard",
+    "file": "Documents/noticeboard.png",
+    "source": "Documents/noticeboard.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "paper_headings",
+    "file": "Documents/paper_headings.png",
+    "source": "Documents/paper_headings.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "public_leaflets",
+    "file": "Documents/public_leaflets.png",
+    "source": "Documents/public_leaflets.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "reading_list",
+    "file": "Documents/reading_list.png",
+    "source": "Documents/reading_list.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "staff_only_sign",
+    "file": "Documents/staff_only_sign.png",
+    "source": "Documents/staff_only_sign.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "attendance_sheet",
+    "file": "Documents/attendance_sheet.png",
+    "source": "Documents/attendance_sheet.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "budget_exercise",
+    "file": "Documents/budget_exercise.png",
+    "source": "Documents/budget_exercise.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "equipment_list",
+    "file": "Documents/equipment_list.png",
+    "source": "Documents/equipment_list.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "group_assignment",
+    "file": "Documents/group_assignment.png",
+    "source": "Documents/group_assignment.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "household_worksheet",
+    "file": "Documents/household_worksheet.png",
+    "source": "Documents/household_worksheet.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "practice_report",
+    "file": "Documents/practice_report.png",
+    "source": "Documents/practice_report.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "practice_statistics",
+    "file": "Documents/practice_statistics.png",
+    "source": "Documents/practice_statistics.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "workbook",
+    "file": "Documents/workbook.png",
+    "source": "Documents/workbook.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "worksheet",
+    "file": "Documents/worksheet.png",
+    "source": "Documents/worksheet.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "orientation_sign",
+    "file": "Documents/orientation_sign.png",
+    "source": "Documents/orientation_sign.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "booklet",
+    "file": "Documents/booklet.png",
+    "source": "Documents/booklet.svg",
+    "width": 640,
+    "height": 880,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "phone_message",
+    "file": "Screens/phone_message.png",
+    "source": "Screens/phone_message.svg",
+    "width": 960,
+    "height": 600,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "three_request_messages",
+    "file": "Screens/three_request_messages.png",
+    "source": "Screens/three_request_messages.svg",
+    "width": 960,
+    "height": 600,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "consent_screen",
+    "file": "Screens/consent_screen.png",
+    "source": "Screens/consent_screen.svg",
+    "width": 960,
+    "height": 600,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "pilot_screen",
+    "file": "Screens/pilot_screen.png",
+    "source": "Screens/pilot_screen.svg",
+    "width": 960,
+    "height": 600,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "offline_screen",
+    "file": "Screens/offline_screen.png",
+    "source": "Screens/offline_screen.svg",
+    "width": 960,
+    "height": 600,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "strategy_game_screen",
+    "file": "Screens/strategy_game_screen.png",
+    "source": "Screens/strategy_game_screen.svg",
+    "width": 960,
+    "height": 600,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "cozy_game_screen",
+    "file": "Screens/cozy_game_screen.png",
+    "source": "Screens/cozy_game_screen.svg",
+    "width": 960,
+    "height": 600,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "wordmark_ink",
+    "file": "Title/wordmark_ink.png",
+    "source": "Title/wordmark_ink.svg",
+    "width": 1000,
+    "height": 330,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "wordmark_paper",
+    "file": "Title/wordmark_paper.png",
+    "source": "Title/wordmark_paper.svg",
+    "width": 1000,
+    "height": 330,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "app_icon",
+    "file": "Title/app_icon.png",
+    "source": "Title/app_icon.svg",
+    "width": 512,
+    "height": 512,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "fade_black",
+    "file": "UI/fade_black.png",
+    "source": "UI/fade_black.svg",
+    "width": 8,
+    "height": 8,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "fade_paper",
+    "file": "UI/fade_paper.png",
+    "source": "UI/fade_paper.svg",
+    "width": 8,
+    "height": 8,
+    "method": "original editable vector graphic"
+  },
+  {
+    "id": "floor_markers",
+    "file": "UI/floor_markers.png",
+    "source": "UI/floor_markers.svg",
+    "width": 320,
+    "height": 320,
+    "method": "original editable vector graphic"
+  }
+]

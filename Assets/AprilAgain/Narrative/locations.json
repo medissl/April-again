@@ -1,0 +1,90 @@
+{
+  "bedroom": {
+    "name": "Your room",
+    "neighbors": [
+      "gate"
+    ],
+    "purpose": "Home, save, journal and sleep. No girl appears here during a route."
+  },
+  "gate": {
+    "name": "School gate",
+    "neighbors": [
+      "bedroom",
+      "lobby",
+      "field"
+    ],
+    "purpose": "Entrance, leaving school and permitted supervised gate-side activity."
+  },
+  "lobby": {
+    "name": "Lobby",
+    "neighbors": [
+      "gate",
+      "corridor",
+      "canteen",
+      "field"
+    ],
+    "purpose": "Shared noticeboard, supplies, open-campus display."
+  },
+  "corridor": {
+    "name": "Main corridor",
+    "neighbors": [
+      "lobby",
+      "infirmary",
+      "class_b",
+      "class_c",
+      "library",
+      "class_a"
+    ],
+    "purpose": "A single readable hall links the academic rooms; windows on the left, classroom doors on the right."
+  },
+  "infirmary": {
+    "name": "Infirmary",
+    "neighbors": [
+      "corridor"
+    ],
+    "purpose": "Public visitor table and reading corner only. Nurse present; no patient notes or student medical work."
+  },
+  "class_b": {
+    "name": "Class B",
+    "neighbors": [
+      "corridor"
+    ],
+    "purpose": "Katya and Mari's homeroom, class display and craft activities."
+  },
+  "class_c": {
+    "name": "Class C",
+    "neighbors": [
+      "corridor"
+    ],
+    "purpose": "Seo-yun and Svea's homeroom, supervised study and reading."
+  },
+  "library": {
+    "name": "Library",
+    "neighbors": [
+      "corridor"
+    ],
+    "purpose": "Window table, atlas shelf, display preparation. Keep window/table placement consistent."
+  },
+  "class_a": {
+    "name": "Class A",
+    "neighbors": [
+      "corridor"
+    ],
+    "purpose": "MC and Akira's homeroom, supervised tech and survey project."
+  },
+  "canteen": {
+    "name": "Canteen",
+    "neighbors": [
+      "lobby"
+    ],
+    "purpose": "Lunch and staff-approved work at cleared tables. Food prep only with staff supervision."
+  },
+  "field": {
+    "name": "Sports field / hardcourt",
+    "neighbors": [
+      "lobby",
+      "gate"
+    ],
+    "purpose": "One outdoor sports area includes a basketball hardcourt, near-side bench and safe separate supervised practice lane."
+  }
+}

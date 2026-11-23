@@ -1,0 +1,2137 @@
+[
+  {
+    "id": "bg_bedroom_day",
+    "type": "background",
+    "requiredBy": [
+      "common"
+    ],
+    "brief": "Home, save, journal and sleep. No girl appears here during a route.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "bg_gate_day",
+    "type": "background",
+    "requiredBy": [
+      "katya.06",
+      "katya.15",
+      "mari.13",
+      "svea.08"
+    ],
+    "brief": "Entrance, leaving school and permitted supervised gate-side activity.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "bg_lobby_day",
+    "type": "background",
+    "requiredBy": [
+      "katya.10",
+      "akira.05",
+      "akira.09",
+      "seoyun.08",
+      "seoyun.14",
+      "mari.07"
+    ],
+    "brief": "Shared noticeboard, supplies, open-campus display.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "bg_corridor_day",
+    "type": "background",
+    "requiredBy": [
+      "katya.05",
+      "katya.09",
+      "seoyun.03",
+      "seoyun.11"
+    ],
+    "brief": "A single readable hall links the academic rooms; windows on the left, classroom doors on the right.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "bg_infirmary_day",
+    "type": "background",
+    "requiredBy": [
+      "mari.01",
+      "mari.03",
+      "mari.04",
+      "mari.08",
+      "mari.10",
+      "mari.14",
+      "mari.15"
+    ],
+    "brief": "Public visitor table and reading corner only. Nurse present; no patient notes or student medical work.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "bg_class_b_day",
+    "type": "background",
+    "requiredBy": [
+      "katya.01",
+      "katya.02",
+      "katya.07",
+      "katya.12",
+      "katya.14",
+      "mari.06",
+      "mari.12"
+    ],
+    "brief": "Katya and Mari's homeroom, class display and craft activities.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "bg_class_c_day",
+    "type": "background",
+    "requiredBy": [
+      "seoyun.04",
+      "seoyun.07",
+      "seoyun.10",
+      "svea.03",
+      "svea.07",
+      "svea.10",
+      "svea.11",
+      "svea.13"
+    ],
+    "brief": "Seo-yun and Svea's homeroom, supervised study and reading.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "bg_library_day",
+    "type": "background",
+    "requiredBy": [
+      "katya.08",
+      "akira.04",
+      "akira.10",
+      "seoyun.01",
+      "seoyun.02",
+      "seoyun.05",
+      "seoyun.09",
+      "seoyun.12",
+      "seoyun.13",
+      "seoyun.15"
+    ],
+    "brief": "Window table, atlas shelf, display preparation. Keep window/table placement consistent.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "bg_class_a_day",
+    "type": "background",
+    "requiredBy": [
+      "akira.01",
+      "akira.03",
+      "akira.07",
+      "akira.08",
+      "akira.11",
+      "akira.12",
+      "akira.14"
+    ],
+    "brief": "MC and Akira's homeroom, supervised tech and survey project.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "bg_canteen_day",
+    "type": "background",
+    "requiredBy": [
+      "katya.03",
+      "katya.13",
+      "akira.02",
+      "akira.06",
+      "akira.13",
+      "akira.15",
+      "seoyun.06",
+      "mari.02",
+      "mari.05",
+      "mari.11",
+      "svea.02",
+      "svea.04",
+      "svea.09"
+    ],
+    "brief": "Lunch and staff-approved work at cleared tables. Food prep only with staff supervision.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "bg_field_day",
+    "type": "background",
+    "requiredBy": [
+      "katya.04",
+      "katya.11",
+      "mari.09",
+      "svea.01",
+      "svea.05",
+      "svea.06",
+      "svea.12",
+      "svea.14",
+      "svea.15"
+    ],
+    "brief": "One outdoor sports area includes a basketball hardcourt, near-side bench and safe separate supervised practice lane.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "bg_bedroom_evening",
+    "type": "background_variant",
+    "requiredBy": [
+      "common.home"
+    ],
+    "brief": "Same modest room geography as morning; evening desk lamp, visible bed, desk and school bag. Do not redesign the room.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "bg_corridor_rain",
+    "type": "background_variant",
+    "requiredBy": [
+      "katya.05"
+    ],
+    "brief": "Same corridor and doors as daytime; ordinary rainy overcast outside, no dramatic storm effects.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "campus_map",
+    "type": "map",
+    "requiredBy": [
+      "common.navigation"
+    ],
+    "brief": "Preserve user's topology: infirmary west, B northwest, C north/northeast, library east, A southeast of corridor, lobby south-center, canteen southwest, field southeast, gate south. Bedroom via Home. Live labels, no invented rooms.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "mc_silhouette",
+    "type": "character",
+    "requiredBy": [
+      "ending_cgs",
+      "common"
+    ],
+    "brief": "Unidentifiable charcoal-grey male first-year uniform silhouette. No detailed face.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "char_katya_expressions",
+    "type": "expression_set",
+    "requiredBy": [
+      "katya.01",
+      "katya.02",
+      "katya.03",
+      "katya.04",
+      "katya.05",
+      "katya.06",
+      "katya.07",
+      "katya.08",
+      "katya.09",
+      "katya.10",
+      "katya.11",
+      "katya.12",
+      "katya.13",
+      "katya.14",
+      "katya.15"
+    ],
+    "brief": {
+      "expressions": [
+        "annoyed",
+        "concerned",
+        "determined",
+        "flustered",
+        "neutral",
+        "sad",
+        "smile",
+        "soft_smile",
+        "surprised"
+      ],
+      "note": "Expression names are acting directions; consolidate synonymous names into a consistent final atlas only after story review. No random substitutions."
+    },
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "char_katya_exploration",
+    "type": "placement_poses",
+    "requiredBy": [
+      "observe.katya",
+      "katya.01",
+      "katya.02",
+      "katya.03",
+      "katya.04",
+      "katya.05",
+      "katya.06",
+      "katya.07",
+      "katya.08",
+      "katya.09",
+      "katya.10",
+      "katya.11",
+      "katya.12",
+      "katya.13",
+      "katya.14",
+      "katya.15"
+    ],
+    "brief": {
+      "observationPose": "standing_with_folder",
+      "everyday": "Full-body standing and seated neutral school-life poses; refer to scene props. Handheld props must match the scene, not appear permanently in all portraits."
+    },
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "char_katya_fencing_kit_with_mask",
+    "type": "wardrobe_variant",
+    "requiredBy": [
+      "katya.11"
+    ],
+    "brief": "Same character identity and clean anime rendering, practical modest activity clothes. Preserve visible face and hairstyle. No glamour sports poses.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "char_katya_school_tracksuit",
+    "type": "wardrobe_variant",
+    "requiredBy": [
+      "katya.04"
+    ],
+    "brief": "Same character identity and clean anime rendering, practical modest activity clothes. Preserve visible face and hairstyle. No glamour sports poses.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_katya_backing_card",
+    "type": "prop",
+    "requiredBy": [
+      "katya.12"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_katya_budget_sheet",
+    "type": "prop",
+    "requiredBy": [
+      "katya.07"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_katya_cat",
+    "type": "prop",
+    "requiredBy": [
+      "katya.06"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_katya_class_register",
+    "type": "prop",
+    "requiredBy": [
+      "katya.02"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_katya_committee_notes",
+    "type": "prop",
+    "requiredBy": [
+      "katya.05"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_katya_dark_chocolate",
+    "type": "prop",
+    "requiredBy": [
+      "katya.13"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_katya_delivery_box",
+    "type": "prop",
+    "requiredBy": [
+      "katya.10"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_katya_fencing_bag",
+    "type": "prop",
+    "requiredBy": [
+      "katya.04"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_katya_fencing_mask",
+    "type": "prop",
+    "requiredBy": [
+      "katya.11"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_katya_final_report",
+    "type": "prop",
+    "requiredBy": [
+      "katya.14"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_katya_floor_markers",
+    "type": "prop",
+    "requiredBy": [
+      "katya.11"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_katya_floor_tape",
+    "type": "prop",
+    "requiredBy": [
+      "katya.04"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_katya_folder",
+    "type": "prop",
+    "requiredBy": [
+      "katya.01"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_katya_forms",
+    "type": "prop",
+    "requiredBy": [
+      "katya.01"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_katya_glue",
+    "type": "prop",
+    "requiredBy": [
+      "katya.12"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_katya_melonpan",
+    "type": "prop",
+    "requiredBy": [
+      "katya.05"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_katya_music_note",
+    "type": "prop",
+    "requiredBy": [
+      "katya.13"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_katya_paper_labels",
+    "type": "prop",
+    "requiredBy": [
+      "katya.03"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_katya_paper_samples",
+    "type": "prop",
+    "requiredBy": [
+      "katya.07",
+      "katya.09"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_katya_pen",
+    "type": "prop",
+    "requiredBy": [
+      "katya.14"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_katya_phone",
+    "type": "prop",
+    "requiredBy": [
+      "katya.09"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_katya_photo_prints",
+    "type": "prop",
+    "requiredBy": [
+      "katya.12"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_katya_receipt",
+    "type": "prop",
+    "requiredBy": [
+      "katya.10"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_katya_reference_books",
+    "type": "prop",
+    "requiredBy": [
+      "katya.08"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_katya_room_signs",
+    "type": "prop",
+    "requiredBy": [
+      "katya.02"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_katya_stapler",
+    "type": "prop",
+    "requiredBy": [
+      "katya.01"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_katya_supply_clipboard",
+    "type": "prop",
+    "requiredBy": [
+      "katya.06"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_katya_tea_bottle",
+    "type": "prop",
+    "requiredBy": [
+      "katya.03"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_katya_three_drafts",
+    "type": "prop",
+    "requiredBy": [
+      "katya.08"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_katya_two_melonpan",
+    "type": "prop",
+    "requiredBy": [
+      "katya.15"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "cg_katya_good",
+    "type": "ending_cg",
+    "requiredBy": [
+      "katya.ending.good"
+    ],
+    "brief": "Katya beside the gate in soft late-afternoon light, silver hair in broad clean locks, small sincere smile, offering a wrapped melonpan; the MC is a plain charcoal silhouette at equal height beside her. No glamour framing.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "cg_katya_neutral",
+    "type": "ending_cg",
+    "requiredBy": [
+      "katya.ending.neutral"
+    ],
+    "brief": "A quiet Class B desk with the completed folder between two chairs; Katya offers a small cordial smile across the table. Open daytime light, respectful distance.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "cg_katya_bad",
+    "type": "ending_cg",
+    "requiredBy": [
+      "katya.ending.bad"
+    ],
+    "brief": "Katya alone in Class B in cool late light, calmly closing the completed folder; second chair empty, her expression disappointed but steady. No tears as spectacle.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "char_akira_expressions",
+    "type": "expression_set",
+    "requiredBy": [
+      "akira.01",
+      "akira.02",
+      "akira.03",
+      "akira.04",
+      "akira.05",
+      "akira.06",
+      "akira.07",
+      "akira.08",
+      "akira.09",
+      "akira.10",
+      "akira.11",
+      "akira.12",
+      "akira.13",
+      "akira.14",
+      "akira.15"
+    ],
+    "brief": {
+      "expressions": [
+        "concerned",
+        "delighted",
+        "flustered",
+        "neutral",
+        "puzzled",
+        "sad",
+        "smile",
+        "surprised",
+        "worried"
+      ],
+      "note": "Expression names are acting directions; consolidate synonymous names into a consistent final atlas only after story review. No random substitutions."
+    },
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "char_akira_exploration",
+    "type": "placement_poses",
+    "requiredBy": [
+      "observe.akira",
+      "akira.01",
+      "akira.02",
+      "akira.03",
+      "akira.04",
+      "akira.05",
+      "akira.06",
+      "akira.07",
+      "akira.08",
+      "akira.09",
+      "akira.10",
+      "akira.11",
+      "akira.12",
+      "akira.13",
+      "akira.14",
+      "akira.15"
+    ],
+    "brief": {
+      "observationPose": "standing_with_satchel",
+      "everyday": "Full-body standing and seated neutral school-life poses; refer to scene props. Handheld props must match the scene, not appear permanently in all portraits."
+    },
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_akira_anonymous_form",
+    "type": "prop",
+    "requiredBy": [
+      "akira.07"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_akira_anonymous_survey",
+    "type": "prop",
+    "requiredBy": [
+      "akira.04"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_akira_backup_envelope",
+    "type": "prop",
+    "requiredBy": [
+      "akira.14"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_akira_bento",
+    "type": "prop",
+    "requiredBy": [
+      "akira.06"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_akira_calculator",
+    "type": "prop",
+    "requiredBy": [
+      "akira.06"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_akira_consent_text",
+    "type": "prop",
+    "requiredBy": [
+      "akira.10"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_akira_feature_sheet",
+    "type": "prop",
+    "requiredBy": [
+      "akira.12"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_akira_headphones",
+    "type": "prop",
+    "requiredBy": [
+      "akira.11"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_akira_laptop",
+    "type": "prop",
+    "requiredBy": [
+      "akira.03",
+      "akira.07",
+      "akira.08",
+      "akira.11",
+      "akira.12",
+      "akira.14"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_akira_lunch_trays",
+    "type": "prop",
+    "requiredBy": [
+      "akira.13"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_akira_maintenance_guide",
+    "type": "prop",
+    "requiredBy": [
+      "akira.12"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_akira_notebook",
+    "type": "prop",
+    "requiredBy": [
+      "akira.04"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_akira_offline_notice",
+    "type": "prop",
+    "requiredBy": [
+      "akira.08"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_akira_paper_mockups",
+    "type": "prop",
+    "requiredBy": [
+      "akira.08"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_akira_phone",
+    "type": "prop",
+    "requiredBy": [
+      "akira.05",
+      "akira.09",
+      "akira.11"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_akira_phone_message",
+    "type": "prop",
+    "requiredBy": [
+      "akira.13"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_akira_presentation",
+    "type": "prop",
+    "requiredBy": [
+      "akira.14"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_akira_project_notebook",
+    "type": "prop",
+    "requiredBy": [
+      "akira.01",
+      "akira.10"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_akira_queue_survey",
+    "type": "prop",
+    "requiredBy": [
+      "akira.02"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_akira_sandwich_wrapper",
+    "type": "prop",
+    "requiredBy": [
+      "akira.02"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_akira_satchel_keychains",
+    "type": "prop",
+    "requiredBy": [
+      "akira.05"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_akira_spare_container",
+    "type": "prop",
+    "requiredBy": [
+      "akira.06"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_akira_sticky_notes",
+    "type": "prop",
+    "requiredBy": [
+      "akira.01"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_akira_strategy_game_screen",
+    "type": "prop",
+    "requiredBy": [
+      "akira.03"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_akira_survey_envelopes",
+    "type": "prop",
+    "requiredBy": [
+      "akira.05"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_akira_teacher_approval",
+    "type": "prop",
+    "requiredBy": [
+      "akira.07"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_akira_three_request_messages",
+    "type": "prop",
+    "requiredBy": [
+      "akira.09"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_akira_two_coffee_cans",
+    "type": "prop",
+    "requiredBy": [
+      "akira.15"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "cg_akira_good",
+    "type": "ending_cg",
+    "requiredBy": [
+      "akira.ending.good"
+    ],
+    "brief": "A clean warm Class A project desk after school; pink-bobbed Akira with brown eyes behind glasses grins as she and the charcoal-silhouette MC place their hands together on a shared notebook. Simple completed demo on the nearby laptop, no readable text.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "cg_akira_neutral",
+    "type": "ending_cg",
+    "requiredBy": [
+      "akira.ending.neutral"
+    ],
+    "brief": "Akira and the MC silhouette sit across a canteen table with the closed project notebook between them, warm ordinary daylight, friendly expressions and comfortable but distinct personal space.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "cg_akira_bad",
+    "type": "ending_cg",
+    "requiredBy": [
+      "akira.ending.bad"
+    ],
+    "brief": "Akira alone at an ordinary Class A desk, short pink bob and glasses clear, closing a disconnected laptop; empty project chair beside her, expression thoughtful and resolved rather than shattered.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "char_seoyun_expressions",
+    "type": "expression_set",
+    "requiredBy": [
+      "seoyun.01",
+      "seoyun.02",
+      "seoyun.03",
+      "seoyun.04",
+      "seoyun.05",
+      "seoyun.06",
+      "seoyun.07",
+      "seoyun.08",
+      "seoyun.09",
+      "seoyun.10",
+      "seoyun.11",
+      "seoyun.12",
+      "seoyun.13",
+      "seoyun.14",
+      "seoyun.15"
+    ],
+    "brief": {
+      "expressions": [
+        "concerned",
+        "curious",
+        "determined",
+        "flustered",
+        "neutral",
+        "sad",
+        "smile",
+        "surprised",
+        "warm"
+      ],
+      "note": "Expression names are acting directions; consolidate synonymous names into a consistent final atlas only after story review. No random substitutions."
+    },
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "char_seoyun_exploration",
+    "type": "placement_poses",
+    "requiredBy": [
+      "observe.seoyun",
+      "seoyun.01",
+      "seoyun.02",
+      "seoyun.03",
+      "seoyun.04",
+      "seoyun.05",
+      "seoyun.06",
+      "seoyun.07",
+      "seoyun.08",
+      "seoyun.09",
+      "seoyun.10",
+      "seoyun.11",
+      "seoyun.12",
+      "seoyun.13",
+      "seoyun.14",
+      "seoyun.15"
+    ],
+    "brief": {
+      "observationPose": "seated_sketching",
+      "everyday": "Full-body standing and seated neutral school-life poses; refer to scene props. Handheld props must match the scene, not appear permanently in all portraits."
+    },
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_seoyun_adviser_questions",
+    "type": "prop",
+    "requiredBy": [
+      "seoyun.10"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_seoyun_alternate_photo",
+    "type": "prop",
+    "requiredBy": [
+      "seoyun.11"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_seoyun_atlas",
+    "type": "prop",
+    "requiredBy": [
+      "seoyun.05"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_seoyun_atlases",
+    "type": "prop",
+    "requiredBy": [
+      "seoyun.01"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_seoyun_blue_journal",
+    "type": "prop",
+    "requiredBy": [
+      "seoyun.02",
+      "seoyun.09",
+      "seoyun.15"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_seoyun_blurred_photo",
+    "type": "prop",
+    "requiredBy": [
+      "seoyun.11"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_seoyun_bookmark",
+    "type": "prop",
+    "requiredBy": [
+      "seoyun.05"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_seoyun_camera",
+    "type": "prop",
+    "requiredBy": [
+      "seoyun.03",
+      "seoyun.11"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_seoyun_caption_drafts",
+    "type": "prop",
+    "requiredBy": [
+      "seoyun.04"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_seoyun_credit_labels",
+    "type": "prop",
+    "requiredBy": [
+      "seoyun.07"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_seoyun_dictionary",
+    "type": "prop",
+    "requiredBy": [
+      "seoyun.04"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_seoyun_display_board",
+    "type": "prop",
+    "requiredBy": [
+      "seoyun.08"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_seoyun_drying_display",
+    "type": "prop",
+    "requiredBy": [
+      "seoyun.13"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_seoyun_feedback_sheets",
+    "type": "prop",
+    "requiredBy": [
+      "seoyun.08"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_seoyun_finished_display",
+    "type": "prop",
+    "requiredBy": [
+      "seoyun.14"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_seoyun_folded_sketch",
+    "type": "prop",
+    "requiredBy": [
+      "seoyun.02"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_seoyun_fruit_cup",
+    "type": "prop",
+    "requiredBy": [
+      "seoyun.06"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_seoyun_handouts",
+    "type": "prop",
+    "requiredBy": [
+      "seoyun.14"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_seoyun_library_record",
+    "type": "prop",
+    "requiredBy": [
+      "seoyun.01"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_seoyun_menu",
+    "type": "prop",
+    "requiredBy": [
+      "seoyun.06"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_seoyun_noodle_bowl",
+    "type": "prop",
+    "requiredBy": [
+      "seoyun.06"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_seoyun_paperweight",
+    "type": "prop",
+    "requiredBy": [
+      "seoyun.05"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_seoyun_photo_print",
+    "type": "prop",
+    "requiredBy": [
+      "seoyun.12"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_seoyun_photo_prints",
+    "type": "prop",
+    "requiredBy": [
+      "seoyun.07"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_seoyun_reference_cards",
+    "type": "prop",
+    "requiredBy": [
+      "seoyun.02"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_seoyun_sealed_letter",
+    "type": "prop",
+    "requiredBy": [
+      "seoyun.09"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_seoyun_sky_photo",
+    "type": "prop",
+    "requiredBy": [
+      "seoyun.03"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_seoyun_study_options",
+    "type": "prop",
+    "requiredBy": [
+      "seoyun.10"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_seoyun_two_blank_bookmarks",
+    "type": "prop",
+    "requiredBy": [
+      "seoyun.15"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_seoyun_window_chairs",
+    "type": "prop",
+    "requiredBy": [
+      "seoyun.13"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_seoyun_window_essay",
+    "type": "prop",
+    "requiredBy": [
+      "seoyun.12"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "cg_seoyun_good",
+    "type": "ending_cg",
+    "requiredBy": [
+      "seoyun.ending.good"
+    ],
+    "brief": "Seo-yun with dark low-tied hair and her small left-eye mole by the library window, sharing an open sky-sketch page with a charcoal MC silhouette; equal side-by-side seating, clean daylight and a hopeful unforced smile.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "cg_seoyun_neutral",
+    "type": "ending_cg",
+    "requiredBy": [
+      "seoyun.ending.neutral"
+    ],
+    "brief": "A handwritten-style bookmark without legible generated writing rests on a returned atlas; Seo-yun offers it across the library table, kind reserved smile, respectful friendship distance.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "cg_seoyun_bad",
+    "type": "ending_cg",
+    "requiredBy": [
+      "seoyun.ending.bad"
+    ],
+    "brief": "Seo-yun at the library window closes her dark-blue journal, shoulders calm, gaze turned toward the exit and her own future; cool natural light, no dramatic distress or spectacle.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "char_mari_expressions",
+    "type": "expression_set",
+    "requiredBy": [
+      "mari.01",
+      "mari.02",
+      "mari.03",
+      "mari.04",
+      "mari.05",
+      "mari.06",
+      "mari.07",
+      "mari.08",
+      "mari.09",
+      "mari.10",
+      "mari.11",
+      "mari.12",
+      "mari.13",
+      "mari.14",
+      "mari.15"
+    ],
+    "brief": {
+      "expressions": [
+        "concerned",
+        "flustered",
+        "neutral",
+        "peaceful",
+        "sad",
+        "smile",
+        "surprised",
+        "warm"
+      ],
+      "note": "Expression names are acting directions; consolidate synonymous names into a consistent final atlas only after story review. No random substitutions."
+    },
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "char_mari_exploration",
+    "type": "placement_poses",
+    "requiredBy": [
+      "observe.mari",
+      "mari.01",
+      "mari.02",
+      "mari.03",
+      "mari.04",
+      "mari.05",
+      "mari.06",
+      "mari.07",
+      "mari.08",
+      "mari.09",
+      "mari.10",
+      "mari.11",
+      "mari.12",
+      "mari.13",
+      "mari.14",
+      "mari.15"
+    ],
+    "brief": {
+      "observationPose": "standing_with_bento",
+      "everyday": "Full-body standing and seated neutral school-life poses; refer to scene props. Handheld props must match the scene, not appear permanently in all portraits."
+    },
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "char_mari_aikido_gi_and_trousers",
+    "type": "wardrobe_variant",
+    "requiredBy": [
+      "mari.09"
+    ],
+    "brief": "Same character identity and clean anime rendering, practical modest activity clothes. Preserve visible face and hairstyle. No glamour sports poses.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "char_mari_uniform_with_apron",
+    "type": "wardrobe_variant",
+    "requiredBy": [
+      "mari.11"
+    ],
+    "brief": "Same character identity and clean anime rendering, practical modest activity clothes. Preserve visible face and hairstyle. No glamour sports poses.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_apron",
+    "type": "prop",
+    "requiredBy": [
+      "mari.11"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_book",
+    "type": "prop",
+    "requiredBy": [
+      "mari.08"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_cat",
+    "type": "prop",
+    "requiredBy": [
+      "mari.13"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_clean_blankets",
+    "type": "prop",
+    "requiredBy": [
+      "mari.08"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_custard_dessert",
+    "type": "prop",
+    "requiredBy": [
+      "mari.05"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_drying_paper",
+    "type": "prop",
+    "requiredBy": [
+      "mari.03"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_fabric_backing",
+    "type": "prop",
+    "requiredBy": [
+      "mari.06"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_finished_reading_corner",
+    "type": "prop",
+    "requiredBy": [
+      "mari.14"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_folded_cloth",
+    "type": "prop",
+    "requiredBy": [
+      "mari.07"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_gate_bench",
+    "type": "prop",
+    "requiredBy": [
+      "mari.13"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_her_tea_cup",
+    "type": "prop",
+    "requiredBy": [
+      "mari.15"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_homework",
+    "type": "prop",
+    "requiredBy": [
+      "mari.12"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_household_plan",
+    "type": "prop",
+    "requiredBy": [
+      "mari.12"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_leaflet_list",
+    "type": "prop",
+    "requiredBy": [
+      "mari.05"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_leaflet_rack",
+    "type": "prop",
+    "requiredBy": [
+      "mari.10"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_loose_button",
+    "type": "prop",
+    "requiredBy": [
+      "mari.06"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_lunch_plate",
+    "type": "prop",
+    "requiredBy": [
+      "mari.11"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_meal_worksheet",
+    "type": "prop",
+    "requiredBy": [
+      "mari.11"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_noticeboard",
+    "type": "prop",
+    "requiredBy": [
+      "mari.04"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_paper_headings",
+    "type": "prop",
+    "requiredBy": [
+      "mari.02"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_phone",
+    "type": "prop",
+    "requiredBy": [
+      "mari.07"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_practice_mat",
+    "type": "prop",
+    "requiredBy": [
+      "mari.09"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_public_leaflets",
+    "type": "prop",
+    "requiredBy": [
+      "mari.01"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_reading_list",
+    "type": "prop",
+    "requiredBy": [
+      "mari.10"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_red_bean_dessert",
+    "type": "prop",
+    "requiredBy": [
+      "mari.05"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_sewing_kit",
+    "type": "prop",
+    "requiredBy": [
+      "mari.06"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_sports_bag",
+    "type": "prop",
+    "requiredBy": [
+      "mari.09"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_squeaky_chair",
+    "type": "prop",
+    "requiredBy": [
+      "mari.01"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_staff_only_sign",
+    "type": "prop",
+    "requiredBy": [
+      "mari.04"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_supply_box",
+    "type": "prop",
+    "requiredBy": [
+      "mari.07"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_tea_tin",
+    "type": "prop",
+    "requiredBy": [
+      "mari.14"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_thermos",
+    "type": "prop",
+    "requiredBy": [
+      "mari.02",
+      "mari.03"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_two_bento",
+    "type": "prop",
+    "requiredBy": [
+      "mari.02"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_two_cups",
+    "type": "prop",
+    "requiredBy": [
+      "mari.14"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_two_tea_cups",
+    "type": "prop",
+    "requiredBy": [
+      "mari.03"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_mari_visitor_chairs",
+    "type": "prop",
+    "requiredBy": [
+      "mari.08"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "cg_mari_good",
+    "type": "ending_cg",
+    "requiredBy": [
+      "mari.ending.good"
+    ],
+    "brief": "Mari with a salmon feathered low ponytail and cyan eyes rests beside the infirmary visitor window with her own tea; a charcoal MC silhouette sits quietly at an equal distance beside her. Warm natural light, relaxed posture, ordinary modest uniform; she is well and awake.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "cg_mari_neutral",
+    "type": "ending_cg",
+    "requiredBy": [
+      "mari.ending.neutral"
+    ],
+    "brief": "Mari and the MC silhouette share a calm tea break across two visitor chairs, balanced composition and independent cups, gentle cordial expression, open infirmary doorway in the background.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "cg_mari_bad",
+    "type": "ending_cg",
+    "requiredBy": [
+      "mari.ending.bad"
+    ],
+    "brief": "Mari calmly gathers her school bag to leave the infirmary visitor table; her full tea cup remains in the foreground, cool late light, her expression tired but resolved. No collapse, injury or helpless framing.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "char_svea_expressions",
+    "type": "expression_set",
+    "requiredBy": [
+      "svea.01",
+      "svea.02",
+      "svea.03",
+      "svea.04",
+      "svea.05",
+      "svea.06",
+      "svea.07",
+      "svea.08",
+      "svea.09",
+      "svea.10",
+      "svea.11",
+      "svea.12",
+      "svea.13",
+      "svea.14",
+      "svea.15"
+    ],
+    "brief": {
+      "expressions": [
+        "annoyed",
+        "concerned",
+        "flustered",
+        "neutral",
+        "sad",
+        "sleepy",
+        "smile",
+        "smirk",
+        "soft_smile",
+        "surprised"
+      ],
+      "note": "Expression names are acting directions; consolidate synonymous names into a consistent final atlas only after story review. No random substitutions."
+    },
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "char_svea_exploration",
+    "type": "placement_poses",
+    "requiredBy": [
+      "observe.svea",
+      "svea.01",
+      "svea.02",
+      "svea.03",
+      "svea.04",
+      "svea.05",
+      "svea.06",
+      "svea.07",
+      "svea.08",
+      "svea.09",
+      "svea.10",
+      "svea.11",
+      "svea.12",
+      "svea.13",
+      "svea.14",
+      "svea.15"
+    ],
+    "brief": {
+      "observationPose": "standing_with_ball",
+      "everyday": "Full-body standing and seated neutral school-life poses; refer to scene props. Handheld props must match the scene, not appear permanently in all portraits."
+    },
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "char_svea_school_sports_jacket_and_trousers",
+    "type": "wardrobe_variant",
+    "requiredBy": [
+      "svea.01",
+      "svea.05",
+      "svea.06",
+      "svea.12",
+      "svea.14"
+    ],
+    "brief": "Same character identity and clean anime rendering, practical modest activity clothes. Preserve visible face and hairstyle. No glamour sports poses.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_svea_attendance_sheet",
+    "type": "prop",
+    "requiredBy": [
+      "svea.01"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_svea_basketball",
+    "type": "prop",
+    "requiredBy": [
+      "svea.01",
+      "svea.05",
+      "svea.06",
+      "svea.12",
+      "svea.15"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_svea_budget_exercise",
+    "type": "prop",
+    "requiredBy": [
+      "svea.04"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_svea_closed_bag",
+    "type": "prop",
+    "requiredBy": [
+      "svea.03"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_svea_court_cones",
+    "type": "prop",
+    "requiredBy": [
+      "svea.06"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_svea_cozy_game_screen",
+    "type": "prop",
+    "requiredBy": [
+      "svea.11"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_svea_equipment_cart",
+    "type": "prop",
+    "requiredBy": [
+      "svea.01"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_svea_equipment_list",
+    "type": "prop",
+    "requiredBy": [
+      "svea.02",
+      "svea.14"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_svea_field_bench",
+    "type": "prop",
+    "requiredBy": [
+      "svea.12"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_svea_group_assignment",
+    "type": "prop",
+    "requiredBy": [
+      "svea.13"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_svea_handheld_game",
+    "type": "prop",
+    "requiredBy": [
+      "svea.11"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_svea_household_worksheet",
+    "type": "prop",
+    "requiredBy": [
+      "svea.10"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_svea_lunch_tray",
+    "type": "prop",
+    "requiredBy": [
+      "svea.09"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_svea_lunch_trays",
+    "type": "prop",
+    "requiredBy": [
+      "svea.02"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_svea_neighborhood_dog",
+    "type": "prop",
+    "requiredBy": [
+      "svea.08"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_svea_notebook",
+    "type": "prop",
+    "requiredBy": [
+      "svea.04"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_svea_pencil",
+    "type": "prop",
+    "requiredBy": [
+      "svea.13"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_svea_pencil_case",
+    "type": "prop",
+    "requiredBy": [
+      "svea.07"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_svea_plush_dog_keychain",
+    "type": "prop",
+    "requiredBy": [
+      "svea.07"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_svea_practice_report",
+    "type": "prop",
+    "requiredBy": [
+      "svea.09"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_svea_practice_statistics",
+    "type": "prop",
+    "requiredBy": [
+      "svea.05"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_svea_sports_bag",
+    "type": "prop",
+    "requiredBy": [
+      "svea.07"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_svea_strawberry_milk",
+    "type": "prop",
+    "requiredBy": [
+      "svea.02",
+      "svea.04"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_svea_supply_boxes",
+    "type": "prop",
+    "requiredBy": [
+      "svea.08"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_svea_two_strawberry_milk",
+    "type": "prop",
+    "requiredBy": [
+      "svea.14"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_svea_workbook",
+    "type": "prop",
+    "requiredBy": [
+      "svea.03"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "prop_svea_worksheet",
+    "type": "prop",
+    "requiredBy": [
+      "svea.03"
+    ],
+    "brief": "May be staged in a background, a character pose or a simple insert. It is not automatically a separate required texture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "cg_svea_good",
+    "type": "ending_cg",
+    "requiredBy": [
+      "svea.ending.good"
+    ],
+    "brief": "Svea at the school hardcourt in clean late-afternoon light, feminine face and shaggy blue-black hair, rare soft smile while offering the basketball to a charcoal MC silhouette; loose blazer and uniform trousers, easy equal posture.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "cg_svea_neutral",
+    "type": "ending_cg",
+    "requiredBy": [
+      "svea.ending.neutral"
+    ],
+    "brief": "Svea and a charcoal MC silhouette exchange a relaxed friendly fist bump at the hardcourt boundary; sports bag between them, normal daylight, comfortable friendship without romantic framing.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "cg_svea_bad",
+    "type": "ending_cg",
+    "requiredBy": [
+      "svea.ending.bad"
+    ],
+    "brief": "Svea leaves the quiet hardcourt with a basketball under her arm, looking forward; an empty bench behind her, cool natural late light, steady resolved expression. She remains strong and self-directed.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "amb_school",
+    "type": "audio",
+    "requiredBy": [
+      "common.exploration"
+    ],
+    "brief": "Low-key school room tone and distant footsteps. Leave speech readable.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "bgm_daily",
+    "type": "audio",
+    "requiredBy": [
+      "common",
+      "route_daily"
+    ],
+    "brief": "Original restrained acoustic/piano school-day loop. Do not use a copyrighted song mentioned in dialogue.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "bgm_reflection",
+    "type": "audio",
+    "requiredBy": [
+      "home",
+      "route_reflection"
+    ],
+    "brief": "Original quiet reflective loop with a comfortable fade point.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "bgm_endings",
+    "type": "audio_set",
+    "requiredBy": [
+      "ending_cgs"
+    ],
+    "brief": "Original good/neutral/bad ending variations. Bad is reflective, not horror or tragedy.",
+    "status": "planned_after_script_review"
+  },
+  {
+    "id": "sfx_story",
+    "type": "audio_set",
+    "requiredBy": [
+      "common",
+      "routes"
+    ],
+    "brief": "Alarm, school bell, light rain, paper/zip/cup sounds, basketball bounce and rim, short generic PA bed. Simple UI confirm/cancel. No mandatory voice acting.",
+    "status": "planned_after_script_review"
+  }
+]

@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: d9bbbf18b6c823243aa630cae120053d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2197548504142456328
+    second: mari_expressions_2_0
+  - first:
+      213: 3093774968831778026
+    second: mari_expressions_2_1
+  - first:
+      213: -5028479644268121350
+    second: mari_expressions_2_2
+  - first:
+      213: 2038576733801630765
+    second: mari_expressions_2_3
+  - first:
+      213: 1162201921522074235
+    second: mari_expressions_2_4
+  - first:
+      213: -5905900190049518518
+    second: mari_expressions_2_5
+  - first:
+      213: -6984499275209161762
+    second: mari_expressions_2_6
+  - first:
+      213: 5996134577371614298
+    second: mari_expressions_2_7
+  - first:
+      213: 8490290968583296625
+    second: mari_expressions_2_8
+  - first:
+      213: 6066789411987694884
+    second: mari_expressions_2_9
+  - first:
+      213: 6372786370156444930
+    second: mari_expressions_2_10
+  - first:
+      213: 1655032460355832157
+    second: mari_expressions_2_11
+  - first:
+      213: -7901250864394298907
+    second: mari_expressions_2_12
+  - first:
+      213: -8374563709407735712
+    second: mari_expressions_2_13
+  - first:
+      213: 7295461707340666231
+    second: mari_expressions_2_14
+  - first:
+      213: 4523334557776790884
+    second: mari_expressions_2_15
+  - first:
+      213: 6481042999329054315
+    second: mari_expressions_2_16
+  - first:
+      213: 8524825405258377414
+    second: mari_expressions_2_17
+  - first:
+      213: 8211233407246319904
+    second: mari_expressions_2_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mari_expressions_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 634
+        height: 1254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9d5e1574db081e0800000000000000
+      internalID: -2197548504142456328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mari_expressions_2_1
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1136
+        width: 173
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec963051fb4fea20800000000000000
+      internalID: 3093774968831778026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mari_expressions_2_2
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1034
+        width: 162
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2bd13d760473ab0800000000000000
+      internalID: -5028479644268121350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mari_expressions_2_3
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 0
+        width: 604
+        height: 1254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c4f911dba7a4c10800000000000000
+      internalID: 2038576733801630765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mari_expressions_2_4
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1158
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7289917d78f02010800000000000000
+      internalID: 1162201921522074235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mari_expressions_2_5
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1062
+        width: 160
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cbf2561170a0ea0800000000000000
+      internalID: -5905900190049518518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mari_expressions_2_6
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1078
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed34f272ae2121f90800000000000000
+      internalID: -6984499275209161762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mari_expressions_2_7
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1128
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c0ca511ac863350800000000000000
+      internalID: 5996134577371614298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mari_expressions_2_8
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1130
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1765d1607a293d570800000000000000
+      internalID: 8490290968583296625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mari_expressions_2_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 826
+        width: 102
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425a0a4b3d0913450800000000000000
+      internalID: 6066789411987694884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mari_expressions_2_10
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 871
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d30ae607fa07850800000000000000
+      internalID: 6372786370156444930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mari_expressions_2_11
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 817
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d590043014bd7f610800000000000000
+      internalID: 1655032460355832157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mari_expressions_2_12
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 795
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e99782933e195290800000000000000
+      internalID: -7901250864394298907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mari_expressions_2_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 776
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060dfd73da297cb80800000000000000
+      internalID: -8374563709407735712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mari_expressions_2_14
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 761
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775518215cfae3560800000000000000
+      internalID: 7295461707340666231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mari_expressions_2_15
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 763
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465c88c80dc16ce30800000000000000
+      internalID: 4523334557776790884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mari_expressions_2_16
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 443
+        width: 149
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e5a05154a41f950800000000000000
+      internalID: 6481042999329054315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mari_expressions_2_17
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 184
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8a6a42a834e4670800000000000000
+      internalID: 8524825405258377414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mari_expressions_2_18
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 99
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021ccb6674924f170800000000000000
+      internalID: 8211233407246319904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mari_expressions_2_0: -2197548504142456328
+      mari_expressions_2_1: 3093774968831778026
+      mari_expressions_2_10: 6372786370156444930
+      mari_expressions_2_11: 1655032460355832157
+      mari_expressions_2_12: -7901250864394298907
+      mari_expressions_2_13: -8374563709407735712
+      mari_expressions_2_14: 7295461707340666231
+      mari_expressions_2_15: 4523334557776790884
+      mari_expressions_2_16: 6481042999329054315
+      mari_expressions_2_17: 8524825405258377414
+      mari_expressions_2_18: 8211233407246319904
+      mari_expressions_2_2: -5028479644268121350
+      mari_expressions_2_3: 2038576733801630765
+      mari_expressions_2_4: 1162201921522074235
+      mari_expressions_2_5: -5905900190049518518
+      mari_expressions_2_6: -6984499275209161762
+      mari_expressions_2_7: 5996134577371614298
+      mari_expressions_2_8: 8490290968583296625
+      mari_expressions_2_9: 6066789411987694884
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

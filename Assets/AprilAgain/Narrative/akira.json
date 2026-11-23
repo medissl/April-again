@@ -1,0 +1,2853 @@
+{
+  "schemaVersion": 1,
+  "id": "akira",
+  "name": "Akira Seojin",
+  "voice": "Quick, curious, friendly; connects ordinary problems to economics or games. Talks past her own fatigue. Earnest technical competence, shaky privacy instincts, and difficulty distinguishing romance from friendship. Never a walking list of references.",
+  "scenes": [
+    {
+      "number": 1,
+      "title": "The Girl With Three Plans",
+      "location": "class_a",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "sticky_notes",
+        "project_notebook"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "A teacher pairs the MC with Akira to collect ideas for a first-year information project.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "You're the map guy! From orientation. I'm Akira Seojin. Either name is fine, except during roll call, apparently.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I was hoping the map thing wouldn't become my entire reputation.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "Too late. Memorable brand, low customer-acquisition cost. Sorry—sorry, I'm doing the economics thing. Hi.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "Her glasses slip down. She pushes them up with a finger still holding a sticky note.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "We need a project people will actually use. I have a room finder, a lunch queue tracker and a system for borrowing stationery.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Is that one project or three?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "That's what I need a second person for. My ideas don't tell each other no.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "Her sentences arrive in quick linked bursts. She starts a fourth thought, sees his expression and physically closes her mouth before it escapes.",
+          "kind": "direction"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "neutral",
+          "text": "The room finder sounds useful.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "Because of your tragic map history?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I prefer 'relevant experience.'",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "Excellent. We already have a test user.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.01.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "Which problem have people actually asked you about? Let's start there.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "Lunch queues. Constantly. Usually while we're standing in one.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Then we can ask what information would help.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "A small test before we build anything. Yes! Map guy joins the team. We should probably use your actual name before I print badges.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.01.choice2",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "Pick whatever will make our project look the most impressive.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "A live queue tracker would look pretty good...",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "There you go.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "Though we should probably find out whether the canteen would even let us use it.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.01.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "We spend the activity block making a short survey. Akira fits her first idea on one page, then puts the other two on a separate sheet.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Stage",
+          "text": "The teacher approves the anonymous canteen-queue pilot as the first test. The room finder and lending system remain ideas to revisit later, not alternate projects the player has secretly committed to.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "Saving those for later?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "For later me. She has unlimited time and better cable management.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {},
+      "id": "akira.01",
+      "previousScene": null,
+      "background": "bg_class_a_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 2,
+      "title": "The Price of a Sandwich",
+      "location": "canteen",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "queue_survey",
+        "sandwich_wrapper"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "We observe the canteen queue with permission from the staff. Akira has made a table of waiting times.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "The cheapest bread sells out first. Then everyone spends five minutes deciding whether they can afford to be disappointed.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "That's a very specific market.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "Scarcity is emotional. I know. I missed the chicken sandwich.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She checks the notes and discovers that she timed two different queues as if they were the same one.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "Jamkkanman—hold on. That's two different queues. Oh, my beautiful graph. I've committed lunch fraud.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "We still have time to do another round.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "bad",
+          "text": "Use the numbers we have. Nobody's going to check.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "They might not, but the canteen staff will know if it's wrong.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "It's only a class project.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "It's still got our names on it.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.02.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "Let's separate the queues and mark what we didn't measure.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "Less dramatic graph. More honest graph.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "We can survive a boring graph.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "Speak for yourself. But yes, give me a clean page.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.02.choice2",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "Let's ask the staff which queue matters most.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "Right. We might be timing something they can't change.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "And maybe they'll tell us when the sandwiches arrive.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "Research has benefits.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.02.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "We finish the new observations and put a question mark beside the uncertain numbers.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "My dad does this with store orders. He says guessing is fine if you remember you guessed.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Your dad sounds helpful.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "He is. Also embarrassingly good at spotting when I haven't eaten lunch.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {},
+      "id": "akira.02",
+      "previousScene": "akira.01",
+      "background": "bg_canteen_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 3,
+      "title": "One More Turn",
+      "location": "class_a",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "laptop",
+        "strategy_game_screen"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "A supervised club block gives us time to mock up the project on Akira's laptop. During a break, a strategy-game map is still open in the corner.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "That doesn't look like the canteen.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "Only because nobody's flanking the vending machine. Yet.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She shows me a practice match. Her explanation becomes faster as soon as I ask about the map.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "You can't defend everything. Pick what matters, leave yourself a way out, and don't panic because one number is red.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Is that advice for the game or school?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "Depends how badly school is going.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "good",
+          "text": "Can you show me one decision? I'm losing track of the whole map.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "Chotto matte. Back up, Akira. One bridge. We're learning one bridge, not the entire history of strategy games.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "That's much better.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "I do this with WARNO too. Someone asks one question and suddenly I'm defending a thesis. Stop me at the second map.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.03.choice1",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "I don't really play these, but you seem good at it.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "That's okay. We don't have to share every hobby.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "You sound surprised.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "I'm reminding myself too.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.03.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "Can you skip the explanation and just tell me how to win?",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "Winning is the explanation. The decisions are the fun part.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I thought the fun part was beating someone.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "Sometimes. It gets old if that's all you're doing.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.03.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "The game break ends on time. We return to the mock-up with a simpler idea of what belongs on the screen.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "One useful thing at a time. The bridge method.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I'm claiming credit for the name.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "Negotiable. We haven't agreed on licensing.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {},
+      "id": "akira.03",
+      "previousScene": "akira.02",
+      "background": "bg_class_a_day",
+      "requiresClubDay": true,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 4,
+      "title": "Not My Story to Tell",
+      "location": "library",
+      "hours": 3,
+      "expression": "worried",
+      "props": [
+        "anonymous_survey",
+        "notebook"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "We are reading survey comments at a library table. Akira starts explaining why a classmate has been avoiding the canteen.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "She told me her family is having money problems, so I thought we could make sure she—",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She stops. The survey page is still open between us.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "She didn't put that in the survey. She told me yesterday.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Does she know you're telling me?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "No. I was trying to work out a way to help.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "For once, she doesn't rush to fill the silence.",
+          "kind": "narration"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "neutral",
+          "text": "We don't need her name in the project.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "I'll take it out of my notes too.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "We can talk about affordable options generally.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "Right. That would actually help more people.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.04.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "Tell me the rest. Maybe I can work out what she needs.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "I don't think I should.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "It's only us.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "That's probably what she thought when she told me.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.04.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "Let's leave her details out. You can ask her privately what help she wants.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "And tell her I mentioned it?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "She deserves to know. You can keep the apology simple.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "Ugh. Right about the difficult part as well. Couldn't you have picked a less inconvenient talent?",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.04.choice3",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "We replace the personal example with an anonymous survey total. Akira closes her notebook before speaking again.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "I know lots of people. That doesn't mean every story I hear becomes mine to pass on.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "You caught yourself.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "A bit late. Still worth catching.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {},
+      "id": "akira.04",
+      "previousScene": "akira.03",
+      "background": "bg_library_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 5,
+      "title": "The Bag That Knows Everyone",
+      "location": "lobby",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "satchel_keychains",
+        "phone",
+        "survey_envelopes"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "We sort survey returns near the lobby noticeboard. A keychain catches on Akira's chair and drops to the floor.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "Is that little astronaut yours?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "A friend gave it to me when I won a software contest. She said I needed a person who looked more stressed than me.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "It does look worried.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "Strong likeness. This one came from a gaming friend. This pin's from my cousin. That rabbit used to be attached to my glasses, but it attacked my ear.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She knows the story of every charm. Her phone lights up three times before she finishes the second one.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Akira",
+          "text": "Sorry. Lots of people need little things today.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "bad",
+          "text": "That's what happens when you collect friends like contacts.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "I don't collect them. I like them.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "You did say connections matter.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "People can matter for more than what they can do for me.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.05.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "You can answer after we finish. Anyone who needs you urgently can call.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "Ten minutes of not replying won't ruin my entire social life?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I can't promise the astronaut will forgive you.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "He's seen worse. Phone. Bag. Zip. There. If I reach for it, make a disapproving calculator noise.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.05.choice2",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "We can take a break while you reply.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "Thanks. I'll set a timer or we'll be here forever.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Two minutes?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "Three. I know my weaknesses.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.05.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "The block ends with the survey envelopes sorted and the astronaut safely reattached.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "I told one person I couldn't help today. They said, 'No problem.'",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Shocking development.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "Honestly? A little.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {
+        "warm": [
+          {
+            "speaker": "Akira",
+            "text": "You're getting good at noticing when I need a pause.",
+            "kind": "dialogue"
+          }
+        ],
+        "mixed": [
+          {
+            "speaker": "Akira",
+            "text": "I can't tell if we're organized or just lucky today.",
+            "kind": "dialogue"
+          }
+        ],
+        "cool": [
+          {
+            "speaker": "Akira",
+            "text": "Let's get the envelopes finished. I don't want to turn anyone else's business into our afternoon.",
+            "kind": "dialogue"
+          }
+        ]
+      },
+      "id": "akira.05",
+      "previousScene": "akira.04",
+      "background": "bg_lobby_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 6,
+      "title": "A Spare Portion",
+      "location": "canteen",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "bento",
+        "calculator",
+        "spare_container"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "We compare the survey totals over lunch. Akira opens a homemade lunch box and notices the MC's bread roll.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "That's your whole lunch?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "It was going to be two rolls. One escaped into breakfast.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "Here. I made too much.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "You cook?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "Dad owns a grocery shop. If something needs using today, surprise, it's dinner. Eomma calls it 'a flexible menu.' Mum's very diplomatic.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She holds out a clean spare container, then hesitates.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "You don't have to take it. I do that thing where offering turns into deciding.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "good",
+          "text": "I'd like some. Tell me what's in it first, though.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "Chicken, egg, spring onion. Nothing spicy. I prefer my lunch without a boss fight.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Then yes, please.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "See? An offer with actual information. I'm learning.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.06.choice1",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "You're going to make someone a perfect wife.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "That's a weirdly large job offer for some chicken.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I meant you're good at cooking.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "You can just say that bit. I like that bit.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.06.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "Thanks, but I'll stick with the roll today.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "Okay. I'll save it for after the club block.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "It does look good.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "Review accepted. No purchase required.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.06.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "The survey calculation takes longer than lunch. Akira catches two arithmetic mistakes and draws a tiny disappointed face beside the calculator.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "You know that's not the calculator's fault.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "I know. It needed a colleague.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {},
+      "id": "akira.06",
+      "previousScene": "akira.05",
+      "background": "bg_canteen_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 7,
+      "title": "Useful Information",
+      "location": "class_a",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "laptop",
+        "anonymous_form",
+        "teacher_approval"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "The prototype can now suggest a quieter canteen period. Akira wants to personalize it.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "If people enter their class and usual lunch time, we can make better suggestions. Their names would help us remember who tried it.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Do we need the names for it to work?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "Not technically. It would make follow-ups easier.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "It would also tell us quite a lot about where they are.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She leans back from the laptop. This is her favorite part of the work, and I've put a problem directly in it.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Akira",
+          "text": "I want the project to be useful. I don't want to build something so cautious it does nothing.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "neutral",
+          "text": "Let's show both versions to the teacher before collecting anything.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "A review before a launch. Sensible, slightly less exciting.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "We could survive slightly less exciting.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "We keep saying that. Suspicious trend.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.07.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "We can test anonymous time bands first. Ask for more only if we can explain why.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "So we still test it. We just make the small version prove it needs to grow.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Exactly.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "Aish. Fine. Good product advice. I reserve the right to grumble while I use it.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.07.choice2",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "People click through forms anyway. Add the names and launch it.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "That would be faster.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "And we can fix it later.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "Unless what needs fixing is that people trusted us with too much.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.07.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "Teacher review is mandatory regardless of the choice. The approved pilot uses anonymous time bands and deletes test entries afterwards.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "I argued for speed. I still think speed matters.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "We can be quick about the things we understand.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "And careful about the things we don't. Okay. Put that in the notes before I make it sound like my idea.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {},
+      "id": "akira.07",
+      "previousScene": "akira.06",
+      "background": "bg_class_a_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 8,
+      "title": "Offline",
+      "location": "class_a",
+      "hours": 3,
+      "expression": "puzzled",
+      "props": [
+        "laptop",
+        "paper_mockups",
+        "offline_notice"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "We arrive for a trial during a school network outage. Akira refreshes the page once, then makes herself stop.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "The internet is gone. Not slow. Gone. I'm taking this personally.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "It may not know we're here.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "Then this is an appalling coincidence.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She checks the clock. The volunteer testers will arrive shortly.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "I could use my phone hotspot, but I don't know whether everyone will connect in time.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "What can we show without a connection?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "The screen mock-ups. The anonymous totals. My ability to complain in several categories.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "bad",
+          "text": "Say the school broke our demo. That's basically true.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "The outage is real. Having no backup is ours.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Nobody asked for a backup.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "That's not a great reason to make the testers waste their time.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.08.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "We can postpone and explain why.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "I'll message the teacher and ask the testers which time works.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Better than making them wait for a loading screen.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "We are aggressively proving the need for good information.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.08.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "Let's run the test on paper. We're testing whether the information helps, right?",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "Right. We don't need a network to ask a good question.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I'll get the prints.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "And I'll put 'paper' in the backup plan before I forget it exists again.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.08.choice3",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "The teacher arranges a short paper check and a later digital trial. We spend the remaining block writing what failed and what still worked.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "I wanted a smooth demo.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "You got a useful test.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "I'm allowing myself five more minutes of being annoyed before I appreciate that.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {},
+      "id": "akira.08",
+      "previousScene": "akira.07",
+      "background": "bg_class_a_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 9,
+      "title": "The Favor Queue",
+      "location": "lobby",
+      "hours": 3,
+      "expression": "worried",
+      "props": [
+        "phone",
+        "three_request_messages"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "Our project block overlaps with three requests from Akira's friends: a poster, a spreadsheet and a club signup page.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "They're all small. It's the combination that's developing teeth.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Have you agreed to all three?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "Technically, I said I could probably help.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "How did they hear that?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "As yes. Correctly, to be fair.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She opens three message threads and can't seem to choose which one to answer.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Akira",
+          "text": "I like being someone people can count on. I don't want them to think that was fake.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "good",
+          "text": "Tell them what you can finish and what you can't. You don't need a crisis to have a limit.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "Even if someone is disappointed?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "They'll have better information than a late promise.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "You're using my own project against me. That's low. Also fair.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.09.choice1",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "Which one has the earliest real deadline?",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "The poster. The other two can wait if I actually say so.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Start with that message.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "Right. One bridge at a time.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.09.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "If you want people around, doing them favors is part of the deal.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "I know I've said things like that.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "You can't have it both ways.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "Maybe I don't like what the deal turns me into.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.09.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "She sends three clear replies. One friend answers with a cheerful 'Next week is fine.' Another finds help elsewhere.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "Nobody has removed my name from the friendship register.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "There's a register?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "No. Terrible privacy policy. We rejected it.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {},
+      "id": "akira.09",
+      "previousScene": "akira.08",
+      "background": "bg_lobby_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 10,
+      "title": "An Apology With No Pitch",
+      "location": "library",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "project_notebook",
+        "consent_text"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "Akira has privately corrected the disclosure from the earlier survey session. The classmate agreed that she may discuss the lesson without sharing any more details.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "She heard my apology. She hasn't said she trusts me with personal stuff again.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "That might take time.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "I know. I nearly offered to fix her whole project to make it less awkward.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Did you?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "No. I could practically hear the terrible bargain forming.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She has written 'Don't turn apology into sales pitch' at the top of her notebook.",
+          "kind": "narration"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "neutral",
+          "text": "Give her some time. You don't need to solve it today.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "I'm bad at leaving things unfinished.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "She isn't a task.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "Right. I'm glad you said that.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.10.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "If she accepted the apology, she should stop making it awkward.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "She didn't promise to make me feel better.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "You admitted you were wrong.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "That was the part I owed her. It doesn't buy the next part.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.10.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "Keep doing what you promised, even when nobody thanks you for it.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "That sounds less satisfying than one big helpful gesture.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Probably.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "Okay. Quietly reliable. I can be that. It'll be weird without a little success sound, but I'll cope.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.10.choice3",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "We remove the last unnecessary personal fields from the pilot. Akira checks the consent text out loud before saving it.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "Will you tell me if I start dressing up a bad idea with enough enthusiasm to make it sound good?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I can try.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "Don't let me finish the whole presentation first. You'll be trapped here for hours.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {
+        "warm": [
+          {
+            "speaker": "Akira",
+            "text": "I can say the embarrassing version to you. You don't seem to need the impressive one every time.",
+            "kind": "dialogue"
+          }
+        ],
+        "mixed": [
+          {
+            "speaker": "Akira",
+            "text": "I'm still working out which of my clever ideas are actually excuses.",
+            "kind": "dialogue"
+          }
+        ],
+        "cool": [
+          {
+            "speaker": "Akira",
+            "text": "I want to be clear about this before we keep working. Private means private.",
+            "kind": "dialogue"
+          }
+        ]
+      },
+      "id": "akira.10",
+      "previousScene": "akira.09",
+      "background": "bg_library_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 11,
+      "title": "The Song in the Headphones",
+      "location": "class_a",
+      "hours": 3,
+      "expression": "delighted",
+      "props": [
+        "headphones",
+        "phone",
+        "laptop"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "While the prototype loads, a bright old pop song leaks from Akira's headphones. She hums the keyboard line before noticing.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "You know the whole thing?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "My mum plays it while she cooks. At this point it's part of the kitchen equipment.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "You make the keyboard part sound easy.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "I learned it by getting it wrong a lot. Music is very efficient at telling you when you're wrong.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She taps the rhythm on the desk, then stops because another class is working nearby.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "I'll send you the song, if you want. No required essay afterwards.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "good",
+          "text": "Send the one you like, not the one you think I'll like.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "Dangerous. You might learn that I have embarrassing taste.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I'm prepared for that risk.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "Fine. The ridiculous opening stays. Don't blame me when you're humming it in maths. I warned you with my entire personality.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.11.choice1",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "Pick something more romantic. Then I might listen properly.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "You could listen because I wanted to share it.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I was trying to make that sound like a hint.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "It sounded like a condition.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.11.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "Sure. I don't know much music from that time.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "Then I'll start with one song instead of twelve.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "A bold exercise in restraint.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "Don't praise it until I actually press send.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.11.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "We finish the loading test. My phone receives one song and, after a visible struggle across the desk, no long explanation.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "I want it on record that I had context ready.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I believe you.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "Later, the chorus follows me all the way to the gate.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {},
+      "id": "akira.11",
+      "previousScene": "akira.10",
+      "background": "bg_class_a_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 12,
+      "title": "The Small Version",
+      "location": "class_a",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "feature_sheet",
+        "maintenance_guide",
+        "laptop"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "Teacher feedback is simple: keep the reliable pilot and drop the features we cannot maintain. Akira's original three-idea sheet sits beside the laptop.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "I wanted it to feel like the start of something big.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "It could still be a start.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "I know. I just liked the version where I got to show everybody I could do all of it.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She doesn't throw the sheet away. She folds it and puts it behind the current plan.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Akira",
+          "text": "My dad says opening a second shop won't fix the first one's broken fridge.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Your dad gets a lot of good lines.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "Years of practice. Captive audience.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "neutral",
+          "text": "We can keep the extra ideas in the report as future work.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "Clearly marked as ideas. No accidental promises.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "You've learned to fear that word.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "A healthy professional fear.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.12.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "Let's finish the version people can use without needing you beside it.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "A thing that works even when I'm not proving myself at it.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "That sounds like a good result.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "Yeah. It does, actually. Let's make the instructions good.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.12.choice2",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "Keep the big features in the slides. We don't have to demonstrate them.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "Then we'd be presenting something we don't have.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Everybody makes a project sound better.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "I'd rather make this one actually better.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.12.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "We write a short maintenance guide and test it on someone who has never seen the prototype. Their first question reveals a button label neither of us understood.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "One word. We argued over the architecture and got beaten by one word.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Should we put that in the report?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "Absolutely. It's the funniest useful thing we've learned.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "A few minutes after she leaves, I send a message: 'I'd like to spend time together when this is finished.' I stare at it for a while, then make myself put the phone away instead of adding three increasingly confusing explanations.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {},
+      "id": "akira.12",
+      "previousScene": "akira.11",
+      "background": "bg_class_a_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 13,
+      "title": "What Did You Mean?",
+      "location": "canteen",
+      "hours": 3,
+      "expression": "flustered",
+      "props": [
+        "phone_message",
+        "lunch_trays"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "During a lunch break from the final project checks, Akira asks about an earlier message from the MC.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "You wrote, 'I'd like to spend time together when this is finished.'",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I did.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "I nearly invited the whole project group. Then a friend said I should ask what you meant first.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She looks directly at me. No joke arrives to rescue either of us.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Akira",
+          "text": "I miss things when people expect me to understand a hint. I don't want to make you uncomfortable by guessing.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She adjusts the little charm on her glasses, then deliberately puts both hands on the table. No escape into another explanation.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "I'm glad you asked.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "bad",
+          "text": "I thought it was obvious. Everyone else figured it out.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "I didn't ask everyone else. I'm asking you.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "It just feels awkward explaining it.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "It's awkward being told I should already know.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.13.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "I meant just us. I'm interested in you, and I'd like to see whether you feel the same.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "Okay. Thank you for saying it plainly.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "You don't have to answer while we're surrounded by lunch trays.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "Good. I'd like to think without somebody asking me to pass the soy sauce.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.13.choice2",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "I was hoping for time with just you, but we can take it slowly.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "I can do slowly. I just need to know which conversation we're having.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "This one. No secret test.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "Oh. Good. I was about to develop a flowchart for the hint. This is much nicer.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.13.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "We agree to finish the school handover first and speak privately afterwards. She doesn't promise a romantic answer.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "I do know that I want to be honest with you.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "I can work with an honest answer. Waiting is harder, but it isn't unfair.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {},
+      "id": "akira.13",
+      "previousScene": "akira.12",
+      "background": "bg_canteen_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 14,
+      "title": "Handover",
+      "location": "class_a",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "laptop",
+        "backup_envelope",
+        "presentation"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "The approved project is ready for its final class demonstration. Akira has written both names on the first slide.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "You remembered the paper backup.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "It has its own envelope. I have developed an emotional attachment.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "A tester asks a question Akira cannot answer immediately. She looks at the MC instead of filling the gap with a promise.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "We haven't tested that. Did we put it in the follow-up notes?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "We did. It's still open.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She nods and writes down the question. Nothing collapses because she doesn't know everything.",
+          "kind": "narration"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "good",
+          "text": "Let's explain the limits as clearly as the useful parts.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "'Here's what it does. Here's what it doesn't.' That should fit on one slide.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Your most ambitious small slide yet.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "Don't tempt me. I'll add a graph.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.14.choice1",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "I'll handle the questions while you show the demo.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "Deal. Stop me if I'm going too fast.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I'll use the agreed hand signal.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "The normal one. Please. Not the dramatic throat-cutting thing from rehearsal; I thought the projector was dying.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.14.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "Promise the extra feature. We can work it out after they leave.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "No. I know how quickly 'later' turns into a pile of people waiting for me.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "It might win them over.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "Then I'd be winning them over with something I haven't done.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.14.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "The handover ends with a working pilot, a short guide and a few useful questions. The class applauds briefly, then asks about homework.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "That's almost comforting. Our big moment and then algebra.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Ordinary life continues.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "Meet me in the canteen next time? Without bringing the laptop.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {
+        "warm": [
+          {
+            "speaker": "Akira",
+            "text": "When I picture the demo going well, you're in the picture. That's been true for a while.",
+            "kind": "dialogue"
+          }
+        ],
+        "mixed": [
+          {
+            "speaker": "Akira",
+            "text": "I've thought about what you said. I'd like to finish that conversation properly.",
+            "kind": "dialogue"
+          }
+        ],
+        "cool": [
+          {
+            "speaker": "Akira",
+            "text": "I want us to talk clearly about where we stand once the work is finished.",
+            "kind": "dialogue"
+          }
+        ]
+      },
+      "id": "akira.14",
+      "previousScene": "akira.13",
+      "background": "bg_class_a_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 15,
+      "title": "No More Hints",
+      "location": "canteen",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "two_coffee_cans"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "Finale encounter; show the route-ending warning first. The canteen is quiet after the supervised activity block. Akira has brought two canned coffees and no laptop.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "I chose these without a survey. Personal growth.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Brave.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "Before I make six jokes and accidentally avoid the point: I did think about us.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She turns the can between her hands. Her glasses charm taps softly against the frame.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "MC",
+          "text": "I still want to ask you out. Clearly, this time.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "Then ask. I promise not to invite the whole class by accident.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "neutral",
+          "text": "Would you like to spend Saturday together and see how it feels?",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "That's clear enough. I appreciate the lack of a five-year plan.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I barely have a Saturday plan.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "Good place to start.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.15.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "route_ending"
+        },
+        {
+          "kind": "bad",
+          "text": "I've waited while you figured it out. I need a yes now.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "You can ask for an answer. You can't choose which one I owe you.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I didn't want to stay in the dark.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "Then let me tell you the truth without trying to hurry it into something else.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.15.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "route_ending"
+        },
+        {
+          "kind": "good",
+          "text": "I'd like a date, just the two of us. Tell me what you actually want.",
+          "response": [
+            {
+              "speaker": "Akira",
+              "text": "Even if it isn't the answer you're hoping for?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I'd rather hear you than keep guessing.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Akira",
+              "text": "Okay. Here goes.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "akira.15.choice3",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "route_ending"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "Apply the final score once. Compare effective good and bad totals and play exactly one epilogue. Her answer is supplied by the ending, never by a shared acceptance line.",
+          "kind": "direction"
+        }
+      ],
+      "temperature": {
+        "warm": [
+          {
+            "speaker": "Akira",
+            "text": "I've been looking forward to seeing you with nothing left to troubleshoot.",
+            "kind": "dialogue"
+          }
+        ],
+        "mixed": [
+          {
+            "speaker": "Akira",
+            "text": "We got good at working together. This part needs its own answer.",
+            "kind": "dialogue"
+          }
+        ],
+        "cool": [
+          {
+            "speaker": "Akira",
+            "text": "I'm glad we finished the project. I need to be honest about the rest.",
+            "kind": "dialogue"
+          }
+        ]
+      },
+      "id": "akira.15",
+      "previousScene": "akira.14",
+      "background": "bg_canteen_day",
+      "requiresClubDay": false,
+      "requiredBlock": "late",
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": true
+    }
+  ],
+  "endings": [
+    {
+      "kind": "good",
+      "title": "Player Two",
+      "location": "class_a",
+      "cgBrief": "A clean warm Class A project desk after school; pink-bobbed Akira with brown eyes behind glasses grins as she and the charcoal-silhouette MC place their hands together on a shared notebook. Simple completed demo on the nearby laptop, no readable text.",
+      "lines": [
+        {
+          "speaker": "Akira",
+          "text": "I want that. A date. Just us. I tried practicing that without the giant smile, but the giant smile appears to be included.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Keep the smile. I like it.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "I like you, Ren. That's what I keep coming back to. No clever explanation. You, specifically. It's inconveniently hard to improve on.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "I had a good reply ready. It leaves my head before I can use it.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "MC",
+          "text": "I like you too.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "Daebak. Okay. Excellent. Two people. Same answer. Why was that harder than the whole demo?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "Later, they return the project notebook to Class A. She leaves her hand on the cover beside his, then turns her palm upward. He takes it.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "Saturday. There's a café I'd like to show you. After that, maybe a walk. I will try not to turn it into a guided lecture.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "One topic allowed.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "You're negotiating with the wrong girl. One topic has subtopics, Ren. You should have read the small print.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She's laughing now, but she isn't rushing past what happened. Neither am I. Saturday is a date, and today is the first time holding her hand feels simple enough to enjoy.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Stage",
+          "text": "Unlock Akira / Good. Credits, then title.",
+          "kind": "direction"
+        }
+      ],
+      "id": "akira.ending.good",
+      "cg": "cg_akira_good",
+      "next": "credits_then_title"
+    },
+    {
+      "kind": "neutral",
+      "title": "A Good Teammate",
+      "location": "canteen",
+      "cgBrief": "Akira and the MC silhouette sit across a canteen table with the closed project notebook between them, warm ordinary daylight, friendly expressions and comfortable but distinct personal space.",
+      "lines": [
+        {
+          "speaker": "Akira",
+          "text": "I like being with you. I don't feel the part I think you're asking for. I kept checking because I didn't want to give you the wrong answer.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Thanks for not giving me the easy one.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "I'm not sure there was an easy one.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She slides the second coffee toward him and leaves her hand on her own side of the table.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Akira",
+          "text": "If being friends is difficult right now, you can say so. I won't turn it into an emergency project.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "A little difficult. I'd like to try, with some room to be awkward.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "Awkward I can handle. Unclear instructions are the real enemy.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "A week later, we have lunch with the project group. She asks before showing anyone a photo, then catches me noticing.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Akira",
+          "text": "What? Some features do make it into the final version.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I'm glad that one did.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "I don't secretly count the afternoon as progress toward changing her mind. We finished something useful together. I can let that be true without asking it to become something else.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Stage",
+          "text": "Unlock Akira / Neutral. Credits, then title.",
+          "kind": "direction"
+        }
+      ],
+      "id": "akira.ending.neutral",
+      "cg": "cg_akira_neutral",
+      "next": "credits_then_title"
+    },
+    {
+      "kind": "bad",
+      "title": "Disconnect",
+      "location": "class_a",
+      "cgBrief": "Akira alone at an ordinary Class A desk, short pink bob and glasses clear, closing a disconnected laptop; empty project chair beside her, expression thoughtful and resolved rather than shattered.",
+      "lines": [
+        {
+          "speaker": "Akira",
+          "text": "I don't want to date you. I'm going to say that plainly, because I've spent too long hoping a softer version would make this easier.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I thought we were getting closer.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "Sometimes we were. Other times, I felt like being useful was the part of me you were waiting for. I don't want to build a relationship around that feeling.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "Her voice isn't loud. That makes it harder to pretend I misunderstood.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "MC",
+          "text": "All right. I'll give you space.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "Thank you. We can keep the handover polite. We don't have to pretend nothing happened.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "The following day, she closes the project laptop after returning the shared files. The spare chair stays pushed in.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Narration",
+          "text": "The project will keep working without either of us beside it. I'm glad we managed that, even if I wish I'd handled the rest differently.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Akira",
+          "text": "Your copy is in the class folder. The instructions are on the first page.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Got it. Good luck with the next idea.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Akira",
+          "text": "Thanks. I'm going to take a break before I start one.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "Unlock Akira / Bad. Credits, then title.",
+          "kind": "direction"
+        }
+      ],
+      "id": "akira.ending.bad",
+      "cg": "cg_akira_bad",
+      "next": "credits_then_title"
+    }
+  ],
+  "finaleRepair": {
+    "when": "ending == good AND finalChoice == bad",
+    "lines": [
+      {
+        "speaker": "MC",
+        "text": "I shouldn't have pushed for a yes. I wanted an answer and got scared of the one I might hear.",
+        "kind": "dialogue"
+      },
+      {
+        "speaker": "Akira",
+        "text": "Okay. I can hear the apology. Please don't make being clear mean agreeing with you. Let me choose my answer.",
+        "kind": "dialogue"
+      }
+    ]
+  },
+  "voicePass": "Performed second pass: individual rhythm, meaningful pauses, physical tells and restrained contextual code-switching. English remains readable; no phonetic nationality caricatures."
+}

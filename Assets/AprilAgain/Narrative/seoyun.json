@@ -1,0 +1,2771 @@
+{
+  "schemaVersion": 1,
+  "id": "seoyun",
+  "name": "Han Seo-yun",
+  "voice": "Polite, observant, quietly funny and capable of firm disagreement. Concrete details before abstract feelings. Curiosity and creative work matter alongside family. Her origin is not an invitation for a rescue story.",
+  "scenes": [
+    {
+      "number": 1,
+      "title": "A Place on the Page",
+      "location": "library",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "atlases",
+        "library_record"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "The librarian asks the MC and Seo-yun to check a shelf of donated atlases during an activity block.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "This one still has a country that isn't there anymore.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "Quite a few of them do. That's why we have to check the publication date.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "So it isn't a mistake?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "It depends whether you are using it to travel or to understand what somebody believed in 1987.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She turns the heavy book carefully, supporting the spine with both hands.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "MC",
+          "text": "I'm Takahashi. I saw you drawing during orientation.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "Han Seo-yun. Ah... so I wasn't as invisible as I thought. I should apologize to the cloud. It was our private meeting.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "Her consonants are careful and her voice soft, but the last sentence is dry enough to make it clear she is teasing.",
+          "kind": "direction"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "bad",
+          "text": "You looked lonely, so I thought you probably wanted someone to come over.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "I was drawing a cloud.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I thought you seemed sad.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "Sometimes I am just concentrating.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.01.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "What were you trying to catch in the drawing?",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "The shadow underneath the cloud. It kept changing before I finished.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Did you get it?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "A cloud. Perhaps not that cloud.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.01.choice2",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "I'll check the dates if you sort them into groups.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "That would help. Start with the stack beside you.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Including the very old one?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "Especially the very old one. It has earned its own category.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.01.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "We finish the shelf record. One atlas goes into a history-reference pile instead of the current maps.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "It still has a use. We just have to say what it is.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She writes the date on a neat paper slip and makes room for it beside the newer books.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {},
+      "id": "seoyun.01",
+      "previousScene": null,
+      "background": "bg_library_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 2,
+      "title": "Please Leave the Page There",
+      "location": "library",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "blue_journal",
+        "folded_sketch",
+        "reference_cards"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "We work on a library-window display about places students would like to learn about. A folded sketch slips out of Seo-yun's journal.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "You dropped something.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "Ah. Thank you.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "There are mountains on the visible side. Some writing shows through the paper, but it is not addressed to me.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "MC",
+          "text": "Should I put it inside the book?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "The blue journal, please. Not the atlas. Someone might borrow that.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She reaches over a pile of reference cards, unable to get to it herself.",
+          "kind": "direction"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "neutral",
+          "text": "I'll leave it face down beside your journal.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "That's fine. I can put it away in a moment.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "No rush.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "Thank you for not balancing another book on top of it.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.02.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "Here. I haven't opened it.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "Gomawoyo. Thank you. You didn't need to explain, but... I appreciate knowing.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I guessed it wasn't part of the display.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "Correct. Some pages are only mine.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.02.choice2",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "I only read the first bit. It sounded interesting.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "I would rather you asked before reading any of it.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "It was right there.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "Yes. I dropped it. I didn't offer it.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.02.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "The journal goes into her bag. We keep researching public material for the display.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "You can ask about the drawing. I may say no, but you can ask.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Fair enough.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "I return to the reference cards. There's plenty here that she has actually chosen to share.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {},
+      "id": "seoyun.02",
+      "previousScene": "seoyun.01",
+      "background": "bg_library_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 3,
+      "title": "Three Seconds of Sky",
+      "location": "corridor",
+      "hours": 3,
+      "expression": "curious",
+      "props": [
+        "camera",
+        "sky_photo"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "We have permission to photograph the corridor view for the library display. Seo-yun holds a small camera with a worn strap.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "Wait. The cloud is almost past the roof.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I can wait.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She takes one picture, checks it, then moves half a step sideways.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "Does that little move make a difference?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "The drainpipe was growing out of the tree. I don't think the tree deserved it.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She shows me the second picture. The sky looks like the sky outside, but also like something she deliberately noticed.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "We can include someone in the foreground, if they agree.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "good",
+          "text": "I'll stand there. Tell me where to look, and let me see it before we use it.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "Of course. You can reject it.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Even if the drainpipe looks good?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "A difficult sacrifice. But yes, the photographer will survive your artistic disagreement.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.03.choice1",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "Take pictures of people when they don't notice. That's more natural.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "A natural expression isn't worth making somebody uncomfortable.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "They might never know.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "I would know. That matters to me.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.03.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "I'd rather stay out of the picture. I'll hold the spare battery.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "That helps too. Thank you for saying so.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "My modeling career ends before it begins.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "Very efficient of you.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.03.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "We choose an unoccupied view for the public display and keep any approved test portrait private. Seo-yun labels the files before leaving.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "How long did the best shot take?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "Three seconds. And most of an afternoon of waiting for them.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {},
+      "id": "seoyun.03",
+      "previousScene": "seoyun.02",
+      "background": "bg_corridor_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 4,
+      "title": "An Unfamiliar Word",
+      "location": "class_c",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "caption_drafts",
+        "dictionary"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "Our classes share a reading activity. Seo-yun is adding a short English caption to one of her display photographs.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "'Faraway'... one word, in English? I know what I want it to mean. The spelling is being less cooperative.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I think so. I should probably check before I sound convincing.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "That would be a useful habit for both of us.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She has written three versions of a sentence and crossed out none of them.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "Which one do you like?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "The shortest. It doesn't sound impressive, but it says what I saw.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "neutral",
+          "text": "Let's ask the English teacher to check it.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "Yes. I want the meaning checked, not the whole thing rewritten.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I'll say that when we ask.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "Thank you.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.04.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "Use the longest one. Complicated English always looks better on a display.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "Even if I wouldn't normally say it?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Nobody has to know.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "I would like to recognize my own sentence.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.04.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "Keep the short one. We can check the grammar without changing your voice.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "'The same sky, somewhere else.'",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "That makes sense to me.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "Good. It made sense in my head. Those aren't always the same result.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.04.choice3",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "The teacher confirms the wording. Seo-yun copies it in her own handwriting and puts the other versions in her journal.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "Keeping the rejected lines?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "They were useful on the way here. I don't have to throw them away because they aren't the final one.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {},
+      "id": "seoyun.04",
+      "previousScene": "seoyun.03",
+      "background": "bg_class_c_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 5,
+      "title": "The Quiet Table",
+      "location": "library",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "atlas",
+        "paperweight",
+        "bookmark"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "A long reading session leaves both of us quiet. A gust from the open window turns three pages of the atlas at once.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "Even the book wants to skip ahead.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "It has been on this continent for nearly an hour.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She finds the old page and rests a paperweight on the corner.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Narration",
+          "text": "I have run out of harmless things to say. She seems perfectly capable of remaining here without them.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "MC",
+          "text": "Am I being boring?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "You are reading. It's allowed in a library.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "good",
+          "text": "Then I'll stop worrying about filling every gap.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "You can talk if you want to. You don't have to perform being good company.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I may need practice at that.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "We have a very patient audience. Mostly books.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.05.choice1",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "I'll take a short walk and come back to the notes.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "All right. Would you close the far window on your way past?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "For our impatient reader?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "Exactly.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.05.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "You could help by talking a little more.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "I didn't realize there was a target.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I just can't tell what you're thinking.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "You can ask. That doesn't mean I will always have something ready to say.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.05.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "By the end of the block, the display notes are finished. We leave a bookmark at the page we will need next.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Narration",
+          "text": "The silence lasts another moment as we pack up. This time, I notice the sound of her pencil case closing instead of treating it as a problem.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {
+        "warm": [
+          {
+            "speaker": "Seo-yun",
+            "text": "It is easier to concentrate when I know the person beside me doesn't mind the quiet.",
+            "kind": "dialogue"
+          }
+        ],
+        "mixed": [
+          {
+            "speaker": "Seo-yun",
+            "text": "We don't have to make every afternoon feel the same.",
+            "kind": "dialogue"
+          }
+        ],
+        "cool": [
+          {
+            "speaker": "Seo-yun",
+            "text": "I would like to finish the reading before we discuss anything personal.",
+            "kind": "dialogue"
+          }
+        ]
+      },
+      "id": "seoyun.05",
+      "previousScene": "seoyun.04",
+      "background": "bg_library_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 6,
+      "title": "Sweet Enough",
+      "location": "canteen",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "noodle_bowl",
+        "fruit_cup",
+        "menu"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "A display-planning lunch gives Seo-yun an unexpected problem: the meal she ordered is much spicier than the description suggested.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "A... I have made a mistake. Quite a warm one.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "With the noodles?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "I thought the little pepper symbol was decoration. An optimistic interpretation.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She reaches for water. The MC has plain rice and a small fruit cup.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "Want to ask for something milder?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "Yes. Before I try to prove a point that nobody has asked me to prove.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "bad",
+          "text": "Aren't you supposed to be used to spicy food?",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "I don't think my birthplace ordered lunch for me. I would have asked it to choose something milder.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I didn't mean anything by it.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "I know. Please ask what I like next time.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.06.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "I'll watch your things while you ask. You can have the fruit afterwards if you want.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "Thank you. Is that an offer or an attempt to keep me alive?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Mostly an offer.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "Reassuringly specific.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.06.choice2",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "I can ask the staff whether there's a plain version.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "We can ask together. I should learn how the menu works.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "No decorative peppers this time.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "A strict new policy.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.06.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "The staff helps her choose a milder option. We finish the work with the menu safely out of reach.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "Sweet things are easier. Usually they warn you by looking sweet.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "You haven't met every school vending machine yet.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "Then my education continues.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {},
+      "id": "seoyun.06",
+      "previousScene": "seoyun.05",
+      "background": "bg_canteen_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 7,
+      "title": "Who Gets the Credit?",
+      "location": "class_c",
+      "hours": 3,
+      "expression": "determined",
+      "props": [
+        "photo_prints",
+        "credit_labels"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "The display photos are printed for a trial layout. A classmate has enlarged Seo-yun's sky picture and left the author line blank.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Classmate",
+          "text": "We can just put the class name. It's a group project.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "The classmate goes to collect another sheet. Seo-yun smooths the photograph with the side of her hand.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "Do you want your name on it?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "Yes. I think I do.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Then we can say so.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "I am practicing saying that before I apologize for it.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "neutral",
+          "text": "Let's check how the other photos are credited.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "A consistent rule would be fair.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Photographer under each image, class on the overall display?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "That would include both.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.07.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "Tell them you want the photo credited. I'll support you without speaking over you.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "All right. Stay here a moment?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Of course.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "I know it is a small thing. It still takes a little courage.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.07.choice2",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "Don't make it awkward. Everyone knows you took it.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "Then writing my name should not be a problem.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I just don't want an argument.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "Neither do I. I still want to be credited.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.07.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "The class agrees on a simple credit line for every contribution. Seo-yun writes her name beneath the sky photograph.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "How does it look?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "Like mine. And like part of the class. I was worried I had to choose.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {},
+      "id": "seoyun.07",
+      "previousScene": "seoyun.06",
+      "background": "bg_class_c_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 8,
+      "title": "Questions With an Audience",
+      "location": "lobby",
+      "hours": 3,
+      "expression": "determined",
+      "props": [
+        "feedback_sheets",
+        "display_board"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "Students stop by the trial display. One asks Seo-yun where she is from, then follows the answer with several loud questions about her family.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "I don't want to discuss my family here.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Classmate",
+          "text": "I was only curious.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "A teacher redirects the group to the display captions. Afterwards, Seo-yun gathers the feedback sheets with careful, stiff movements.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "Do you want me to tell them to stop asking?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "I already asked. I would like that to have counted.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "The remaining sheets can wait for a moment.",
+          "kind": "narration"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "good",
+          "text": "It counted. If they ask me, I'll say you keep your family life private.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "Thank you. You don't need to explain my reasons for me.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I won't.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "Then we can get back to this. The display has become surprisingly crooked.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.08.choice1",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "They didn't mean any harm. You could have answered a few things.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "I answered the question I wanted to answer.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I only meant they were interested.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "Being interested doesn't decide what someone else has to share.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.08.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "Want to take the feedback sheets somewhere quieter?",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "Yes. The library table would be better.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I'll carry these.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "Leave the pens. Otherwise we'll be borrowing them for the rest of the term.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.08.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "We finish the feedback count in a quiet place. Seo-yun asks the supervising teacher to handle further personal questions at the display.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She has a plan before I can offer one. I follow her lead.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {},
+      "id": "seoyun.08",
+      "previousScene": "seoyun.07",
+      "background": "bg_lobby_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 9,
+      "title": "The Unsent Page",
+      "location": "library",
+      "hours": 3,
+      "expression": "sad",
+      "props": [
+        "sealed_letter",
+        "blue_journal"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "During the research block, Seo-yun puts a sealed letter inside her journal. She chooses to explain that she was born in Pyongyang and moved to Japan with her parents before high school.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "I am writing to a relative. I keep starting again because I want to describe ordinary things without making them sound unimportant.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "I was born in Pyongyang. My parents and I moved here before high school, but some of our family stayed. I don't want a letter about my new life to sound as if I've stopped thinking about them.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "School lunches count as ordinary things.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "So do difficult classes. And a tree outside a window. It is strange how much there is once I begin.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She keeps the envelope closed. I don't ask who will read it or how it will get there.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "I worry that wanting a larger life will sound like I don't value the people in this one.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "bad",
+          "text": "You should forget about going back and focus on the life you have here.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "I didn't ask you to choose which part of my family I should care about.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I thought it would be easier.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "Easier for whom?",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.09.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "You don't have to fit every feeling into this letter.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "That's true. I keep treating it as my one chance to explain everything.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "It can just be a letter about this week.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "With a very careful paragraph about noodles.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.09.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "You can miss people and still want new things. The letter can hold both.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "Both. Without one cancelling the other.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "That's how it sounds when you talk about them.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "Geureom... then perhaps I can write it that way too. Both things, on the same page.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.09.choice3",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "She writes a fresh page while the MC checks public reference captions. The letter never appears on screen as readable text.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "I put the tree in.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Good.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "And the noodles. Future historians will have a complete picture.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {},
+      "id": "seoyun.09",
+      "previousScene": "seoyun.08",
+      "background": "bg_library_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 10,
+      "title": "Too Far From Here",
+      "location": "class_c",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "study_options",
+        "adviser_questions"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "The class is researching future study options. Seo-yun has printed an overseas university page and placed it beneath her school worksheet.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "Are you thinking of applying someday?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "Someday is doing a lot of work in that sentence.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "That's allowed. We just started high school.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "The requirements are clear. The cost is less encouraging. My English still needs work. My parents worry about distance.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She says each problem carefully, as if putting them in order might make them smaller.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "I haven't even decided what I want to study. I just know I want the chance to decide.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She touches the edge of the paper, draws in a breath and says the next words more firmly than the first.",
+          "kind": "direction"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "good",
+          "text": "Which part can you learn about now? We don't have to solve the whole future today.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "Language support. And whether there are scholarships later.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Those sound like real questions.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "Much less dramatic than despair. I should try them first.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.10.choice1",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "The school adviser might know where to start.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "I could ask for an appointment. Privately.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "You don't have to bring a finished plan.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "I may need to hear that again before I go.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.10.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "If we get close, you might not want to leave anyway.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "I don't want to make my future smaller to prove that I care about someone.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I meant that things can change.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "They can. I want the change to include what I want too.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.10.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "She writes two questions for the adviser. The university printout stays in the folder rather than going in the bin.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Narration",
+          "text": "I don't know whether she'll ever study there. She doesn't either. At least the page can be a possibility instead of a verdict.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {
+        "warm": [
+          {
+            "speaker": "Seo-yun",
+            "text": "I wanted to show you before I became very sensible and put it away again. I am sometimes much too sensible.",
+            "kind": "dialogue"
+          }
+        ],
+        "mixed": [
+          {
+            "speaker": "Seo-yun",
+            "text": "You don't need to tell me it's certain. I know it isn't.",
+            "kind": "dialogue"
+          }
+        ],
+        "cool": [
+          {
+            "speaker": "Seo-yun",
+            "text": "I can discuss the practical questions. I need the decision to remain mine.",
+            "kind": "dialogue"
+          }
+        ]
+      },
+      "id": "seoyun.10",
+      "previousScene": "seoyun.09",
+      "background": "bg_class_c_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 11,
+      "title": "The Blurred Picture",
+      "location": "corridor",
+      "hours": 3,
+      "expression": "sad",
+      "props": [
+        "camera",
+        "blurred_photo",
+        "alternate_photo"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "Seo-yun's camera moved during the one shot she hoped to use for the final display. The leaves are sharp; the important patch of sky isn't.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "I checked everything except whether my hands were shaking.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Can we take another?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "The weather will be different. That was the part I wanted.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She puts the camera down, then turns the screen away from herself.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "Want a break from looking at it?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "Maybe. I have been trying to dislike it into becoming a better photograph.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "neutral",
+          "text": "Let's check the other shots before we choose anything.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "There might be one I overlooked.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "No promises about hidden masterpieces.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "Sensible. My expectations need supervision.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.11.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "It looks fine. You're worrying about something nobody else will notice.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "I noticed. I wanted it to look a particular way.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I was trying to reassure you.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "You don't have to agree with my standards. Please don't tell me they aren't there.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.11.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "It's a disappointing shot. We can decide what to do after you've had a minute.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "Thank you for not trying to make it secretly perfect.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "It can just be annoying for a while.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "I would enjoy that permission.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.11.choice3",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "After a break, she chooses an earlier image with a less dramatic sky and a composition she genuinely likes. The blurred one stays in her private archive.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "It happened. It doesn't need to be the picture on the wall.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She turns the camera screen back toward herself.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {},
+      "id": "seoyun.11",
+      "previousScene": "seoyun.10",
+      "background": "bg_corridor_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 12,
+      "title": "A Story She Chose",
+      "location": "library",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "window_essay",
+        "photo_print"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "The display needs a short introduction. Seo-yun has written about the view from the school window rather than her personal history.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "Some people might expect a story about moving here.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "I know. I wanted to write about this window.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "What drew you to it?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "I can see the same hill from home. At school, the roof hides half of it. It took me a week to realize I knew it.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "Her introduction is simple enough that I can picture the moment without seeing a photograph.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "Is it too ordinary?",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "good",
+          "text": "No. I can tell why this view matters because you actually want to describe it.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "I was hoping that would be enough.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "We can tighten the last paragraph. The window stays.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "Good. It has been very cooperative.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.12.choice1",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "Your background would get more attention. We should lead with that.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "I am not choosing a story by how much attention it can get.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "The display is supposed to interest people.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "Then let this be interesting on its own terms.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.12.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "Let's show it to the librarian and ask whether the length works.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "All right. I'd like feedback on the writing, not a different subject.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I'll keep that clear.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "Thank you.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.12.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "We edit two repeated sentences and leave the subject alone. Her name remains under the introduction and the photograph.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Narration",
+          "text": "The final paragraph doesn't tell strangers everything about her. It gives them something she wanted them to see.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {},
+      "id": "seoyun.12",
+      "previousScene": "seoyun.11",
+      "background": "bg_library_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 13,
+      "title": "The Other Side of the Glass",
+      "location": "library",
+      "hours": 3,
+      "expression": "warm",
+      "props": [
+        "window_chairs",
+        "drying_display"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "The display is nearly ready. While the glue dries, Seo-yun moves two chairs to the window.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "You don't have to sit perfectly still. This isn't another portrait test.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Good. I was about to develop a very formal posture.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She laughs, then watches a plane pass over the hill.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "When I was younger, I used to make up destinations for them.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Do you still?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "Sometimes. More often now I wonder what somebody on it is seeing.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She leaves the thought there. It doesn't sound like a request for an answer.",
+          "kind": "narration"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "bad",
+          "text": "I'd go anywhere with you. You wouldn't need to worry about anything.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "That is a very large promise.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Isn't it a nice one?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "I would rather know what you can honestly offer. One walk, perhaps. We could begin with one walk.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.13.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "Where do you imagine this one is going?",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "Somewhere with a very ordinary airport and disappointing sandwiches.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "A convincing destination.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "I am improving at realistic travel planning.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.13.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "I'd like to see what you draw next. Wherever your plans end up going.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "Even if the plans change?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Especially then. I don't know the ending in advance.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "Neither do I. I think... yes. I think that is beginning to feel less frightening.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.13.choice3",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "The glue dries. We return the chairs before the library gets busy.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "Thank you for sitting with me.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "We got a lot of important airport planning done.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "And no one had to promise an entire life in one afternoon.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {},
+      "id": "seoyun.13",
+      "previousScene": "seoyun.12",
+      "background": "bg_library_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 14,
+      "title": "Under Her Name",
+      "location": "lobby",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "finished_display",
+        "handouts"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "The finished library display is installed in the lobby for an open-campus afternoon. Seo-yun has chosen which pages to show and kept her journal in her bag.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "Your caption is getting more attention than the map.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "The map has had a long career. It can share.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "A visitor praises the photograph and asks whether the MC took it. Seo-yun waits a beat before correcting them herself.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "It's mine. He helped prepare the display.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "The visitor apologizes, then asks her about the composition. She answers without looking at me for permission.",
+          "kind": "narration"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "good",
+          "text": "I'll take care of the handouts. You can talk about your work.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "Are you sure?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I know which way up the map goes now. I'm ready.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "A very strong qualification.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.14.choice1",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "We can answer the next questions together.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "Yes. You know the preparation better than I do.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "You get the photography questions.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "A fair division.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.14.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "You could have let it go. They were only trying to be nice.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "I was nice when I corrected them.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I didn't want it to be uncomfortable.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "I want us both to be comfortable with my name being on my work.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.14.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "The open-campus block ends. We return the display to the library window where it will remain for the term.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "Could we talk here next time, after the work is done? There is something I would rather say without visitors.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "I agree to come. I don't ask her to say it before she's ready.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {
+        "warm": [
+          {
+            "speaker": "Seo-yun",
+            "text": "I wanted you to see it finished. You've seen so many of the unfinished parts.",
+            "kind": "dialogue"
+          }
+        ],
+        "mixed": [
+          {
+            "speaker": "Seo-yun",
+            "text": "I'm glad we kept the display true to the plan. I'd like the rest of our conversation to be clear too.",
+            "kind": "dialogue"
+          }
+        ],
+        "cool": [
+          {
+            "speaker": "Seo-yun",
+            "text": "We should finish the public work first. The personal conversation can wait until we have privacy.",
+            "kind": "dialogue"
+          }
+        ]
+      },
+      "id": "seoyun.14",
+      "previousScene": "seoyun.13",
+      "background": "bg_lobby_day",
+      "requiresClubDay": true,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 15,
+      "title": "An Open Page",
+      "location": "library",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "blue_journal",
+        "two_blank_bookmarks"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "Finale encounter; show the route-ending warning. Seo-yun sits by the library window with her closed journal and two blank bookmarks.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "I kept thinking about what I wanted to say. Then I worried I was preparing for a conversation you might not be having.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I'm probably having it badly in my head too.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "That earns a small smile. She turns one bookmark toward him but keeps the journal closed.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "I like you, Seo-yun. I would like to be more than friends.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "Then we should talk about what that means for both of us.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "neutral",
+          "text": "We don't have to know everything yet. I'd like to understand what you feel now.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "That is something I can answer. Let me... let me say it in the right order.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I'm listening.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "All right.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.15.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "route_ending"
+        },
+        {
+          "kind": "good",
+          "text": "I'd like to date you, without asking you to put your own plans aside.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "And without promising that neither of us will ever change?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I can't promise that. I can promise to be honest about it.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "Then I will be honest too.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.15.choice2",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "route_ending"
+        },
+        {
+          "kind": "bad",
+          "text": "If you feel the same, promise you'll stay here with me.",
+          "response": [
+            {
+              "speaker": "Seo-yun",
+              "text": "I won't make that promise to prove affection.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I don't want to lose you before anything begins.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Seo-yun",
+              "text": "I understand being afraid. I still need room to choose my own life.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "seoyun.15.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "route_ending"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "Record the final choice exactly once and compare effective good and bad totals. Continue only to the matching ending.",
+          "kind": "direction"
+        }
+      ],
+      "temperature": {
+        "warm": [
+          {
+            "speaker": "Seo-yun",
+            "text": "I look forward to the afternoons when I know I'll see you.",
+            "kind": "dialogue"
+          }
+        ],
+        "mixed": [
+          {
+            "speaker": "Seo-yun",
+            "text": "I've been trying to understand the difference between trusting somebody and wanting something more.",
+            "kind": "dialogue"
+          }
+        ],
+        "cool": [
+          {
+            "speaker": "Seo-yun",
+            "text": "I wanted us to talk directly. I don't want politeness to become another misunderstanding.",
+            "kind": "dialogue"
+          }
+        ]
+      },
+      "id": "seoyun.15",
+      "previousScene": "seoyun.14",
+      "background": "bg_library_day",
+      "requiresClubDay": false,
+      "requiredBlock": "late",
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": true
+    }
+  ],
+  "endings": [
+    {
+      "kind": "good",
+      "title": "The Next View",
+      "location": "library",
+      "cgBrief": "Seo-yun with dark low-tied hair and her small left-eye mole by the library window, sharing an open sky-sketch page with a charcoal MC silhouette; equal side-by-side seating, clean daylight and a hopeful unforced smile.",
+      "lines": [
+        {
+          "speaker": "Seo-yun",
+          "text": "I like you too. Joahaeyo... I practiced it in both languages. Neither version feels easier while you're looking at me.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I think it did very well.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She opens the journal to a page she has marked herself. It holds a drawing of the library window and two chairs.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "You can look at this one.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "The second chair isn't a promise that I'll always be there. It is a place she has chosen to draw for me now.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "MC",
+          "text": "Would you like to go for a walk after school? A proper date.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "Yes. And Ren? Somewhere with a view you like. I want to know what you notice too.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I may need to discover an interesting view first.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "We can start with an ordinary one. I have good evidence that those can work.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She slides a blank bookmark toward him. He writes the place and time; she adds a tiny cloud in the corner.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Narration",
+          "text": "Her future is still wide and uncertain. Mine is too. For the first time, I don't feel that uncertainty as a question I have to answer before I'm allowed to be happy.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Stage",
+          "text": "Unlock Seo-yun / Good. Credits, then title.",
+          "kind": "direction"
+        }
+      ],
+      "id": "seoyun.ending.good",
+      "cg": "cg_seoyun_good",
+      "next": "credits_then_title"
+    },
+    {
+      "kind": "neutral",
+      "title": "A Bookmark",
+      "location": "library",
+      "cgBrief": "A handwritten-style bookmark without legible generated writing rests on a returned atlas; Seo-yun offers it across the library table, kind reserved smile, respectful friendship distance.",
+      "lines": [
+        {
+          "speaker": "Seo-yun",
+          "text": "I care about you. I don't think what I feel is the same as what you're asking for.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Thank you for telling me.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "I don't want to lose a friendship by giving you a hopeful answer I can't mean.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "I let the disappointment arrive without asking her to make it smaller.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "MC",
+          "text": "Can I have some time to get used to it?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "Of course.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "Several school days later, the MC returns an atlas. A bookmark waits inside its cover, placed there with the librarian's permission. It has a small cloud and a note asking whether he would like to help check a new shelf.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "This is very careful recruiting.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "I wanted the invitation to be easy to decline.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I can help for a while.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She hands me the list. I take it because I want to be here, not because I think the right number of afternoons will change her answer.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Stage",
+          "text": "The library window is open a little. This time, she puts the paperweight on the atlas before the wind can turn the page.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Stage",
+          "text": "Unlock Seo-yun / Neutral. Credits, then title.",
+          "kind": "direction"
+        }
+      ],
+      "id": "seoyun.ending.neutral",
+      "cg": "cg_seoyun_neutral",
+      "next": "credits_then_title"
+    },
+    {
+      "kind": "bad",
+      "title": "Her Own Direction",
+      "location": "library",
+      "cgBrief": "Seo-yun at the library window closes her dark-blue journal, shoulders calm, gaze turned toward the exit and her own future; cool natural light, no dramatic distress or spectacle.",
+      "lines": [
+        {
+          "speaker": "Seo-yun",
+          "text": "I don't want a romantic relationship with you. I need more distance than we've had.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Did I make you feel trapped?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "Too often, I felt that there was an answer you wanted and that my own answer was something we would have to get past.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "Her hands rest on the closed journal. I know better than to ask to see the page that might explain everything in a way I prefer.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "MC",
+          "text": "I'm sorry. I won't ask you to reconsider.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "Thank you for hearing me now.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She collects the study-options sheet and her camera. The library display stays on the wall, under her name.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Narration",
+          "text": "I had begun imagining a future with her before I learned how to leave space for the one she wanted. She isn't taking that future away from me. It was never mine to reserve.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "MC",
+          "text": "I hope the adviser appointment helps.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Seo-yun",
+          "text": "It already has. I have a few things I can do next.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She leaves with her own plans. The MC returns the atlas to its shelf.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Stage",
+          "text": "Unlock Seo-yun / Bad. Credits, then title.",
+          "kind": "direction"
+        }
+      ],
+      "id": "seoyun.ending.bad",
+      "cg": "cg_seoyun_bad",
+      "next": "credits_then_title"
+    }
+  ],
+  "finaleRepair": {
+    "when": "ending == good AND finalChoice == bad",
+    "lines": [
+      {
+        "speaker": "MC",
+        "text": "I shouldn't have asked you to promise to stay. Your plans are yours. I was afraid, and I made it your problem.",
+        "kind": "dialogue"
+      },
+      {
+        "speaker": "Seo-yun",
+        "text": "Thank you for correcting it. I can care about someone without making myself smaller. Please remember that.",
+        "kind": "dialogue"
+      }
+    ]
+  },
+  "voicePass": "Performed second pass: individual rhythm, meaningful pauses, physical tells and restrained contextual code-switching. English remains readable; no phonetic nationality caricatures."
+}

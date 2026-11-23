@@ -1,0 +1,31 @@
+{
+  "status": "passed",
+  "originalIllustrations": 106,
+  "totalAssetRecords": 395,
+  "encounters": 75,
+  "endings": 15,
+  "observations": 5,
+  "propReferences": 150,
+  "choicesChecked": 225,
+  "maximumChoiceLines": 2,
+  "referenceCanvas": [
+    1920,
+    1080
+  ],
+  "audioAssets": 22,
+  "bodyContrast": 11.47,
+  "checks": [
+    "All image files decoded",
+    "All referenced scene assets resolved",
+    "All five expression sets exported",
+    "Every choice fits the supplied frame",
+    "All UI state variants exist",
+    "Font files and licenses present",
+    "Audio frames decode without clipping",
+    "Ending illustrations have distinct hashes"
+  ],
+  "errors": [],
+  "limits": [
+    "This report validates the art pack. Unity runtime, route, save and build checks are recorded separately in Documentation/Testing."
+  ]
+}

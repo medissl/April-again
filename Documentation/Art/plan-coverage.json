@@ -1,0 +1,2447 @@
+{
+  "total": 202,
+  "covered": 202,
+  "missing": [],
+  "entries": [
+    {
+      "id": "bg_bedroom_day",
+      "type": "background",
+      "status": "covered",
+      "assets": [
+        "bg_bedroom_day"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Backgrounds/bg_bedroom_day.png"
+      ]
+    },
+    {
+      "id": "bg_gate_day",
+      "type": "background",
+      "status": "covered",
+      "assets": [
+        "bg_gate_day"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Backgrounds/bg_gate_day.png"
+      ]
+    },
+    {
+      "id": "bg_lobby_day",
+      "type": "background",
+      "status": "covered",
+      "assets": [
+        "bg_lobby_day"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Backgrounds/bg_lobby_day.png"
+      ]
+    },
+    {
+      "id": "bg_corridor_day",
+      "type": "background",
+      "status": "covered",
+      "assets": [
+        "bg_corridor_day"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Backgrounds/bg_corridor_day.png"
+      ]
+    },
+    {
+      "id": "bg_infirmary_day",
+      "type": "background",
+      "status": "covered",
+      "assets": [
+        "bg_infirmary_day"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Backgrounds/bg_infirmary_day.png"
+      ]
+    },
+    {
+      "id": "bg_class_b_day",
+      "type": "background",
+      "status": "covered",
+      "assets": [
+        "bg_class_b_day"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Backgrounds/bg_class_b_day.png"
+      ]
+    },
+    {
+      "id": "bg_class_c_day",
+      "type": "background",
+      "status": "covered",
+      "assets": [
+        "bg_class_c_day"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Backgrounds/bg_class_c_day.png"
+      ]
+    },
+    {
+      "id": "bg_library_day",
+      "type": "background",
+      "status": "covered",
+      "assets": [
+        "bg_library_day"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Backgrounds/bg_library_day.png"
+      ]
+    },
+    {
+      "id": "bg_class_a_day",
+      "type": "background",
+      "status": "covered",
+      "assets": [
+        "bg_class_a_day"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Backgrounds/bg_class_a_day.png"
+      ]
+    },
+    {
+      "id": "bg_canteen_day",
+      "type": "background",
+      "status": "covered",
+      "assets": [
+        "bg_canteen_day"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Backgrounds/bg_canteen_day.png"
+      ]
+    },
+    {
+      "id": "bg_field_day",
+      "type": "background",
+      "status": "covered",
+      "assets": [
+        "bg_field_day"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Backgrounds/bg_field_day.png"
+      ]
+    },
+    {
+      "id": "bg_bedroom_evening",
+      "type": "background_variant",
+      "status": "covered",
+      "assets": [
+        "bg_bedroom_evening"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Backgrounds/bg_bedroom_evening.png"
+      ]
+    },
+    {
+      "id": "bg_corridor_rain",
+      "type": "background_variant",
+      "status": "covered",
+      "assets": [
+        "bg_corridor_rain"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Backgrounds/bg_corridor_rain.png"
+      ]
+    },
+    {
+      "id": "campus_map",
+      "type": "map",
+      "status": "covered",
+      "assets": [
+        "map_campus"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Map/campus_illustration.png"
+      ]
+    },
+    {
+      "id": "mc_silhouette",
+      "type": "character",
+      "status": "covered",
+      "assets": [
+        "char_mc_silhouettes"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Characters/mc/mc_silhouettes.png"
+      ]
+    },
+    {
+      "id": "char_katya_expressions",
+      "type": "expression_set",
+      "status": "covered",
+      "assets": [
+        "expr_katya_annoyed",
+        "expr_katya_concerned",
+        "expr_katya_determined",
+        "expr_katya_flustered",
+        "expr_katya_neutral",
+        "expr_katya_sad",
+        "expr_katya_soft_smile",
+        "expr_katya_surprised"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Characters/katya/Expressions/annoyed.png",
+        "Assets/AprilAgain/Art/Characters/katya/Expressions/concerned.png",
+        "Assets/AprilAgain/Art/Characters/katya/Expressions/determined.png",
+        "Assets/AprilAgain/Art/Characters/katya/Expressions/flustered.png",
+        "Assets/AprilAgain/Art/Characters/katya/Expressions/neutral.png",
+        "Assets/AprilAgain/Art/Characters/katya/Expressions/sad.png",
+        "Assets/AprilAgain/Art/Characters/katya/Expressions/soft_smile.png",
+        "Assets/AprilAgain/Art/Characters/katya/Expressions/surprised.png"
+      ],
+      "actingAliases": {
+        "annoyed": "expr_katya_annoyed",
+        "concerned": "expr_katya_concerned",
+        "determined": "expr_katya_determined",
+        "flustered": "expr_katya_flustered",
+        "neutral": "expr_katya_neutral",
+        "sad": "expr_katya_sad",
+        "smile": "expr_katya_soft_smile",
+        "soft_smile": "expr_katya_soft_smile",
+        "surprised": "expr_katya_surprised"
+      }
+    },
+    {
+      "id": "char_katya_exploration",
+      "type": "placement_poses",
+      "status": "covered",
+      "assets": [
+        "char_katya_placement",
+        "observation_katya",
+        "room_katya_class_b_school_uniform",
+        "room_katya_canteen_school_uniform",
+        "room_katya_corridor_school_uniform",
+        "room_katya_gate_school_uniform",
+        "room_katya_library_school_uniform",
+        "room_katya_lobby_school_uniform",
+        "room_katya_field_school_tracksuit",
+        "room_katya_field_fencing_kit_with_mask",
+        "room_katya_corridor_rain"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Characters/katya/katya_placement.png",
+        "Assets/AprilAgain/Art/Observations/day_one_katya.png",
+        "Assets/AprilAgain/Art/Rooms/katya/katya_class_b_school_uniform.png",
+        "Assets/AprilAgain/Art/Rooms/katya/katya_canteen_school_uniform.png",
+        "Assets/AprilAgain/Art/Rooms/katya/katya_corridor_school_uniform.png",
+        "Assets/AprilAgain/Art/Rooms/katya/katya_gate_school_uniform.png",
+        "Assets/AprilAgain/Art/Rooms/katya/katya_library_school_uniform.png",
+        "Assets/AprilAgain/Art/Rooms/katya/katya_lobby_school_uniform.png",
+        "Assets/AprilAgain/Art/Rooms/katya/katya_field_school_tracksuit.png",
+        "Assets/AprilAgain/Art/Rooms/katya/katya_field_fencing_kit_with_mask.png",
+        "Assets/AprilAgain/Art/Rooms/katya/katya_corridor_rain.png"
+      ]
+    },
+    {
+      "id": "char_katya_fencing_kit_with_mask",
+      "type": "wardrobe_variant",
+      "status": "covered",
+      "assets": [
+        "wardrobe_katya_fencing_kit_with_mask"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Characters/katya/Wardrobes/fencing_kit_with_mask.png"
+      ]
+    },
+    {
+      "id": "char_katya_school_tracksuit",
+      "type": "wardrobe_variant",
+      "status": "covered",
+      "assets": [
+        "wardrobe_katya_school_tracksuit"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Characters/katya/Wardrobes/school_tracksuit.png"
+      ]
+    },
+    {
+      "id": "prop_katya_backing_card",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_backing_card"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/backing_card.png"
+      ]
+    },
+    {
+      "id": "prop_katya_budget_sheet",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_budget_sheet"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/budget_sheet.png"
+      ]
+    },
+    {
+      "id": "prop_katya_cat",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "cat"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/cat.png"
+      ]
+    },
+    {
+      "id": "prop_katya_class_register",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_class_register"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/class_register.png"
+      ]
+    },
+    {
+      "id": "prop_katya_committee_notes",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_committee_notes"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/committee_notes.png"
+      ]
+    },
+    {
+      "id": "prop_katya_dark_chocolate",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "dark_chocolate"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/dark_chocolate.png"
+      ]
+    },
+    {
+      "id": "prop_katya_delivery_box",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "delivery_box"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/delivery_box.png"
+      ]
+    },
+    {
+      "id": "prop_katya_fencing_bag",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "fencing_bag"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/fencing_bag.png"
+      ]
+    },
+    {
+      "id": "prop_katya_fencing_mask",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "fencing_mask"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/fencing_mask.png"
+      ]
+    },
+    {
+      "id": "prop_katya_final_report",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_final_report"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/final_report.png"
+      ]
+    },
+    {
+      "id": "prop_katya_floor_markers",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_floor_markers"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/UI/floor_markers.png"
+      ]
+    },
+    {
+      "id": "prop_katya_floor_tape",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "floor_tape"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/floor_tape.png"
+      ]
+    },
+    {
+      "id": "prop_katya_folder",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "folder"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/folder.png"
+      ]
+    },
+    {
+      "id": "prop_katya_forms",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_forms"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/forms.png"
+      ]
+    },
+    {
+      "id": "prop_katya_glue",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "glue"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/glue.png"
+      ]
+    },
+    {
+      "id": "prop_katya_melonpan",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "melonpan"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/melonpan.png"
+      ]
+    },
+    {
+      "id": "prop_katya_music_note",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_music_note"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/music_note.png"
+      ]
+    },
+    {
+      "id": "prop_katya_paper_labels",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_paper_labels"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/paper_labels.png"
+      ]
+    },
+    {
+      "id": "prop_katya_paper_samples",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_paper_samples"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/paper_samples.png"
+      ]
+    },
+    {
+      "id": "prop_katya_pen",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "pen"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/pen.png"
+      ]
+    },
+    {
+      "id": "prop_katya_phone",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "phone"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/phone.png"
+      ]
+    },
+    {
+      "id": "prop_katya_photo_prints",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "photo_prints"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/photo_prints.png"
+      ]
+    },
+    {
+      "id": "prop_katya_receipt",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_receipt"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/receipt.png"
+      ]
+    },
+    {
+      "id": "prop_katya_reference_books",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "reference_books"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/reference_books.png"
+      ]
+    },
+    {
+      "id": "prop_katya_room_signs",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_room_signs"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/room_signs.png"
+      ]
+    },
+    {
+      "id": "prop_katya_stapler",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "stapler"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/stapler.png"
+      ]
+    },
+    {
+      "id": "prop_katya_supply_clipboard",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_supply_clipboard"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/supply_clipboard.png"
+      ]
+    },
+    {
+      "id": "prop_katya_tea_bottle",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "tea_bottle"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/tea_bottle.png"
+      ]
+    },
+    {
+      "id": "prop_katya_three_drafts",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_three_drafts"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/three_drafts.png"
+      ]
+    },
+    {
+      "id": "prop_katya_two_melonpan",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "melonpan"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/melonpan.png"
+      ]
+    },
+    {
+      "id": "cg_katya_good",
+      "type": "ending_cg",
+      "status": "covered",
+      "assets": [
+        "cg_katya_good"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/CG/cg_katya_good.png"
+      ]
+    },
+    {
+      "id": "cg_katya_neutral",
+      "type": "ending_cg",
+      "status": "covered",
+      "assets": [
+        "cg_katya_neutral"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/CG/cg_katya_neutral.png"
+      ]
+    },
+    {
+      "id": "cg_katya_bad",
+      "type": "ending_cg",
+      "status": "covered",
+      "assets": [
+        "cg_katya_bad"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/CG/cg_katya_bad.png"
+      ]
+    },
+    {
+      "id": "char_akira_expressions",
+      "type": "expression_set",
+      "status": "covered",
+      "assets": [
+        "expr_akira_worried",
+        "expr_akira_delighted",
+        "expr_akira_flustered",
+        "expr_akira_neutral",
+        "expr_akira_puzzled",
+        "expr_akira_sad",
+        "expr_akira_surprised"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Characters/akira/Expressions/worried.png",
+        "Assets/AprilAgain/Art/Characters/akira/Expressions/delighted.png",
+        "Assets/AprilAgain/Art/Characters/akira/Expressions/flustered.png",
+        "Assets/AprilAgain/Art/Characters/akira/Expressions/neutral.png",
+        "Assets/AprilAgain/Art/Characters/akira/Expressions/puzzled.png",
+        "Assets/AprilAgain/Art/Characters/akira/Expressions/sad.png",
+        "Assets/AprilAgain/Art/Characters/akira/Expressions/surprised.png"
+      ],
+      "actingAliases": {
+        "concerned": "expr_akira_worried",
+        "delighted": "expr_akira_delighted",
+        "flustered": "expr_akira_flustered",
+        "neutral": "expr_akira_neutral",
+        "puzzled": "expr_akira_puzzled",
+        "sad": "expr_akira_sad",
+        "smile": "expr_akira_delighted",
+        "surprised": "expr_akira_surprised",
+        "worried": "expr_akira_worried"
+      }
+    },
+    {
+      "id": "char_akira_exploration",
+      "type": "placement_poses",
+      "status": "covered",
+      "assets": [
+        "char_akira_placement",
+        "observation_akira",
+        "room_akira_canteen_school_uniform",
+        "room_akira_class_a_school_uniform",
+        "room_akira_library_school_uniform",
+        "room_akira_lobby_school_uniform"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Characters/akira/akira_placement.png",
+        "Assets/AprilAgain/Art/Observations/day_one_akira.png",
+        "Assets/AprilAgain/Art/Rooms/akira/akira_canteen_school_uniform.png",
+        "Assets/AprilAgain/Art/Rooms/akira/akira_class_a_school_uniform.png",
+        "Assets/AprilAgain/Art/Rooms/akira/akira_library_school_uniform.png",
+        "Assets/AprilAgain/Art/Rooms/akira/akira_lobby_school_uniform.png"
+      ]
+    },
+    {
+      "id": "prop_akira_anonymous_form",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_anonymous_form"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/anonymous_form.png"
+      ]
+    },
+    {
+      "id": "prop_akira_anonymous_survey",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_anonymous_survey"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/anonymous_survey.png"
+      ]
+    },
+    {
+      "id": "prop_akira_backup_envelope",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "envelope"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/envelope.png"
+      ]
+    },
+    {
+      "id": "prop_akira_bento",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "bento"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/bento.png"
+      ]
+    },
+    {
+      "id": "prop_akira_calculator",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "calculator"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/calculator.png"
+      ]
+    },
+    {
+      "id": "prop_akira_consent_text",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_consent_text"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/consent_text.png"
+      ]
+    },
+    {
+      "id": "prop_akira_feature_sheet",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_feature_sheet"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/feature_sheet.png"
+      ]
+    },
+    {
+      "id": "prop_akira_headphones",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "headphones"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/headphones.png"
+      ]
+    },
+    {
+      "id": "prop_akira_laptop",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "laptop"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/laptop.png"
+      ]
+    },
+    {
+      "id": "prop_akira_lunch_trays",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "lunch_tray"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/lunch_tray.png"
+      ]
+    },
+    {
+      "id": "prop_akira_maintenance_guide",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_maintenance_guide"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/maintenance_guide.png"
+      ]
+    },
+    {
+      "id": "prop_akira_notebook",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "blue_journal"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/blue_journal.png"
+      ]
+    },
+    {
+      "id": "prop_akira_offline_notice",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_offline_notice"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/offline_notice.png"
+      ]
+    },
+    {
+      "id": "prop_akira_paper_mockups",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_paper_mockups"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/paper_mockups.png"
+      ]
+    },
+    {
+      "id": "prop_akira_phone",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "phone"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/phone.png"
+      ]
+    },
+    {
+      "id": "prop_akira_phone_message",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_phone_message"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Screens/phone_message.png"
+      ]
+    },
+    {
+      "id": "prop_akira_presentation",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_presentation"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/presentation.png"
+      ]
+    },
+    {
+      "id": "prop_akira_project_notebook",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_project_notebook"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/project_notebook.png"
+      ]
+    },
+    {
+      "id": "prop_akira_queue_survey",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_queue_survey"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/queue_survey.png"
+      ]
+    },
+    {
+      "id": "prop_akira_sandwich_wrapper",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "sandwich_wrapper"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/sandwich_wrapper.png"
+      ]
+    },
+    {
+      "id": "prop_akira_satchel_keychains",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "satchel"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/satchel.png"
+      ]
+    },
+    {
+      "id": "prop_akira_spare_container",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "spare_container"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/spare_container.png"
+      ]
+    },
+    {
+      "id": "prop_akira_sticky_notes",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_paper_labels"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/paper_labels.png"
+      ]
+    },
+    {
+      "id": "prop_akira_strategy_game_screen",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_strategy_game_screen"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Screens/strategy_game_screen.png"
+      ]
+    },
+    {
+      "id": "prop_akira_survey_envelopes",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "envelope"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/envelope.png"
+      ]
+    },
+    {
+      "id": "prop_akira_teacher_approval",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_teacher_approval"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/teacher_approval.png"
+      ]
+    },
+    {
+      "id": "prop_akira_three_request_messages",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_three_request_messages"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Screens/three_request_messages.png"
+      ]
+    },
+    {
+      "id": "prop_akira_two_coffee_cans",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "coffee_can"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/coffee_can.png"
+      ]
+    },
+    {
+      "id": "cg_akira_good",
+      "type": "ending_cg",
+      "status": "covered",
+      "assets": [
+        "cg_akira_good"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/CG/cg_akira_good.png"
+      ]
+    },
+    {
+      "id": "cg_akira_neutral",
+      "type": "ending_cg",
+      "status": "covered",
+      "assets": [
+        "cg_akira_neutral"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/CG/cg_akira_neutral.png"
+      ]
+    },
+    {
+      "id": "cg_akira_bad",
+      "type": "ending_cg",
+      "status": "covered",
+      "assets": [
+        "cg_akira_bad"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/CG/cg_akira_bad.png"
+      ]
+    },
+    {
+      "id": "char_seoyun_expressions",
+      "type": "expression_set",
+      "status": "covered",
+      "assets": [
+        "expr_seoyun_concerned",
+        "expr_seoyun_curious",
+        "expr_seoyun_determined",
+        "expr_seoyun_flustered",
+        "expr_seoyun_neutral",
+        "expr_seoyun_sad",
+        "expr_seoyun_warm",
+        "expr_seoyun_surprised"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Characters/seoyun/Expressions/concerned.png",
+        "Assets/AprilAgain/Art/Characters/seoyun/Expressions/curious.png",
+        "Assets/AprilAgain/Art/Characters/seoyun/Expressions/determined.png",
+        "Assets/AprilAgain/Art/Characters/seoyun/Expressions/flustered.png",
+        "Assets/AprilAgain/Art/Characters/seoyun/Expressions/neutral.png",
+        "Assets/AprilAgain/Art/Characters/seoyun/Expressions/sad.png",
+        "Assets/AprilAgain/Art/Characters/seoyun/Expressions/warm.png",
+        "Assets/AprilAgain/Art/Characters/seoyun/Expressions/surprised.png"
+      ],
+      "actingAliases": {
+        "concerned": "expr_seoyun_concerned",
+        "curious": "expr_seoyun_curious",
+        "determined": "expr_seoyun_determined",
+        "flustered": "expr_seoyun_flustered",
+        "neutral": "expr_seoyun_neutral",
+        "sad": "expr_seoyun_sad",
+        "smile": "expr_seoyun_warm",
+        "surprised": "expr_seoyun_surprised",
+        "warm": "expr_seoyun_warm"
+      }
+    },
+    {
+      "id": "char_seoyun_exploration",
+      "type": "placement_poses",
+      "status": "covered",
+      "assets": [
+        "char_seoyun_placement",
+        "observation_seoyun",
+        "room_seoyun_library_school_uniform",
+        "room_seoyun_corridor_school_uniform",
+        "room_seoyun_lobby_school_uniform",
+        "room_seoyun_canteen_school_uniform",
+        "room_seoyun_class_c_school_uniform"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Characters/seoyun/seoyun_placement.png",
+        "Assets/AprilAgain/Art/Observations/day_one_seoyun.png",
+        "Assets/AprilAgain/Art/Rooms/seoyun/seoyun_library_school_uniform.png",
+        "Assets/AprilAgain/Art/Rooms/seoyun/seoyun_corridor_school_uniform.png",
+        "Assets/AprilAgain/Art/Rooms/seoyun/seoyun_lobby_school_uniform.png",
+        "Assets/AprilAgain/Art/Rooms/seoyun/seoyun_canteen_school_uniform.png",
+        "Assets/AprilAgain/Art/Rooms/seoyun/seoyun_class_c_school_uniform.png"
+      ]
+    },
+    {
+      "id": "prop_seoyun_adviser_questions",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_adviser_questions"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/adviser_questions.png"
+      ]
+    },
+    {
+      "id": "prop_seoyun_alternate_photo",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "alternate_photo"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Pages/alternate_photo.png"
+      ]
+    },
+    {
+      "id": "prop_seoyun_atlas",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "open_atlas"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/open_atlas.png"
+      ]
+    },
+    {
+      "id": "prop_seoyun_atlases",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "closed_atlas"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/closed_atlas.png"
+      ]
+    },
+    {
+      "id": "prop_seoyun_blue_journal",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "blue_journal"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/blue_journal.png"
+      ]
+    },
+    {
+      "id": "prop_seoyun_blurred_photo",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "blurred_photo"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Pages/blurred_photo.png"
+      ]
+    },
+    {
+      "id": "prop_seoyun_bookmark",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "bookmark"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/bookmark.png"
+      ]
+    },
+    {
+      "id": "prop_seoyun_camera",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "camera"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/camera.png"
+      ]
+    },
+    {
+      "id": "prop_seoyun_caption_drafts",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_caption_drafts"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/caption_drafts.png"
+      ]
+    },
+    {
+      "id": "prop_seoyun_credit_labels",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_credit_labels"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/credit_labels.png"
+      ]
+    },
+    {
+      "id": "prop_seoyun_dictionary",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "book"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/book.png"
+      ]
+    },
+    {
+      "id": "prop_seoyun_display_board",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "display_board"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/display_board.png"
+      ]
+    },
+    {
+      "id": "prop_seoyun_drying_display",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "display_board",
+        "sky_photo",
+        "alternate_photo",
+        "native_window_essay"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/display_board.png",
+        "Assets/AprilAgain/Art/Props/Pages/sky_photo.png",
+        "Assets/AprilAgain/Art/Props/Pages/alternate_photo.png",
+        "Assets/AprilAgain/Art/Documents/window_essay.png"
+      ]
+    },
+    {
+      "id": "prop_seoyun_feedback_sheets",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_feedback_sheets"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/feedback_sheets.png"
+      ]
+    },
+    {
+      "id": "prop_seoyun_finished_display",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "display_board",
+        "sky_photo",
+        "alternate_photo",
+        "native_window_essay"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/display_board.png",
+        "Assets/AprilAgain/Art/Props/Pages/sky_photo.png",
+        "Assets/AprilAgain/Art/Props/Pages/alternate_photo.png",
+        "Assets/AprilAgain/Art/Documents/window_essay.png"
+      ]
+    },
+    {
+      "id": "prop_seoyun_folded_sketch",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "folded_sketch"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Pages/folded_sketch.png"
+      ]
+    },
+    {
+      "id": "prop_seoyun_fruit_cup",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "fruit_cup"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/fruit_cup.png"
+      ]
+    },
+    {
+      "id": "prop_seoyun_handouts",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_handouts"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/handouts.png"
+      ]
+    },
+    {
+      "id": "prop_seoyun_library_record",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_library_record"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/library_record.png"
+      ]
+    },
+    {
+      "id": "prop_seoyun_menu",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_menu"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/menu.png"
+      ]
+    },
+    {
+      "id": "prop_seoyun_noodle_bowl",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "noodle_bowl"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/noodle_bowl.png"
+      ]
+    },
+    {
+      "id": "prop_seoyun_paperweight",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "paperweight"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/paperweight.png"
+      ]
+    },
+    {
+      "id": "prop_seoyun_photo_print",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "sky_photo"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Pages/sky_photo.png"
+      ]
+    },
+    {
+      "id": "prop_seoyun_photo_prints",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "photo_prints"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/photo_prints.png"
+      ]
+    },
+    {
+      "id": "prop_seoyun_reference_cards",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_reference_cards"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/reference_cards.png"
+      ]
+    },
+    {
+      "id": "prop_seoyun_sealed_letter",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "envelope"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/envelope.png"
+      ]
+    },
+    {
+      "id": "prop_seoyun_sky_photo",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "sky_photo"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Pages/sky_photo.png"
+      ]
+    },
+    {
+      "id": "prop_seoyun_study_options",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_study_options"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/study_options.png"
+      ]
+    },
+    {
+      "id": "prop_seoyun_two_blank_bookmarks",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "bookmark"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/bookmark.png"
+      ]
+    },
+    {
+      "id": "prop_seoyun_window_chairs",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "chair"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/chair.png"
+      ]
+    },
+    {
+      "id": "prop_seoyun_window_essay",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_window_essay"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/window_essay.png"
+      ]
+    },
+    {
+      "id": "cg_seoyun_good",
+      "type": "ending_cg",
+      "status": "covered",
+      "assets": [
+        "cg_seoyun_good"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/CG/cg_seoyun_good.png"
+      ]
+    },
+    {
+      "id": "cg_seoyun_neutral",
+      "type": "ending_cg",
+      "status": "covered",
+      "assets": [
+        "cg_seoyun_neutral"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/CG/cg_seoyun_neutral.png"
+      ]
+    },
+    {
+      "id": "cg_seoyun_bad",
+      "type": "ending_cg",
+      "status": "covered",
+      "assets": [
+        "cg_seoyun_bad"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/CG/cg_seoyun_bad.png"
+      ]
+    },
+    {
+      "id": "char_mari_expressions",
+      "type": "expression_set",
+      "status": "covered",
+      "assets": [
+        "expr_mari_concerned",
+        "expr_mari_flustered",
+        "expr_mari_neutral",
+        "expr_mari_peaceful",
+        "expr_mari_sad",
+        "expr_mari_warm",
+        "expr_mari_surprised"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Characters/mari/Expressions/concerned.png",
+        "Assets/AprilAgain/Art/Characters/mari/Expressions/flustered.png",
+        "Assets/AprilAgain/Art/Characters/mari/Expressions/neutral.png",
+        "Assets/AprilAgain/Art/Characters/mari/Expressions/peaceful.png",
+        "Assets/AprilAgain/Art/Characters/mari/Expressions/sad.png",
+        "Assets/AprilAgain/Art/Characters/mari/Expressions/warm.png",
+        "Assets/AprilAgain/Art/Characters/mari/Expressions/surprised.png"
+      ],
+      "actingAliases": {
+        "concerned": "expr_mari_concerned",
+        "flustered": "expr_mari_flustered",
+        "neutral": "expr_mari_neutral",
+        "peaceful": "expr_mari_peaceful",
+        "sad": "expr_mari_sad",
+        "smile": "expr_mari_warm",
+        "surprised": "expr_mari_surprised",
+        "warm": "expr_mari_warm"
+      }
+    },
+    {
+      "id": "char_mari_exploration",
+      "type": "placement_poses",
+      "status": "covered",
+      "assets": [
+        "char_mari_placement",
+        "observation_mari",
+        "room_mari_infirmary_school_uniform",
+        "room_mari_class_b_school_uniform",
+        "room_mari_canteen_school_uniform",
+        "room_mari_gate_school_uniform",
+        "room_mari_lobby_school_uniform",
+        "room_mari_field_aikido_gi_and_trousers",
+        "room_mari_canteen_uniform_with_apron"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Characters/mari/mari_placement.png",
+        "Assets/AprilAgain/Art/Observations/day_one_mari.png",
+        "Assets/AprilAgain/Art/Rooms/mari/mari_infirmary_school_uniform.png",
+        "Assets/AprilAgain/Art/Rooms/mari/mari_class_b_school_uniform.png",
+        "Assets/AprilAgain/Art/Rooms/mari/mari_canteen_school_uniform.png",
+        "Assets/AprilAgain/Art/Rooms/mari/mari_gate_school_uniform.png",
+        "Assets/AprilAgain/Art/Rooms/mari/mari_lobby_school_uniform.png",
+        "Assets/AprilAgain/Art/Rooms/mari/mari_field_aikido_gi_and_trousers.png",
+        "Assets/AprilAgain/Art/Rooms/mari/mari_canteen_uniform_with_apron.png"
+      ]
+    },
+    {
+      "id": "char_mari_aikido_gi_and_trousers",
+      "type": "wardrobe_variant",
+      "status": "covered",
+      "assets": [
+        "wardrobe_mari_aikido_gi_and_trousers"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Characters/mari/Wardrobes/aikido_gi_and_trousers.png"
+      ]
+    },
+    {
+      "id": "char_mari_uniform_with_apron",
+      "type": "wardrobe_variant",
+      "status": "covered",
+      "assets": [
+        "wardrobe_mari_uniform_with_apron"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Characters/mari/Wardrobes/uniform_with_apron.png"
+      ]
+    },
+    {
+      "id": "prop_mari_apron",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "wardrobe_mari_uniform_with_apron_full_body"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Characters/mari/Wardrobes/uniform_with_apron/full_body.png"
+      ]
+    },
+    {
+      "id": "prop_mari_book",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "book"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/book.png"
+      ]
+    },
+    {
+      "id": "prop_mari_cat",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "cat"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/cat.png"
+      ]
+    },
+    {
+      "id": "prop_mari_clean_blankets",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "clean_blankets"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/clean_blankets.png"
+      ]
+    },
+    {
+      "id": "prop_mari_custard_dessert",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "custard_dessert"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/custard_dessert.png"
+      ]
+    },
+    {
+      "id": "prop_mari_drying_paper",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_drying_paper"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/drying_paper.png"
+      ]
+    },
+    {
+      "id": "prop_mari_fabric_backing",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "fabric_backing"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/fabric_backing.png"
+      ]
+    },
+    {
+      "id": "prop_mari_finished_reading_corner",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_finished_reading_corner",
+        "leaflet_rack",
+        "book",
+        "native_reading_list"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/finished_reading_corner.png",
+        "Assets/AprilAgain/Art/Props/Items/leaflet_rack.png",
+        "Assets/AprilAgain/Art/Props/Items/book.png",
+        "Assets/AprilAgain/Art/Documents/reading_list.png"
+      ]
+    },
+    {
+      "id": "prop_mari_folded_cloth",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "folded_cloth"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/folded_cloth.png"
+      ]
+    },
+    {
+      "id": "prop_mari_gate_bench",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "bench"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/bench.png"
+      ]
+    },
+    {
+      "id": "prop_mari_her_tea_cup",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "tea_cup"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/tea_cup.png"
+      ]
+    },
+    {
+      "id": "prop_mari_homework",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_homework"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/homework.png"
+      ]
+    },
+    {
+      "id": "prop_mari_household_plan",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_household_plan"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/household_plan.png"
+      ]
+    },
+    {
+      "id": "prop_mari_leaflet_list",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_leaflet_list"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/leaflet_list.png"
+      ]
+    },
+    {
+      "id": "prop_mari_leaflet_rack",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "leaflet_rack"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/leaflet_rack.png"
+      ]
+    },
+    {
+      "id": "prop_mari_loose_button",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "loose_button"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/loose_button.png"
+      ]
+    },
+    {
+      "id": "prop_mari_lunch_plate",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "lunch_tray"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/lunch_tray.png"
+      ]
+    },
+    {
+      "id": "prop_mari_meal_worksheet",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_meal_worksheet"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/meal_worksheet.png"
+      ]
+    },
+    {
+      "id": "prop_mari_noticeboard",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_noticeboard"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/noticeboard.png"
+      ]
+    },
+    {
+      "id": "prop_mari_paper_headings",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_paper_headings"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/paper_headings.png"
+      ]
+    },
+    {
+      "id": "prop_mari_phone",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "phone"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/phone.png"
+      ]
+    },
+    {
+      "id": "prop_mari_practice_mat",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "practice_mat"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/practice_mat.png"
+      ]
+    },
+    {
+      "id": "prop_mari_public_leaflets",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_public_leaflets"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/public_leaflets.png"
+      ]
+    },
+    {
+      "id": "prop_mari_reading_list",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_reading_list"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/reading_list.png"
+      ]
+    },
+    {
+      "id": "prop_mari_red_bean_dessert",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "red_bean_dessert"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/red_bean_dessert.png"
+      ]
+    },
+    {
+      "id": "prop_mari_sewing_kit",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "sewing_kit"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/sewing_kit.png"
+      ]
+    },
+    {
+      "id": "prop_mari_sports_bag",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "sports_bag"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/sports_bag.png"
+      ]
+    },
+    {
+      "id": "prop_mari_squeaky_chair",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "chair"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/chair.png"
+      ]
+    },
+    {
+      "id": "prop_mari_staff_only_sign",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_staff_only_sign"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/staff_only_sign.png"
+      ]
+    },
+    {
+      "id": "prop_mari_supply_box",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "supply_box"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/supply_box.png"
+      ]
+    },
+    {
+      "id": "prop_mari_tea_tin",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "tea_tin"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/tea_tin.png"
+      ]
+    },
+    {
+      "id": "prop_mari_thermos",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "thermos"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/thermos.png"
+      ]
+    },
+    {
+      "id": "prop_mari_two_bento",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "bento"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/bento.png"
+      ]
+    },
+    {
+      "id": "prop_mari_two_cups",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "tea_cup"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/tea_cup.png"
+      ]
+    },
+    {
+      "id": "prop_mari_two_tea_cups",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "tea_cup"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/tea_cup.png"
+      ]
+    },
+    {
+      "id": "prop_mari_visitor_chairs",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "chair"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/chair.png"
+      ]
+    },
+    {
+      "id": "cg_mari_good",
+      "type": "ending_cg",
+      "status": "covered",
+      "assets": [
+        "cg_mari_good"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/CG/cg_mari_good.png"
+      ]
+    },
+    {
+      "id": "cg_mari_neutral",
+      "type": "ending_cg",
+      "status": "covered",
+      "assets": [
+        "cg_mari_neutral"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/CG/cg_mari_neutral.png"
+      ]
+    },
+    {
+      "id": "cg_mari_bad",
+      "type": "ending_cg",
+      "status": "covered",
+      "assets": [
+        "cg_mari_bad"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/CG/cg_mari_bad.png"
+      ]
+    },
+    {
+      "id": "char_svea_expressions",
+      "type": "expression_set",
+      "status": "covered",
+      "assets": [
+        "expr_svea_annoyed",
+        "expr_svea_concerned",
+        "expr_svea_flustered",
+        "expr_svea_neutral",
+        "expr_svea_sad",
+        "expr_svea_sleepy",
+        "expr_svea_soft_smile",
+        "expr_svea_smirk",
+        "expr_svea_surprised"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Characters/svea/Expressions/annoyed.png",
+        "Assets/AprilAgain/Art/Characters/svea/Expressions/concerned.png",
+        "Assets/AprilAgain/Art/Characters/svea/Expressions/flustered.png",
+        "Assets/AprilAgain/Art/Characters/svea/Expressions/neutral.png",
+        "Assets/AprilAgain/Art/Characters/svea/Expressions/sad.png",
+        "Assets/AprilAgain/Art/Characters/svea/Expressions/sleepy.png",
+        "Assets/AprilAgain/Art/Characters/svea/Expressions/soft_smile.png",
+        "Assets/AprilAgain/Art/Characters/svea/Expressions/smirk.png",
+        "Assets/AprilAgain/Art/Characters/svea/Expressions/surprised.png"
+      ],
+      "actingAliases": {
+        "annoyed": "expr_svea_annoyed",
+        "concerned": "expr_svea_concerned",
+        "flustered": "expr_svea_flustered",
+        "neutral": "expr_svea_neutral",
+        "sad": "expr_svea_sad",
+        "sleepy": "expr_svea_sleepy",
+        "smile": "expr_svea_soft_smile",
+        "smirk": "expr_svea_smirk",
+        "soft_smile": "expr_svea_soft_smile",
+        "surprised": "expr_svea_surprised"
+      }
+    },
+    {
+      "id": "char_svea_exploration",
+      "type": "placement_poses",
+      "status": "covered",
+      "assets": [
+        "char_svea_placement",
+        "observation_svea",
+        "room_svea_canteen_school_uniform",
+        "room_svea_class_c_school_uniform",
+        "room_svea_field_school_uniform",
+        "room_svea_gate_school_uniform",
+        "room_svea_field_school_sports_jacket_and_trousers"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Characters/svea/svea_placement.png",
+        "Assets/AprilAgain/Art/Observations/day_one_svea.png",
+        "Assets/AprilAgain/Art/Rooms/svea/svea_canteen_school_uniform.png",
+        "Assets/AprilAgain/Art/Rooms/svea/svea_class_c_school_uniform.png",
+        "Assets/AprilAgain/Art/Rooms/svea/svea_field_school_uniform.png",
+        "Assets/AprilAgain/Art/Rooms/svea/svea_gate_school_uniform.png",
+        "Assets/AprilAgain/Art/Rooms/svea/svea_field_school_sports_jacket_and_trousers.png"
+      ]
+    },
+    {
+      "id": "char_svea_school_sports_jacket_and_trousers",
+      "type": "wardrobe_variant",
+      "status": "covered",
+      "assets": [
+        "wardrobe_svea_school_sports_jacket_and_trousers"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Characters/svea/Wardrobes/school_sports_jacket_and_trousers.png"
+      ]
+    },
+    {
+      "id": "prop_svea_attendance_sheet",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_attendance_sheet"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/attendance_sheet.png"
+      ]
+    },
+    {
+      "id": "prop_svea_basketball",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "basketball"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/basketball.png"
+      ]
+    },
+    {
+      "id": "prop_svea_budget_exercise",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_budget_exercise"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/budget_exercise.png"
+      ]
+    },
+    {
+      "id": "prop_svea_closed_bag",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "sports_bag"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/sports_bag.png"
+      ]
+    },
+    {
+      "id": "prop_svea_court_cones",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "court_cone"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/court_cone.png"
+      ]
+    },
+    {
+      "id": "prop_svea_cozy_game_screen",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_cozy_game_screen"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Screens/cozy_game_screen.png"
+      ]
+    },
+    {
+      "id": "prop_svea_equipment_cart",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "equipment_cart"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/equipment_cart.png"
+      ]
+    },
+    {
+      "id": "prop_svea_equipment_list",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_equipment_list"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/equipment_list.png"
+      ]
+    },
+    {
+      "id": "prop_svea_field_bench",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "bench"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/bench.png"
+      ]
+    },
+    {
+      "id": "prop_svea_group_assignment",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_group_assignment"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/group_assignment.png"
+      ]
+    },
+    {
+      "id": "prop_svea_handheld_game",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "handheld_game"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/handheld_game.png"
+      ]
+    },
+    {
+      "id": "prop_svea_household_worksheet",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_household_worksheet"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/household_worksheet.png"
+      ]
+    },
+    {
+      "id": "prop_svea_lunch_tray",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "lunch_tray"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/lunch_tray.png"
+      ]
+    },
+    {
+      "id": "prop_svea_lunch_trays",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "lunch_tray"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/lunch_tray.png"
+      ]
+    },
+    {
+      "id": "prop_svea_neighborhood_dog",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "neighborhood_dog"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/neighborhood_dog.png"
+      ]
+    },
+    {
+      "id": "prop_svea_notebook",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "blue_journal"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/blue_journal.png"
+      ]
+    },
+    {
+      "id": "prop_svea_pencil",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "pencil"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/pencil.png"
+      ]
+    },
+    {
+      "id": "prop_svea_pencil_case",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "pencil_case"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/pencil_case.png"
+      ]
+    },
+    {
+      "id": "prop_svea_plush_dog_keychain",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "plush_dog_keychain"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/plush_dog_keychain.png"
+      ]
+    },
+    {
+      "id": "prop_svea_practice_report",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_practice_report"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/practice_report.png"
+      ]
+    },
+    {
+      "id": "prop_svea_practice_statistics",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_practice_statistics"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/practice_statistics.png"
+      ]
+    },
+    {
+      "id": "prop_svea_sports_bag",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "sports_bag"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/sports_bag.png"
+      ]
+    },
+    {
+      "id": "prop_svea_strawberry_milk",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "strawberry_milk"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/strawberry_milk.png"
+      ]
+    },
+    {
+      "id": "prop_svea_supply_boxes",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "delivery_box"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/delivery_box.png"
+      ]
+    },
+    {
+      "id": "prop_svea_two_strawberry_milk",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "strawberry_milk"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Props/Items/strawberry_milk.png"
+      ]
+    },
+    {
+      "id": "prop_svea_workbook",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_workbook"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/workbook.png"
+      ]
+    },
+    {
+      "id": "prop_svea_worksheet",
+      "type": "prop",
+      "status": "covered",
+      "assets": [
+        "native_worksheet"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/Documents/worksheet.png"
+      ]
+    },
+    {
+      "id": "cg_svea_good",
+      "type": "ending_cg",
+      "status": "covered",
+      "assets": [
+        "cg_svea_good"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/CG/cg_svea_good.png"
+      ]
+    },
+    {
+      "id": "cg_svea_neutral",
+      "type": "ending_cg",
+      "status": "covered",
+      "assets": [
+        "cg_svea_neutral"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/CG/cg_svea_neutral.png"
+      ]
+    },
+    {
+      "id": "cg_svea_bad",
+      "type": "ending_cg",
+      "status": "covered",
+      "assets": [
+        "cg_svea_bad"
+      ],
+      "files": [
+        "Assets/AprilAgain/Art/CG/cg_svea_bad.png"
+      ]
+    },
+    {
+      "id": "amb_school",
+      "type": "audio",
+      "status": "covered",
+      "assets": [],
+      "files": [
+        "Assets/AprilAgain/Audio/amb_school.wav"
+      ]
+    },
+    {
+      "id": "bgm_daily",
+      "type": "audio",
+      "status": "covered",
+      "assets": [],
+      "files": [
+        "Assets/AprilAgain/Audio/bgm_daily.wav"
+      ]
+    },
+    {
+      "id": "bgm_reflection",
+      "type": "audio",
+      "status": "covered",
+      "assets": [],
+      "files": [
+        "Assets/AprilAgain/Audio/bgm_reflection.wav"
+      ]
+    },
+    {
+      "id": "bgm_endings",
+      "type": "audio_set",
+      "status": "covered",
+      "assets": [],
+      "files": [
+        "Assets/AprilAgain/Audio/bgm_ending_good.wav",
+        "Assets/AprilAgain/Audio/bgm_ending_neutral.wav",
+        "Assets/AprilAgain/Audio/bgm_ending_bad.wav"
+      ]
+    },
+    {
+      "id": "sfx_story",
+      "type": "audio_set",
+      "status": "covered",
+      "assets": [],
+      "files": [
+        "Assets/AprilAgain/Audio/ui_confirm.wav",
+        "Assets/AprilAgain/Audio/ui_hover.wav",
+        "Assets/AprilAgain/Audio/ui_cancel.wav",
+        "Assets/AprilAgain/Audio/page_turn.wav",
+        "Assets/AprilAgain/Audio/paper.wav",
+        "Assets/AprilAgain/Audio/zip.wav",
+        "Assets/AprilAgain/Audio/cup.wav",
+        "Assets/AprilAgain/Audio/footstep.wav",
+        "Assets/AprilAgain/Audio/basketball_bounce.wav",
+        "Assets/AprilAgain/Audio/basketball_rim.wav",
+        "Assets/AprilAgain/Audio/door.wav",
+        "Assets/AprilAgain/Audio/bag_set_down.wav",
+        "Assets/AprilAgain/Audio/school_bell.wav",
+        "Assets/AprilAgain/Audio/alarm.wav",
+        "Assets/AprilAgain/Audio/pa_chime.wav",
+        "Assets/AprilAgain/Audio/light_rain.wav"
+      ]
+    }
+  ]
+}

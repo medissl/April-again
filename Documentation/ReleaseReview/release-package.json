@@ -1,0 +1,20 @@
+{
+  "target": "Windows x64",
+  "packagedUtc": "2026-11-23T05:39:27.1535032Z",
+  "totalBytes": 375202634.0,
+  "fontSha256": "424B1E94C4A8DD1F319C076336ABF906A1F60DDC7EBE61E796E38B600B69A486",
+  "version": "1.0.0",
+  "contentSha256": "03CBABF22A22A6DBB524D2272F132383910028C54E6FC1770919FEC1B74EF8CB",
+  "files": 183,
+  "executable": "Builds/Windows/AprilAgain.exe",
+  "executableBytes": 667648,
+  "zipSha256": "BB3AD005CF4A8379B5C46CAE6E7DF774420719C3FD91656C021E58BABC15B9DA",
+  "zip": "Builds/AprilAgain-Windows.zip",
+  "zipBytes": 298538166,
+  "installer": "Builds/AprilAgain-Setup.exe",
+  "installerBytes": 294934940,
+  "installerSha256": "DAAFE773ADC2F874E8EEA87C517F0CF320A7E32119609009A559FE582B0548FB",
+  "nativeMouseChecks": "Title, Settings, slider minimum and restore, Done, credits Return, window close",
+  "nativeKeyboardChecks": "Injected Escape did not establish standalone shortcut behavior; manual hardware verification remains.",
+  "buildWarning": "Unity services native-symbol upload unavailable; Windows build succeeded."
+}

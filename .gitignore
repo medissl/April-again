@@ -1,0 +1,48 @@
+# Unity and IDE generated state
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uilds/
+/.vs/
+/.idea/
+/.codex/
+/.agents/
+/.aws/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.opendb
+*.VC.db
+*.log
+*.tmp
+__pycache__/
+
+# Local compiler binaries and optional original download archives
+/Tools/Local/
+/Documentation/AudioSources/*_download/
+/Documentation/AudioSources/*.zip
+/Documentation/AudioSources/*.wav
+/Documentation/AudioSources/*.ogg
+
+# Private source documents, local profiles, machine-specific build records,
+# and bulk review captures. Public verification is curated in ReleaseReview.
+/Documentation/SourceNotes/
+/Documentation/Testing/NativeQA*/
+/Documentation/Testing/SourceEditorQA/
+/Documentation/Testing/SourceMetaBackup/
+/Documentation/Testing/Presentation/
+/Documentation/Testing/ProductionReview/
+/Documentation/Testing/WorldArtReview/
+/Documentation/Testing/native-*.json
+/Documentation/Testing/build-mirror-path.txt
+/Documentation/Testing/*player*.log
+/Documentation/Art/GenerationJobs/
+/Documentation/Checkpoints/
+/Documentation/AudioSources/KenneyInterface/
+/Documentation/Testing/*
+!/Documentation/Testing/README.md

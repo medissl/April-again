@@ -1,0 +1,758 @@
+{
+  "referenceCanvas": [
+    1920,
+    1080
+  ],
+  "safeMargin": 64,
+  "colors": {
+    "paper": "#F7F1E8",
+    "ink": "#263340",
+    "maroon": "#8F4D5B",
+    "muted": "#66716E",
+    "sage": "#8C9B8D",
+    "brass": "#B8A17A",
+    "line": "#D8CEC1",
+    "white": "#FFFFFF"
+  },
+  "type": {
+    "body": 32,
+    "speaker": 28,
+    "hud": 24,
+    "metadata": 22,
+    "bodyFont": "Fonts/SourceSans3-Regular.ttf",
+    "emphasisFont": "Fonts/SourceSans3-Semibold.ttf",
+    "displayFont": "Fonts/SourceSerif4-Regular.ttf",
+    "italicFont": "Fonts/SourceSerif4-It.ttf"
+  },
+  "dialogueRectTopLeft": [
+    128,
+    752,
+    1664,
+    272
+  ],
+  "minimumTarget": 56,
+  "textBakedIntoArt": false,
+  "borderOrder": "left,bottom,right,top",
+  "assets": [
+    {
+      "id": "dialogue_panel",
+      "file": "UI/dialogue_panel.png",
+      "source": "UI/dialogue_panel.svg",
+      "width": 1664,
+      "height": 272,
+      "border": [
+        24,
+        24,
+        24,
+        24
+      ]
+    },
+    {
+      "id": "modal_panel",
+      "file": "UI/modal_panel.png",
+      "source": "UI/modal_panel.svg",
+      "width": 960,
+      "height": 560,
+      "border": [
+        24,
+        24,
+        24,
+        24
+      ]
+    },
+    {
+      "id": "menu_panel",
+      "file": "UI/menu_panel.png",
+      "source": "UI/menu_panel.svg",
+      "width": 640,
+      "height": 880,
+      "border": [
+        24,
+        24,
+        24,
+        24
+      ]
+    },
+    {
+      "id": "journal_panel",
+      "file": "UI/journal_panel.png",
+      "source": "UI/journal_panel.svg",
+      "width": 1408,
+      "height": 832,
+      "border": [
+        24,
+        24,
+        24,
+        24
+      ]
+    },
+    {
+      "id": "save_slot",
+      "file": "UI/save_slot.png",
+      "source": "UI/save_slot.svg",
+      "width": 520,
+      "height": 288,
+      "border": [
+        16,
+        16,
+        16,
+        16
+      ]
+    },
+    {
+      "id": "tooltip_panel",
+      "file": "UI/tooltip_panel.png",
+      "source": "UI/tooltip_panel.svg",
+      "width": 384,
+      "height": 88,
+      "border": [
+        12,
+        12,
+        12,
+        12
+      ]
+    },
+    {
+      "id": "day_time_plate",
+      "file": "UI/day_time_plate.png",
+      "source": "UI/day_time_plate.svg",
+      "width": 400,
+      "height": 96,
+      "border": [
+        16,
+        16,
+        16,
+        16
+      ]
+    },
+    {
+      "id": "nameplate",
+      "file": "UI/nameplate.png",
+      "source": "UI/nameplate.svg",
+      "width": 360,
+      "height": 64,
+      "border": [
+        16,
+        16,
+        16,
+        16
+      ]
+    },
+    {
+      "id": "choice_idle",
+      "file": "UI/choice_idle.png",
+      "source": "UI/choice_idle.svg",
+      "width": 1008,
+      "height": 88,
+      "border": [
+        14,
+        14,
+        14,
+        14
+      ]
+    },
+    {
+      "id": "button_idle",
+      "file": "UI/button_idle.png",
+      "source": "UI/button_idle.svg",
+      "width": 320,
+      "height": 72,
+      "border": [
+        14,
+        14,
+        14,
+        14
+      ]
+    },
+    {
+      "id": "icon_button_idle",
+      "file": "UI/icon_button_idle.png",
+      "source": "UI/icon_button_idle.svg",
+      "width": 72,
+      "height": 72,
+      "border": [
+        14,
+        14,
+        14,
+        14
+      ]
+    },
+    {
+      "id": "tab_idle",
+      "file": "UI/tab_idle.png",
+      "source": "UI/tab_idle.svg",
+      "width": 240,
+      "height": 64,
+      "border": [
+        14,
+        14,
+        14,
+        14
+      ]
+    },
+    {
+      "id": "choice_hover",
+      "file": "UI/choice_hover.png",
+      "source": "UI/choice_hover.svg",
+      "width": 1008,
+      "height": 88,
+      "border": [
+        14,
+        14,
+        14,
+        14
+      ]
+    },
+    {
+      "id": "button_hover",
+      "file": "UI/button_hover.png",
+      "source": "UI/button_hover.svg",
+      "width": 320,
+      "height": 72,
+      "border": [
+        14,
+        14,
+        14,
+        14
+      ]
+    },
+    {
+      "id": "icon_button_hover",
+      "file": "UI/icon_button_hover.png",
+      "source": "UI/icon_button_hover.svg",
+      "width": 72,
+      "height": 72,
+      "border": [
+        14,
+        14,
+        14,
+        14
+      ]
+    },
+    {
+      "id": "tab_hover",
+      "file": "UI/tab_hover.png",
+      "source": "UI/tab_hover.svg",
+      "width": 240,
+      "height": 64,
+      "border": [
+        14,
+        14,
+        14,
+        14
+      ]
+    },
+    {
+      "id": "choice_pressed",
+      "file": "UI/choice_pressed.png",
+      "source": "UI/choice_pressed.svg",
+      "width": 1008,
+      "height": 88,
+      "border": [
+        14,
+        14,
+        14,
+        14
+      ]
+    },
+    {
+      "id": "button_pressed",
+      "file": "UI/button_pressed.png",
+      "source": "UI/button_pressed.svg",
+      "width": 320,
+      "height": 72,
+      "border": [
+        14,
+        14,
+        14,
+        14
+      ]
+    },
+    {
+      "id": "icon_button_pressed",
+      "file": "UI/icon_button_pressed.png",
+      "source": "UI/icon_button_pressed.svg",
+      "width": 72,
+      "height": 72,
+      "border": [
+        14,
+        14,
+        14,
+        14
+      ]
+    },
+    {
+      "id": "tab_pressed",
+      "file": "UI/tab_pressed.png",
+      "source": "UI/tab_pressed.svg",
+      "width": 240,
+      "height": 64,
+      "border": [
+        14,
+        14,
+        14,
+        14
+      ]
+    },
+    {
+      "id": "choice_disabled",
+      "file": "UI/choice_disabled.png",
+      "source": "UI/choice_disabled.svg",
+      "width": 1008,
+      "height": 88,
+      "border": [
+        14,
+        14,
+        14,
+        14
+      ]
+    },
+    {
+      "id": "button_disabled",
+      "file": "UI/button_disabled.png",
+      "source": "UI/button_disabled.svg",
+      "width": 320,
+      "height": 72,
+      "border": [
+        14,
+        14,
+        14,
+        14
+      ]
+    },
+    {
+      "id": "icon_button_disabled",
+      "file": "UI/icon_button_disabled.png",
+      "source": "UI/icon_button_disabled.svg",
+      "width": 72,
+      "height": 72,
+      "border": [
+        14,
+        14,
+        14,
+        14
+      ]
+    },
+    {
+      "id": "tab_disabled",
+      "file": "UI/tab_disabled.png",
+      "source": "UI/tab_disabled.svg",
+      "width": 240,
+      "height": 64,
+      "border": [
+        14,
+        14,
+        14,
+        14
+      ]
+    },
+    {
+      "id": "choice_focus",
+      "file": "UI/choice_focus.png",
+      "source": "UI/choice_focus.svg",
+      "width": 1008,
+      "height": 88,
+      "border": [
+        14,
+        14,
+        14,
+        14
+      ]
+    },
+    {
+      "id": "button_focus",
+      "file": "UI/button_focus.png",
+      "source": "UI/button_focus.svg",
+      "width": 320,
+      "height": 72,
+      "border": [
+        14,
+        14,
+        14,
+        14
+      ]
+    },
+    {
+      "id": "icon_button_focus",
+      "file": "UI/icon_button_focus.png",
+      "source": "UI/icon_button_focus.svg",
+      "width": 72,
+      "height": 72,
+      "border": [
+        14,
+        14,
+        14,
+        14
+      ]
+    },
+    {
+      "id": "tab_focus",
+      "file": "UI/tab_focus.png",
+      "source": "UI/tab_focus.svg",
+      "width": 240,
+      "height": 64,
+      "border": [
+        14,
+        14,
+        14,
+        14
+      ]
+    },
+    {
+      "id": "checkbox_empty",
+      "file": "UI/checkbox_empty.png",
+      "source": "UI/checkbox_empty.svg",
+      "width": 48,
+      "height": 48,
+      "border": null
+    },
+    {
+      "id": "checkbox_checked",
+      "file": "UI/checkbox_checked.png",
+      "source": "UI/checkbox_checked.svg",
+      "width": 48,
+      "height": 48,
+      "border": null
+    },
+    {
+      "id": "slider_track",
+      "file": "UI/slider_track.png",
+      "source": "UI/slider_track.svg",
+      "width": 384,
+      "height": 8,
+      "border": [
+        3,
+        3,
+        3,
+        3
+      ]
+    },
+    {
+      "id": "slider_fill",
+      "file": "UI/slider_fill.png",
+      "source": "UI/slider_fill.svg",
+      "width": 384,
+      "height": 8,
+      "border": [
+        3,
+        3,
+        3,
+        3
+      ]
+    },
+    {
+      "id": "scroll_track",
+      "file": "UI/scroll_track.png",
+      "source": "UI/scroll_track.svg",
+      "width": 8,
+      "height": 384,
+      "border": [
+        3,
+        3,
+        3,
+        3
+      ]
+    },
+    {
+      "id": "scroll_thumb",
+      "file": "UI/scroll_thumb.png",
+      "source": "UI/scroll_thumb.svg",
+      "width": 8,
+      "height": 96,
+      "border": [
+        3,
+        3,
+        3,
+        3
+      ]
+    },
+    {
+      "id": "slider_handle",
+      "file": "UI/slider_handle.png",
+      "source": "UI/slider_handle.svg",
+      "width": 40,
+      "height": 40,
+      "border": null
+    },
+    {
+      "id": "hotspot_available",
+      "file": "UI/hotspot_available.png",
+      "source": "UI/hotspot_available.svg",
+      "width": 80,
+      "height": 80,
+      "border": null
+    },
+    {
+      "id": "hotspot_visited",
+      "file": "UI/hotspot_visited.png",
+      "source": "UI/hotspot_visited.svg",
+      "width": 80,
+      "height": 80,
+      "border": null
+    },
+    {
+      "id": "hotspot_unavailable",
+      "file": "UI/hotspot_unavailable.png",
+      "source": "UI/hotspot_unavailable.svg",
+      "width": 80,
+      "height": 80,
+      "border": null
+    },
+    {
+      "id": "hotspot_focus",
+      "file": "UI/hotspot_focus.png",
+      "source": "UI/hotspot_focus.svg",
+      "width": 80,
+      "height": 80,
+      "border": null
+    },
+    {
+      "id": "slot_open",
+      "file": "UI/slot_open.png",
+      "source": "UI/slot_open.svg",
+      "width": 28,
+      "height": 28,
+      "border": null
+    },
+    {
+      "id": "slot_used",
+      "file": "UI/slot_used.png",
+      "source": "UI/slot_used.svg",
+      "width": 28,
+      "height": 28,
+      "border": null
+    },
+    {
+      "id": "icon_map",
+      "file": "UI/icon_map.png",
+      "source": "UI/icon_map.svg",
+      "width": 64,
+      "height": 64,
+      "border": null
+    },
+    {
+      "id": "icon_journal",
+      "file": "UI/icon_journal.png",
+      "source": "UI/icon_journal.svg",
+      "width": 64,
+      "height": 64,
+      "border": null
+    },
+    {
+      "id": "icon_home",
+      "file": "UI/icon_home.png",
+      "source": "UI/icon_home.svg",
+      "width": 64,
+      "height": 64,
+      "border": null
+    },
+    {
+      "id": "icon_door",
+      "file": "UI/icon_door.png",
+      "source": "UI/icon_door.svg",
+      "width": 64,
+      "height": 64,
+      "border": null
+    },
+    {
+      "id": "icon_back",
+      "file": "UI/icon_back.png",
+      "source": "UI/icon_back.svg",
+      "width": 64,
+      "height": 64,
+      "border": null
+    },
+    {
+      "id": "icon_next",
+      "file": "UI/icon_next.png",
+      "source": "UI/icon_next.svg",
+      "width": 64,
+      "height": 64,
+      "border": null
+    },
+    {
+      "id": "icon_close",
+      "file": "UI/icon_close.png",
+      "source": "UI/icon_close.svg",
+      "width": 64,
+      "height": 64,
+      "border": null
+    },
+    {
+      "id": "icon_pause",
+      "file": "UI/icon_pause.png",
+      "source": "UI/icon_pause.svg",
+      "width": 64,
+      "height": 64,
+      "border": null
+    },
+    {
+      "id": "icon_play",
+      "file": "UI/icon_play.png",
+      "source": "UI/icon_play.svg",
+      "width": 64,
+      "height": 64,
+      "border": null
+    },
+    {
+      "id": "icon_skip",
+      "file": "UI/icon_skip.png",
+      "source": "UI/icon_skip.svg",
+      "width": 64,
+      "height": 64,
+      "border": null
+    },
+    {
+      "id": "icon_save",
+      "file": "UI/icon_save.png",
+      "source": "UI/icon_save.svg",
+      "width": 64,
+      "height": 64,
+      "border": null
+    },
+    {
+      "id": "icon_load",
+      "file": "UI/icon_load.png",
+      "source": "UI/icon_load.svg",
+      "width": 64,
+      "height": 64,
+      "border": null
+    },
+    {
+      "id": "icon_history",
+      "file": "UI/icon_history.png",
+      "source": "UI/icon_history.svg",
+      "width": 64,
+      "height": 64,
+      "border": null
+    },
+    {
+      "id": "icon_gallery",
+      "file": "UI/icon_gallery.png",
+      "source": "UI/icon_gallery.svg",
+      "width": 64,
+      "height": 64,
+      "border": null
+    },
+    {
+      "id": "icon_calendar",
+      "file": "UI/icon_calendar.png",
+      "source": "UI/icon_calendar.svg",
+      "width": 64,
+      "height": 64,
+      "border": null
+    },
+    {
+      "id": "icon_clock",
+      "file": "UI/icon_clock.png",
+      "source": "UI/icon_clock.svg",
+      "width": 64,
+      "height": 64,
+      "border": null
+    },
+    {
+      "id": "icon_sleep",
+      "file": "UI/icon_sleep.png",
+      "source": "UI/icon_sleep.svg",
+      "width": 64,
+      "height": 64,
+      "border": null
+    },
+    {
+      "id": "icon_volume",
+      "file": "UI/icon_volume.png",
+      "source": "UI/icon_volume.svg",
+      "width": 64,
+      "height": 64,
+      "border": null
+    },
+    {
+      "id": "icon_check",
+      "file": "UI/icon_check.png",
+      "source": "UI/icon_check.svg",
+      "width": 64,
+      "height": 64,
+      "border": null
+    },
+    {
+      "id": "icon_lock",
+      "file": "UI/icon_lock.png",
+      "source": "UI/icon_lock.svg",
+      "width": 64,
+      "height": 64,
+      "border": null
+    },
+    {
+      "id": "icon_info",
+      "file": "UI/icon_info.png",
+      "source": "UI/icon_info.svg",
+      "width": 64,
+      "height": 64,
+      "border": null
+    },
+    {
+      "id": "icon_wait",
+      "file": "UI/icon_wait.png",
+      "source": "UI/icon_wait.svg",
+      "width": 64,
+      "height": 64,
+      "border": null
+    },
+    {
+      "id": "icon_classroom",
+      "file": "UI/icon_classroom.png",
+      "source": "UI/icon_classroom.svg",
+      "width": 64,
+      "height": 64,
+      "border": null
+    },
+    {
+      "id": "icon_library",
+      "file": "UI/icon_library.png",
+      "source": "UI/icon_library.svg",
+      "width": 64,
+      "height": 64,
+      "border": null
+    },
+    {
+      "id": "icon_infirmary",
+      "file": "UI/icon_infirmary.png",
+      "source": "UI/icon_infirmary.svg",
+      "width": 64,
+      "height": 64,
+      "border": null
+    },
+    {
+      "id": "icon_canteen",
+      "file": "UI/icon_canteen.png",
+      "source": "UI/icon_canteen.svg",
+      "width": 64,
+      "height": 64,
+      "border": null
+    },
+    {
+      "id": "icon_field",
+      "file": "UI/icon_field.png",
+      "source": "UI/icon_field.svg",
+      "width": 64,
+      "height": 64,
+      "border": null
+    },
+    {
+      "id": "cursor_pointer",
+      "file": "UI/cursor_pointer.png",
+      "source": "UI/cursor_pointer.svg",
+      "width": 40,
+      "height": 48,
+      "border": null
+    },
+    {
+      "id": "continue_marker",
+      "file": "UI/continue_marker.png",
+      "source": "UI/continue_marker.svg",
+      "width": 32,
+      "height": 24,
+      "border": null
+    }
+  ]
+}

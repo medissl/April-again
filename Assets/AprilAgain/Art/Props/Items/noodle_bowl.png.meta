@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 085df5631b3c32149a01189dfc8b9291
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8038630677229067865
+    second: noodle_bowl_0
+  - first:
+      213: 1973293800554218295
+    second: noodle_bowl_1
+  - first:
+      213: -5938073029391283707
+    second: noodle_bowl_2
+  - first:
+      213: 4007374481885966667
+    second: noodle_bowl_3
+  - first:
+      213: -3416384228864448582
+    second: noodle_bowl_4
+  - first:
+      213: 2650480352071895422
+    second: noodle_bowl_5
+  - first:
+      213: 2537313570089459231
+    second: noodle_bowl_6
+  - first:
+      213: 8050377007863453823
+    second: noodle_bowl_7
+  - first:
+      213: -865318211749286425
+    second: noodle_bowl_8
+  - first:
+      213: -3792672903398261510
+    second: noodle_bowl_9
+  - first:
+      213: 6894008984202964865
+    second: noodle_bowl_10
+  - first:
+      213: -7715405707657928393
+    second: noodle_bowl_11
+  - first:
+      213: 5622783316911744538
+    second: noodle_bowl_12
+  - first:
+      213: 5889286801182191973
+    second: noodle_bowl_13
+  - first:
+      213: 5595665342738626315
+    second: noodle_bowl_14
+  - first:
+      213: 2673313945038703032
+    second: noodle_bowl_15
+  - first:
+      213: -8997012761827500422
+    second: noodle_bowl_16
+  - first:
+      213: -1867171725908777328
+    second: noodle_bowl_17
+  - first:
+      213: 8271917232451558601
+    second: noodle_bowl_18
+  - first:
+      213: -7130015918915473243
+    second: noodle_bowl_19
+  - first:
+      213: 262252715500140363
+    second: noodle_bowl_20
+  - first:
+      213: 352097467724012578
+    second: noodle_bowl_21
+  - first:
+      213: 5714601511321534217
+    second: noodle_bowl_22
+  - first:
+      213: 704264856819195313
+    second: noodle_bowl_23
+  - first:
+      213: -1249680859051946795
+    second: noodle_bowl_24
+  - first:
+      213: -2140840943436879722
+    second: noodle_bowl_25
+  - first:
+      213: -7401786858076209864
+    second: noodle_bowl_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: noodle_bowl_0
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 440
+        width: 80
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a124335dfb017090800000000000000
+      internalID: -8038630677229067865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noodle_bowl_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 431
+        width: 139
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733c383b14c826b10800000000000000
+      internalID: 1973293800554218295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noodle_bowl_2
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 501
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a0ec08a0ab79da0800000000000000
+      internalID: -5938073029391283707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noodle_bowl_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4137cafbdd0d9730800000000000000
+      internalID: 4007374481885966667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noodle_bowl_4
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 415
+        width: 124
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7a94605a09690d0800000000000000
+      internalID: -3416384228864448582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noodle_bowl_5
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 414
+        width: 89
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79c56d56d568c420800000000000000
+      internalID: 2650480352071895422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noodle_bowl_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 381
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ed5fcaf39563320800000000000000
+      internalID: 2537313570089459231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noodle_bowl_7
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 423
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f785ca56c3fa8bf60800000000000000
+      internalID: 8050377007863453823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noodle_bowl_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 325
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ede10bcba5cdf3f0800000000000000
+      internalID: -865318211749286425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noodle_bowl_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 501
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc72bbb618bd5bc0800000000000000
+      internalID: -3792672903398261510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noodle_bowl_10
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 310
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fe4c525a07caf50800000000000000
+      internalID: 6894008984202964865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noodle_bowl_11
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 327
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7312709036f5de490800000000000000
+      internalID: -7715405707657928393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noodle_bowl_12
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 288
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16648dc2a3280e40800000000000000
+      internalID: 5622783316911744538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noodle_bowl_13
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 247
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5617cd49423fab150800000000000000
+      internalID: 5889286801182191973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noodle_bowl_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 145
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0776eb6bfbc7ad40800000000000000
+      internalID: 5595665342738626315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noodle_bowl_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 145
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b941238ed4891520800000000000000
+      internalID: 2673313945038703032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noodle_bowl_16
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 35
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e9d93bf80342380800000000000000
+      internalID: -8997012761827500422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noodle_bowl_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 49
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096ed8e35397616e0800000000000000
+      internalID: -1867171725908777328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noodle_bowl_18
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 17
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc15bb75e0cbc270800000000000000
+      internalID: 8271917232451558601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noodle_bowl_19
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 21
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0b9265c481d0d90800000000000000
+      internalID: -7130015918915473243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noodle_bowl_20
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 31
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4774cc8475b3a300800000000000000
+      internalID: 262252715500140363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noodle_bowl_21
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 17
+        width: 91
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c110a08c6e2e400800000000000000
+      internalID: 352097467724012578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noodle_bowl_22
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 47
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ffa3b1cc75e4f40800000000000000
+      internalID: 5714601511321534217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noodle_bowl_23
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 39
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bddf7ae72d06c900800000000000000
+      internalID: 704264856819195313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noodle_bowl_24
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 15
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc8a9931ed38aee0800000000000000
+      internalID: -1249680859051946795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noodle_bowl_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 15
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69825dd21843a42e0800000000000000
+      internalID: -2140840943436879722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noodle_bowl_26
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 7
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d7635a112974990800000000000000
+      internalID: -7401786858076209864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      noodle_bowl_0: -8038630677229067865
+      noodle_bowl_1: 1973293800554218295
+      noodle_bowl_10: 6894008984202964865
+      noodle_bowl_11: -7715405707657928393
+      noodle_bowl_12: 5622783316911744538
+      noodle_bowl_13: 5889286801182191973
+      noodle_bowl_14: 5595665342738626315
+      noodle_bowl_15: 2673313945038703032
+      noodle_bowl_16: -8997012761827500422
+      noodle_bowl_17: -1867171725908777328
+      noodle_bowl_18: 8271917232451558601
+      noodle_bowl_19: -7130015918915473243
+      noodle_bowl_2: -5938073029391283707
+      noodle_bowl_20: 262252715500140363
+      noodle_bowl_21: 352097467724012578
+      noodle_bowl_22: 5714601511321534217
+      noodle_bowl_23: 704264856819195313
+      noodle_bowl_24: -1249680859051946795
+      noodle_bowl_25: -2140840943436879722
+      noodle_bowl_26: -7401786858076209864
+      noodle_bowl_3: 4007374481885966667
+      noodle_bowl_4: -3416384228864448582
+      noodle_bowl_5: 2650480352071895422
+      noodle_bowl_6: 2537313570089459231
+      noodle_bowl_7: 8050377007863453823
+      noodle_bowl_8: -865318211749286425
+      noodle_bowl_9: -3792672903398261510
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

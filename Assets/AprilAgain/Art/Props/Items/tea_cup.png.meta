@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: 885311a19f631014a8170f653d4dfc8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -232532909688101833
+    second: tea_cup_0
+  - first:
+      213: -852576207376763740
+    second: tea_cup_1
+  - first:
+      213: 3073879341329170115
+    second: tea_cup_2
+  - first:
+      213: -6923452256178503912
+    second: tea_cup_3
+  - first:
+      213: 8656205522484133779
+    second: tea_cup_4
+  - first:
+      213: 7194656793525827934
+    second: tea_cup_5
+  - first:
+      213: 3715967116019135708
+    second: tea_cup_6
+  - first:
+      213: 8627036750832835118
+    second: tea_cup_7
+  - first:
+      213: -6909663735701067291
+    second: tea_cup_8
+  - first:
+      213: 3254741420006008553
+    second: tea_cup_9
+  - first:
+      213: 2104791353088573554
+    second: tea_cup_10
+  - first:
+      213: 1910635783035751139
+    second: tea_cup_11
+  - first:
+      213: 1452690785245804783
+    second: tea_cup_12
+  - first:
+      213: -6886384804557012646
+    second: tea_cup_13
+  - first:
+      213: -8098861645814520282
+    second: tea_cup_14
+  - first:
+      213: 8809173320762584824
+    second: tea_cup_15
+  - first:
+      213: -1884172488897253597
+    second: tea_cup_16
+  - first:
+      213: 1332806287616482392
+    second: tea_cup_17
+  - first:
+      213: -7848489310585023055
+    second: tea_cup_18
+  - first:
+      213: -548255616952700416
+    second: tea_cup_19
+  - first:
+      213: 1811992340518846109
+    second: tea_cup_20
+  - first:
+      213: 3017698622857894092
+    second: tea_cup_21
+  - first:
+      213: -3670891391976046024
+    second: tea_cup_22
+  - first:
+      213: 4867939695425430978
+    second: tea_cup_23
+  - first:
+      213: -5811042977138939649
+    second: tea_cup_24
+  - first:
+      213: -5561308139948751301
+    second: tea_cup_25
+  - first:
+      213: 7588411202655578186
+    second: tea_cup_26
+  - first:
+      213: -7321914831184611275
+    second: tea_cup_27
+  - first:
+      213: -6696806689499992051
+    second: tea_cup_28
+  - first:
+      213: 5413083012303130811
+    second: tea_cup_29
+  - first:
+      213: 5824913216852704128
+    second: tea_cup_30
+  - first:
+      213: 4393478231227717556
+    second: tea_cup_31
+  - first:
+      213: 5169880144172364821
+    second: tea_cup_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tea_cup_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 505
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734e377fc80e5ccf0800000000000000
+      internalID: -232532909688101833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 483
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4bb5fd47a0b24f0800000000000000
+      internalID: -852576207376763740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 497
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce365e89fc98aa20800000000000000
+      internalID: 3073879341329170115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_3
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 465
+        width: 77
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f7a13ead4faef90800000000000000
+      internalID: -6923452256178503912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 471
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ff0766f05012870800000000000000
+      internalID: 8656205522484133779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 479
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5935fa1c3e88d360800000000000000
+      internalID: 7194656793525827934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 485
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd47a5b6764c19330800000000000000
+      internalID: 3715967116019135708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 473
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a91a5873469b770800000000000000
+      internalID: 8627036750832835118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_8
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 485
+        width: 69
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9a32cf071fb10a0800000000000000
+      internalID: -6909663735701067291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_9
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 479
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6653fb31a2b2d20800000000000000
+      internalID: 3254741420006008553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 479
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270882f7598b53d10800000000000000
+      internalID: 2104791353088573554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 471
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea0ff62f11f38a10800000000000000
+      internalID: 1910635783035751139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 371
+        width: 83
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe83f0f829ef82410800000000000000
+      internalID: 1452690785245804783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 451
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a514bb18185ae60a0800000000000000
+      internalID: -6886384804557012646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_14
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 469
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626a0342e301b9f80800000000000000
+      internalID: -8098861645814520282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 455
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fee6e45678704a70800000000000000
+      internalID: 8809173320762584824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_16
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 429
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f27b7aa131ad5e0800000000000000
+      internalID: -1884172488897253597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_17
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 449
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c99cfc1441f7210800000000000000
+      internalID: 1332806287616482392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_18
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 397
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5112b1e80941390800000000000000
+      internalID: -7848489310585023055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_19
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 407
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002fb61db643468f0800000000000000
+      internalID: -548255616952700416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 490
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9eba50fe6d752910800000000000000
+      internalID: 1811992340518846109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_21
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 271
+        width: 50
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc851a6b8e401e920800000000000000
+      internalID: 3017698622857894092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 89
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8328a3c6abf5e0dc0800000000000000
+      internalID: -3670891391976046024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_23
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 85
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c52bdd8c556e8340800000000000000
+      internalID: 4867939695425430978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 65
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8ea1553370b5fa0800000000000000
+      internalID: -5811042977138939649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_25
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 61
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36cdd736b342d2b0800000000000000
+      internalID: -5561308139948751301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 17
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4861ef98c37f4960800000000000000
+      internalID: 7588411202655578186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_27
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 47
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538b3931145536a90800000000000000
+      internalID: -7321914831184611275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_28
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 35
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00b4ee0cc92013a0800000000000000
+      internalID: -6696806689499992051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_29
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 37
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb09708e1522f1b40800000000000000
+      internalID: 5413083012303130811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_30
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 39
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bbbf185bf36d050800000000000000
+      internalID: 5824913216852704128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 31
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b75db47c25c8fc30800000000000000
+      internalID: 4393478231227717556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tea_cup_32
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 23
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5143db4999a1fb740800000000000000
+      internalID: 5169880144172364821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tea_cup_0: -232532909688101833
+      tea_cup_1: -852576207376763740
+      tea_cup_10: 2104791353088573554
+      tea_cup_11: 1910635783035751139
+      tea_cup_12: 1452690785245804783
+      tea_cup_13: -6886384804557012646
+      tea_cup_14: -8098861645814520282
+      tea_cup_15: 8809173320762584824
+      tea_cup_16: -1884172488897253597
+      tea_cup_17: 1332806287616482392
+      tea_cup_18: -7848489310585023055
+      tea_cup_19: -548255616952700416
+      tea_cup_2: 3073879341329170115
+      tea_cup_20: 1811992340518846109
+      tea_cup_21: 3017698622857894092
+      tea_cup_22: -3670891391976046024
+      tea_cup_23: 4867939695425430978
+      tea_cup_24: -5811042977138939649
+      tea_cup_25: -5561308139948751301
+      tea_cup_26: 7588411202655578186
+      tea_cup_27: -7321914831184611275
+      tea_cup_28: -6696806689499992051
+      tea_cup_29: 5413083012303130811
+      tea_cup_3: -6923452256178503912
+      tea_cup_30: 5824913216852704128
+      tea_cup_31: 4393478231227717556
+      tea_cup_32: 5169880144172364821
+      tea_cup_4: 8656205522484133779
+      tea_cup_5: 7194656793525827934
+      tea_cup_6: 3715967116019135708
+      tea_cup_7: 8627036750832835118
+      tea_cup_8: -6909663735701067291
+      tea_cup_9: 3254741420006008553
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

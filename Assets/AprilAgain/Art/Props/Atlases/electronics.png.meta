@@ -1,0 +1,2002 @@
+fileFormatVersion: 2
+guid: 168d31285f1f9fc4cbed123fbda5b575
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8125036003855909416
+    second: electronics_0
+  - first:
+      213: 8510303524360190439
+    second: electronics_1
+  - first:
+      213: -8696257547889720290
+    second: electronics_2
+  - first:
+      213: -2985838032912411090
+    second: electronics_3
+  - first:
+      213: 2784548134852159388
+    second: electronics_4
+  - first:
+      213: -7186958139628744625
+    second: electronics_5
+  - first:
+      213: 7315938630618596989
+    second: electronics_6
+  - first:
+      213: -1073354958187675848
+    second: electronics_7
+  - first:
+      213: 2753530622508232693
+    second: electronics_8
+  - first:
+      213: 2825087065270706235
+    second: electronics_9
+  - first:
+      213: 2601533503694721706
+    second: electronics_10
+  - first:
+      213: -4313549619650634291
+    second: electronics_11
+  - first:
+      213: 8852631008474463404
+    second: electronics_12
+  - first:
+      213: -8195655225612571049
+    second: electronics_13
+  - first:
+      213: 2832402768299890073
+    second: electronics_14
+  - first:
+      213: 745611762789042879
+    second: electronics_15
+  - first:
+      213: 2333623614444151627
+    second: electronics_16
+  - first:
+      213: 5083022388504325470
+    second: electronics_17
+  - first:
+      213: -1922606400975806334
+    second: electronics_18
+  - first:
+      213: 5414890430405880780
+    second: electronics_19
+  - first:
+      213: 46404607546839924
+    second: electronics_20
+  - first:
+      213: -4100422717569385071
+    second: electronics_21
+  - first:
+      213: -5496176385293579625
+    second: electronics_22
+  - first:
+      213: 3626402802994635332
+    second: electronics_23
+  - first:
+      213: -5597786802959679982
+    second: electronics_24
+  - first:
+      213: 8388195234387260202
+    second: electronics_25
+  - first:
+      213: -3115250459873953856
+    second: electronics_26
+  - first:
+      213: -5346471439630002585
+    second: electronics_27
+  - first:
+      213: -263105938385009609
+    second: electronics_28
+  - first:
+      213: 7213206761924985506
+    second: electronics_29
+  - first:
+      213: 8743040261123950392
+    second: electronics_30
+  - first:
+      213: 4540560491740942395
+    second: electronics_31
+  - first:
+      213: -4711206483250649944
+    second: electronics_32
+  - first:
+      213: 4445384972099021431
+    second: electronics_33
+  - first:
+      213: -5326120410559324181
+    second: electronics_34
+  - first:
+      213: -2274281843212065216
+    second: electronics_35
+  - first:
+      213: -868826819522716710
+    second: electronics_36
+  - first:
+      213: -1606666748996910306
+    second: electronics_37
+  - first:
+      213: 9217360973149293959
+    second: electronics_38
+  - first:
+      213: -6122640172126007695
+    second: electronics_39
+  - first:
+      213: 1628353252767461809
+    second: electronics_40
+  - first:
+      213: 4540922526003940869
+    second: electronics_41
+  - first:
+      213: -3881204931783584402
+    second: electronics_42
+  - first:
+      213: 4682181126953679540
+    second: electronics_43
+  - first:
+      213: 2820342539974822760
+    second: electronics_44
+  - first:
+      213: -1672162993247950064
+    second: electronics_45
+  - first:
+      213: -2070763682976323293
+    second: electronics_46
+  - first:
+      213: 4418437333418427898
+    second: electronics_47
+  - first:
+      213: 3567330586781869647
+    second: electronics_48
+  - first:
+      213: 8873176442884032375
+    second: electronics_49
+  - first:
+      213: 3732128894018364258
+    second: electronics_50
+  - first:
+      213: 2165260129403366877
+    second: electronics_51
+  - first:
+      213: 1230332783124102012
+    second: electronics_52
+  - first:
+      213: -1783365389964255199
+    second: electronics_53
+  - first:
+      213: 7399008621406596538
+    second: electronics_54
+  - first:
+      213: -6992562289822922402
+    second: electronics_55
+  - first:
+      213: 4526967492385547484
+    second: electronics_56
+  - first:
+      213: -2522358272069804220
+    second: electronics_57
+  - first:
+      213: 600407436395138082
+    second: electronics_58
+  - first:
+      213: -8919824790474056558
+    second: electronics_59
+  - first:
+      213: 6598738737636952093
+    second: electronics_60
+  - first:
+      213: -3075475768834269708
+    second: electronics_61
+  - first:
+      213: -3958745764637774163
+    second: electronics_62
+  - first:
+      213: 1717483744101341179
+    second: electronics_63
+  - first:
+      213: -312049142232560539
+    second: electronics_64
+  - first:
+      213: -4675582122153558621
+    second: electronics_65
+  - first:
+      213: -2449747841094956658
+    second: electronics_66
+  - first:
+      213: 2952723435007293210
+    second: electronics_67
+  - first:
+      213: 4700257843729187154
+    second: electronics_68
+  - first:
+      213: -215755697869464494
+    second: electronics_69
+  - first:
+      213: 1123029738461755994
+    second: electronics_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: electronics_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 417
+        width: 427
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddb8e28dc21e3f80800000000000000
+      internalID: -8125036003855909416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_1
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 977
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e97e3447fbaa1670800000000000000
+      internalID: 8510303524360190439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_2
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 973
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1449beb5dfa05780800000000000000
+      internalID: -8696257547889720290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_3
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 938
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e269763f02c2096d0800000000000000
+      internalID: -2985838032912411090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_4
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 998
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97e6d586c3b4a620800000000000000
+      internalID: 2784548134852159388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_5
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 977
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4093df66abc24c90800000000000000
+      internalID: -7186958139628744625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_6
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 953
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76449c4c6f678560800000000000000
+      internalID: 7315938630618596989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_7
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 403
+        width: 631
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fb1573a5daa11f0800000000000000
+      internalID: -1073354958187675848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_8
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 930
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff63c82381863620800000000000000
+      internalID: 2753530622508232693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_9
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 949
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30e209c7b9b43720800000000000000
+      internalID: 2825087065270706235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_10
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 427
+        width: 455
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2500720f08a1420800000000000000
+      internalID: 2601533503694721706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 738
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdd3bf99713324c0800000000000000
+      internalID: -4313549619650634291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 729
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac7abbbffcdada70800000000000000
+      internalID: 8852631008474463404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_13
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 614
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ee9c7aefe234e80800000000000000
+      internalID: -8195655225612571049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9951951af47be4720800000000000000
+      internalID: 2832402768299890073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_15
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 519
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbac465a2f1f85a00800000000000000
+      internalID: 745611762789042879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_16
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 511
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4328623052b26020800000000000000
+      internalID: 2333623614444151627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_17
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 511
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d682c6ee58a8640800000000000000
+      internalID: 5083022388504325470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_18
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 519
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280e1fa2aa78155e0800000000000000
+      internalID: -1922606400975806334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_19
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 481
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb210a382e852b40800000000000000
+      internalID: 5414890430405880780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_20
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 475
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47355c4aebcd4a000800000000000000
+      internalID: 46404607546839924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_21
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 477
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19db55a634f5817c0800000000000000
+      internalID: -4100422717569385071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_22
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 474
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a8fa392b8a9b3b0800000000000000
+      internalID: -5496176385293579625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_23
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 489
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442e9f4c222935230800000000000000
+      internalID: 3626402802994635332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_24
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 495
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ef731af8aa052b0800000000000000
+      internalID: -5597786802959679982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_25
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 461
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23f6448f1bd86470800000000000000
+      internalID: 8388195234387260202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_26
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 463
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c737d8463864c4d0800000000000000
+      internalID: -3115250459873953856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_27
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 419
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766151f6d848dc5b0800000000000000
+      internalID: -5346471439630002585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_28
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 477
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73404440b82495cf0800000000000000
+      internalID: -263105938385009609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_29
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 469
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a20cff25557a1460800000000000000
+      internalID: 7213206761924985506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_30
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 455
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8374b3d7bc4855970800000000000000
+      internalID: 8743040261123950392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_31
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 475
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b305467d5bf430f30800000000000000
+      internalID: 4540560491740942395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_32
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 477
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4e35e1aae6e9eb0800000000000000
+      internalID: -4711206483250649944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_33
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 477
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a62d7541e21bd30800000000000000
+      internalID: 4445384972099021431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_34
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 417
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef57a1a4b1d516b0800000000000000
+      internalID: -5326120410559324181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_35
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 465
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046693896b02070e0800000000000000
+      internalID: -2274281843212065216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_36
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 463
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb14036c9e41f3f0800000000000000
+      internalID: -868826819522716710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_37
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 465
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e138b91ba19f3b9e0800000000000000
+      internalID: -1606666748996910306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_38
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 465
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78dcc1b28f4aaef70800000000000000
+      internalID: 9217360973149293959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_39
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 465
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e84ecd333080ba0800000000000000
+      internalID: -6122640172126007695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_40
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 464
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b17e00f7a2199610800000000000000
+      internalID: 1628353252767461809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_41
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 439
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ec8038af8940f30800000000000000
+      internalID: 4540922526003940869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_42
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 423
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e659b849da0332ac0800000000000000
+      internalID: -3881204931783584402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_43
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 415
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4babc1e7de27af040800000000000000
+      internalID: 4682181126953679540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_44
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 437
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b4f18e89ed32720800000000000000
+      internalID: 2820342539974822760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_45
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 425
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01be6ecfd984bc8e0800000000000000
+      internalID: -1672162993247950064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 415
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329aa66d66b2343e0800000000000000
+      internalID: -2070763682976323293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_47
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 414
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5cab84851715d30800000000000000
+      internalID: 4418437333418427898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_48
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 421
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46e485a444b18130800000000000000
+      internalID: 3567330586781869647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_49
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 413
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777877376fad32b70800000000000000
+      internalID: 8873176442884032375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_50
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 445
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263afe7947f2bc330800000000000000
+      internalID: 3732128894018364258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_51
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 406
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd676b9d9c8c0e10800000000000000
+      internalID: 2165260129403366877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_52
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 0
+        width: 489
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b31adc525031110800000000000000
+      internalID: 1230332783124102012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_53
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 15
+        width: 521
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120647260a63047e0800000000000000
+      internalID: -1783365389964255199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_54
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 383
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd2ef8b32f8ea660800000000000000
+      internalID: 7399008621406596538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_55
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 110
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59005545ad65fe90800000000000000
+      internalID: -6992562289822922402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_56
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 15
+        width: 103
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4a16d03f403de30800000000000000
+      internalID: 4526967492385547484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_57
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 85
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fd20df388cefcd0800000000000000
+      internalID: -2522358272069804220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_58
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 93
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cc5ded163155800800000000000000
+      internalID: 600407436395138082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 47
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c1211cc9a663480800000000000000
+      internalID: -8919824790474056558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_60
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 0
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18c5769bed639b50800000000000000
+      internalID: 6598738737636952093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_61
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 73
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fddf433517b155d0800000000000000
+      internalID: -3075475768834269708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_62
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 0
+        width: 233
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daeeeae83b5bf09c0800000000000000
+      internalID: -3958745764637774163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_63
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 51
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf71baa9d5ab5d710800000000000000
+      internalID: 1717483744101341179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_64
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 0
+        width: 145
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c43cc55f06babf0800000000000000
+      internalID: -312049142232560539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_65
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 39
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adbeda05defc1fb0800000000000000
+      internalID: -4675582122153558621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_66
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 37
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89414e515fb00ed0800000000000000
+      internalID: -2449747841094956658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_67
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17b497e15e2af820800000000000000
+      internalID: 2952723435007293210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_68
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 31
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251c8381b9baa3140800000000000000
+      internalID: 4700257843729187154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_69
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 34
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c593ef55b710df0800000000000000
+      internalID: -215755697869464494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electronics_70
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 15
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a7639d89dc59f00800000000000000
+      internalID: 1123029738461755994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      electronics_0: -8125036003855909416
+      electronics_1: 8510303524360190439
+      electronics_10: 2601533503694721706
+      electronics_11: -4313549619650634291
+      electronics_12: 8852631008474463404
+      electronics_13: -8195655225612571049
+      electronics_14: 2832402768299890073
+      electronics_15: 745611762789042879
+      electronics_16: 2333623614444151627
+      electronics_17: 5083022388504325470
+      electronics_18: -1922606400975806334
+      electronics_19: 5414890430405880780
+      electronics_2: -8696257547889720290
+      electronics_20: 46404607546839924
+      electronics_21: -4100422717569385071
+      electronics_22: -5496176385293579625
+      electronics_23: 3626402802994635332
+      electronics_24: -5597786802959679982
+      electronics_25: 8388195234387260202
+      electronics_26: -3115250459873953856
+      electronics_27: -5346471439630002585
+      electronics_28: -263105938385009609
+      electronics_29: 7213206761924985506
+      electronics_3: -2985838032912411090
+      electronics_30: 8743040261123950392
+      electronics_31: 4540560491740942395
+      electronics_32: -4711206483250649944
+      electronics_33: 4445384972099021431
+      electronics_34: -5326120410559324181
+      electronics_35: -2274281843212065216
+      electronics_36: -868826819522716710
+      electronics_37: -1606666748996910306
+      electronics_38: 9217360973149293959
+      electronics_39: -6122640172126007695
+      electronics_4: 2784548134852159388
+      electronics_40: 1628353252767461809
+      electronics_41: 4540922526003940869
+      electronics_42: -3881204931783584402
+      electronics_43: 4682181126953679540
+      electronics_44: 2820342539974822760
+      electronics_45: -1672162993247950064
+      electronics_46: -2070763682976323293
+      electronics_47: 4418437333418427898
+      electronics_48: 3567330586781869647
+      electronics_49: 8873176442884032375
+      electronics_5: -7186958139628744625
+      electronics_50: 3732128894018364258
+      electronics_51: 2165260129403366877
+      electronics_52: 1230332783124102012
+      electronics_53: -1783365389964255199
+      electronics_54: 7399008621406596538
+      electronics_55: -6992562289822922402
+      electronics_56: 4526967492385547484
+      electronics_57: -2522358272069804220
+      electronics_58: 600407436395138082
+      electronics_59: -8919824790474056558
+      electronics_6: 7315938630618596989
+      electronics_60: 6598738737636952093
+      electronics_61: -3075475768834269708
+      electronics_62: -3958745764637774163
+      electronics_63: 1717483744101341179
+      electronics_64: -312049142232560539
+      electronics_65: -4675582122153558621
+      electronics_66: -2449747841094956658
+      electronics_67: 2952723435007293210
+      electronics_68: 4700257843729187154
+      electronics_69: -215755697869464494
+      electronics_7: -1073354958187675848
+      electronics_70: 1123029738461755994
+      electronics_8: 2753530622508232693
+      electronics_9: 2825087065270706235
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

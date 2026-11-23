@@ -1,0 +1,1352 @@
+fileFormatVersion: 2
+guid: 818b581a384238f4192f38baf56463e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6541464102680319130
+    second: fencing_kit_with_mask_0
+  - first:
+      213: 1154712537011720671
+    second: fencing_kit_with_mask_1
+  - first:
+      213: 8215295167542587907
+    second: fencing_kit_with_mask_2
+  - first:
+      213: -4853692525241560091
+    second: fencing_kit_with_mask_3
+  - first:
+      213: 6493913884406003066
+    second: fencing_kit_with_mask_4
+  - first:
+      213: 9126585060450748871
+    second: fencing_kit_with_mask_5
+  - first:
+      213: -1568304929629141598
+    second: fencing_kit_with_mask_6
+  - first:
+      213: 4668636329484713797
+    second: fencing_kit_with_mask_7
+  - first:
+      213: 2926452524042748753
+    second: fencing_kit_with_mask_8
+  - first:
+      213: -7537848203046894096
+    second: fencing_kit_with_mask_9
+  - first:
+      213: 934946248318138065
+    second: fencing_kit_with_mask_10
+  - first:
+      213: 527431289496142967
+    second: fencing_kit_with_mask_11
+  - first:
+      213: 3899667041323354067
+    second: fencing_kit_with_mask_12
+  - first:
+      213: 8933160555330068498
+    second: fencing_kit_with_mask_13
+  - first:
+      213: 5299144451379192788
+    second: fencing_kit_with_mask_14
+  - first:
+      213: -2901732591422070854
+    second: fencing_kit_with_mask_15
+  - first:
+      213: -2220961928303068280
+    second: fencing_kit_with_mask_16
+  - first:
+      213: -3161509531039703782
+    second: fencing_kit_with_mask_17
+  - first:
+      213: -2238900063270305637
+    second: fencing_kit_with_mask_18
+  - first:
+      213: 5050401447304676372
+    second: fencing_kit_with_mask_19
+  - first:
+      213: 9138665356960596006
+    second: fencing_kit_with_mask_20
+  - first:
+      213: -3192780800221705173
+    second: fencing_kit_with_mask_21
+  - first:
+      213: -1501638267378608799
+    second: fencing_kit_with_mask_22
+  - first:
+      213: 1353785578951250285
+    second: fencing_kit_with_mask_23
+  - first:
+      213: -7633079656778833870
+    second: fencing_kit_with_mask_24
+  - first:
+      213: 1115975214824404061
+    second: fencing_kit_with_mask_25
+  - first:
+      213: 5673850411014873572
+    second: fencing_kit_with_mask_26
+  - first:
+      213: 4395157585228941489
+    second: fencing_kit_with_mask_27
+  - first:
+      213: 3151827716025603542
+    second: fencing_kit_with_mask_28
+  - first:
+      213: 351297998019504686
+    second: fencing_kit_with_mask_29
+  - first:
+      213: 4936816206221899595
+    second: fencing_kit_with_mask_30
+  - first:
+      213: 3734733589624518773
+    second: fencing_kit_with_mask_31
+  - first:
+      213: 1029308123590338705
+    second: fencing_kit_with_mask_32
+  - first:
+      213: 4865642793179645597
+    second: fencing_kit_with_mask_33
+  - first:
+      213: 942969146201025253
+    second: fencing_kit_with_mask_34
+  - first:
+      213: -5206145068276919049
+    second: fencing_kit_with_mask_35
+  - first:
+      213: 1527242191940310209
+    second: fencing_kit_with_mask_36
+  - first:
+      213: -4080953314154393493
+    second: fencing_kit_with_mask_37
+  - first:
+      213: 6862927095111503848
+    second: fencing_kit_with_mask_38
+  - first:
+      213: 8359043756750982471
+    second: fencing_kit_with_mask_39
+  - first:
+      213: -7644532824331639107
+    second: fencing_kit_with_mask_40
+  - first:
+      213: -2712056426496692718
+    second: fencing_kit_with_mask_41
+  - first:
+      213: 8039857374388496993
+    second: fencing_kit_with_mask_42
+  - first:
+      213: 3426075701247028423
+    second: fencing_kit_with_mask_43
+  - first:
+      213: 2559557532513768768
+    second: fencing_kit_with_mask_44
+  - first:
+      213: 6553785326948785307
+    second: fencing_kit_with_mask_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 614
+        width: 434
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94da3771f2f7ca50800000000000000
+      internalID: 6541464102680319130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_1
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 0
+        width: 717
+        height: 1241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1164a3fec560010800000000000000
+      internalID: 1154712537011720671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_2
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1156
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302fb5aad67920270800000000000000
+      internalID: 8215295167542587907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_3
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1084
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e312004d5834acb0800000000000000
+      internalID: -4853692525241560091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_4
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1114
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a753ff985440f1a50800000000000000
+      internalID: 6493913884406003066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_5
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 899
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9cd8cf1c428ae70800000000000000
+      internalID: 9126585060450748871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_6
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 823
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a506f9c9f24c3ae0800000000000000
+      internalID: -1568304929629141598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_7
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 793
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f7b6491045ac040800000000000000
+      internalID: 4668636329484713797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_8
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 799
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1530d9bc019dc9820800000000000000
+      internalID: 2926452524042748753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_9
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 781
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5c29e1ffe246790800000000000000
+      internalID: -7537848203046894096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 664
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d63617c8a899fc00800000000000000
+      internalID: 934946248318138065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 630
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77408dd96ffc15700800000000000000
+      internalID: 527431289496142967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 650
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7806443866e1630800000000000000
+      internalID: 3899667041323354067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_13
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 647
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210eaf5f136f8fb70800000000000000
+      internalID: 8933160555330068498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 570
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d360fd6dc75a8940800000000000000
+      internalID: 5299144451379192788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 620
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf1d170599fab7d0800000000000000
+      internalID: -2901732591422070854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 618
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b34d3b4ee8d21e0800000000000000
+      internalID: -2220961928303068280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_17
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 618
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ddd58f4df0024d0800000000000000
+      internalID: -3161509531039703782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_18
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 607
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b908c213144dde0e0800000000000000
+      internalID: -2238900063270305637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_19
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 620
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414c6bfab51a61640800000000000000
+      internalID: 5050401447304676372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_20
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 618
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6200ec239bf03de70800000000000000
+      internalID: 9138665356960596006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_21
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 610
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c091d37c6f0b3d0800000000000000
+      internalID: -3192780800221705173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 542
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165d3cba3fb192be0800000000000000
+      internalID: -1501638267378608799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_23
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 549
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d619f67bfcc99c210800000000000000
+      internalID: 1353785578951250285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_24
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 596
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230ef637e7ad11690800000000000000
+      internalID: -7633079656778833870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_25
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 596
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54bfb19b8dbc7f00800000000000000
+      internalID: 1115975214824404061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 488
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1ee3133e09dbe40800000000000000
+      internalID: 5673850411014873572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_27
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 519
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b84f67898cbefc30800000000000000
+      internalID: 4395157585228941489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_28
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 533
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5dfeecb9a8dbb20800000000000000
+      internalID: 3151827716025603542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_29
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 519
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a224efaaf00e400800000000000000
+      internalID: 351297998019504686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_30
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 513
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b477f35ee28138440800000000000000
+      internalID: 4936816206221899595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_31
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 485
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578f94c896074d330800000000000000
+      internalID: 3734733589624518773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_32
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 451
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198a60fe846d84e00800000000000000
+      internalID: 1029308123590338705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_33
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 389
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d968963575c368340800000000000000
+      internalID: 4865642793179645597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_34
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 373
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea27714179161d00800000000000000
+      internalID: 942969146201025253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 5
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4d33cc4ae00c7b0800000000000000
+      internalID: -5206145068276919049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_36
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 208
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c457909eaad13510800000000000000
+      internalID: 1527242191940310209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_37
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 252
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60dfd4259a8d57c0800000000000000
+      internalID: -4080953314154393493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_38
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 208
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef4687e4d30e3f50800000000000000
+      internalID: 6862927095111503848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_39
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 220
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74dc617320a410470800000000000000
+      internalID: 8359043756750982471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_40
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 181
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db626e316e929e590800000000000000
+      internalID: -7644532824331639107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_41
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 178
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e69d79c07dc5ad0800000000000000
+      internalID: -2712056426496692718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_42
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 180
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a2b3d5faf439f60800000000000000
+      internalID: 8039857374388496993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_43
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 154
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc2d6ab2bddb8f20800000000000000
+      internalID: 3426075701247028423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_44
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 119
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04598a3c300658320800000000000000
+      internalID: 2559557532513768768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fencing_kit_with_mask_45
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 35
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c13fa0809b3fa50800000000000000
+      internalID: 6553785326948785307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fencing_kit_with_mask_0: 6541464102680319130
+      fencing_kit_with_mask_1: 1154712537011720671
+      fencing_kit_with_mask_10: 934946248318138065
+      fencing_kit_with_mask_11: 527431289496142967
+      fencing_kit_with_mask_12: 3899667041323354067
+      fencing_kit_with_mask_13: 8933160555330068498
+      fencing_kit_with_mask_14: 5299144451379192788
+      fencing_kit_with_mask_15: -2901732591422070854
+      fencing_kit_with_mask_16: -2220961928303068280
+      fencing_kit_with_mask_17: -3161509531039703782
+      fencing_kit_with_mask_18: -2238900063270305637
+      fencing_kit_with_mask_19: 5050401447304676372
+      fencing_kit_with_mask_2: 8215295167542587907
+      fencing_kit_with_mask_20: 9138665356960596006
+      fencing_kit_with_mask_21: -3192780800221705173
+      fencing_kit_with_mask_22: -1501638267378608799
+      fencing_kit_with_mask_23: 1353785578951250285
+      fencing_kit_with_mask_24: -7633079656778833870
+      fencing_kit_with_mask_25: 1115975214824404061
+      fencing_kit_with_mask_26: 5673850411014873572
+      fencing_kit_with_mask_27: 4395157585228941489
+      fencing_kit_with_mask_28: 3151827716025603542
+      fencing_kit_with_mask_29: 351297998019504686
+      fencing_kit_with_mask_3: -4853692525241560091
+      fencing_kit_with_mask_30: 4936816206221899595
+      fencing_kit_with_mask_31: 3734733589624518773
+      fencing_kit_with_mask_32: 1029308123590338705
+      fencing_kit_with_mask_33: 4865642793179645597
+      fencing_kit_with_mask_34: 942969146201025253
+      fencing_kit_with_mask_35: -5206145068276919049
+      fencing_kit_with_mask_36: 1527242191940310209
+      fencing_kit_with_mask_37: -4080953314154393493
+      fencing_kit_with_mask_38: 6862927095111503848
+      fencing_kit_with_mask_39: 8359043756750982471
+      fencing_kit_with_mask_4: 6493913884406003066
+      fencing_kit_with_mask_40: -7644532824331639107
+      fencing_kit_with_mask_41: -2712056426496692718
+      fencing_kit_with_mask_42: 8039857374388496993
+      fencing_kit_with_mask_43: 3426075701247028423
+      fencing_kit_with_mask_44: 2559557532513768768
+      fencing_kit_with_mask_45: 6553785326948785307
+      fencing_kit_with_mask_5: 9126585060450748871
+      fencing_kit_with_mask_6: -1568304929629141598
+      fencing_kit_with_mask_7: 4668636329484713797
+      fencing_kit_with_mask_8: 2926452524042748753
+      fencing_kit_with_mask_9: -7537848203046894096
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

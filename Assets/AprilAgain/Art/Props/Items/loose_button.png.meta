@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 05aecefa4af1edd49b83cf2808d2887b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8588240384061236027
+    second: loose_button_0
+  - first:
+      213: 6434766216475689052
+    second: loose_button_1
+  - first:
+      213: 2048197507445512959
+    second: loose_button_2
+  - first:
+      213: -2093281840620456740
+    second: loose_button_3
+  - first:
+      213: 7340684366557520564
+    second: loose_button_4
+  - first:
+      213: -1767459800687874821
+    second: loose_button_5
+  - first:
+      213: 377909024174775254
+    second: loose_button_6
+  - first:
+      213: -7581873539382236938
+    second: loose_button_7
+  - first:
+      213: -7853413453660223826
+    second: loose_button_8
+  - first:
+      213: -3752536878721742883
+    second: loose_button_9
+  - first:
+      213: -3883256425154968469
+    second: loose_button_10
+  - first:
+      213: 8276272601839685684
+    second: loose_button_11
+  - first:
+      213: 1317009741191583926
+    second: loose_button_12
+  - first:
+      213: -3750284699516151426
+    second: loose_button_13
+  - first:
+      213: -5675837846488896484
+    second: loose_button_14
+  - first:
+      213: -6039779888548904398
+    second: loose_button_15
+  - first:
+      213: 4848095069168705288
+    second: loose_button_16
+  - first:
+      213: 1303979836476625466
+    second: loose_button_17
+  - first:
+      213: -6789227013848630139
+    second: loose_button_18
+  - first:
+      213: -8956033769361816899
+    second: loose_button_19
+  - first:
+      213: -8947512400460611159
+    second: loose_button_20
+  - first:
+      213: -1276924152663830453
+    second: loose_button_21
+  - first:
+      213: -4294943659539632760
+    second: loose_button_22
+  - first:
+      213: 2893663215869018855
+    second: loose_button_23
+  - first:
+      213: 7178858145770470071
+    second: loose_button_24
+  - first:
+      213: 2390760794089170279
+    second: loose_button_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: loose_button_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 363
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3362a9702f8f2770800000000000000
+      internalID: 8588240384061236027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose_button_1
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 477
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50c7b1f7c1ec4950800000000000000
+      internalID: 6434766216475689052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose_button_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 449
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa512df7c8ac6c10800000000000000
+      internalID: 2048197507445512959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose_button_3
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 451
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4ba03b14b23f2e0800000000000000
+      internalID: -2093281840620456740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose_button_4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 443
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2acece9895fd560800000000000000
+      internalID: 7340684366557520564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose_button_5
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 399
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc6739fca8b877e0800000000000000
+      internalID: -1767459800687874821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose_button_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 355
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db1a57514a9e3500800000000000000
+      internalID: 377909024174775254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose_button_7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 389
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f82039bf26c7c690800000000000000
+      internalID: -7581873539382236938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose_button_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 366
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea60f44b212130390800000000000000
+      internalID: -7853413453660223826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose_button_9
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 385
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7cc31379f4cebc0800000000000000
+      internalID: -3752536878721742883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose_button_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 431
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6482ee0bd6eb1ac0800000000000000
+      internalID: -3883256425154968469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose_button_11
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 417
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430d3f0f41a3bd270800000000000000
+      internalID: 8276272601839685684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose_button_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 349
+        width: 27
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8147db165f64210800000000000000
+      internalID: 1317009741191583926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose_button_13
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 391
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79d1c68fef44fbc0800000000000000
+      internalID: -3750284699516151426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose_button_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 383
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1caf4dec8f5b31b0800000000000000
+      internalID: -5675837846488896484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose_button_15
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 323
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2328e7501346e2ca0800000000000000
+      internalID: -6039779888548904398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose_button_16
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 335
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f9f1377c4e74340800000000000000
+      internalID: 4848095069168705288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose_button_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 227
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a321673a0caa81210800000000000000
+      internalID: 1303979836476625466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose_button_18
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 109
+        width: 65
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cf0147002d7c1a0800000000000000
+      internalID: -6789227013848630139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose_button_19
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 43
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db249c4ecb6c5b380800000000000000
+      internalID: -8956033769361816899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose_button_20
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 53
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a18423b0ec04d380800000000000000
+      internalID: -8947512400460611159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose_button_21
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 69
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b401b53af34774ee0800000000000000
+      internalID: -1276924152663830453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose_button_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88de2da4f7b4564c0800000000000000
+      internalID: -4294943659539632760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose_button_23
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2cc711d5b582820800000000000000
+      internalID: 2893663215869018855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose_button_24
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 47
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba7197c27d60a360800000000000000
+      internalID: 7178858145770470071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose_button_25
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 37
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765ad928640bd2120800000000000000
+      internalID: 2390760794089170279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      loose_button_0: 8588240384061236027
+      loose_button_1: 6434766216475689052
+      loose_button_10: -3883256425154968469
+      loose_button_11: 8276272601839685684
+      loose_button_12: 1317009741191583926
+      loose_button_13: -3750284699516151426
+      loose_button_14: -5675837846488896484
+      loose_button_15: -6039779888548904398
+      loose_button_16: 4848095069168705288
+      loose_button_17: 1303979836476625466
+      loose_button_18: -6789227013848630139
+      loose_button_19: -8956033769361816899
+      loose_button_2: 2048197507445512959
+      loose_button_20: -8947512400460611159
+      loose_button_21: -1276924152663830453
+      loose_button_22: -4294943659539632760
+      loose_button_23: 2893663215869018855
+      loose_button_24: 7178858145770470071
+      loose_button_25: 2390760794089170279
+      loose_button_3: -2093281840620456740
+      loose_button_4: 7340684366557520564
+      loose_button_5: -1767459800687874821
+      loose_button_6: 377909024174775254
+      loose_button_7: -7581873539382236938
+      loose_button_8: -7853413453660223826
+      loose_button_9: -3752536878721742883
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

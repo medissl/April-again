@@ -1,0 +1,1950 @@
+fileFormatVersion: 2
+guid: d5ee5238eefd84e4884f0faa2039a5e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8716385476540160566
+    second: akira_expressions_1_0
+  - first:
+      213: 1105535689686263099
+    second: akira_expressions_1_1
+  - first:
+      213: -4248275444967361338
+    second: akira_expressions_1_2
+  - first:
+      213: 9187252028090577859
+    second: akira_expressions_1_3
+  - first:
+      213: 9001085106259737373
+    second: akira_expressions_1_4
+  - first:
+      213: 575385549467014546
+    second: akira_expressions_1_5
+  - first:
+      213: 6424745032237629431
+    second: akira_expressions_1_6
+  - first:
+      213: 4817958615307940006
+    second: akira_expressions_1_7
+  - first:
+      213: -2123438705792385980
+    second: akira_expressions_1_8
+  - first:
+      213: -2712442342971886370
+    second: akira_expressions_1_9
+  - first:
+      213: 7332257230023664626
+    second: akira_expressions_1_10
+  - first:
+      213: -6037825954148201723
+    second: akira_expressions_1_11
+  - first:
+      213: 7153568741663751092
+    second: akira_expressions_1_12
+  - first:
+      213: 1388701560432896524
+    second: akira_expressions_1_13
+  - first:
+      213: -8235097764686055597
+    second: akira_expressions_1_14
+  - first:
+      213: -5096531633432565120
+    second: akira_expressions_1_15
+  - first:
+      213: -4289640393157402084
+    second: akira_expressions_1_16
+  - first:
+      213: 6026374024017065619
+    second: akira_expressions_1_17
+  - first:
+      213: -8958308397860644293
+    second: akira_expressions_1_18
+  - first:
+      213: -4783634953014347618
+    second: akira_expressions_1_19
+  - first:
+      213: -7328943655712923807
+    second: akira_expressions_1_20
+  - first:
+      213: -4372886022072273663
+    second: akira_expressions_1_21
+  - first:
+      213: 7683494119030831313
+    second: akira_expressions_1_22
+  - first:
+      213: -3412756105032936456
+    second: akira_expressions_1_23
+  - first:
+      213: -4122789267530914918
+    second: akira_expressions_1_24
+  - first:
+      213: -5934155329822349380
+    second: akira_expressions_1_25
+  - first:
+      213: -4203413300791757889
+    second: akira_expressions_1_26
+  - first:
+      213: -7236207715760184810
+    second: akira_expressions_1_27
+  - first:
+      213: -4931308156025208325
+    second: akira_expressions_1_28
+  - first:
+      213: -2704256736479077519
+    second: akira_expressions_1_29
+  - first:
+      213: 8004250165821142126
+    second: akira_expressions_1_30
+  - first:
+      213: -5526309467336034179
+    second: akira_expressions_1_31
+  - first:
+      213: -5661130180081377426
+    second: akira_expressions_1_32
+  - first:
+      213: -8126905411112457293
+    second: akira_expressions_1_33
+  - first:
+      213: 5795538987758191525
+    second: akira_expressions_1_34
+  - first:
+      213: -8991290131094142830
+    second: akira_expressions_1_35
+  - first:
+      213: 726639667640875543
+    second: akira_expressions_1_36
+  - first:
+      213: -5314985216682236310
+    second: akira_expressions_1_37
+  - first:
+      213: 4421105431644893081
+    second: akira_expressions_1_38
+  - first:
+      213: -3964449785232654925
+    second: akira_expressions_1_39
+  - first:
+      213: -4395148496241603933
+    second: akira_expressions_1_40
+  - first:
+      213: 8346707897155163864
+    second: akira_expressions_1_41
+  - first:
+      213: -3504219951987789823
+    second: akira_expressions_1_42
+  - first:
+      213: -591784045749990034
+    second: akira_expressions_1_43
+  - first:
+      213: -6545984118653372094
+    second: akira_expressions_1_44
+  - first:
+      213: 5007620346584268373
+    second: akira_expressions_1_45
+  - first:
+      213: -416192762948477660
+    second: akira_expressions_1_46
+  - first:
+      213: -6698458867515154355
+    second: akira_expressions_1_47
+  - first:
+      213: 2571895820850491470
+    second: akira_expressions_1_48
+  - first:
+      213: 6748734031301136602
+    second: akira_expressions_1_49
+  - first:
+      213: -5103342903388971917
+    second: akira_expressions_1_50
+  - first:
+      213: -2396198099844212403
+    second: akira_expressions_1_51
+  - first:
+      213: -3854407715184255343
+    second: akira_expressions_1_52
+  - first:
+      213: 1814723838775339846
+    second: akira_expressions_1_53
+  - first:
+      213: -9004942231164983172
+    second: akira_expressions_1_54
+  - first:
+      213: -6272592131897149147
+    second: akira_expressions_1_55
+  - first:
+      213: -5988484373263457280
+    second: akira_expressions_1_56
+  - first:
+      213: -2876621938170655801
+    second: akira_expressions_1_57
+  - first:
+      213: -8088318255459995010
+    second: akira_expressions_1_58
+  - first:
+      213: -7215594114889964389
+    second: akira_expressions_1_59
+  - first:
+      213: 4816329454714111418
+    second: akira_expressions_1_60
+  - first:
+      213: 1967157316719633123
+    second: akira_expressions_1_61
+  - first:
+      213: -1084194147669281397
+    second: akira_expressions_1_62
+  - first:
+      213: -7834569611501178035
+    second: akira_expressions_1_63
+  - first:
+      213: -4351349149435858919
+    second: akira_expressions_1_64
+  - first:
+      213: 440672740676364849
+    second: akira_expressions_1_65
+  - first:
+      213: -6314529134088620671
+    second: akira_expressions_1_66
+  - first:
+      213: -5781544151022774370
+    second: akira_expressions_1_67
+  - first:
+      213: 3632193179758930219
+    second: akira_expressions_1_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: akira_expressions_1_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 636
+        width: 516
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac52379279d290780800000000000000
+      internalID: -8716385476540160566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1243
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3524463ad6a75f00800000000000000
+      internalID: 1105535689686263099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1243
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4b4babdf71b05c0800000000000000
+      internalID: -4248275444967361338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_3
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 634
+        width: 574
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3735c1b0daf7f70800000000000000
+      internalID: 9187252028090577859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1169
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bbbafd6374aec70800000000000000
+      internalID: 9001085106259737373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_5
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1106
+        width: 83
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295dfd4db1e2cf700800000000000000
+      internalID: 575385549467014546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_6
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1183
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffbafa2197492950800000000000000
+      internalID: 6424745032237629431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_7
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1164
+        width: 112
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a076ff75d3dcd240800000000000000
+      internalID: 4817958615307940006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_8
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1137
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cfdee5fb70882e0800000000000000
+      internalID: -2123438705792385980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_9
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1167
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4be696f087b5ad0800000000000000
+      internalID: -2712442342971886370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1088
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3a95d4a1961c560800000000000000
+      internalID: 7332257230023664626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_11
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1106
+        width: 29
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bcc53d845553ca0800000000000000
+      internalID: -6037825954148201723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_12
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1132
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbb43b8ed4964360800000000000000
+      internalID: 7153568741663751092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_13
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1136
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a22a826b8a54310800000000000000
+      internalID: 1388701560432896524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_14
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1136
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3573645e63e07bd80800000000000000
+      internalID: -8235097764686055597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_15
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1134
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ae5b26b7b7549b0800000000000000
+      internalID: -5096531633432565120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_16
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1142
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12afa73ac22874c0800000000000000
+      internalID: -4289640393157402084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_17
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1131
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396bd29ee3bf1a350800000000000000
+      internalID: 6026374024017065619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_18
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1098
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a1e1da9f1bda380800000000000000
+      internalID: -8958308397860644293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_19
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1110
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98ff62ea5d1d9db0800000000000000
+      internalID: -4783634953014347618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 972
+        width: 73
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fd066539c5a4a90800000000000000
+      internalID: -7328943655712923807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1088
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1057c1bd4536053c0800000000000000
+      internalID: -4372886022072273663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1052
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8b2ae313141aa60800000000000000
+      internalID: 7683494119030831313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_23
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1046
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3577e676473a0d0800000000000000
+      internalID: -3412756105032936456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_24
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1076
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93e6013109e8c6c0800000000000000
+      internalID: -4122789267530914918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_25
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1058
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7a2f30b25a5ada0800000000000000
+      internalID: -5934155329822349380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_26
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1008
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3b722afd97aa5c0800000000000000
+      internalID: -4203413300791757889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_27
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1018
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6126c2deb63d39b90800000000000000
+      internalID: -7236207715760184810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_28
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1008
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1812afb59709bb0800000000000000
+      internalID: -4931308156025208325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_29
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1010
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b15b073dc887ad0800000000000000
+      internalID: -2704256736479077519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_30
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 913
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6471231e1fc41f60800000000000000
+      internalID: 8004250165821142126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_31
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 907
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78be80b1da9e43b0800000000000000
+      internalID: -5526309467336034179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_32
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 862
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f910d5810af61b0800000000000000
+      internalID: -5661130180081377426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 831
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb2177369e673f80800000000000000
+      internalID: -8126905411112457293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_34
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 835
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a30147d004ed6050800000000000000
+      internalID: 5795538987758191525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_35
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 822
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29088af7345883380800000000000000
+      internalID: -8991290131094142830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_36
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 757
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a31758dea851a00800000000000000
+      internalID: 726639667640875543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_37
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 768
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66e33dfa116d36b0800000000000000
+      internalID: -5314985216682236310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_38
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 738
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f6ebf47fbea5d30800000000000000
+      internalID: 4421105431644893081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_39
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 773
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd7555cce17bf8c0800000000000000
+      internalID: -3964449785232654925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_40
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 12
+        width: 528
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa4d6aaabb4103c0800000000000000
+      internalID: -4395148496241603933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_41
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 493
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d691e51c9675d370800000000000000
+      internalID: 8346707897155163864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_42
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 482
+        width: 88
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1007ee215828e5fc0800000000000000
+      internalID: -3504219951987789823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_43
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 522
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d0459bb8f89c7f0800000000000000
+      internalID: -591784045749990034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_44
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 511
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249315e402ef725a0800000000000000
+      internalID: -6545984118653372094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_45
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 447
+        width: 134
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e7c287c24ae7540800000000000000
+      internalID: 5007620346584268373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_46
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 0
+        width: 548
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d1e5e13e2693af0800000000000000
+      internalID: -416192762948477660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_47
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 486
+        width: 142
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40a133662b4a03a0800000000000000
+      internalID: -6698458867515154355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_48
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 497
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40fa116f9531b320800000000000000
+      internalID: 2571895820850491470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_49
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 509
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad05b4b58d158ad50800000000000000
+      internalID: 6748734031301136602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_50
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 469
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c5d740ba84d29b0800000000000000
+      internalID: -5103342903388971917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_51
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 469
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49d157168efebed0800000000000000
+      internalID: -2396198099844212403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_52
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 375
+        width: 59
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19edae4ca94628ac0800000000000000
+      internalID: -3854407715184255343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_53
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 467
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b23af67b13f2910800000000000000
+      internalID: 1814723838775339846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_54
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 420
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c786f7040c4080380800000000000000
+      internalID: -9004942231164983172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_55
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 438
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5293c5d80b643f8a0800000000000000
+      internalID: -6272592131897149147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_56
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 377
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00467acd031a4eca0800000000000000
+      internalID: -5988484373263457280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_57
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 449
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb0e36969f2418d0800000000000000
+      internalID: -2876621938170655801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 418
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72fff0866580cf80800000000000000
+      internalID: -8088318255459995010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_59
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 419
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94a592e16f0ddb90800000000000000
+      internalID: -7215594114889964389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_60
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 401
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab54c7dfe1a07d240800000000000000
+      internalID: 4816329454714111418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_61
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 216
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e26268382fbc4b10800000000000000
+      internalID: 1967157316719633123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_62
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 230
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b857d90ca2b24f0f0800000000000000
+      internalID: -1084194147669281397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_63
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 204
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43f66a9274064390800000000000000
+      internalID: -7834569611501178035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_64
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 151
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9107d26c007ec93c0800000000000000
+      internalID: -4351349149435858919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_65
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 157
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a663ad5859d1600800000000000000
+      internalID: 440672740676364849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_66
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 119
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185fac655394e58a0800000000000000
+      internalID: -6314529134088620671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_67
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 99
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97dc010a34d3cfa0800000000000000
+      internalID: -5781544151022774370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_expressions_1_68
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 0
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29a02be374286230800000000000000
+      internalID: 3632193179758930219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      akira_expressions_1_0: -8716385476540160566
+      akira_expressions_1_1: 1105535689686263099
+      akira_expressions_1_10: 7332257230023664626
+      akira_expressions_1_11: -6037825954148201723
+      akira_expressions_1_12: 7153568741663751092
+      akira_expressions_1_13: 1388701560432896524
+      akira_expressions_1_14: -8235097764686055597
+      akira_expressions_1_15: -5096531633432565120
+      akira_expressions_1_16: -4289640393157402084
+      akira_expressions_1_17: 6026374024017065619
+      akira_expressions_1_18: -8958308397860644293
+      akira_expressions_1_19: -4783634953014347618
+      akira_expressions_1_2: -4248275444967361338
+      akira_expressions_1_20: -7328943655712923807
+      akira_expressions_1_21: -4372886022072273663
+      akira_expressions_1_22: 7683494119030831313
+      akira_expressions_1_23: -3412756105032936456
+      akira_expressions_1_24: -4122789267530914918
+      akira_expressions_1_25: -5934155329822349380
+      akira_expressions_1_26: -4203413300791757889
+      akira_expressions_1_27: -7236207715760184810
+      akira_expressions_1_28: -4931308156025208325
+      akira_expressions_1_29: -2704256736479077519
+      akira_expressions_1_3: 9187252028090577859
+      akira_expressions_1_30: 8004250165821142126
+      akira_expressions_1_31: -5526309467336034179
+      akira_expressions_1_32: -5661130180081377426
+      akira_expressions_1_33: -8126905411112457293
+      akira_expressions_1_34: 5795538987758191525
+      akira_expressions_1_35: -8991290131094142830
+      akira_expressions_1_36: 726639667640875543
+      akira_expressions_1_37: -5314985216682236310
+      akira_expressions_1_38: 4421105431644893081
+      akira_expressions_1_39: -3964449785232654925
+      akira_expressions_1_4: 9001085106259737373
+      akira_expressions_1_40: -4395148496241603933
+      akira_expressions_1_41: 8346707897155163864
+      akira_expressions_1_42: -3504219951987789823
+      akira_expressions_1_43: -591784045749990034
+      akira_expressions_1_44: -6545984118653372094
+      akira_expressions_1_45: 5007620346584268373
+      akira_expressions_1_46: -416192762948477660
+      akira_expressions_1_47: -6698458867515154355
+      akira_expressions_1_48: 2571895820850491470
+      akira_expressions_1_49: 6748734031301136602
+      akira_expressions_1_5: 575385549467014546
+      akira_expressions_1_50: -5103342903388971917
+      akira_expressions_1_51: -2396198099844212403
+      akira_expressions_1_52: -3854407715184255343
+      akira_expressions_1_53: 1814723838775339846
+      akira_expressions_1_54: -9004942231164983172
+      akira_expressions_1_55: -6272592131897149147
+      akira_expressions_1_56: -5988484373263457280
+      akira_expressions_1_57: -2876621938170655801
+      akira_expressions_1_58: -8088318255459995010
+      akira_expressions_1_59: -7215594114889964389
+      akira_expressions_1_6: 6424745032237629431
+      akira_expressions_1_60: 4816329454714111418
+      akira_expressions_1_61: 1967157316719633123
+      akira_expressions_1_62: -1084194147669281397
+      akira_expressions_1_63: -7834569611501178035
+      akira_expressions_1_64: -4351349149435858919
+      akira_expressions_1_65: 440672740676364849
+      akira_expressions_1_66: -6314529134088620671
+      akira_expressions_1_67: -5781544151022774370
+      akira_expressions_1_68: 3632193179758930219
+      akira_expressions_1_7: 4817958615307940006
+      akira_expressions_1_8: -2123438705792385980
+      akira_expressions_1_9: -2712442342971886370
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

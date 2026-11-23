@@ -1,0 +1,10 @@
+Rain on Window Loop
+Author: alxl
+Publisher page: https://opengameart.org/content/rain-on-window-loop
+Source download: https://opengameart.org/sites/default/files/rain_on_window_loop.wav
+Retrieved: 23 November 2026
+
+The publisher offers CC-BY 3.0, CC-BY-SA 3.0 and CC0 alternatives.
+This project uses the CC0 option: https://creativecommons.org/publicdomain/zero/1.0/
+The recording is distributed unchanged as Assets/AprilAgain/Audio/World/rain_window.wav.
+Runtime volume is reduced for quiet background playback.

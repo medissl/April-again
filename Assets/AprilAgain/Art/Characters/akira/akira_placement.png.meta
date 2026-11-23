@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: 63131664c8e1a474cb67654db8001b1e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 909519577659058217
+    second: akira_placement_0
+  - first:
+      213: -7321269707078152345
+    second: akira_placement_1
+  - first:
+      213: -2496704533256914856
+    second: akira_placement_2
+  - first:
+      213: 4415967292334405372
+    second: akira_placement_3
+  - first:
+      213: 1767427743047123557
+    second: akira_placement_4
+  - first:
+      213: -7890400713841419788
+    second: akira_placement_5
+  - first:
+      213: -309178352952527489
+    second: akira_placement_6
+  - first:
+      213: 9061558836400371786
+    second: akira_placement_7
+  - first:
+      213: -5868816930373266395
+    second: akira_placement_8
+  - first:
+      213: 3557961454762602651
+    second: akira_placement_9
+  - first:
+      213: 1465146324276960840
+    second: akira_placement_10
+  - first:
+      213: -3440817052725694412
+    second: akira_placement_11
+  - first:
+      213: 1653175924753657727
+    second: akira_placement_12
+  - first:
+      213: 1584995998942777939
+    second: akira_placement_13
+  - first:
+      213: 6220991395097892841
+    second: akira_placement_14
+  - first:
+      213: -2243839513245921661
+    second: akira_placement_15
+  - first:
+      213: -5625987939755205261
+    second: akira_placement_16
+  - first:
+      213: -4674702307903113001
+    second: akira_placement_17
+  - first:
+      213: 4174286760378326097
+    second: akira_placement_18
+  - first:
+      213: -8561406660733667859
+    second: akira_placement_19
+  - first:
+      213: 1127570914163500131
+    second: akira_placement_20
+  - first:
+      213: 6800139159388154974
+    second: akira_placement_21
+  - first:
+      213: 4732872380660585674
+    second: akira_placement_22
+  - first:
+      213: -1445208483778165254
+    second: akira_placement_23
+  - first:
+      213: -6810056564853963961
+    second: akira_placement_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: akira_placement_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 773
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928a1aeac334f9c00800000000000000
+      internalID: 909519577659058217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_placement_1
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 14
+        width: 649
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f47ccbdff956a90800000000000000
+      internalID: -7321269707078152345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_placement_2
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 974
+        width: 53
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8583d12847ce95dd0800000000000000
+      internalID: -2496704533256914856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_placement_3
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 967
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6f5570bdaa84d30800000000000000
+      internalID: 4415967292334405372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_placement_4
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 951
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5628e760b2a278810800000000000000
+      internalID: 1767427743047123557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_placement_5
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 963
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f95efb1b5aaf7290800000000000000
+      internalID: -7890400713841419788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_placement_6
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 954
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7536041de395bbf0800000000000000
+      internalID: -309178352952527489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_placement_7
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 897
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4832f260cf11cd70800000000000000
+      internalID: 9061558836400371786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_placement_8
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 888
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5249d4d9816cd8ea0800000000000000
+      internalID: -5868816930373266395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_placement_9
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 903
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9038ab971b606130800000000000000
+      internalID: 3557961454762602651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_placement_10
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 893
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e5f7ab1de355410800000000000000
+      internalID: 1465146324276960840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_placement_11
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 859
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430bd2bee13cf30d0800000000000000
+      internalID: -3440817052725694412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_placement_12
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 850
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f6b22aeb241f610800000000000000
+      internalID: 1653175924753657727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_placement_13
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 855
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352566f96790ff510800000000000000
+      internalID: 1584995998942777939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_placement_14
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 849
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7529fa6b6655650800000000000000
+      internalID: 6220991395097892841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_placement_15
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 823
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ecdffd9d74cd0e0800000000000000
+      internalID: -2243839513245921661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_placement_16
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 647
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d524cc6c97ce1b0800000000000000
+      internalID: -5625987939755205261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_placement_17
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 579
+        width: 41
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d87cb2c40f102fb0800000000000000
+      internalID: -4674702307903113001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_placement_18
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 633
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c57f631bb0ee930800000000000000
+      internalID: 4174286760378326097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_placement_19
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 633
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de57e499006cf2980800000000000000
+      internalID: -8561406660733667859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_placement_20
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 583
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36427c5b5cfe5af00800000000000000
+      internalID: 1127570914163500131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_placement_21
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 567
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ced8a6982fe5e50800000000000000
+      internalID: 6800139159388154974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_placement_22
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 471
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac41888ba5a8ea140800000000000000
+      internalID: 4732872380660585674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_placement_23
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 418
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af585028a8691fbe0800000000000000
+      internalID: -1445208483778165254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akira_placement_24
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 289
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743009fa2a1dd71a0800000000000000
+      internalID: -6810056564853963961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      akira_placement_0: 909519577659058217
+      akira_placement_1: -7321269707078152345
+      akira_placement_10: 1465146324276960840
+      akira_placement_11: -3440817052725694412
+      akira_placement_12: 1653175924753657727
+      akira_placement_13: 1584995998942777939
+      akira_placement_14: 6220991395097892841
+      akira_placement_15: -2243839513245921661
+      akira_placement_16: -5625987939755205261
+      akira_placement_17: -4674702307903113001
+      akira_placement_18: 4174286760378326097
+      akira_placement_19: -8561406660733667859
+      akira_placement_2: -2496704533256914856
+      akira_placement_20: 1127570914163500131
+      akira_placement_21: 6800139159388154974
+      akira_placement_22: 4732872380660585674
+      akira_placement_23: -1445208483778165254
+      akira_placement_24: -6810056564853963961
+      akira_placement_3: 4415967292334405372
+      akira_placement_4: 1767427743047123557
+      akira_placement_5: -7890400713841419788
+      akira_placement_6: -309178352952527489
+      akira_placement_7: 9061558836400371786
+      akira_placement_8: -5868816930373266395
+      akira_placement_9: 3557961454762602651
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

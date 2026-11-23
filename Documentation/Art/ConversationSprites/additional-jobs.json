@@ -1,0 +1,59 @@
+[
+  {
+    "girl": "mari",
+    "faces": [
+      "neutral",
+      "warm",
+      "concerned",
+      "flustered"
+    ],
+    "source": "exec-6a9c535e-f39d-42f8-bae4-49af856efdae.png"
+  },
+  {
+    "girl": "svea",
+    "faces": [
+      "neutral",
+      "soft_smile",
+      "smirk",
+      "flustered"
+    ],
+    "source": "exec-40399df2-7dee-439c-a98b-3e87e8dd971c.png"
+  },
+  {
+    "girl": "katya",
+    "faces": [
+      "concerned",
+      "determined",
+      "sad",
+      "surprised"
+    ],
+    "source": "exec-d1a8e63d-2fd2-40ee-9657-358926b0d7fa.png"
+  },
+  {
+    "girl": "akira",
+    "faces": ["puzzled", "sad", "surprised", "worried"],
+    "source": "exec-44ec7727-6684-4491-8f9a-442ec766a2ad.png"
+  },
+  {
+    "girl": "seoyun",
+    "faces": ["concerned", "determined", "sad", "surprised"],
+    "source": "exec-6dd33bce-2291-41d5-afa8-22d2bb648f2e.png"
+  },
+  {
+    "girl": "mari",
+    "faces": ["determined", "peaceful", "sad", "surprised"],
+    "source": "exec-decd7e34-520a-4d6a-a301-accc633358cd.png"
+  },
+  {
+    "girl": "svea",
+    "faces": ["annoyed", "sleepy", "sad", "surprised"],
+    "source": "exec-a2f854e0-73da-4ce6-bc0e-7dead85ed91d.png"
+  },
+  {
+    "girl": "svea",
+    "faces": ["concerned"],
+    "source": "exec-c4a5de15-fc9a-4d0f-8d2a-2a80b29930d8.png",
+    "columns": 1,
+    "rows": 1
+  }
+]

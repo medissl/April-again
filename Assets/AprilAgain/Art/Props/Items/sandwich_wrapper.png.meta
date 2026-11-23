@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 663b8e4ae562b2e499b85a3f10059a7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7034152549189931417
+    second: sandwich_wrapper_0
+  - first:
+      213: -4577927022175245117
+    second: sandwich_wrapper_1
+  - first:
+      213: -6555939469782441826
+    second: sandwich_wrapper_2
+  - first:
+      213: 3753055618760904619
+    second: sandwich_wrapper_3
+  - first:
+      213: -8191895820418181497
+    second: sandwich_wrapper_4
+  - first:
+      213: -7459321987321950021
+    second: sandwich_wrapper_5
+  - first:
+      213: -231076273748420656
+    second: sandwich_wrapper_6
+  - first:
+      213: 7500636633747727450
+    second: sandwich_wrapper_7
+  - first:
+      213: -3744435825502086634
+    second: sandwich_wrapper_8
+  - first:
+      213: 949249995771463568
+    second: sandwich_wrapper_9
+  - first:
+      213: -1063967893865436802
+    second: sandwich_wrapper_10
+  - first:
+      213: -4765236529267472232
+    second: sandwich_wrapper_11
+  - first:
+      213: -3127447422088744520
+    second: sandwich_wrapper_12
+  - first:
+      213: -7074459482938961961
+    second: sandwich_wrapper_13
+  - first:
+      213: 284782356257707104
+    second: sandwich_wrapper_14
+  - first:
+      213: -3381628336725554141
+    second: sandwich_wrapper_15
+  - first:
+      213: -1574773951707817597
+    second: sandwich_wrapper_16
+  - first:
+      213: -8589067750024884585
+    second: sandwich_wrapper_17
+  - first:
+      213: -6011815103974752749
+    second: sandwich_wrapper_18
+  - first:
+      213: 4321411195067899434
+    second: sandwich_wrapper_19
+  - first:
+      213: 5133811474323591819
+    second: sandwich_wrapper_20
+  - first:
+      213: 1615136763641748529
+    second: sandwich_wrapper_21
+  - first:
+      213: 3545042937507653451
+    second: sandwich_wrapper_22
+  - first:
+      213: 6747288270763193178
+    second: sandwich_wrapper_23
+  - first:
+      213: 8610287296070682369
+    second: sandwich_wrapper_24
+  - first:
+      213: -2880471099288071476
+    second: sandwich_wrapper_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sandwich_wrapper_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 399
+        width: 95
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e20a9668ba16e90800000000000000
+      internalID: -7034152549189931417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandwich_wrapper_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 477
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc2593d0afe770c0800000000000000
+      internalID: -4577927022175245117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandwich_wrapper_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 495
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90a7ae79cf9405a0800000000000000
+      internalID: -6555939469782441826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandwich_wrapper_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 463
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf07826338851430800000000000000
+      internalID: 3753055618760904619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandwich_wrapper_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 453
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78697f2672a805e80800000000000000
+      internalID: -8191895820418181497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandwich_wrapper_5
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 479
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb01a687c2a2b7890800000000000000
+      internalID: -7459321987321950021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandwich_wrapper_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 479
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d754337a5d0bccf0800000000000000
+      internalID: -231076273748420656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandwich_wrapper_7
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 461
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54a0df374d971860800000000000000
+      internalID: 7500636633747727450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandwich_wrapper_8
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 437
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a93b0a477190cc0800000000000000
+      internalID: -3744435825502086634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandwich_wrapper_9
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 461
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097cff087d96c2d00800000000000000
+      internalID: 949249995771463568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandwich_wrapper_10
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 448
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79eab176d60c31f0800000000000000
+      internalID: -1063967893865436802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandwich_wrapper_11
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 453
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8980c4abf9a7eddb0800000000000000
+      internalID: -4765236529267472232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandwich_wrapper_12
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 413
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b170b8b3231994d0800000000000000
+      internalID: -3127447422088744520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandwich_wrapper_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 462
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df8785159872dd90800000000000000
+      internalID: -7074459482938961961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandwich_wrapper_14
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 437
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0641a0f4b00c3f300800000000000000
+      internalID: 284782356257707104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandwich_wrapper_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 75
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c0413c1fa0211d0800000000000000
+      internalID: -3381628336725554141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandwich_wrapper_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 410
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389dae63f67452ae0800000000000000
+      internalID: -1574773951707817597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandwich_wrapper_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 299
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ec00063608dc880800000000000000
+      internalID: -8589067750024884585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandwich_wrapper_18
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 221
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31eb140d30eb19ca0800000000000000
+      internalID: -6011815103974752749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandwich_wrapper_19
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 145
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e1b6a069cb8fb30800000000000000
+      internalID: 4321411195067899434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandwich_wrapper_20
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 73
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82d1e6f556fe3740800000000000000
+      internalID: 5133811474323591819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandwich_wrapper_21
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 45
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c5a84445e1a6610800000000000000
+      internalID: 1615136763641748529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandwich_wrapper_22
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 0
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47a6abe4c5823130800000000000000
+      internalID: 3545042937507653451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandwich_wrapper_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 49
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53fffffeee23ad50800000000000000
+      internalID: 6747288270763193178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandwich_wrapper_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 13
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1070a503da2ed7770800000000000000
+      internalID: 8610287296070682369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandwich_wrapper_25
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 21
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2d72debc28608d0800000000000000
+      internalID: -2880471099288071476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sandwich_wrapper_0: -7034152549189931417
+      sandwich_wrapper_1: -4577927022175245117
+      sandwich_wrapper_10: -1063967893865436802
+      sandwich_wrapper_11: -4765236529267472232
+      sandwich_wrapper_12: -3127447422088744520
+      sandwich_wrapper_13: -7074459482938961961
+      sandwich_wrapper_14: 284782356257707104
+      sandwich_wrapper_15: -3381628336725554141
+      sandwich_wrapper_16: -1574773951707817597
+      sandwich_wrapper_17: -8589067750024884585
+      sandwich_wrapper_18: -6011815103974752749
+      sandwich_wrapper_19: 4321411195067899434
+      sandwich_wrapper_2: -6555939469782441826
+      sandwich_wrapper_20: 5133811474323591819
+      sandwich_wrapper_21: 1615136763641748529
+      sandwich_wrapper_22: 3545042937507653451
+      sandwich_wrapper_23: 6747288270763193178
+      sandwich_wrapper_24: 8610287296070682369
+      sandwich_wrapper_25: -2880471099288071476
+      sandwich_wrapper_3: 3753055618760904619
+      sandwich_wrapper_4: -8191895820418181497
+      sandwich_wrapper_5: -7459321987321950021
+      sandwich_wrapper_6: -231076273748420656
+      sandwich_wrapper_7: 7500636633747727450
+      sandwich_wrapper_8: -3744435825502086634
+      sandwich_wrapper_9: 949249995771463568
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

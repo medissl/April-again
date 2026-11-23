@@ -1,0 +1,1716 @@
+fileFormatVersion: 2
+guid: 2312ae0b8258eff4a950e28ff7882b2b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8407195102242238542
+    second: fabric_backing_0
+  - first:
+      213: 6719555747540322141
+    second: fabric_backing_1
+  - first:
+      213: 196202646463401060
+    second: fabric_backing_2
+  - first:
+      213: 2118131274457707519
+    second: fabric_backing_3
+  - first:
+      213: -4138237504019762558
+    second: fabric_backing_4
+  - first:
+      213: -4886003360362629214
+    second: fabric_backing_5
+  - first:
+      213: -7941346679890696517
+    second: fabric_backing_6
+  - first:
+      213: -5250475992712921740
+    second: fabric_backing_7
+  - first:
+      213: 8787589640122221696
+    second: fabric_backing_8
+  - first:
+      213: 34827199781271300
+    second: fabric_backing_9
+  - first:
+      213: -4727784870627259730
+    second: fabric_backing_10
+  - first:
+      213: 4487108392624181135
+    second: fabric_backing_11
+  - first:
+      213: -331293573210447316
+    second: fabric_backing_12
+  - first:
+      213: 7126651666368790219
+    second: fabric_backing_13
+  - first:
+      213: -6225539512762562971
+    second: fabric_backing_14
+  - first:
+      213: 8772138166537477906
+    second: fabric_backing_15
+  - first:
+      213: 5121254263770496422
+    second: fabric_backing_16
+  - first:
+      213: -7389445278844446487
+    second: fabric_backing_17
+  - first:
+      213: -1286150877537500186
+    second: fabric_backing_18
+  - first:
+      213: -3119566581218068212
+    second: fabric_backing_19
+  - first:
+      213: -8569068397076371248
+    second: fabric_backing_20
+  - first:
+      213: -5103243353147393892
+    second: fabric_backing_21
+  - first:
+      213: -2488744330011712818
+    second: fabric_backing_22
+  - first:
+      213: -6701658097734390838
+    second: fabric_backing_23
+  - first:
+      213: -453689376250516143
+    second: fabric_backing_24
+  - first:
+      213: -2130955872249350947
+    second: fabric_backing_25
+  - first:
+      213: 5820991472734181981
+    second: fabric_backing_26
+  - first:
+      213: 1372655036348424906
+    second: fabric_backing_27
+  - first:
+      213: -3718392386501351014
+    second: fabric_backing_28
+  - first:
+      213: 1728911074702018689
+    second: fabric_backing_29
+  - first:
+      213: -4674595304245841756
+    second: fabric_backing_30
+  - first:
+      213: -608371592087407482
+    second: fabric_backing_31
+  - first:
+      213: 2726977441349719657
+    second: fabric_backing_32
+  - first:
+      213: -2567339781723344036
+    second: fabric_backing_33
+  - first:
+      213: 1071876531892404666
+    second: fabric_backing_34
+  - first:
+      213: -6166819163995156436
+    second: fabric_backing_35
+  - first:
+      213: -5832454943759218340
+    second: fabric_backing_36
+  - first:
+      213: -5211734651405777961
+    second: fabric_backing_37
+  - first:
+      213: -7171013065620311024
+    second: fabric_backing_38
+  - first:
+      213: -1012666570067939517
+    second: fabric_backing_39
+  - first:
+      213: 1900156785742575657
+    second: fabric_backing_40
+  - first:
+      213: 3826586151218922294
+    second: fabric_backing_41
+  - first:
+      213: 545364553881163275
+    second: fabric_backing_42
+  - first:
+      213: -4217383628491332786
+    second: fabric_backing_43
+  - first:
+      213: -3466274816602308577
+    second: fabric_backing_44
+  - first:
+      213: -1288851807895517891
+    second: fabric_backing_45
+  - first:
+      213: -3956533826968688310
+    second: fabric_backing_46
+  - first:
+      213: -3992126110749622877
+    second: fabric_backing_47
+  - first:
+      213: -7696042103400648655
+    second: fabric_backing_48
+  - first:
+      213: 800906299508315128
+    second: fabric_backing_49
+  - first:
+      213: -1590986303444366101
+    second: fabric_backing_50
+  - first:
+      213: 5906899912059495194
+    second: fabric_backing_51
+  - first:
+      213: 4834277167182629006
+    second: fabric_backing_52
+  - first:
+      213: -7313852811807989207
+    second: fabric_backing_53
+  - first:
+      213: 7483264293129132950
+    second: fabric_backing_54
+  - first:
+      213: 439935190680627022
+    second: fabric_backing_55
+  - first:
+      213: 863989919166701410
+    second: fabric_backing_56
+  - first:
+      213: -1764550917478206864
+    second: fabric_backing_57
+  - first:
+      213: 13858841036489616
+    second: fabric_backing_58
+  - first:
+      213: -2607763564347344835
+    second: fabric_backing_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fabric_backing_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf82750994a35b80800000000000000
+      internalID: -8407195102242238542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 473
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d574394c958a04d50800000000000000
+      internalID: 6719555747540322141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 485
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c4176744d09b200800000000000000
+      internalID: 196202646463401060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_3
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 386
+        width: 166
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff372b9fb2d156d10800000000000000
+      internalID: 2118131274457707519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 499
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282f3b85ae60296c0800000000000000
+      internalID: -4138237504019762558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 507
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a77836b4dd613cb0800000000000000
+      internalID: -4886003360362629214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_6
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 498
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb623ea054baac190800000000000000
+      internalID: -7941346679890696517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_7
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 431
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d31a027ef8227b0800000000000000
+      internalID: -5250475992712921740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_8
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 471
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0844363183ac3f970800000000000000
+      internalID: 8787589640122221696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_9
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 439
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407fb77572bbb7000800000000000000
+      internalID: 34827199781271300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_10
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 405
+        width: 29
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaacbc385b8836eb0800000000000000
+      internalID: -4727784870627259730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_11
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 429
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fc9033f49654e30800000000000000
+      internalID: 4487108392624181135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_12
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 450
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22eb6c1042076bf0800000000000000
+      internalID: -331293573210447316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_13
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 446
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce7bd39ee3f6e260800000000000000
+      internalID: 7126651666368790219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_14
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 407
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56601a62cc07a99a0800000000000000
+      internalID: -6225539512762562971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_15
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 453
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fdc198f25ecb970800000000000000
+      internalID: 8772138166537477906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_16
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 406
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adbe7c8e99521740800000000000000
+      internalID: 5121254263770496422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_17
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 431
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e81a4b7baa637990800000000000000
+      internalID: -7389445278844446487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 429
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e302d8579ca62ee0800000000000000
+      internalID: -1286150877537500186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_19
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 385
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c093159f8b215b4d0800000000000000
+      internalID: -3119566581218068212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 382
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8ac3891bd841980800000000000000
+      internalID: -8569068397076371248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 411
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98b64d5533ad29b0800000000000000
+      internalID: -5103243353147393892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 415
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec262e0c734367dd0800000000000000
+      internalID: -2488744330011712818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_23
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 403
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbeb6e877deef2a0800000000000000
+      internalID: -6701658097734390838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 495
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d28328aeb24b9f0800000000000000
+      internalID: -453689376250516143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_25
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 388
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd47b8aace25d62e0800000000000000
+      internalID: -2130955872249350947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_26
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 386
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a16ec47e058c050800000000000000
+      internalID: 5820991472734181981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_27
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 347
+        width: 12
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2e2b0ab76ac0310800000000000000
+      internalID: 1372655036348424906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_28
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 347
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99e11b43dd956cc0800000000000000
+      internalID: -3718392386501351014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_29
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 300
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1884ad756735ef710800000000000000
+      internalID: 1728911074702018689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_30
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 205
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0b7bd7650802fb0800000000000000
+      internalID: -4674595304245841756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_31
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 163
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684f032a241ae87f0800000000000000
+      internalID: -608371592087407482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_32
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 165
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9665726e88b28d520800000000000000
+      internalID: 2726977441349719657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_33
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 124
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53b6a4221afe5cd0800000000000000
+      internalID: -2567339781723344036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_34
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 129
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab14686d60210ee00800000000000000
+      internalID: 1071876531892404666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_35
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 125
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c205fffb4ae0b6aa0800000000000000
+      internalID: -6166819163995156436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_36
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 111
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59c2cc5125fe0fa0800000000000000
+      internalID: -5832454943759218340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_37
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 109
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d34d5f82f23ca7b0800000000000000
+      internalID: -5211734651405777961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 100
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01434084c917b7c90800000000000000
+      internalID: -7171013065620311024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_39
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 53
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fef2fae1942f1f0800000000000000
+      internalID: -1012666570067939517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_40
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 79
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928fbb77786be5a10800000000000000
+      internalID: 1900156785742575657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_41
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 95
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63345d594d3ca1530800000000000000
+      internalID: 3826586151218922294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_42
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 81
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b061d2b1c26819700800000000000000
+      internalID: 545364553881163275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_43
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 90
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43e93e3fe7d875c0800000000000000
+      internalID: -4217383628491332786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_44
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 77
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10898e5b6155efc0800000000000000
+      internalID: -3466274816602308577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_45
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 86
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35844efb141d1ee0800000000000000
+      internalID: -1288851807895517891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 77
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49e6bd62719719c0800000000000000
+      internalID: -3956533826968688310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_47
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 47
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adf436147e1998c0800000000000000
+      internalID: -3992126110749622877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_48
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 31
+        width: 9
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130ba5a7b7a223590800000000000000
+      internalID: -7696042103400648655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_49
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 41
+        width: 77
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3d09839046d1b00800000000000000
+      internalID: 800906299508315128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_50
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 62
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beccface26eabe9e0800000000000000
+      internalID: -1590986303444366101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_51
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 59
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13a7168c2689f150800000000000000
+      internalID: 5906899912059495194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_52
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 47
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88c3bf687dc61340800000000000000
+      internalID: 4834277167182629006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_53
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 23
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92261bc3e99ff7a90800000000000000
+      internalID: -7313852811807989207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_54
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 26
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b93500a35e9d760800000000000000
+      internalID: 7483264293129132950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_55
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 45
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4766bc99b6fa1600800000000000000
+      internalID: 439935190680627022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_56
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 37
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f137df0428dfb00800000000000000
+      internalID: 863989919166701410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 18
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0723f9f1a4e0387e0800000000000000
+      internalID: -1764550917478206864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_58
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 17
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0938af0ea8c313000800000000000000
+      internalID: 13858841036489616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fabric_backing_59
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38bed0dadc5fcbd0800000000000000
+      internalID: -2607763564347344835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fabric_backing_0: -8407195102242238542
+      fabric_backing_1: 6719555747540322141
+      fabric_backing_10: -4727784870627259730
+      fabric_backing_11: 4487108392624181135
+      fabric_backing_12: -331293573210447316
+      fabric_backing_13: 7126651666368790219
+      fabric_backing_14: -6225539512762562971
+      fabric_backing_15: 8772138166537477906
+      fabric_backing_16: 5121254263770496422
+      fabric_backing_17: -7389445278844446487
+      fabric_backing_18: -1286150877537500186
+      fabric_backing_19: -3119566581218068212
+      fabric_backing_2: 196202646463401060
+      fabric_backing_20: -8569068397076371248
+      fabric_backing_21: -5103243353147393892
+      fabric_backing_22: -2488744330011712818
+      fabric_backing_23: -6701658097734390838
+      fabric_backing_24: -453689376250516143
+      fabric_backing_25: -2130955872249350947
+      fabric_backing_26: 5820991472734181981
+      fabric_backing_27: 1372655036348424906
+      fabric_backing_28: -3718392386501351014
+      fabric_backing_29: 1728911074702018689
+      fabric_backing_3: 2118131274457707519
+      fabric_backing_30: -4674595304245841756
+      fabric_backing_31: -608371592087407482
+      fabric_backing_32: 2726977441349719657
+      fabric_backing_33: -2567339781723344036
+      fabric_backing_34: 1071876531892404666
+      fabric_backing_35: -6166819163995156436
+      fabric_backing_36: -5832454943759218340
+      fabric_backing_37: -5211734651405777961
+      fabric_backing_38: -7171013065620311024
+      fabric_backing_39: -1012666570067939517
+      fabric_backing_4: -4138237504019762558
+      fabric_backing_40: 1900156785742575657
+      fabric_backing_41: 3826586151218922294
+      fabric_backing_42: 545364553881163275
+      fabric_backing_43: -4217383628491332786
+      fabric_backing_44: -3466274816602308577
+      fabric_backing_45: -1288851807895517891
+      fabric_backing_46: -3956533826968688310
+      fabric_backing_47: -3992126110749622877
+      fabric_backing_48: -7696042103400648655
+      fabric_backing_49: 800906299508315128
+      fabric_backing_5: -4886003360362629214
+      fabric_backing_50: -1590986303444366101
+      fabric_backing_51: 5906899912059495194
+      fabric_backing_52: 4834277167182629006
+      fabric_backing_53: -7313852811807989207
+      fabric_backing_54: 7483264293129132950
+      fabric_backing_55: 439935190680627022
+      fabric_backing_56: 863989919166701410
+      fabric_backing_57: -1764550917478206864
+      fabric_backing_58: 13858841036489616
+      fabric_backing_59: -2607763564347344835
+      fabric_backing_6: -7941346679890696517
+      fabric_backing_7: -5250475992712921740
+      fabric_backing_8: 8787589640122221696
+      fabric_backing_9: 34827199781271300
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

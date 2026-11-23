@@ -1,0 +1,124 @@
+{
+  "assets": [
+    {
+      "id": "final_button",
+      "path": "Assets/AprilAgain/Art/UI/Final/final_button.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        16,
+        16,
+        16,
+        16
+      ],
+      "width": 320,
+      "height": 72,
+      "method": "Original editable vector interface geometry",
+      "sha256": "33ec983661640ef59af33b1eab89b20e49188b4f2b9e5b469507b120eaeb164c"
+    },
+    {
+      "id": "final_button_primary",
+      "path": "Assets/AprilAgain/Art/UI/Final/final_button_primary.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        16,
+        16,
+        16,
+        16
+      ],
+      "width": 320,
+      "height": 72,
+      "method": "Original editable vector interface geometry",
+      "sha256": "f5705823ee621ecd2f4e2c589eba13d9c826ad836f09b2643f0d55be5d74c222"
+    },
+    {
+      "id": "final_choice",
+      "path": "Assets/AprilAgain/Art/UI/Final/final_choice.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        16,
+        16,
+        16,
+        16
+      ],
+      "width": 960,
+      "height": 126,
+      "method": "Original editable vector interface geometry",
+      "sha256": "b54e086b54c6097b9c8247993754fd61744f3cfe27acc74ff502651cefd03c66"
+    },
+    {
+      "id": "final_map_label",
+      "path": "Assets/AprilAgain/Art/UI/Final/final_map_label.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        16,
+        16,
+        16,
+        16
+      ],
+      "width": 220,
+      "height": 48,
+      "method": "Original editable vector interface geometry",
+      "sha256": "2c07cc26b8280a77a4eb8e7aa5ad8cb4edaa06dd710d23724a6ecd6c2a586019"
+    },
+    {
+      "id": "final_map_current",
+      "path": "Assets/AprilAgain/Art/UI/Final/final_map_current.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        16,
+        16,
+        16,
+        16
+      ],
+      "width": 220,
+      "height": 48,
+      "method": "Original editable vector interface geometry",
+      "sha256": "608e3a16bae371b857a3c48a97bb0a458f6ce428893899061abec85fb0a3a403"
+    },
+    {
+      "id": "final_tooltip",
+      "path": "Assets/AprilAgain/Art/UI/Final/final_tooltip.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        16,
+        16,
+        16,
+        16
+      ],
+      "width": 320,
+      "height": 56,
+      "method": "Original editable vector interface geometry",
+      "sha256": "8a925d79d6e22af5d0cab5f746372571be397a9d08b7691aefad06ed2b451a33"
+    }
+  ]
+}

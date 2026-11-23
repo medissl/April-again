@@ -1,0 +1,2898 @@
+{
+  "schemaVersion": 1,
+  "id": "katya",
+  "name": "Katya",
+  "voice": "Formal and precise; dry humor. Sharpness protects her pride, but cruelty is not her whole personality. Russian slips are rare and understandable in context. She wants earned competence, not rescue or admiration of money.",
+  "scenes": [
+    {
+      "number": 1,
+      "title": "The Missing Stapler",
+      "location": "class_b",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "forms",
+        "folder",
+        "stapler"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "Class B is preparing an information table for new students. A teacher assigns the MC and Katya to finish it during the activity block.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Katya",
+          "text": "Those are the spare forms. The completed ones go on the right.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Good thing you stopped me. I was about to invent a new filing system.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "Most disasters begin with that sort of confidence.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I'm Takahashi. We passed each other during orientation.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "Takahashi-san. Yes, I remember. You were examining the map upside down.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I hoped nobody noticed.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "Ekaterina Romanova. Katya will do. Now—can you operate a stapler, or should I lower my expectations again?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She holds up an empty hand. The stapler is missing. For a moment, neither of us speaks.",
+          "kind": "narration"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "good",
+          "text": "I'll check the supply list. You can show me how you want these sorted.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "Sensible. Ask before changing the order.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Understood. I'll try to keep my dangerous confidence under control.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "See that you do.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.01.choice1",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "Just give me a stack. I'll copy what you're doing.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "That will work, provided you watch carefully.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Copying is one of my stronger school skills.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "An unfortunate introduction, but a useful one.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.01.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "You seem to have it handled. I'll stay out of your way.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "Standing aside is not the same as helping.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I thought you'd prefer working alone.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "I prefer people to complete the work they were assigned.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.01.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "We work around the missing stapler with paper clips, then find it inside the empty forms box.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "At least we know it wasn't stolen.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "Yes. A great relief to the international stationery market.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "Her face stays serious. I'm almost certain that was a joke.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {},
+      "id": "katya.01",
+      "previousScene": null,
+      "background": "bg_class_b_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 2,
+      "title": "A Very Small Mistake",
+      "location": "class_b",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "room_signs",
+        "class_register"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "The next shared activity is checking room signs against the class register.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "We have two signs for the library.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "Impossible. I checked them yesterday.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She lays both signs on the desk. They are identical.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Katya",
+          "text": "Bozhe moy... I checked the same pile twice. Very impressive, Katya.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I've done worse before breakfast.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "That is not the standard I was aiming for.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She reaches for every page at once. A corner tears under her thumb.",
+          "kind": "narration"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "neutral",
+          "text": "Let's print another one and move on.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "Yes. There is no reason to make a performance of it.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I'll get the paper.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "The drawer on your left.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.02.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "I thought you said you never miss anything.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "I said I checked them. Those are different claims.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I was joking.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "Then choose a better moment.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.02.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "I'll check half against the register. We can catch each other's mistakes.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "Including yours, presumably.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "There'll probably be more of those.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "Fine. Start with the first-year rooms.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.02.choice3",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "We finish the signs and compare our two lists. She finds my spelling error; I find a room number copied twice.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Katya",
+          "text": "Both corrected. That is what the check is for.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She keeps the torn sheet for scrap instead of hiding it.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {},
+      "id": "katya.02",
+      "previousScene": "katya.01",
+      "background": "bg_class_b_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 3,
+      "title": "Tea Without Instructions",
+      "location": "canteen",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "tea_bottle",
+        "paper_labels"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "A classroom task runs into lunch. We bring the final labels to a canteen table to finish them.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Katya",
+          "text": "You have been looking at the drink machine for an unreasonable length of time.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "It's the first important decision I've made today.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "Concerning.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "What do you usually get?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "Tea. Without sugar.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "They have sweet lemon tea and something called Royal Milk.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "Royal. Certainly. I am sure the royal family personally approved the milk powder.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She checks her purse, then notices me watching.",
+          "kind": "narration"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "bad",
+          "text": "You can pay for both. This probably costs nothing to you.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "My family is not a canteen payment plan.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I didn't mean it seriously.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "You meant it seriously enough to say it.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.03.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "I'm getting water. Want to complain about the tea while we finish these?",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "A tea complaint. With company. You make a very strange social calendar, Takahashi-san.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I think it has potential.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "I shall try the least offensive tea and fund my own portion of the complaint.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.03.choice2",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "I'll try the lemon one. You're welcome to the last tea bottle.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "Thank you. Though I was quite prepared to survive the shortage.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I'll remember that during the next tea emergency.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "Please do.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.03.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "We cut labels between bites of lunch. She reads the tea bottle's ingredients with growing disapproval.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Katya",
+          "text": "There is more sugar in this than tea.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "You sound betrayed.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "I was promised tea. My expectations were hardly extravagant.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {},
+      "id": "katya.03",
+      "previousScene": "katya.02",
+      "background": "bg_canteen_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 4,
+      "title": "Not an Audience",
+      "location": "field",
+      "hours": 3,
+      "expression": "determined",
+      "props": [
+        "floor_tape",
+        "fencing_bag"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "On a supervised club day, Katya helps demonstrate fencing footwork on the dry hardcourt edge. The MC has been asked to mark practice lanes.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Katya",
+          "text": "The line needs to be straight.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "It looked straight when I was closer to it.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "An argument that could support almost any mistake.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "An older club member corrects her shoulder position. She repeats the movement without answering.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "Does that hurt your arm?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "Only my dignity. Apparently my shoulder has been betraying me for years.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "The instructor leaves us to reset the markers. She looks at the tape, not at me.",
+          "kind": "narration"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "good",
+          "text": "Show me the step once more. I'll put the markers where you actually need them.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "Watch the front foot. The rear one follows; it does not chase.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Like that?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "Approximately. At least nobody is holding a weapon.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.04.choice1",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "You looked perfect to me. The instructor was being picky.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "He was correct. That is why I listen to him.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I meant it as a compliment.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "Then compliment something you observed.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.04.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "I'll leave you to practice and finish the tape.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "Very well. Keep the spacing consistent.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "No dramatic curves this time.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "I would appreciate the restraint.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.04.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "Practice fills the afternoon. By the time we collect the markers, the line is straight and her movement is quieter.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Katya",
+          "text": "Better.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Your footwork or my tape?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "Both. Do not force me to say it twice.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {},
+      "id": "katya.04",
+      "previousScene": "katya.03",
+      "background": "bg_field_day",
+      "requiresClubDay": true,
+      "requiredBlock": null,
+      "wardrobe": "school_tracksuit",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 5,
+      "title": "Melonpan",
+      "location": "corridor",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "melonpan",
+        "committee_notes"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "Rain keeps the class inside. Katya is comparing two sets of committee notes by the corridor window.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "You missed the bread delivery at lunch.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "I am aware.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I bought an extra melonpan before they ran out. Do you want it?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "Did I look particularly helpless today?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "You looked busy.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She glances at the wrapper, then checks whether anyone is listening.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Katya",
+          "text": "I prefer not to owe people for small favors.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She folds her arms, then tucks a silver lock behind her ear. The gesture gives away more than her voice does.",
+          "kind": "direction"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "neutral",
+          "text": "You can buy me one another time.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "A clearly defined exchange. Acceptable.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "That's a serious way to discuss bread.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "Bread is the subject you introduced.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.05.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "You don't owe me. If you don't want it, I'll keep it.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "You are making this difficult to object to. Deliberately, I suspect.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "It wasn't meant to be an argument.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "F-fine. Thank you. The notes, Takahashi-san. Dry side of the windowsill. Please concentrate.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.05.choice2",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "Come on. Even an heiress can try cheap food for once.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "I have eaten bread before, Takahashi-san. Russia does have bakeries.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "You know what I meant.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "Unfortunately, I think I do. Keep it.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.05.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "The rain softens. We finish the notes before the final bell.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Narration",
+          "text": "Whether she takes the bread or not, I put the wrapper in my own bag. Nothing about this needs an audience.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Katya",
+          "text": "You missed a page number.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "There she is. I was worried you'd gone easy on me.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {
+        "warm": [
+          {
+            "speaker": "Katya",
+            "text": "You remembered which bread I looked at. That was... observant.",
+            "kind": "dialogue"
+          }
+        ],
+        "mixed": [
+          {
+            "speaker": "Katya",
+            "text": "You have a habit of appearing when there is unfinished work.",
+            "kind": "dialogue"
+          }
+        ],
+        "cool": [
+          {
+            "speaker": "Katya",
+            "text": "We can finish the notes. I would prefer to keep this afternoon simple.",
+            "kind": "dialogue"
+          }
+        ]
+      },
+      "id": "katya.05",
+      "previousScene": "katya.04",
+      "background": "bg_corridor_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 6,
+      "title": "The Smallest Witness",
+      "location": "gate",
+      "hours": 3,
+      "expression": "flustered",
+      "props": [
+        "cat",
+        "supply_clipboard"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "Our task is counting supplies returned through the lobby entrance. During a break, a cat slips under the gate hedge.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "You have company.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "I noticed.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "Her sleeve is caught in the cat's paws. She could pull away. She doesn't.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Katya",
+          "text": "This animal is damaging an expensive sleeve. It has absolutely no respect for tailoring.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "It seems very satisfied with its work.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "Then one of us is.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "Two classmates pass the gate. Katya straightens so quickly that the cat complains.",
+          "kind": "narration"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "bad",
+          "text": "I should take a picture. Nobody will believe this.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "Put your phone away.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I haven't taken anything yet.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "Then this is an excellent moment not to start.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.06.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "I'll check whether anyone knows who feeds it.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "A practical question. It looks rather comfortable here.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Maybe it owns the school.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "That would explain several decisions.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.06.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "I'll finish the count. You can wait until it lets go.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "It should only take a—no, little creature, that is my cuff. Bozhe moy.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "The cat or the count?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "Do not be pleased with yourself.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.06.choice3",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "We ask the groundskeeper about the cat and learn that it belongs to a nearby house. It leaves through the hedge on its own.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Katya",
+          "text": "A terrible creature.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "Before we go, she checks that nobody has closed the gap in the fence.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {},
+      "id": "katya.06",
+      "previousScene": "katya.05",
+      "background": "bg_gate_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 7,
+      "title": "The Name on the Form",
+      "location": "class_b",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "budget_sheet",
+        "paper_samples"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "Class B needs a small budget for its first-year display. A classmate suggests asking Katya's father to pay.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Katya",
+          "text": "We have a school allowance. We will work within it.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Classmate",
+          "text": "It was just an idea.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "The classmate leaves for another assignment. Katya crosses out a cost, pressing hard enough to mark the next page.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "We could use plain backing paper.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "Yes. Or fewer printed photographs.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "You don't have to solve every part before the next meeting.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "Apparently I do, or somebody will solve it by calling my father.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "good",
+          "text": "Let's put the cheaper options beside the expensive ones. The class can decide.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "You would let them see an unfinished proposal?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I'd let them help finish it.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "That is... irritatingly reasonable. Start with the printing costs.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.07.choice1",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "Let's ask the teacher how much the allowance covers.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "We should confirm that before ordering anything.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I'll write down the questions.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "And I will try not to answer them all before we reach the staffroom.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.07.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "Your father could help once. It would save everyone a lot of trouble.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "Including the trouble of taking our work seriously?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I meant the money, not your effort.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "People rarely bother to separate the two.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.07.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "The budget is small enough to understand and large enough to argue about. We make a clean copy for the class.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Narration",
+          "text": "Katya leaves her surname off the proposal title. Every member's name goes in the credits instead.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {},
+      "id": "katya.07",
+      "previousScene": "katya.06",
+      "background": "bg_class_b_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 8,
+      "title": "Three Signatures",
+      "location": "library",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "three_drafts",
+        "reference_books"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "The library lends us a reference table. Katya has rewritten nearly the entire display plan overnight.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "There's a signature space for three people. Only yours is filled.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "The other sections were incomplete.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "So you did them too?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "I required a finished plan, not a lesson in patience.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She rubs her wrist, then immediately stops when she notices me looking.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Katya",
+          "text": "I am not asking you to feel sorry for me.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I was going to ask where the original drafts went.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "neutral",
+          "text": "We can give everyone one last deadline.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "A specific one. Not 'whenever you have time.'",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Before the end of this block.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "At least that can be measured.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.08.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "If you want everything your way, you may as well do it all.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "I am aware of the option. I have been exercising it.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Then why ask anyone else?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "I begin to wonder the same thing.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.08.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "Put my section back. Tell me what's wrong with it and let me fix it.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "The image credits are missing, and the last paragraph repeats the first.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Good. That's something I can actually fix.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "I will check it when you are finished. Once.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.08.choice3",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "We spend the block comparing drafts rather than replacing them. The final plan has three different sets of corrections.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Katya",
+          "text": "That sentence is yours. It should stay in your voice.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "Her pen hovers, then moves to the next page.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {},
+      "id": "katya.08",
+      "previousScene": "katya.07",
+      "background": "bg_library_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 9,
+      "title": "A Call in the Hall",
+      "location": "corridor",
+      "hours": 3,
+      "expression": "sad",
+      "props": [
+        "phone",
+        "paper_samples"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "The MC returns from an errand and hears Katya speaking Russian near the stairwell. Her usual clipped certainty has gone quiet.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Katya",
+          "text": "Yes. I understand. I will send it when it is finished.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She ends the call and sees the folder in the MC's hands.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Katya",
+          "text": "How long have you been there?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Long enough to know I should have made more noise.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "It was my mother. That is all.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "The clipped schoolroom rhythm returns, each word carefully placed. A trace of Russian still rounds the last vowel.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Narration",
+          "text": "It clearly isn't all. It is, however, all she has offered.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "MC",
+          "text": "The teacher approved the cheaper paper.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "bad",
+          "text": "Was she disappointed in you? You sounded different.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "You have mistaken hearing a conversation for being invited into it.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I only wanted to understand.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "Then understand that I do not wish to discuss it.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.09.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "Want the folder now, or a minute first?",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "A minute would be useful.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I'll be by the noticeboard.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "Thank you. I will come over.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.09.choice2",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "I'll leave the folder on your desk.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "Very well. I will read it shortly.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "The note on top explains the changes.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "I saw. Thank you.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.09.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "Later, we attach paper samples to the display mock-up. The MC does not ask again about the call.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Katya",
+          "text": "My mother was a dancer. She hears an unfinished plan and imagines a missed step.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She says it while measuring a margin. I keep my eyes on the ruler and let her decide whether to say more.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {},
+      "id": "katya.09",
+      "previousScene": "katya.08",
+      "background": "bg_corridor_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 10,
+      "title": "The Shortcut",
+      "location": "lobby",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "delivery_box",
+        "receipt"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "A supply delivery arrives under the wrong name. Someone has written 'Romanova donation' on a school-funded box.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Katya",
+          "text": "It is an ordinary purchase. The receipt is inside.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "We'll correct the label.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "After half the class has seen it.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "A classmate asks if her family bought the display equipment. Katya's reply is so formal that the conversation stops.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "MC",
+          "text": "We still have the order sheet.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "I know. I would prefer evidence to another sympathetic speech.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "good",
+          "text": "Let's attach the school receipt and explain the mistake together.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "Keep it brief.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Wrong label, school budget, corrected record. No speech.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "An excellent length.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.10.choice1",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "The teacher can clear it up at the next meeting.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "That would be appropriate.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I'll leave the receipt with the order sheet.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "Please make a copy first.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.10.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "People will believe what they want. We might as well use the reputation.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "You think I should benefit from something that is untrue?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I think fighting it is exhausting you.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "Then let me choose what is worth my effort.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.10.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "The incorrect label comes off. The receipt stays with the supplies, where anyone can check it.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Narration",
+          "text": "There is no grand apology from the whole school. By the next bell, most people are discussing lunch.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Katya",
+          "text": "You were right about one thing. They do move on quickly.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {
+        "warm": [
+          {
+            "speaker": "Katya",
+            "text": "I trust you to explain your part. I would rather not speak for you.",
+            "kind": "dialogue"
+          }
+        ],
+        "mixed": [
+          {
+            "speaker": "Katya",
+            "text": "Let us be clear about what we are telling people.",
+            "kind": "dialogue"
+          }
+        ],
+        "cool": [
+          {
+            "speaker": "Katya",
+            "text": "We can correct the purchase record. My family is not part of the discussion.",
+            "kind": "dialogue"
+          }
+        ]
+      },
+      "id": "katya.10",
+      "previousScene": "katya.09",
+      "background": "bg_lobby_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 11,
+      "title": "Second Place",
+      "location": "field",
+      "hours": 3,
+      "expression": "annoyed",
+      "props": [
+        "fencing_mask",
+        "floor_markers"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "A supervised practice match has ended. Katya loses the last point, removes her mask and thanks her opponent before speaking to anyone else.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "Want me to carry the markers back?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "In a moment. I am trying to remember when my foot stopped obeying me.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "The instructor said your recovery was better.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "My recovery was necessary because I made the first mistake.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She watches the empty lane as if the last point might happen again.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "MC",
+          "text": "Is there a version of this afternoon where you're allowed to be disappointed?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "I am testing it. The results are unpleasant.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "neutral",
+          "text": "We could ask the instructor what to work on next.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "I already have. Distance and patience.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Hard to mark those with tape.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "A flaw in your otherwise excellent system.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.11.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "You can hate losing. You don't have to pretend the whole practice was worthless.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "I did not say the whole practice was worthless.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "You were making a strong case.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "Hm. Perhaps I was.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.11.choice2",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "It's only a school match. You're taking it too seriously.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "It matters to me. That should be enough information.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I was trying to help you forget it.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "I am trying to learn from it. Kindly allow me to be annoyed and competent at the same time.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.11.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "We reset the lane for the next group. Katya walks the movement slowly, then packs her equipment.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Katya",
+          "text": "My opponent earned that last point.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "You'll tell her?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "I already did. I can be unhappy without being unfair.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {},
+      "id": "katya.11",
+      "previousScene": "katya.10",
+      "background": "bg_field_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "fencing_kit_with_mask",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 12,
+      "title": "The Work She Didn't Do",
+      "location": "class_b",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "backing_card",
+        "glue",
+        "photo_prints"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "The display assembly has reached the part that never appears in photographs: cutting backing card and checking every caption.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Katya",
+          "text": "This section is still blank.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "It belongs to Sato. He's collecting the prints.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "I could complete it before he returns.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "You could.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She looks at the empty space, then at the scissors already in her hand.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Katya",
+          "text": "You are waiting for me to have a revelation, aren't you?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Mostly I'm waiting for the glue.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "bad",
+          "text": "I'll fill it in while he's gone. We don't have to tell him.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "That would be efficient.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "See? Problem solved.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "No. Put it down. I know exactly how that ends.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.12.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "Let's finish our section. We can check his when he gets back.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "And if it is late?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Then we deal with a late section. We don't erase his part in advance.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "Fine. Pass me the glue.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.12.choice2",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "I'll message him for an update.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "Ask whether he needs help collecting them.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "That's a better question than 'Where are you?'",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "It had better produce a better answer.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.12.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "Sato returns with the prints and a reasonable explanation. Katya checks his captions without rewriting his introduction.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Katya",
+          "text": "There. Finished.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She has done less of it herself than she intended. For once, that looks like part of the achievement.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {},
+      "id": "katya.12",
+      "previousScene": "katya.11",
+      "background": "bg_class_b_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 13,
+      "title": "An Ordinary Afternoon",
+      "location": "canteen",
+      "hours": 3,
+      "expression": "soft_smile",
+      "props": [
+        "dark_chocolate",
+        "music_note"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "After the committee work, a teacher asks us to stay available in case the display needs changes. No changes arrive.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "We might be finished.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "Do not say that too confidently. Work can hear you.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She has brought a small dark-chocolate bar. She places it between us, still wrapped.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Katya",
+          "text": "For the table. Not a reward.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I wasn't about to put it on my report card.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "Good.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "Without a folder between us, the table looks unexpectedly wide.",
+          "kind": "narration"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "good",
+          "text": "What would you be doing today if nobody needed anything from you?",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "Listening to music. Possibly walking somewhere without a destination.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "That sounds possible.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "An alarming thought. I had become rather attached to being too busy.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.13.choice1",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "Want to review the display once more before we leave?",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "We have checked it twice.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Old habits.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "Apparently contagious ones. Finish your chocolate first.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.13.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "You'd probably be bored without people relying on you.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "Perhaps. I would still like to discover whether I have a personality when nobody needs a budget.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "You never seemed interested in doing nothing.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "You have rarely asked.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.13.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "We talk about music until the teacher tells us there are no more changes. Katya recommends a piano recording, then spells the title so I can find it.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Katya",
+          "text": "You do not have to enjoy it.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Good. I'd hate to fail listening homework.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "There is no exam. That is the point.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {},
+      "id": "katya.13",
+      "previousScene": "katya.12",
+      "background": "bg_canteen_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 14,
+      "title": "The Final Copy",
+      "location": "class_b",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "final_report",
+        "pen"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "The class is submitting its display record. Katya has left the final signature space for the MC.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Katya",
+          "text": "Read it before you sign. I am not asking for blind agreement.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "The report credits the class, records the budget mistake and names the work that was corrected. It does not turn every problem into somebody else's fault.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "MC",
+          "text": "You left the changes in.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "They happened. The first version was not the finished version.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Sounds obvious when you say it like that.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "Most difficult things do, afterwards.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "neutral",
+          "text": "It looks accurate. I'll sign.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "Thank you. We can hand it in together.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "And finally retire the folder?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "A dignified retirement. It has suffered enough.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.14.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "Could we leave out the mistakes? The report would sound more impressive.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "It would sound less true.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Nobody needs every awkward detail.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "Then do not add any. But the corrections stay.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.14.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "Before I sign, I want to be honest about my part too.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "Then be specific. I can listen to specifics.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Some days I helped. Some days I said what was easiest. I don't want the report to hide either.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "All right. We will get the wording right.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.14.choice3",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "We finish the record and leave it in the submission tray. The desk is suddenly clear.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Katya",
+          "text": "I will be at the gate after dismissal next time. If you want to talk without a task attached.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "It is an invitation to a conversation, not a promise about what she will say.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {
+        "warm": [
+          {
+            "speaker": "Katya",
+            "text": "I have become accustomed to having you beside me. That is not a complaint.",
+            "kind": "dialogue"
+          }
+        ],
+        "mixed": [
+          {
+            "speaker": "Katya",
+            "text": "We have managed the work. I am still deciding what to make of the rest.",
+            "kind": "dialogue"
+          }
+        ],
+        "cool": [
+          {
+            "speaker": "Katya",
+            "text": "There are a few things I would rather settle directly than leave unspoken.",
+            "kind": "dialogue"
+          }
+        ]
+      },
+      "id": "katya.14",
+      "previousScene": "katya.13",
+      "background": "bg_class_b_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 15,
+      "title": "Beside the Gate",
+      "location": "gate",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "two_melonpan"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "Finale encounter. The UI warns that completing this conversation ends the current playthrough. Katya waits at the gate, holding an ordinary convenience-store bag.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "No folder?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "I considered bringing one. It would have made this less conspicuous.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Is that melonpan?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "You are very observant when bread is involved.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She has bought two. It would be easy to treat that as an answer before asking the question.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "MC",
+          "text": "I wanted to say something properly. I like you, Katya. More than as a classmate.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "Then let us be clear about what you are asking.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "bad",
+          "text": "After all this time, I think I've proved I deserve a chance.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "My affection is not a prize for completing enough tasks.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "That came out wrong.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "It came out clearly. Let me finish before you explain it away.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.15.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "route_ending"
+        },
+        {
+          "kind": "good",
+          "text": "I'd like to go out with you. You can tell me honestly if you don't want that.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "I intended to answer honestly in any case.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I know. I wanted you to hear that I can accept it.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "Good. Then listen.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.15.choice2",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "route_ending"
+        },
+        {
+          "kind": "neutral",
+          "text": "I'm not sure what happens next. I wanted you to know how I feel.",
+          "response": [
+            {
+              "speaker": "Katya",
+              "text": "A statement rather than a demand. I can work with that.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "It took me a while to get the wording right.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Katya",
+              "text": "I noticed.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "katya.15.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "route_ending"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "Record this choice once, then compare the route's total effective good and bad counts. Play exactly one ending below. Do not show a default acceptance before evaluating the score.",
+          "kind": "direction"
+        }
+      ],
+      "temperature": {
+        "warm": [
+          {
+            "speaker": "Katya",
+            "text": "I was hoping you would come. No—do not look so pleased. I have not finished.",
+            "kind": "dialogue"
+          }
+        ],
+        "mixed": [
+          {
+            "speaker": "Katya",
+            "text": "I am glad we can speak directly, whatever we decide.",
+            "kind": "dialogue"
+          }
+        ],
+        "cool": [
+          {
+            "speaker": "Katya",
+            "text": "I came because an honest conversation is better than another misunderstanding.",
+            "kind": "dialogue"
+          }
+        ]
+      },
+      "id": "katya.15",
+      "previousScene": "katya.14",
+      "background": "bg_gate_day",
+      "requiresClubDay": false,
+      "requiredBlock": "late",
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": true
+    }
+  ],
+  "endings": [
+    {
+      "kind": "good",
+      "title": "No Need to Keep Up",
+      "location": "gate",
+      "cgBrief": "Katya beside the gate in soft late-afternoon light, silver hair in broad clean locks, small sincere smile, offering a wrapped melonpan; the MC is a plain charcoal silhouette at equal height beside her. No glamour framing.",
+      "lines": [
+        {
+          "speaker": "Katya",
+          "text": "I like you too. There. An entirely ordinary sentence. Apparently beyond my ordinary capabilities.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "You hid it better than I did.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "That is a very low standard.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She gives him one of the wrapped breads. Their hands briefly touch; neither pulls the other closer.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Katya",
+          "text": "There is a café near the station. Saturday, if you are free.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "A date?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "Yes, Takahashi—Ren. Bozhe moy. I am attempting to eliminate ambiguity, not create more of it.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Saturday works.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "I used to imagine that a confession would be the moment I finally said everything perfectly. Instead, I'm smiling so hard I can barely unwrap the bread.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Katya",
+          "text": "And if you dislike the café, say so. I have no intention of dating somebody who agrees with me out of fear.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "What if I disagree out of terrible taste?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "We shall have to see how terrible. And don't smile like that, durak. You'll make me smile too.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She falls into step beside him. Neither of them needs to set the pace for both.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Narration",
+          "text": "The gate closes behind us. There are ordinary things to decide now: which street to take, whether it will rain, when I can see her again. I want the chance to learn them.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Stage",
+          "text": "Unlock Katya / Good. Return to title after credits.",
+          "kind": "direction"
+        }
+      ],
+      "id": "katya.ending.good",
+      "cg": "cg_katya_good",
+      "next": "credits_then_title"
+    },
+    {
+      "kind": "neutral",
+      "title": "The Seat Across From Her",
+      "location": "class_b",
+      "cgBrief": "A quiet Class B desk with the completed folder between two chairs; Katya offers a small cordial smile across the table. Open daytime light, respectful distance.",
+      "lines": [
+        {
+          "speaker": "Katya",
+          "text": "I value the time we have spent together. I cannot honestly call what I feel romance.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "All right.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "You are allowed to look disappointed. I would prefer that to a very brave lie.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I was hoping for a different answer. But I don't want one you have to force.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "The next school day, they collect the spare display materials in Class B. Katya puts the familiar folder on the table.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Katya",
+          "text": "Will sitting here be uncomfortable?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "A little, probably. Not forever.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "Tell me if you need room. I can manage a direct answer.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "There is no sudden trick that changes what she said. There is also no reason to pretend the afternoons meant nothing.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "MC",
+          "text": "You can still send me the name of that piano piece.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "I already did. You spelled it incorrectly in your notes.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Of course I did.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She smiles, small and uncomplicated, and pushes the spare scissors across the desk.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Narration",
+          "text": "For now, I take the seat across from her. Friendship is a different answer. It is still an answer worth treating carefully.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Stage",
+          "text": "Unlock Katya / Neutral. Return to title after credits.",
+          "kind": "direction"
+        }
+      ],
+      "id": "katya.ending.neutral",
+      "cg": "cg_katya_neutral",
+      "next": "credits_then_title"
+    },
+    {
+      "kind": "bad",
+      "title": "A Closed Folder",
+      "location": "class_b",
+      "cgBrief": "Katya alone in Class B in cool late light, calmly closing the completed folder; second chair empty, her expression disappointed but steady. No tears as spectacle.",
+      "lines": [
+        {
+          "speaker": "Katya",
+          "text": "I do not want to date you. I also think we need some distance.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Because of what I just said?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "Because of more than one afternoon. I have tried to tell you when something mattered to me. Too often, you treated it as something to get around.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "I start preparing an explanation. Hearing it in my head, I realize it would be another request for her to make this easier for me.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "MC",
+          "text": "I heard you. I won't keep asking.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "Thank you.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "The next day, the MC collects his remaining papers from Class B. Katya closes the committee folder and puts it with the finished work.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Katya",
+          "text": "Your section is in the copy on the left. You should keep it.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Right. Thank you for working with me.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Katya",
+          "text": "We did finish it.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "The empty chair does not accuse me. It is simply empty. She is allowed to decide who sits beside her, and I do not get to turn that into another test of her kindness.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Stage",
+          "text": "He takes his papers and leaves. She returns to her own plans.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Narration",
+          "text": "Next time I care about somebody, I want to listen before I'm afraid of losing them.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Stage",
+          "text": "Unlock Katya / Bad. Return to title after credits.",
+          "kind": "direction"
+        }
+      ],
+      "id": "katya.ending.bad",
+      "cg": "cg_katya_bad",
+      "next": "credits_then_title"
+    }
+  ],
+  "finaleRepair": {
+    "when": "ending == good AND finalChoice == bad",
+    "lines": [
+      {
+        "speaker": "MC",
+        "text": "Wait. Saying I deserved a chance was unfair. You don't owe me a date. I'm sorry.",
+        "kind": "dialogue"
+      },
+      {
+        "speaker": "Katya",
+        "text": "Good. I would rather not begin anything with an invoice attached. I know you can listen; do so now.",
+        "kind": "dialogue"
+      }
+    ]
+  },
+  "voicePass": "Performed second pass: individual rhythm, meaningful pauses, physical tells and restrained contextual code-switching. English remains readable; no phonetic nationality caricatures."
+}

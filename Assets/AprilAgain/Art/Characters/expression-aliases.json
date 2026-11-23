@@ -1,0 +1,40 @@
+{
+  "aliases": {
+    "katya": {
+      "composed": "neutral",
+      "smile": "soft_smile"
+    },
+    "akira": {
+      "concerned": "worried",
+      "smile": "delighted"
+    },
+    "seoyun": {
+      "smile": "warm"
+    },
+    "mari": {
+      "smile": "warm"
+    },
+    "svea": {
+      "smile": "soft_smile",
+      "unbothered": "neutral",
+      "focused": "neutral"
+    }
+  },
+  "policy": "Aliases consolidate the screenplay acting directions; use canonical face assets, never random expressions.",
+  "wardrobe": {
+    "mari_warm": "soft_smile",
+    "katya_tracksuit_determined": "active",
+    "katya_fencing_annoyed": "active",
+    "svea_sports_annoyed": "active",
+    "svea_sports_flustered": "flustered"
+  },
+  "dialogueMode": "Standalone head-and-shoulders portrait. Do not splice changing faces into full-body sprites.",
+  "heightCm": {
+    "katya": 176,
+    "akira": 167,
+    "seoyun": 163,
+    "mari": 176,
+    "svea": 171,
+    "mc": 173
+  }
+}

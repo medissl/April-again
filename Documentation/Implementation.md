@@ -1,0 +1,15 @@
+# April, again — implementation
+
+The current milestone is a complete local Windows visual novel built from the authored 75 encounters, 225 choices and 15 endings. The earlier screenplay-only boundary is superseded by the user's request to implement and test the full game.
+
+The runtime uses Unity 6000.3.7f1, uGUI, TextMesh Pro and the Input System. Content is compiled by `Tools/Game/build_content.py` from the authored JSON and asset bindings. Original screenplay and illustration masters remain preserved. `AprilAgain.unity` is the playable scene; SampleScene remains available unchanged. `April Again/Prepare game`, `Validate rules` and `Build Windows player` are Editor menu commands.
+
+Schedule: two three-hour blocks on ordinary school days, three on Saturday, Sunday at home. Each classmate has a displayed appointment, one encounter per day and fifteen encounters total. Navigation and inspection are free. The first completed route ends the playthrough. Neutral choices contribute equally to good/bad totals. Save files include dialogue position and committed decisions. A separate pre-finale snapshot and global CG unlocks preserve replay options.
+
+The approved classroom reference drives the current presentation: rose stationery, translucent reading panels, centered ribbon names and a three-row corner calendar. Inspectable targets use small white corner marks; door and map hover states avoid duplicate captions and white rectangle washes. Nunito ExtraBold is assigned to both catalog font roles and TMP's global default; text remains live. Fixed 16:9 content scales without stretching illustrations. The title contains no girls, as requested. Choice screens use full-height sprites.
+
+Windows builds use a comma-free, owner-marked staging project because Unity's linker failed on the source path's comma and the Windows short-path workaround produced broken script/URP serialization. A fresh normal-path mirror resolved those failures and launched successfully. Tools/PrepareBuildMirror.ps1 creates a fresh staging copy; SyncBuildMirror.ps1 sends changed source and pulls generated catalog/font/scene assets. Prepared importer metadata is preserved during sync and copied back only when GUIDs match, with original metadata backed up in Documentation/Testing/SourceMetaBackup. PackageRelease.ps1 replaces the release folder by first moving the prior generated output aside, includes notices and creates the ZIP. Do not build from the short-path alias.
+
+Local verification captures remain in `Documentation/Testing`; curated public evidence is in `Documentation/ReleaseReview`. The release includes a portable ZIP and a per-user NSIS installer built by `Tools/BuildInstaller.ps1`. The custom game icon and disabled Unity splash are set by Prepare. Both distribution formats keep saves outside the installation directory.
+
+To regenerate compiled content, install `Tools/requirements.txt` and run `python Tools/Game/build_content.py`. Already vendored interface cues are used when the author's original audio folders are unavailable. The checked-in scene/catalog/assets are sufficient to open and play the project without running art generation.

@@ -1,0 +1,935 @@
+{
+  "assets": [
+    {
+      "id": "vn_katya_neutral",
+      "path": "Assets/AprilAgain/Art/Characters/katya/Conversation/neutral.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "ab05160111d1d4f837b3c3cc966702479b862c1d0b522dc446dbbbe7542c75c3"
+    },
+    {
+      "id": "vn_katya_soft_smile",
+      "path": "Assets/AprilAgain/Art/Characters/katya/Conversation/soft_smile.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "3d02488dc7db9be8dc9cfe597e669a71f9228157ad4391b0ec2717aa4ac7f3cf"
+    },
+    {
+      "id": "vn_katya_annoyed",
+      "path": "Assets/AprilAgain/Art/Characters/katya/Conversation/annoyed.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "9da32761aaf14dceefeb46ec5e6d86efa723ac2cf993ee05132cab73ff9aa026"
+    },
+    {
+      "id": "vn_katya_flustered",
+      "path": "Assets/AprilAgain/Art/Characters/katya/Conversation/flustered.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "4fe98e8a16cbf56f7d38bfc04695dda3fe80a27b0be48b6faaeb8ed9c916028b"
+    },
+    {
+      "id": "vn_akira_neutral",
+      "path": "Assets/AprilAgain/Art/Characters/akira/Conversation/neutral.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "5d9a6b1fb5e0be78ab0427a44cc08674f2d55f8c551d88c3304616e7fe423671"
+    },
+    {
+      "id": "vn_akira_delighted",
+      "path": "Assets/AprilAgain/Art/Characters/akira/Conversation/delighted.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "3fb85b277a499f4505bdce328c89206ffb8f74c76bab869df941b5b5e671a89d"
+    },
+    {
+      "id": "vn_akira_excited",
+      "path": "Assets/AprilAgain/Art/Characters/akira/Conversation/excited.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "dd23591c7e3a13af1a36954ddd2d4aee4ca59f80a477550d0b7cb16adbb22c4a"
+    },
+    {
+      "id": "vn_akira_flustered",
+      "path": "Assets/AprilAgain/Art/Characters/akira/Conversation/flustered.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "044cf1c573d974b570949097a4859534a4e78083f2cec6b682c4fbe5b0e254df"
+    },
+    {
+      "id": "vn_seoyun_neutral",
+      "path": "Assets/AprilAgain/Art/Characters/seoyun/Conversation/neutral.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "e06b269af1f4533234e36e2d4425e401998b51a60aa2228f3c06022d605ac42a"
+    },
+    {
+      "id": "vn_seoyun_warm",
+      "path": "Assets/AprilAgain/Art/Characters/seoyun/Conversation/warm.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "2fdde43915b684a443b785ffc9c73668a985cc03fd82e99376377f900cf9d773"
+    },
+    {
+      "id": "vn_seoyun_curious",
+      "path": "Assets/AprilAgain/Art/Characters/seoyun/Conversation/curious.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "e730a372c7a3f220377679a21a13e644479e253823bb36c598ed9d100f1503ae"
+    },
+    {
+      "id": "vn_seoyun_flustered",
+      "path": "Assets/AprilAgain/Art/Characters/seoyun/Conversation/flustered.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "1a3a6cb0715c61832c01c8d6bfffabb3b01e7a1d3e4c87287ccec750d8f33b45"
+    },
+    {
+      "id": "vn_mari_neutral",
+      "path": "Assets/AprilAgain/Art/Characters/mari/Conversation/neutral.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "c5ae47f3e2e44f4dafb497ade9a09595caee2a7638072a4c1bcbf55a265b9f0f"
+    },
+    {
+      "id": "vn_mari_warm",
+      "path": "Assets/AprilAgain/Art/Characters/mari/Conversation/warm.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "b8029e7cb04e9d92f833d81eac4398e8a79a066f87acc184515760db6452344c"
+    },
+    {
+      "id": "vn_mari_concerned",
+      "path": "Assets/AprilAgain/Art/Characters/mari/Conversation/concerned.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "086a3a6b922dcd251f765a8739ca7ead85213c7379fe8039bb48af392022b5dc"
+    },
+    {
+      "id": "vn_mari_flustered",
+      "path": "Assets/AprilAgain/Art/Characters/mari/Conversation/flustered.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "0f764a894ccc53ba4bc658dc76e424ff5dd25cc852b0fb0c938847dc630c9a74"
+    },
+    {
+      "id": "vn_svea_neutral",
+      "path": "Assets/AprilAgain/Art/Characters/svea/Conversation/neutral.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "d3a40111bc09285750d1fe33123af3497398656851f6f13a3389e86094786fd5"
+    },
+    {
+      "id": "vn_svea_soft_smile",
+      "path": "Assets/AprilAgain/Art/Characters/svea/Conversation/soft_smile.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "c0e9e0efa32ffccceafcd1c4979226e8aca562c8269be8cc8485e1a3b492afdd"
+    },
+    {
+      "id": "vn_svea_smirk",
+      "path": "Assets/AprilAgain/Art/Characters/svea/Conversation/smirk.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "7ae719777b6fceb4409aa447b3d9b754725795808896479107bf5cb91b92afbd"
+    },
+    {
+      "id": "vn_svea_flustered",
+      "path": "Assets/AprilAgain/Art/Characters/svea/Conversation/flustered.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "034e4a198895c61d3f5ac36a4f32d95edb71e614d5717f3003203deee56b1eb5"
+    },
+    {
+      "id": "vn_katya_concerned",
+      "path": "Assets/AprilAgain/Art/Characters/katya/Conversation/concerned.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "9c97a46a0439c4910a7df07a7b89f9969cc271ab9d73e1180cc41aba2f6fc3d7"
+    },
+    {
+      "id": "vn_katya_determined",
+      "path": "Assets/AprilAgain/Art/Characters/katya/Conversation/determined.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "65cc0ec7adf6517c9f310b85a58ae1683f24701c6e177c6e790fc390ebf132a3"
+    },
+    {
+      "id": "vn_katya_sad",
+      "path": "Assets/AprilAgain/Art/Characters/katya/Conversation/sad.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "413819d6dc1715ad3b2815893521f10e7846e1b14ae4920be9472ddbbfdb0835"
+    },
+    {
+      "id": "vn_katya_surprised",
+      "path": "Assets/AprilAgain/Art/Characters/katya/Conversation/surprised.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "3c018bf66be6d66e4dd53f65182c8afcb042c0e4b5170334167e2559060faac3"
+    },
+    {
+      "id": "vn_akira_puzzled",
+      "path": "Assets/AprilAgain/Art/Characters/akira/Conversation/puzzled.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "3a916b77202407a652cbb1d28770bc1a86308cba7c83760b965d717a5674c12a"
+    },
+    {
+      "id": "vn_akira_sad",
+      "path": "Assets/AprilAgain/Art/Characters/akira/Conversation/sad.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "38126b0401d2ff0a627d3a0baed7b96d609095e2a1116b4722ed70368525ef80"
+    },
+    {
+      "id": "vn_akira_surprised",
+      "path": "Assets/AprilAgain/Art/Characters/akira/Conversation/surprised.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "e8750b45122a7be47e178996ab5f4525b53a08f0c8cfaf50c3da5e9ef83cbb1f"
+    },
+    {
+      "id": "vn_akira_worried",
+      "path": "Assets/AprilAgain/Art/Characters/akira/Conversation/worried.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "9945ae4e55bd0bbb3c8614c2fbb9784b8f781f46b65b91297f4d7065804c0f18"
+    },
+    {
+      "id": "vn_seoyun_concerned",
+      "path": "Assets/AprilAgain/Art/Characters/seoyun/Conversation/concerned.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "371b03a97cd56e2266b40852a55465d2a15adc1fc30452146cce536e06e8c346"
+    },
+    {
+      "id": "vn_seoyun_determined",
+      "path": "Assets/AprilAgain/Art/Characters/seoyun/Conversation/determined.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "28130045f118032796e1c6d497052a70820b7a4a3877945534c7b7deef318e6b"
+    },
+    {
+      "id": "vn_seoyun_sad",
+      "path": "Assets/AprilAgain/Art/Characters/seoyun/Conversation/sad.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "f2d83307ef06b396fb1c974ea4acb01fe534ff056322d29407c33741ee72a794"
+    },
+    {
+      "id": "vn_seoyun_surprised",
+      "path": "Assets/AprilAgain/Art/Characters/seoyun/Conversation/surprised.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "73d352855e41f76e3ee38f1fc953b985ee19b100e201f9498fbf59990e6b3278"
+    },
+    {
+      "id": "vn_mari_determined",
+      "path": "Assets/AprilAgain/Art/Characters/mari/Conversation/determined.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "13b7691ff87a14f910a1b24bbbb1deaa1be01158ff40ad4c1ad034c50445e860"
+    },
+    {
+      "id": "vn_mari_peaceful",
+      "path": "Assets/AprilAgain/Art/Characters/mari/Conversation/peaceful.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "141062e72c4638333e8319d31314332d187a62dcec0f9912b9ede1643da437f9"
+    },
+    {
+      "id": "vn_mari_sad",
+      "path": "Assets/AprilAgain/Art/Characters/mari/Conversation/sad.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "f8c3223c1e1ddad2a5d2c2bb7b760d51ed7da094c4b8bcf93c46ed37e646bb1b"
+    },
+    {
+      "id": "vn_mari_surprised",
+      "path": "Assets/AprilAgain/Art/Characters/mari/Conversation/surprised.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "02d3de151359b949d875be4b5adfbaff76210063bb06d50621a01d2af0545cbd"
+    },
+    {
+      "id": "vn_svea_annoyed",
+      "path": "Assets/AprilAgain/Art/Characters/svea/Conversation/annoyed.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "480a8fea15e269f5dc228cda50c5bd7f3ce47262d86f3713417c6f821321a907"
+    },
+    {
+      "id": "vn_svea_sleepy",
+      "path": "Assets/AprilAgain/Art/Characters/svea/Conversation/sleepy.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "10e7fef3dd57b2048f2943d2a98d43331daf13ea9cdf1dc4fa30d4d5041118fa"
+    },
+    {
+      "id": "vn_svea_sad",
+      "path": "Assets/AprilAgain/Art/Characters/svea/Conversation/sad.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "d90fedf800d9b0511860c7727203dacb236087b535ae3070dd3f622d62c17951"
+    },
+    {
+      "id": "vn_svea_surprised",
+      "path": "Assets/AprilAgain/Art/Characters/svea/Conversation/surprised.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 512,
+      "height": 622,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "a4265c10722ca317e16e5e842c1ca6ad56aaaa9bba895f6fb10fe1a4527baa4d"
+    },
+    {
+      "id": "vn_svea_concerned",
+      "path": "Assets/AprilAgain/Art/Characters/svea/Conversation/concerned.png",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 1024,
+      "height": 1244,
+      "method": "built-in image_gen; aligned mechanical atlas crop",
+      "sha256": "d7847c71b5a5d7b4e8553941a4ed9ad866f34eec87e86d9d1ad179a576e48944"
+    }
+  ],
+  "jobs": [
+    {
+      "girl": "katya",
+      "faces": [
+        "neutral",
+        "soft_smile",
+        "annoyed",
+        "flustered"
+      ],
+      "source": "exec-ad9504f8-d0ab-4689-849a-1c9922dc4384.png"
+    },
+    {
+      "girl": "akira",
+      "faces": [
+        "neutral",
+        "delighted",
+        "excited",
+        "flustered"
+      ],
+      "source": "exec-fdbe91dc-1aa6-40ae-af94-19e32a85f8c4.png"
+    },
+    {
+      "girl": "seoyun",
+      "faces": [
+        "neutral",
+        "warm",
+        "curious",
+        "flustered"
+      ],
+      "source": "exec-3930723a-5421-4322-81d6-adaf013f09e8.png"
+    },
+    {
+      "girl": "mari",
+      "faces": [
+        "neutral",
+        "warm",
+        "concerned",
+        "flustered"
+      ],
+      "source": "exec-6a9c535e-f39d-42f8-bae4-49af856efdae.png"
+    },
+    {
+      "girl": "svea",
+      "faces": [
+        "neutral",
+        "soft_smile",
+        "smirk",
+        "flustered"
+      ],
+      "source": "exec-40399df2-7dee-439c-a98b-3e87e8dd971c.png"
+    },
+    {
+      "girl": "katya",
+      "faces": [
+        "concerned",
+        "determined",
+        "sad",
+        "surprised"
+      ],
+      "source": "exec-d1a8e63d-2fd2-40ee-9657-358926b0d7fa.png"
+    },
+    {
+      "girl": "akira",
+      "faces": [
+        "puzzled",
+        "sad",
+        "surprised",
+        "worried"
+      ],
+      "source": "exec-44ec7727-6684-4491-8f9a-442ec766a2ad.png"
+    },
+    {
+      "girl": "seoyun",
+      "faces": [
+        "concerned",
+        "determined",
+        "sad",
+        "surprised"
+      ],
+      "source": "exec-6dd33bce-2291-41d5-afa8-22d2bb648f2e.png"
+    },
+    {
+      "girl": "mari",
+      "faces": [
+        "determined",
+        "peaceful",
+        "sad",
+        "surprised"
+      ],
+      "source": "exec-decd7e34-520a-4d6a-a301-accc633358cd.png"
+    },
+    {
+      "girl": "svea",
+      "faces": [
+        "annoyed",
+        "sleepy",
+        "sad",
+        "surprised"
+      ],
+      "source": "exec-a2f854e0-73da-4ce6-bc0e-7dead85ed91d.png"
+    },
+    {
+      "girl": "svea",
+      "faces": [
+        "concerned"
+      ],
+      "source": "exec-c4a5de15-fc9a-4d0f-8d2a-2a80b29930d8.png",
+      "columns": 1,
+      "rows": 1
+    }
+  ]
+}

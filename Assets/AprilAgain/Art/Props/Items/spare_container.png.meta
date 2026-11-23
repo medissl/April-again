@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 2d44742a88f2e4849a85e7c177bd4b2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5751886046419398013
+    second: spare_container_0
+  - first:
+      213: -1085284449827973241
+    second: spare_container_1
+  - first:
+      213: 8150550522393798279
+    second: spare_container_2
+  - first:
+      213: 2718153769843518056
+    second: spare_container_3
+  - first:
+      213: -3791056500204723268
+    second: spare_container_4
+  - first:
+      213: -5288169362896191863
+    second: spare_container_5
+  - first:
+      213: -565000207085962074
+    second: spare_container_6
+  - first:
+      213: 3811166311957978602
+    second: spare_container_7
+  - first:
+      213: -7999651491648015729
+    second: spare_container_8
+  - first:
+      213: 6100406610677391501
+    second: spare_container_9
+  - first:
+      213: -9146749532173540827
+    second: spare_container_10
+  - first:
+      213: 8885412741173333656
+    second: spare_container_11
+  - first:
+      213: 1934791774788571467
+    second: spare_container_12
+  - first:
+      213: 8646868166645184572
+    second: spare_container_13
+  - first:
+      213: 7243074628992367118
+    second: spare_container_14
+  - first:
+      213: 3816729153416447654
+    second: spare_container_15
+  - first:
+      213: 8069892983204995990
+    second: spare_container_16
+  - first:
+      213: -3674969501146704078
+    second: spare_container_17
+  - first:
+      213: 3947063966614687117
+    second: spare_container_18
+  - first:
+      213: -4172161318374870425
+    second: spare_container_19
+  - first:
+      213: 6946808767584214943
+    second: spare_container_20
+  - first:
+      213: 7255605323600734919
+    second: spare_container_21
+  - first:
+      213: -5225220187029114031
+    second: spare_container_22
+  - first:
+      213: 54198873537444206
+    second: spare_container_23
+  - first:
+      213: 1469139632799641067
+    second: spare_container_24
+  - first:
+      213: 367576541582577008
+    second: spare_container_25
+  - first:
+      213: 989744034305795382
+    second: spare_container_26
+  - first:
+      213: -935665089344629257
+    second: spare_container_27
+  - first:
+      213: -6880350745312081477
+    second: spare_container_28
+  - first:
+      213: -4953000694329629868
+    second: spare_container_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spare_container_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 109
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7daa5962edc2df40800000000000000
+      internalID: 5751886046419398013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spare_container_1
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 433
+        width: 153
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7879fbffa8b40f0f0800000000000000
+      internalID: -1085284449827973241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spare_container_2
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 495
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786282344829c1170800000000000000
+      internalID: 8150550522393798279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spare_container_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 450
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a6968c372d8b520800000000000000
+      internalID: 2718153769843518056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spare_container_4
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 465
+        width: 59
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3acdde236736bc0800000000000000
+      internalID: -3791056500204723268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spare_container_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 437
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ef77c7bf5ac96b0800000000000000
+      internalID: -5288169362896191863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spare_container_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 443
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac7e9e1e47b828f0800000000000000
+      internalID: -565000207085962074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spare_container_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 429
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedd03c719bf3e430800000000000000
+      internalID: 3811166311957978602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spare_container_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 439
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8275613a578bf090800000000000000
+      internalID: -7999651491648015729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spare_container_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 443
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80eed6bd7ff8a450800000000000000
+      internalID: 6100406610677391501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spare_container_10
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 447
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522635513c7301180800000000000000
+      internalID: -9146749532173540827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spare_container_11
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 449
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ecd58afc35f4b70800000000000000
+      internalID: 8885412741173333656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spare_container_12
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 447
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41de924ed2c9da10800000000000000
+      internalID: 1934791774788571467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spare_container_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 397
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38f484d8c8dff770800000000000000
+      internalID: 8646868166645184572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spare_container_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 401
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0afbb6eff1948460800000000000000
+      internalID: 7243074628992367118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spare_container_15
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 407
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6c34171feb7f430800000000000000
+      internalID: 3816729153416447654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spare_container_16
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 401
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693e95f79e40eff60800000000000000
+      internalID: 8069892983204995990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spare_container_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23791c3a5b2effcc0800000000000000
+      internalID: -3674969501146704078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spare_container_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 510
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d00d3e3c9c6c630800000000000000
+      internalID: 3947063966614687117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spare_container_19
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 193
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762f3a0d2618916c0800000000000000
+      internalID: -4172161318374870425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spare_container_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 71
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f1d62b4c5086060800000000000000
+      internalID: 6946808767584214943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spare_container_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 67
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7caa7a7999611b460800000000000000
+      internalID: 7255605323600734919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spare_container_22
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 53
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153fdee9ce94c77b0800000000000000
+      internalID: -5225220187029114031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spare_container_23
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 37
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69fc6c969d80c000800000000000000
+      internalID: 54198873537444206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spare_container_24
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 45
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed687256be636410800000000000000
+      internalID: 1469139632799641067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spare_container_25
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 21
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07dcbc4cae4e91500800000000000000
+      internalID: 367576541582577008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spare_container_26
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 37
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635eb5f84f64cbd00800000000000000
+      internalID: 989744034305795382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spare_container_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 39
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f511e00f89d303f0800000000000000
+      internalID: -935665089344629257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spare_container_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 21
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9449763751480a0800000000000000
+      internalID: -6880350745312081477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spare_container_29
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45328325c18634bb0800000000000000
+      internalID: -4953000694329629868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spare_container_0: 5751886046419398013
+      spare_container_1: -1085284449827973241
+      spare_container_10: -9146749532173540827
+      spare_container_11: 8885412741173333656
+      spare_container_12: 1934791774788571467
+      spare_container_13: 8646868166645184572
+      spare_container_14: 7243074628992367118
+      spare_container_15: 3816729153416447654
+      spare_container_16: 8069892983204995990
+      spare_container_17: -3674969501146704078
+      spare_container_18: 3947063966614687117
+      spare_container_19: -4172161318374870425
+      spare_container_2: 8150550522393798279
+      spare_container_20: 6946808767584214943
+      spare_container_21: 7255605323600734919
+      spare_container_22: -5225220187029114031
+      spare_container_23: 54198873537444206
+      spare_container_24: 1469139632799641067
+      spare_container_25: 367576541582577008
+      spare_container_26: 989744034305795382
+      spare_container_27: -935665089344629257
+      spare_container_28: -6880350745312081477
+      spare_container_29: -4953000694329629868
+      spare_container_3: 2718153769843518056
+      spare_container_4: -3791056500204723268
+      spare_container_5: -5288169362896191863
+      spare_container_6: -565000207085962074
+      spare_container_7: 3811166311957978602
+      spare_container_8: -7999651491648015729
+      spare_container_9: 6100406610677391501
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

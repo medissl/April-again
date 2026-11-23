@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 1,
+  "art": "Map/campus_illustration.png",
+  "coordinateSystem": "normalized top-left; x,y,width,height",
+  "locations": [
+    {
+      "id": "infirmary",
+      "label": "Infirmary",
+      "hitRect": [
+        0.07,
+        0.155,
+        0.156,
+        0.3
+      ],
+      "labelPosition": [
+        0.14800000000000002,
+        0.305
+      ],
+      "neighbors": [
+        "corridor"
+      ],
+      "travelCostsTime": false
+    },
+    {
+      "id": "class_b",
+      "label": "Class B",
+      "hitRect": [
+        0.281,
+        0.079,
+        0.182,
+        0.224
+      ],
+      "labelPosition": [
+        0.372,
+        0.191
+      ],
+      "neighbors": [
+        "corridor"
+      ],
+      "travelCostsTime": false
+    },
+    {
+      "id": "class_c",
+      "label": "Class C",
+      "hitRect": [
+        0.523,
+        0.077,
+        0.179,
+        0.227
+      ],
+      "labelPosition": [
+        0.6125,
+        0.1905
+      ],
+      "neighbors": [
+        "corridor"
+      ],
+      "travelCostsTime": false
+    },
+    {
+      "id": "library",
+      "label": "Library",
+      "hitRect": [
+        0.752,
+        0.133,
+        0.183,
+        0.303
+      ],
+      "labelPosition": [
+        0.8435,
+        0.2845
+      ],
+      "neighbors": [
+        "corridor"
+      ],
+      "travelCostsTime": false
+    },
+    {
+      "id": "corridor",
+      "label": "Main corridor",
+      "hitRect": [
+        0.23,
+        0.305,
+        0.52,
+        0.075
+      ],
+      "labelPosition": [
+        0.49,
+        0.34249999999999997
+      ],
+      "neighbors": [
+        "lobby",
+        "infirmary",
+        "class_b",
+        "class_c",
+        "library",
+        "class_a"
+      ],
+      "travelCostsTime": false
+    },
+    {
+      "id": "class_a",
+      "label": "Class A",
+      "hitRect": [
+        0.532,
+        0.378,
+        0.178,
+        0.163
+      ],
+      "labelPosition": [
+        0.621,
+        0.4595
+      ],
+      "neighbors": [
+        "corridor"
+      ],
+      "travelCostsTime": false
+    },
+    {
+      "id": "lobby",
+      "label": "Lobby",
+      "hitRect": [
+        0.41,
+        0.553,
+        0.152,
+        0.244
+      ],
+      "labelPosition": [
+        0.486,
+        0.675
+      ],
+      "neighbors": [
+        "gate",
+        "corridor",
+        "canteen",
+        "field"
+      ],
+      "travelCostsTime": false
+    },
+    {
+      "id": "canteen",
+      "label": "Canteen",
+      "hitRect": [
+        0.172,
+        0.551,
+        0.183,
+        0.281
+      ],
+      "labelPosition": [
+        0.26349999999999996,
+        0.6915
+      ],
+      "neighbors": [
+        "lobby"
+      ],
+      "travelCostsTime": false
+    },
+    {
+      "id": "field",
+      "label": "Sports field",
+      "hitRect": [
+        0.618,
+        0.563,
+        0.288,
+        0.29
+      ],
+      "labelPosition": [
+        0.762,
+        0.708
+      ],
+      "neighbors": [
+        "lobby",
+        "gate"
+      ],
+      "travelCostsTime": false
+    },
+    {
+      "id": "gate",
+      "label": "School gate",
+      "hitRect": [
+        0.437,
+        0.882,
+        0.098,
+        0.09
+      ],
+      "labelPosition": [
+        0.486,
+        0.927
+      ],
+      "neighbors": [
+        "bedroom",
+        "lobby",
+        "field"
+      ],
+      "travelCostsTime": false
+    }
+  ],
+  "home": {
+    "id": "bedroom",
+    "via": "gate",
+    "label": "Home",
+    "asset": "UI/icon_home.png"
+  },
+  "note": "Navigation graph in Narrative/locations.json is authoritative; map geometry is a visual aid."
+}

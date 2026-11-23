@@ -1,0 +1,667 @@
+{
+  "style": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.",
+  "backgroundStyle": "Use the approved reference ONLY for rendering quality, linework and palette; do not include any character from it. Finished hand-painted 2D anime VN environment, precise clean perspective, simplified purposeful architectural detail, matte natural textures, restrained clear spring daylight, calm white/cream walls with muted blue-green trim, warm oak doors and furniture, no photorealism or 3D render. One believable modest prestigious Japanese high school in Fukuoka. High-resolution WIDE16:9, ideally1920x1080. No people, text, logos, UI, sparkles, fog or lens flare. Leave bottom quarter low-detail for dialogue and a clear foreground zone for later character sprites. Do not overdecorate.",
+  "characters": [
+    {
+      "id": "katya",
+      "name": "Katya",
+      "details": "Tall176cm girl, long WAIST-LENGTH SILVER WHITE straight hair with pristine center part and simple broad locks, ICE BLUE narrower eyes, slightly elongated face, precise fine brows, proud restrained gaze, small silver stud earrings. Impeccably tailored shared navy blazer, maroon ribbon, knee-length charcoal skirt, BLACK TIGHTS, black loafers. Relaxed arms loosely crossed, complete opaque body."
+    },
+    {
+      "id": "akira",
+      "name": "Akira Seojin",
+      "details": "167cm girl, SHORT CHIN-LENGTH pastel PINK bob with one small ahoge, BROWN round lively eyes, thin round dark GLASSES and tiny simple charm on glasses arm, shorter rounded face, lively brows and friendly open expression. Shared navy blazer maroon ribbon white shirt knee-length charcoal skirt dark knee socks and loafers. Both hands loosely at sides. NO satchel on this neutral base; the satchel will be a separate scene prop."
+    },
+    {
+      "id": "seoyun",
+      "name": "Han Seo-yun",
+      "details": "163cm girl, long gently WAVY DARK BROWN hair loosely tied in a LOW ponytail with wispy curtain bangs but very few flyaways, DARK BROWN almond-shaped eyes, tiny mole under HER LEFT eye, gentle oval face, soft brows and quietly attentive expression. Neatly buttoned shared navy blazer maroon ribbon white shirt knee-length charcoal skirt dark knee socks loafers. Both hands loosely folded in front. NO journal in this neutral base."
+    },
+    {
+      "id": "mari",
+      "name": "Yasuko Mari",
+      "details": "Tall176cm girl, MUTED SALMON PINK voluminous feathered LOW PONYTAIL, parted curtain bangs and cheek-framing sidelocks described as a few broad locks, large calm CYAN eyes, softly elongated feminine face, gently relaxed eyelids and a kind restrained smile. Same navy blazer maroon ribbon white shirt modest KNEE-LENGTH charcoal pleated skirt dark knee socks and loafers. Hands gently clasped at waist, no props. She is a fellow student."
+    },
+    {
+      "id": "svea",
+      "name": "Kurokawa Svea",
+      "details": "171cm athletic GIRL, visibly feminine youthful face with soft jaw and gently tapered cheeks, shaggy medium-short BLUE BLACK hair chin-to-nape, long side fringe partly covering HER RIGHT eye, calm half-lidded BLUE GREY eyes, understated lashes and small dry half smile. Match her exact face and hair in the supplied approved reference. Navy school blazer OPEN over white shirt with only top button undone and chest fully covered, plain charcoal straight UNIFORM TROUSERS, grey sneakers. No ribbon/tie. One hand in trouser pocket, other hand at side, NO basketball in neutral base."
+    }
+  ],
+  "expressionSpecs": {
+    "katya": [
+      [
+        "neutral",
+        "composed neutral, mouth closed, chin slightly raised"
+      ],
+      [
+        "annoyed",
+        "furrowed brows, narrowed eyes, controlled irritated mouth"
+      ],
+      [
+        "determined",
+        "firm focused eyes, confident resolved mouth"
+      ],
+      [
+        "flustered",
+        "subtle blush, eyes aside, small startled mouth"
+      ],
+      [
+        "sad",
+        "tired lowered gaze, slight sadness, no tears"
+      ],
+      [
+        "soft_smile",
+        "rare sincere small smile, relaxed eyes"
+      ],
+      [
+        "concerned",
+        "brows gently pinched, worried thoughtful gaze"
+      ],
+      [
+        "surprised",
+        "eyes widened, small open mouth"
+      ]
+    ],
+    "akira": [
+      [
+        "neutral",
+        "friendly attentive, closed-mouth smile"
+      ],
+      [
+        "delighted",
+        "bright genuine smile, lively eyes"
+      ],
+      [
+        "puzzled",
+        "one brow raised, thoughtful uncertain mouth"
+      ],
+      [
+        "worried",
+        "quiet remorse, worried downcast eyes"
+      ],
+      [
+        "flustered",
+        "small blush, glance aside, uncertain mouth"
+      ],
+      [
+        "excited",
+        "energetic confident open grin"
+      ],
+      [
+        "sad",
+        "disappointed lowered eyes, sad mouth, no tears"
+      ],
+      [
+        "surprised",
+        "eyes wide behind glasses, small open mouth"
+      ]
+    ],
+    "seoyun": [
+      [
+        "neutral",
+        "gentle reserved attentive"
+      ],
+      [
+        "curious",
+        "eyes lifted with gentle curiosity"
+      ],
+      [
+        "determined",
+        "quietly firm composed gaze"
+      ],
+      [
+        "sad",
+        "thoughtful sad lowered gaze"
+      ],
+      [
+        "warm",
+        "warm small shy smile"
+      ],
+      [
+        "flustered",
+        "faint blush, gaze aside"
+      ],
+      [
+        "concerned",
+        "soft worried brows"
+      ],
+      [
+        "surprised",
+        "slightly widened eyes, small open mouth"
+      ]
+    ],
+    "mari": [
+      [
+        "neutral",
+        "composed gentle neutral"
+      ],
+      [
+        "warm",
+        "faint genuine warm smile"
+      ],
+      [
+        "concerned",
+        "quiet concern, brows lifted"
+      ],
+      [
+        "peaceful",
+        "peacefully closed eyes, tiny smile"
+      ],
+      [
+        "sad",
+        "melancholic downcast gaze"
+      ],
+      [
+        "flustered",
+        "soft blush, looking away"
+      ],
+      [
+        "surprised",
+        "gently widened cyan eyes"
+      ],
+      [
+        "determined",
+        "soft but firm serious gaze"
+      ]
+    ],
+    "svea": [
+      [
+        "neutral",
+        "half-lidded unbothered"
+      ],
+      [
+        "smirk",
+        "small knowing one-sided smirk"
+      ],
+      [
+        "annoyed",
+        "narrowed eyes, blunt irritated mouth"
+      ],
+      [
+        "flustered",
+        "blush, looking aside defensively"
+      ],
+      [
+        "sleepy",
+        "drooping drowsy eyelids"
+      ],
+      [
+        "soft_smile",
+        "rare soft sincere smile"
+      ],
+      [
+        "sad",
+        "disappointed steady lowered gaze"
+      ],
+      [
+        "surprised",
+        "widened eyes, small startled mouth"
+      ]
+    ]
+  },
+  "jobs": [
+    {
+      "id": "char_katya_base",
+      "category": "character_base",
+      "target": "Characters/katya/katya_base.png",
+      "refs": [
+        "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+      ],
+      "transparent": true,
+      "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nAsset: ONE single FULL-BODY neutral dialogue/exploration sprite of Katya. Tall176cm girl, long WAIST-LENGTH SILVER WHITE straight hair with pristine center part and simple broad locks, ICE BLUE narrower eyes, slightly elongated face, precise fine brows, proud restrained gaze, small silver stud earrings. Impeccably tailored shared navy blazer, maroon ribbon, knee-length charcoal skirt, BLACK TIGHTS, black loafers. Relaxed arms loosely crossed, complete opaque body. Single person ONLY, no duplicates or collage. Head to toe fully visible, shoes and all hair included, 6% transparent margin at every edge. Natural front three-quarter stance, view at eye level, balanced neutral daylight. Portrait composition, high resolution. Draw ONLY the opaque character on actual TRANSPARENT alpha. No floor, no background, no contact shadow, no gradient behind figure, no glowing silhouette or color fog. Crisp clean silhouette suitable for direct placement over school backgrounds. Empty hands except pose as specified. No labels, text, frame or watermark."
+    },
+    {
+      "id": "char_akira_base",
+      "category": "character_base",
+      "target": "Characters/akira/akira_base.png",
+      "refs": [
+        "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+      ],
+      "transparent": true,
+      "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nAsset: ONE single FULL-BODY neutral dialogue/exploration sprite of Akira Seojin. 167cm girl, SHORT CHIN-LENGTH pastel PINK bob with one small ahoge, BROWN round lively eyes, thin round dark GLASSES and tiny simple charm on glasses arm, shorter rounded face, lively brows and friendly open expression. Shared navy blazer maroon ribbon white shirt knee-length charcoal skirt dark knee socks and loafers. Both hands loosely at sides. NO satchel on this neutral base; the satchel will be a separate scene prop. Single person ONLY, no duplicates or collage. Head to toe fully visible, shoes and all hair included, 6% transparent margin at every edge. Natural front three-quarter stance, view at eye level, balanced neutral daylight. Portrait composition, high resolution. Draw ONLY the opaque character on actual TRANSPARENT alpha. No floor, no background, no contact shadow, no gradient behind figure, no glowing silhouette or color fog. Crisp clean silhouette suitable for direct placement over school backgrounds. Empty hands except pose as specified. No labels, text, frame or watermark."
+    },
+    {
+      "id": "char_seoyun_base",
+      "category": "character_base",
+      "target": "Characters/seoyun/seoyun_base.png",
+      "refs": [
+        "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+      ],
+      "transparent": true,
+      "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nAsset: ONE single FULL-BODY neutral dialogue/exploration sprite of Han Seo-yun. 163cm girl, long gently WAVY DARK BROWN hair loosely tied in a LOW ponytail with wispy curtain bangs but very few flyaways, DARK BROWN almond-shaped eyes, tiny mole under HER LEFT eye, gentle oval face, soft brows and quietly attentive expression. Neatly buttoned shared navy blazer maroon ribbon white shirt knee-length charcoal skirt dark knee socks loafers. Both hands loosely folded in front. NO journal in this neutral base. Single person ONLY, no duplicates or collage. Head to toe fully visible, shoes and all hair included, 6% transparent margin at every edge. Natural front three-quarter stance, view at eye level, balanced neutral daylight. Portrait composition, high resolution. Draw ONLY the opaque character on actual TRANSPARENT alpha. No floor, no background, no contact shadow, no gradient behind figure, no glowing silhouette or color fog. Crisp clean silhouette suitable for direct placement over school backgrounds. Empty hands except pose as specified. No labels, text, frame or watermark."
+    },
+    {
+      "id": "char_mari_base",
+      "category": "character_base",
+      "target": "Characters/mari/mari_base.png",
+      "refs": [
+        "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+      ],
+      "transparent": true,
+      "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nAsset: ONE single FULL-BODY neutral dialogue/exploration sprite of Yasuko Mari. Tall176cm girl, MUTED SALMON PINK voluminous feathered LOW PONYTAIL, parted curtain bangs and cheek-framing sidelocks described as a few broad locks, large calm CYAN eyes, softly elongated feminine face, gently relaxed eyelids and a kind restrained smile. Same navy blazer maroon ribbon white shirt modest KNEE-LENGTH charcoal pleated skirt dark knee socks and loafers. Hands gently clasped at waist, no props. She is a fellow student. Single person ONLY, no duplicates or collage. Head to toe fully visible, shoes and all hair included, 6% transparent margin at every edge. Natural front three-quarter stance, view at eye level, balanced neutral daylight. Portrait composition, high resolution. Draw ONLY the opaque character on actual TRANSPARENT alpha. No floor, no background, no contact shadow, no gradient behind figure, no glowing silhouette or color fog. Crisp clean silhouette suitable for direct placement over school backgrounds. Empty hands except pose as specified. No labels, text, frame or watermark."
+    },
+    {
+      "id": "char_svea_base",
+      "category": "character_base",
+      "target": "Characters/svea/svea_base.png",
+      "transparent": true,
+      "refs": [
+        "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+      ],
+      "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nONE FULL-BODY neutral sprite only. 171cm athletic GIRL, visibly feminine youthful face with soft jaw and gently tapered cheeks, shaggy medium-short BLUE BLACK hair chin-to-nape, long side fringe partly covering HER RIGHT eye, calm half-lidded BLUE GREY eyes, understated lashes and small dry half smile. Match her exact face and hair in the supplied approved reference. Navy school blazer OPEN over white shirt with only top button undone and chest fully covered, plain charcoal straight UNIFORM TROUSERS, grey sneakers. No ribbon/tie. One hand in trouser pocket, other hand at side, NO basketball in neutral base. Head to toe including shoes and ALL hair fully visible inside6% transparent margin. Single figure on actual transparent alpha, no floor or contact shadow, no labels or backdrop. High-resolution portrait. Match reference identity but empty hands."
+    },
+    {
+      "id": "bg_corridor_day",
+      "category": "background",
+      "target": "Backgrounds/bg_corridor_day.png",
+      "transparent": false,
+      "refs": [
+        "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+      ],
+      "prompt": "Use the approved reference ONLY for rendering quality, linework and palette; do not include any character from it. Finished hand-painted 2D anime VN environment, precise clean perspective, simplified purposeful architectural detail, matte natural textures, restrained clear spring daylight, calm white/cream walls with muted blue-green trim, warm oak doors and furniture, no photorealism or 3D render. One believable modest prestigious Japanese high school in Fukuoka. High-resolution WIDE16:9, ideally1920x1080. No people, text, logos, UI, sparkles, fog or lens flare. Leave bottom quarter low-detail for dialogue and a clear foreground zone for later character sprites. Do not overdecorate.\nMain academic corridor at standing eye level. Long windows on LEFT overlook green trees and a few distant cherry blossoms; warm oak classroom doors on RIGHT with simple glass upper panels and blank room placards. Plain beige floor, simple rectangular ceiling lights, hall vanishing ahead. Nearest RIGHT door fully visible for a click hotspot; far doorway leads to lobby. No grand staircase. School trim consistent blue-green. Soft clean daytime sky, normal shadow shapes. Foreground aisle must be unobstructed."
+    },
+    {
+      "id": "bg_class_a_day",
+      "category": "background",
+      "target": "Backgrounds/bg_class_a_day.png",
+      "transparent": false,
+      "refs": [
+        "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+      ],
+      "prompt": "Use the approved reference ONLY for rendering quality, linework and palette; do not include any character from it. Finished hand-painted 2D anime VN environment, precise clean perspective, simplified purposeful architectural detail, matte natural textures, restrained clear spring daylight, calm white/cream walls with muted blue-green trim, warm oak doors and furniture, no photorealism or 3D render. One believable modest prestigious Japanese high school in Fukuoka. High-resolution WIDE16:9, ideally1920x1080. No people, text, logos, UI, sparkles, fog or lens flare. Leave bottom quarter low-detail for dialogue and a clear foreground zone for later character sprites. Do not overdecorate.\nClass A, ordinary Japanese first-year classroom. Camera from back-left aisle looking toward front dark-green chalkboard and teacher lectern; windows LEFT, corridor door RIGHT near front. Several orderly rows of simple oak desks, metal-framed chairs, modest pinboard at rear-right. One clear front-right work table for a laptop group project, no computers yet. Bottom foreground empty floor/aisle so a standing sprite can be placed naturally. Classroom sunny but not glowing, school building material same blue-green trim and pale beige floor. Board and notices BLANK, no scribbles."
+    },
+    {
+      "id": "bg_library_day",
+      "category": "background",
+      "target": "Backgrounds/bg_library_day.png",
+      "transparent": false,
+      "refs": [
+        "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+      ],
+      "prompt": "Use the approved reference ONLY for rendering quality, linework and palette; do not include any character from it. Finished hand-painted 2D anime VN environment, precise clean perspective, simplified purposeful architectural detail, matte natural textures, restrained clear spring daylight, calm white/cream walls with muted blue-green trim, warm oak doors and furniture, no photorealism or 3D render. One believable modest prestigious Japanese high school in Fukuoka. High-resolution WIDE16:9, ideally1920x1080. No people, text, logos, UI, sparkles, fog or lens flare. Leave bottom quarter low-detail for dialogue and a clear foreground zone for later character sprites. Do not overdecorate.\nSchool library at eye level. Tall windows LEFT, a visible calm tree-covered hill beyond ordinary rooflines. Plain wooden bookcases back and RIGHT, varied muted book spines without readable text. Large oak reading table at left-middle beside the window, two simple chairs. Camera has a clear foreground floor zone center-right for a standing character. A small EMPTY freestanding display board near back-right shelf. Natural soft daylight, simple functional reading room, no vaulted ceilings, ladders or extravagant plants. Door at right back leads to main hall."
+    },
+    {
+      "id": "char_katya_expressions_1",
+      "category": "expressions",
+      "target": "Characters/katya/katya_expressions_1.png",
+      "transparent": true,
+      "grid": [
+        2,
+        2
+      ],
+      "cells": [
+        "neutral",
+        "annoyed",
+        "determined",
+        "flustered"
+      ],
+      "refs": [
+        "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\katya\\katya_base.png",
+        "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+      ],
+      "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nReference1: exact identity and uniform. Reference2: approved rendering quality. ONE transparent expression atlas of Katya only. Tall176cm girl, long WAIST-LENGTH SILVER WHITE straight hair with pristine center part and simple broad locks, ICE BLUE narrower eyes, slightly elongated face, precise fine brows, proud restrained gaze, small silver stud earrings. Impeccably tailored shared navy blazer, maroon ribbon, knee-length charcoal skirt, BLACK TIGHTS, black loafers. Relaxed arms loosely crossed, complete opaque body. Exactly FOUR large HEAD-AND-SHOULDERS portraits on an equal 2 columns by 2 rows grid, square high-resolution canvas. Each portrait cropped just below upper chest, faces LARGE. NO hands or props. Same camera, head scale, hair, uniform and head position within every cell; change expression only. Every complete hairstyle and shoulders inside its cell with6% transparent margin. Expressions reading order top-left, top-right, bottom-left, bottom-right: 1: composed neutral, mouth closed, chin slightly raised; 2: furrowed brows, narrowed eyes, controlled irritated mouth; 3: firm focused eyes, confident resolved mouth; 4: subtle blush, eyes aside, small startled mouth. Four genuinely different facial performances. Actual transparent alpha, no backdrop, cell lines, text, labels, watermarks."
+    },
+    {
+      "id": "char_katya_expressions_2",
+      "category": "expressions",
+      "target": "Characters/katya/katya_expressions_2.png",
+      "transparent": true,
+      "grid": [
+        2,
+        2
+      ],
+      "cells": [
+        "sad",
+        "soft_smile",
+        "concerned",
+        "surprised"
+      ],
+      "refs": [
+        "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\katya\\katya_base.png",
+        "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+      ],
+      "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nReference1: exact identity and uniform. Reference2: approved rendering quality. ONE transparent expression atlas of Katya only. Tall176cm girl, long WAIST-LENGTH SILVER WHITE straight hair with pristine center part and simple broad locks, ICE BLUE narrower eyes, slightly elongated face, precise fine brows, proud restrained gaze, small silver stud earrings. Impeccably tailored shared navy blazer, maroon ribbon, knee-length charcoal skirt, BLACK TIGHTS, black loafers. Relaxed arms loosely crossed, complete opaque body. Exactly FOUR large HEAD-AND-SHOULDERS portraits on an equal 2 columns by 2 rows grid, square high-resolution canvas. Each portrait cropped just below upper chest, faces LARGE. NO hands or props. Same camera, head scale, hair, uniform and head position within every cell; change expression only. Every complete hairstyle and shoulders inside its cell with6% transparent margin. Expressions reading order top-left, top-right, bottom-left, bottom-right: 1: tired lowered gaze, slight sadness, no tears; 2: rare sincere small smile, relaxed eyes; 3: brows gently pinched, worried thoughtful gaze; 4: eyes widened, small open mouth. Four genuinely different facial performances. Actual transparent alpha, no backdrop, cell lines, text, labels, watermarks."
+    },
+    {
+      "id": "char_akira_expressions_1",
+      "category": "expressions",
+      "target": "Characters/akira/akira_expressions_1.png",
+      "transparent": true,
+      "grid": [
+        2,
+        2
+      ],
+      "cells": [
+        "neutral",
+        "delighted",
+        "puzzled",
+        "worried"
+      ],
+      "refs": [
+        "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\akira\\akira_base.png",
+        "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+      ],
+      "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nReference1: exact identity and uniform. Reference2: approved rendering quality. ONE transparent expression atlas of Akira Seojin only. 167cm girl, SHORT CHIN-LENGTH pastel PINK bob with one small ahoge, BROWN round lively eyes, thin round dark GLASSES and tiny simple charm on glasses arm, shorter rounded face, lively brows and friendly open expression. Shared navy blazer maroon ribbon white shirt knee-length charcoal skirt dark knee socks and loafers. Both hands loosely at sides. NO satchel on this neutral base; the satchel will be a separate scene prop. Exactly FOUR large HEAD-AND-SHOULDERS portraits on an equal 2 columns by 2 rows grid, square high-resolution canvas. Each portrait cropped just below upper chest, faces LARGE. NO hands or props. Same camera, head scale, hair, uniform and head position within every cell; change expression only. Every complete hairstyle and shoulders inside its cell with6% transparent margin. Expressions reading order top-left, top-right, bottom-left, bottom-right: 1: friendly attentive, closed-mouth smile; 2: bright genuine smile, lively eyes; 3: one brow raised, thoughtful uncertain mouth; 4: quiet remorse, worried downcast eyes. Four genuinely different facial performances. Actual transparent alpha, no backdrop, cell lines, text, labels, watermarks."
+    },
+    {
+      "id": "char_akira_expressions_2",
+      "category": "expressions",
+      "target": "Characters/akira/akira_expressions_2.png",
+      "transparent": true,
+      "grid": [
+        2,
+        2
+      ],
+      "cells": [
+        "flustered",
+        "excited",
+        "sad",
+        "surprised"
+      ],
+      "refs": [
+        "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\akira\\akira_base.png",
+        "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+      ],
+      "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nReference1: exact identity and uniform. Reference2: approved rendering quality. ONE transparent expression atlas of Akira Seojin only. 167cm girl, SHORT CHIN-LENGTH pastel PINK bob with one small ahoge, BROWN round lively eyes, thin round dark GLASSES and tiny simple charm on glasses arm, shorter rounded face, lively brows and friendly open expression. Shared navy blazer maroon ribbon white shirt knee-length charcoal skirt dark knee socks and loafers. Both hands loosely at sides. NO satchel on this neutral base; the satchel will be a separate scene prop. Exactly FOUR large HEAD-AND-SHOULDERS portraits on an equal 2 columns by 2 rows grid, square high-resolution canvas. Each portrait cropped just below upper chest, faces LARGE. NO hands or props. Same camera, head scale, hair, uniform and head position within every cell; change expression only. Every complete hairstyle and shoulders inside its cell with6% transparent margin. Expressions reading order top-left, top-right, bottom-left, bottom-right: 1: small blush, glance aside, uncertain mouth; 2: energetic confident open grin; 3: disappointed lowered eyes, sad mouth, no tears; 4: eyes wide behind glasses, small open mouth. Four genuinely different facial performances. Actual transparent alpha, no backdrop, cell lines, text, labels, watermarks."
+    },
+    {
+      "id": "bg_bedroom_day",
+      "category": "background",
+      "target": "Backgrounds/bg_bedroom_day.png",
+      "transparent": false,
+      "refs": [
+        "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_class_a_day.png",
+        "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+      ],
+      "prompt": "Use the approved reference ONLY for rendering quality, linework and palette; do not include any character from it. Finished hand-painted 2D anime VN environment, precise clean perspective, simplified purposeful architectural detail, matte natural textures, restrained clear spring daylight, calm white/cream walls with muted blue-green trim, warm oak doors and furniture, no photorealism or 3D render. One believable modest prestigious Japanese high school in Fukuoka. High-resolution WIDE16:9, ideally1920x1080. No people, text, logos, UI, sparkles, fog or lens flare. Leave bottom quarter low-detail for dialogue and a clear foreground zone for later character sprites. Do not overdecorate.\nReference1 establishes this exact school's architectural materials and color design. Reference2 establishes illustration quality. Modest teenage boy's Japanese bedroom in morning light. Plain bed at LEFT with grey-blue duvet, small wooden study desk at RIGHT under window with school bag and closed notebook; simple chair, low bookcase at back, wooden door back-left, cream walls, uncluttered floor. Normal lived-in room, not a designer apartment. Keep this room layout fixed for later evening variant."
+    },
+    {
+      "id": "bg_gate_day",
+      "category": "background",
+      "target": "Backgrounds/bg_gate_day.png",
+      "transparent": false,
+      "refs": [
+        "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_class_a_day.png",
+        "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+      ],
+      "prompt": "Use the approved reference ONLY for rendering quality, linework and palette; do not include any character from it. Finished hand-painted 2D anime VN environment, precise clean perspective, simplified purposeful architectural detail, matte natural textures, restrained clear spring daylight, calm white/cream walls with muted blue-green trim, warm oak doors and furniture, no photorealism or 3D render. One believable modest prestigious Japanese high school in Fukuoka. High-resolution WIDE16:9, ideally1920x1080. No people, text, logos, UI, sparkles, fog or lens flare. Leave bottom quarter low-detail for dialogue and a clear foreground zone for later character sprites. Do not overdecorate.\nReference1 establishes this exact school's architectural materials and color design. Reference2 establishes illustration quality. School main gate from inside the grounds looking toward a quiet residential street. Simple two square light-stone posts, black metal gate open, modest school building edge right, low hedge LEFT with a small gap where a cat could pass, ONE ordinary wooden bench inside left hedge. Distant few cherry branches, everyday spring, no falling petal shower. Clear path foreground, clickable exit between gateposts, unobstructed figure zone near bench."
+    },
+    {
+      "id": "bg_lobby_day",
+      "category": "background",
+      "target": "Backgrounds/bg_lobby_day.png",
+      "transparent": false,
+      "refs": [
+        "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_class_a_day.png",
+        "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+      ],
+      "prompt": "Use the approved reference ONLY for rendering quality, linework and palette; do not include any character from it. Finished hand-painted 2D anime VN environment, precise clean perspective, simplified purposeful architectural detail, matte natural textures, restrained clear spring daylight, calm white/cream walls with muted blue-green trim, warm oak doors and furniture, no photorealism or 3D render. One believable modest prestigious Japanese high school in Fukuoka. High-resolution WIDE16:9, ideally1920x1080. No people, text, logos, UI, sparkles, fog or lens flare. Leave bottom quarter low-detail for dialogue and a clear foreground zone for later character sprites. Do not overdecorate.\nReference1 establishes this exact school's architectural materials and color design. Reference2 establishes illustration quality. Modest Japanese school entrance lobby at eye level, tidy shoe lockers along LEFT wall, large EMPTY cork noticeboard at back-left, warm wooden benches, plain cream walls with blue-green trim. Glass main entry door at back-center, clearly visible internal corridor doorway RIGHT, separate canteen doorway left-middle and glass field-side door far-right. Beige floor. Practical functional layout, not hotel atrium."
+    },
+    {
+      "id": "bg_infirmary_day",
+      "category": "background",
+      "target": "Backgrounds/bg_infirmary_day.png",
+      "transparent": false,
+      "refs": [
+        "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_class_a_day.png",
+        "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+      ],
+      "prompt": "Use the approved reference ONLY for rendering quality, linework and palette; do not include any character from it. Finished hand-painted 2D anime VN environment, precise clean perspective, simplified purposeful architectural detail, matte natural textures, restrained clear spring daylight, calm white/cream walls with muted blue-green trim, warm oak doors and furniture, no photorealism or 3D render. One believable modest prestigious Japanese high school in Fukuoka. High-resolution WIDE16:9, ideally1920x1080. No people, text, logos, UI, sparkles, fog or lens flare. Leave bottom quarter low-detail for dialogue and a clear foreground zone for later character sprites. Do not overdecorate.\nReference1 establishes this exact school's architectural materials and color design. Reference2 establishes illustration quality. School infirmary PUBLIC visitor area at eye level. Two simple chairs and small visitor tea table near LEFT window, a public leaflet rack and low shelf with a few books near it. Clean simple rest bed behind a partly open plain cream curtain in far back, no patient. Nurse office doorway RIGHT, medical cupboard CLOSED at back, public noticeboard blank. Ordinary clean cream-and-blue-green room, no hospital equipment spectacle, foreground clear for a student sprite. A folded clean blanket on shelf."
+    },
+    {
+      "id": "bg_class_b_day",
+      "category": "background",
+      "target": "Backgrounds/bg_class_b_day.png",
+      "transparent": false,
+      "refs": [
+        "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_class_a_day.png",
+        "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+      ],
+      "prompt": "Use the approved reference ONLY for rendering quality, linework and palette; do not include any character from it. Finished hand-painted 2D anime VN environment, precise clean perspective, simplified purposeful architectural detail, matte natural textures, restrained clear spring daylight, calm white/cream walls with muted blue-green trim, warm oak doors and furniture, no photorealism or 3D render. One believable modest prestigious Japanese high school in Fukuoka. High-resolution WIDE16:9, ideally1920x1080. No people, text, logos, UI, sparkles, fog or lens flare. Leave bottom quarter low-detail for dialogue and a clear foreground zone for later character sprites. Do not overdecorate.\nReference1 establishes this exact school's architectural materials and color design. Reference2 establishes illustration quality. Class B classroom in the SAME school and materials as the supplied Class A background. Windows LEFT, dark-green chalkboard ahead, oak teacher lectern, plain oak student desks and chairs. Camera from front-right side aisle looking across the classroom toward left windows, so distinctly different perspective from Class A. A large clear project-work table near RIGHT foreground, blank wall display frame at rear-left, classroom door back-right. No paper projects attached yet. Keep spacious standing aisle."
+    },
+    {
+      "id": "bg_class_c_day",
+      "category": "background",
+      "target": "Backgrounds/bg_class_c_day.png",
+      "transparent": false,
+      "refs": [
+        "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_class_a_day.png",
+        "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+      ],
+      "prompt": "Use the approved reference ONLY for rendering quality, linework and palette; do not include any character from it. Finished hand-painted 2D anime VN environment, precise clean perspective, simplified purposeful architectural detail, matte natural textures, restrained clear spring daylight, calm white/cream walls with muted blue-green trim, warm oak doors and furniture, no photorealism or 3D render. One believable modest prestigious Japanese high school in Fukuoka. High-resolution WIDE16:9, ideally1920x1080. No people, text, logos, UI, sparkles, fog or lens flare. Leave bottom quarter low-detail for dialogue and a clear foreground zone for later character sprites. Do not overdecorate.\nReference1 establishes this exact school's architectural materials and color design. Reference2 establishes illustration quality. Class C in the SAME school and materials as the supplied Class A background. Calm classroom from rear-right aisle looking diagonally toward left windows and front dark-green board. Oak desks in tidy rows, blue-green wall trim, ordinary beige floor. A near-left window-side desk useful for a sketchbook, a near-right desk useful for supervised study, open foreground aisle, corridor door on RIGHT. Some closed school books in rear shelf, no readable text. Slightly cooler soft daylight than Class A."
+    },
+    {
+      "id": "bg_canteen_day",
+      "category": "background",
+      "target": "Backgrounds/bg_canteen_day.png",
+      "transparent": false,
+      "refs": [
+        "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_class_a_day.png",
+        "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+      ],
+      "prompt": "Use the approved reference ONLY for rendering quality, linework and palette; do not include any character from it. Finished hand-painted 2D anime VN environment, precise clean perspective, simplified purposeful architectural detail, matte natural textures, restrained clear spring daylight, calm white/cream walls with muted blue-green trim, warm oak doors and furniture, no photorealism or 3D render. One believable modest prestigious Japanese high school in Fukuoka. High-resolution WIDE16:9, ideally1920x1080. No people, text, logos, UI, sparkles, fog or lens flare. Leave bottom quarter low-detail for dialogue and a clear foreground zone for later character sprites. Do not overdecorate.\nReference1 establishes this exact school's architectural materials and color design. Reference2 establishes illustration quality. A believable modest Japanese high-school canteen at eye level. Practical serving counter BACK-LEFT, simple menu panels BLANK, ordinary vending machine at far-left, windows RIGHT, simple oak tables with blue-green metal-framed chairs. One clearly visible quiet table near left-middle with two chairs, spacious foreground aisle on RIGHT for a standing girl. Plain beige floor, daylight, no luxury cafe styling or hanging plants. Kitchen door behind serving counter; visible exit to lobby back-right."
+    },
+    {
+      "id": "bg_field_day",
+      "category": "background",
+      "target": "Backgrounds/bg_field_day.png",
+      "transparent": false,
+      "refs": [
+        "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_class_a_day.png",
+        "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+      ],
+      "prompt": "Use the approved reference ONLY for rendering quality, linework and palette; do not include any character from it. Finished hand-painted 2D anime VN environment, precise clean perspective, simplified purposeful architectural detail, matte natural textures, restrained clear spring daylight, calm white/cream walls with muted blue-green trim, warm oak doors and furniture, no photorealism or 3D render. One believable modest prestigious Japanese high school in Fukuoka. High-resolution WIDE16:9, ideally1920x1080. No people, text, logos, UI, sparkles, fog or lens flare. Leave bottom quarter low-detail for dialogue and a clear foreground zone for later character sprites. Do not overdecorate.\nReference1 establishes this exact school's architectural materials and color design. Reference2 establishes illustration quality. Outdoor school sports area at eye level. A full usable fenced BASKETBALL HARDCOURT foreground with ONE basket and credible painted court lines, beyond it a modest grass sports field and plain school building. A simple wooden bench just outside court at RIGHT, a storage cart parked by near-left fence, a safe separate flat practice strip along far-left boundary, no weapons or mats yet. Gate/path to lobby visible at back-left. Normal Japanese campus, a few trees, simple clear spring afternoon sky. No stadium seating, giant arenas or exaggerated scenic mountains."
+    },
+    {
+      "id": "char_katya_placement",
+      "category": "placement",
+      "target": "Characters/katya/katya_placement.png",
+      "transparent": true,
+      "grid": [
+        2,
+        1
+      ],
+      "cells": [
+        "standing_folder",
+        "seated_folder"
+      ],
+      "refs": [
+        "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\katya\\katya_base.png",
+        "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+      ],
+      "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nReference1 EXACT identity and uniform. Create ONE exploration/placement sprite atlas of Katya only. Tall176cm girl, long WAIST-LENGTH SILVER WHITE straight hair with pristine center part and simple broad locks, ICE BLUE narrower eyes, slightly elongated face, precise fine brows, proud restrained gaze, small silver stud earrings. Impeccably tailored shared navy blazer, maroon ribbon, knee-length charcoal skirt, BLACK TIGHTS, black loafers. Relaxed arms loosely crossed, complete opaque body. TWO complete full-body figures in TWO EQUAL side-by-side cells on a landscape canvas, no overlap. LEFT: standing holding a simple closed cream paper folder against waist with both hands, composed proud expression. RIGHT: seated naturally on an INVISIBLE school chair, knees and ankles together, same folder flat on lap, one hand on its edge, neutral slightly attentive gaze. Do not draw the chair. Same head scale, all hair/head/shoes/hands/props fully within own cell, 6% transparent padding on every edge. Natural ordinary school-life acting. Actual transparent background, NO floor, shadows, furniture, labels, cell lines or haze."
+    },
+    {
+      "id": "char_akira_placement",
+      "category": "placement",
+      "target": "Characters/akira/akira_placement.png",
+      "transparent": true,
+      "grid": [
+        2,
+        1
+      ],
+      "cells": [
+        "standing_satchel",
+        "seated_laptop"
+      ],
+      "refs": [
+        "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\akira\\akira_base.png",
+        "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+      ],
+      "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nReference1 EXACT identity and uniform. Create ONE exploration/placement sprite atlas of Akira Seojin only. 167cm girl, SHORT CHIN-LENGTH pastel PINK bob with one small ahoge, BROWN round lively eyes, thin round dark GLASSES and tiny simple charm on glasses arm, shorter rounded face, lively brows and friendly open expression. Shared navy blazer maroon ribbon white shirt knee-length charcoal skirt dark knee socks and loafers. Both hands loosely at sides. NO satchel on this neutral base; the satchel will be a separate scene prop. TWO complete full-body figures in TWO EQUAL side-by-side cells on a landscape canvas, no overlap. LEFT: standing with a dark satchel at her hip decorated with a few small generic pins, astronaut and rabbit keychains, one hand modestly gesturing in conversation, friendly expression. RIGHT: seated naturally on an INVISIBLE classroom chair, a small open laptop on her knees with screen facing HER, engaged expression. No chair or desk drawn. Same head scale, all hair/head/shoes/hands/props fully within own cell, 6% transparent padding on every edge. Natural ordinary school-life acting. Actual transparent background, NO floor, shadows, furniture, labels, cell lines or haze."
+    },
+    {
+      "id": "char_seoyun_placement",
+      "category": "placement",
+      "target": "Characters/seoyun/seoyun_placement.png",
+      "transparent": true,
+      "grid": [
+        2,
+        1
+      ],
+      "cells": [
+        "seated_sketching",
+        "standing_camera"
+      ],
+      "refs": [
+        "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\seoyun\\seoyun_base.png",
+        "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+      ],
+      "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nReference1 EXACT identity and uniform. Create ONE exploration/placement sprite atlas of Han Seo-yun only. 163cm girl, long gently WAVY DARK BROWN hair loosely tied in a LOW ponytail with wispy curtain bangs but very few flyaways, DARK BROWN almond-shaped eyes, tiny mole under HER LEFT eye, gentle oval face, soft brows and quietly attentive expression. Neatly buttoned shared navy blazer maroon ribbon white shirt knee-length charcoal skirt dark knee socks loafers. Both hands loosely folded in front. NO journal in this neutral base. TWO complete full-body figures in TWO EQUAL side-by-side cells on a landscape canvas, no overlap. LEFT: seated naturally on an INVISIBLE library chair, knees together, small dark-blue journal open on her lap, holding a pencil to sketch with gaze gently downward. RIGHT: standing holding a small ordinary black camera carefully at chest level with strap on wrist, curious attentive expression. No actual chair or desk. Same head scale, all hair/head/shoes/hands/props fully within own cell, 6% transparent padding on every edge. Natural ordinary school-life acting. Actual transparent background, NO floor, shadows, furniture, labels, cell lines or haze."
+    },
+    {
+      "id": "char_mari_placement",
+      "category": "placement",
+      "target": "Characters/mari/mari_placement.png",
+      "transparent": true,
+      "grid": [
+        2,
+        1
+      ],
+      "cells": [
+        "standing_bento",
+        "seated_tea"
+      ],
+      "refs": [
+        "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\mari\\mari_base.png",
+        "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+      ],
+      "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nReference1 EXACT identity and uniform. Create ONE exploration/placement sprite atlas of Yasuko Mari only. Tall176cm girl, MUTED SALMON PINK voluminous feathered LOW PONYTAIL, parted curtain bangs and cheek-framing sidelocks described as a few broad locks, large calm CYAN eyes, softly elongated feminine face, gently relaxed eyelids and a kind restrained smile. Same navy blazer maroon ribbon white shirt modest KNEE-LENGTH charcoal pleated skirt dark knee socks and loafers. Hands gently clasped at waist, no props. She is a fellow student. TWO complete full-body figures in TWO EQUAL side-by-side cells on a landscape canvas, no overlap. LEFT: standing gently holding a modest cloth-wrapped bento and slim cream thermos, kind expression. RIGHT: seated naturally on an INVISIBLE school chair, knees and ankles together, holding one small tea cup in both hands above lap, gentle restful expression. No actual chair or table. Same head scale, all hair/head/shoes/hands/props fully within own cell, 6% transparent padding on every edge. Natural ordinary school-life acting. Actual transparent background, NO floor, shadows, furniture, labels, cell lines or haze."
+    },
+    {
+      "id": "char_svea_placement",
+      "category": "placement",
+      "target": "Characters/svea/svea_placement.png",
+      "transparent": true,
+      "grid": [
+        2,
+        1
+      ],
+      "cells": [
+        "standing_ball",
+        "seated_relaxed"
+      ],
+      "refs": [
+        "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\svea\\svea_base.png",
+        "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+      ],
+      "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nReference1 EXACT identity and uniform. Create ONE exploration/placement sprite atlas of Kurokawa Svea only. 171cm athletic GIRL, visibly feminine youthful face with soft jaw and gently tapered cheeks, shaggy medium-short BLUE BLACK hair chin-to-nape, long side fringe partly covering HER RIGHT eye, calm half-lidded BLUE GREY eyes, understated lashes and small dry half smile. Match her exact face and hair in the supplied approved reference. Navy school blazer OPEN over white shirt with only top button undone and chest fully covered, plain charcoal straight UNIFORM TROUSERS, grey sneakers. No ribbon/tie. One hand in trouser pocket, other hand at side, NO basketball in neutral base. TWO complete full-body figures in TWO EQUAL side-by-side cells on a landscape canvas, no overlap. LEFT: standing athletic girl casually with basketball under one arm, free hand in trouser pocket, neutral half-lidded expression. RIGHT: seated naturally on an INVISIBLE low bench, relaxed posture, forearms on knees, empty hands loosely together where a handheld game could later be placed, sleepy but awake expression. No bench or floor. Same head scale, all hair/head/shoes/hands/props fully within own cell, 6% transparent padding on every edge. Natural ordinary school-life acting. Actual transparent background, NO floor, shadows, furniture, labels, cell lines or haze."
+    },
+    {
+      "id": "wardrobe_katya_school_tracksuit",
+      "category": "wardrobe",
+      "target": "Characters/katya/Wardrobes/school_tracksuit.png",
+      "transparent": true,
+      "grid": [
+        2,
+        2
+      ],
+      "cells": [
+        "full_body",
+        "neutral",
+        "active",
+        "soft_smile"
+      ],
+      "character": "katya",
+      "wardrobe": "school_tracksuit",
+      "refs": [
+        "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\katya\\katya_base.png",
+        "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+      ],
+      "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE activity OUTFIT atlas for Katya. Preserve exact face, eye color, hair identity and modest youthful proportions from reference1; reference2 is rendering master. OUTFIT MUST CHANGE to: A practical navy school tracksuit jacket, white crew-neck T-shirt fully covering torso, straight navy track trousers and grey sneakers. No ribbon, skirt or fencing mask. Keep silver long hair tidy behind shoulders. Four equal 2x2 cells, high-resolution square canvas. TOP LEFT: complete full-body standing version of this outfit, all head and shoes inside cell. TOP RIGHT: large head-and-shoulders neutral attentive portrait in this outfit. BOTTOM LEFT: same large portrait with focused determined expression. BOTTOM RIGHT: same large portrait with a small genuine warm smile. Every cell has6% transparent margin, no cross-cell overlap. No furniture, ground or background, no letters, labels, border or cell lines. Clean transparent alpha."
+    },
+    {
+      "id": "wardrobe_katya_fencing_kit_with_mask",
+      "category": "wardrobe",
+      "target": "Characters/katya/Wardrobes/fencing_kit_with_mask.png",
+      "transparent": true,
+      "grid": [
+        2,
+        2
+      ],
+      "cells": [
+        "full_body",
+        "neutral",
+        "active",
+        "soft_smile"
+      ],
+      "character": "katya",
+      "wardrobe": "fencing_kit_with_mask",
+      "refs": [
+        "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\katya\\katya_base.png",
+        "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+      ],
+      "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE activity OUTFIT atlas for Katya. Preserve exact face, eye color, hair identity and modest youthful proportions from reference1; reference2 is rendering master. OUTFIT MUST CHANGE to: Proper modest white padded fencing jacket and white fencing breeches, long white socks, flat fencing shoes; long silver hair secured into a low braid. In full-body panel hold the fencing mask under arm; NO sword pointing at viewer. Bust panels no mask on face so ice-blue eyes remain readable. Four equal 2x2 cells, high-resolution square canvas. TOP LEFT: complete full-body standing version of this outfit, all head and shoes inside cell. TOP RIGHT: large head-and-shoulders neutral attentive portrait in this outfit. BOTTOM LEFT: same large portrait with annoyed frustrated after a close fair loss expression. BOTTOM RIGHT: same large portrait with a small genuine warm smile. Every cell has6% transparent margin, no cross-cell overlap. No furniture, ground or background, no letters, labels, border or cell lines. Clean transparent alpha."
+    },
+    {
+      "id": "wardrobe_mari_aikido_gi_and_trousers",
+      "category": "wardrobe",
+      "target": "Characters/mari/Wardrobes/aikido_gi_and_trousers.png",
+      "transparent": true,
+      "grid": [
+        2,
+        2
+      ],
+      "cells": [
+        "full_body",
+        "neutral",
+        "active",
+        "soft_smile"
+      ],
+      "character": "mari",
+      "wardrobe": "aikido_gi_and_trousers",
+      "refs": [
+        "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\mari\\mari_base.png",
+        "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+      ],
+      "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE activity OUTFIT atlas for Yasuko Mari. Preserve exact face, eye color, hair identity and modest youthful proportions from reference1; reference2 is rendering master. OUTFIT MUST CHANGE to: Practical modest white aikido training gi jacket closed properly with a plain white belt, straight white practice trousers, no exposed torso, hair in same salmon low ponytail tied securely. No skirt or ribbon. Four equal 2x2 cells, high-resolution square canvas. TOP LEFT: complete full-body standing version of this outfit, all head and shoes inside cell. TOP RIGHT: large head-and-shoulders neutral attentive portrait in this outfit. BOTTOM LEFT: same large portrait with calm focused expression. BOTTOM RIGHT: same large portrait with a small genuine warm smile. Every cell has6% transparent margin, no cross-cell overlap. No furniture, ground or background, no letters, labels, border or cell lines. Clean transparent alpha."
+    },
+    {
+      "id": "wardrobe_mari_uniform_with_apron",
+      "category": "wardrobe",
+      "target": "Characters/mari/Wardrobes/uniform_with_apron.png",
+      "transparent": true,
+      "grid": [
+        2,
+        2
+      ],
+      "cells": [
+        "full_body",
+        "neutral",
+        "active",
+        "soft_smile"
+      ],
+      "character": "mari",
+      "wardrobe": "uniform_with_apron",
+      "refs": [
+        "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\mari\\mari_base.png",
+        "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+      ],
+      "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE activity OUTFIT atlas for Yasuko Mari. Preserve exact face, eye color, hair identity and modest youthful proportions from reference1; reference2 is rendering master. OUTFIT MUST CHANGE to: Her SAME navy school uniform white shirt maroon ribbon knee-length charcoal skirt, but blazer removed and a simple cream cooking apron OVER the fully covered shirt, practical ordinary school cooking class outfit. Four equal 2x2 cells, high-resolution square canvas. TOP LEFT: complete full-body standing version of this outfit, all head and shoes inside cell. TOP RIGHT: large head-and-shoulders neutral attentive portrait in this outfit. BOTTOM LEFT: same large portrait with quietly concerned expression. BOTTOM RIGHT: same large portrait with a small genuine warm smile. Every cell has6% transparent margin, no cross-cell overlap. No furniture, ground or background, no letters, labels, border or cell lines. Clean transparent alpha."
+    },
+    {
+      "id": "wardrobe_svea_school_sports_jacket_and_trousers",
+      "category": "wardrobe",
+      "target": "Characters/svea/Wardrobes/school_sports_jacket_and_trousers.png",
+      "transparent": true,
+      "grid": [
+        2,
+        2
+      ],
+      "cells": [
+        "full_body",
+        "neutral",
+        "active",
+        "soft_smile"
+      ],
+      "character": "svea",
+      "wardrobe": "school_sports_jacket_and_trousers",
+      "refs": [
+        "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\svea\\svea_base.png",
+        "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+      ],
+      "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE activity OUTFIT atlas for Kurokawa Svea. Preserve exact face, eye color, hair identity and modest youthful proportions from reference1; reference2 is rendering master. OUTFIT MUST CHANGE to: A practical navy school sports zip jacket open over a plain white crew-neck sports T-shirt, straight navy track trousers and grey basketball sneakers. No blazer or ribbon, chest fully covered, same youthful feminine face and blue-black haircut. Four equal 2x2 cells, high-resolution square canvas. TOP LEFT: complete full-body standing version of this outfit, all head and shoes inside cell. TOP RIGHT: large head-and-shoulders neutral attentive portrait in this outfit. BOTTOM LEFT: same large portrait with annoyed focused expression. BOTTOM RIGHT: same large portrait with a small genuine warm smile. Every cell has6% transparent margin, no cross-cell overlap. No furniture, ground or background, no letters, labels, border or cell lines. Clean transparent alpha."
+    }
+  ]
+}

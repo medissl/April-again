@@ -1,0 +1,438 @@
+{
+  "backing_card": [
+    "Display backing",
+    [
+      "Library-window project",
+      "Cut to fit the agreed layout.",
+      "Check the edges before mounting."
+    ]
+  ],
+  "budget_sheet": [
+    "Display budget",
+    [
+      "Paper and backing card",
+      "Printing and labels",
+      "Check the school supply list first."
+    ]
+  ],
+  "class_register": [
+    "Class register",
+    [
+      "Class B / first-year project",
+      "Room labels checked",
+      "Return this copy to the teacher."
+    ]
+  ],
+  "committee_notes": [
+    "Committee notes",
+    [
+      "Confirm the room signs.",
+      "Keep the doorway clear.",
+      "Check captions before printing."
+    ]
+  ],
+  "final_report": [
+    "Project record",
+    [
+      "First-year display committee",
+      "Materials checked and returned",
+      "Prepared by: Katya / Takahashi"
+    ]
+  ],
+  "forms": [
+    "Information table",
+    [
+      "Seiran High School",
+      "First-year activity information",
+      "Please return completed forms to staff."
+    ]
+  ],
+  "music_note": [
+    "A song to remember",
+    [
+      "A small note about a song.",
+      "Some things are easier to write down."
+    ]
+  ],
+  "paper_labels": [
+    "Display labels",
+    [
+      "Room / subject / author",
+      "Check each label against the register."
+    ]
+  ],
+  "paper_samples": [
+    "Paper samples",
+    [
+      "Cream / white / pale blue",
+      "Compare under ordinary daylight."
+    ]
+  ],
+  "receipt": [
+    "School supply receipt",
+    [
+      "Paid from the school project budget.",
+      "Check the box against the supply list."
+    ]
+  ],
+  "room_signs": [
+    "Room signs",
+    [
+      "Class A / Class B / Class C",
+      "Library / Infirmary",
+      "Follow the main corridor."
+    ]
+  ],
+  "supply_clipboard": [
+    "Supply return list",
+    [
+      "Folders",
+      "Display materials",
+      "Mark only items actually returned."
+    ]
+  ],
+  "three_drafts": [
+    "Display plan / draft",
+    [
+      "Keep the introduction short.",
+      "Leave space for the photographs.",
+      "Agree the final version together."
+    ]
+  ],
+  "anonymous_form": [
+    "Your canteen experience",
+    [
+      "No name required.",
+      "Which lunch period is easiest for you?",
+      "You may leave any question unanswered."
+    ]
+  ],
+  "anonymous_survey": [
+    "Anonymous feedback",
+    [
+      "Please discuss the ideas, not the people.",
+      "Keep personal details private."
+    ]
+  ],
+  "consent_text": [
+    "Before we share",
+    [
+      "May we use this comment anonymously?",
+      "You can change your mind.",
+      "No personal details will be published."
+    ]
+  ],
+  "feature_sheet": [
+    "Pilot scope",
+    [
+      "One reliable canteen-time suggestion",
+      "No student profiles",
+      "Extra features can wait."
+    ]
+  ],
+  "maintenance_guide": [
+    "Keeping it working",
+    [
+      "Use the approved local copy.",
+      "Check the source schedule.",
+      "If it fails, use the paper notice."
+    ]
+  ],
+  "offline_notice": [
+    "Working offline",
+    [
+      "The school network is unavailable.",
+      "The paper information still works.",
+      "Please check again later."
+    ]
+  ],
+  "paper_mockups": [
+    "Canteen pilot / layout",
+    [
+      "Choose a lunch period.",
+      "Read the current suggestion.",
+      "No login or personal profile."
+    ]
+  ],
+  "presentation": [
+    "A quieter lunch",
+    [
+      "First-year canteen pilot",
+      "Akira Seojin / Ren Takahashi",
+      "A small tool we can keep working."
+    ]
+  ],
+  "project_notebook": [
+    "Project notebook",
+    [
+      "Ideas / feedback / next steps",
+      "Check the simple version first.",
+      "Leave room for another opinion."
+    ]
+  ],
+  "queue_survey": [
+    "Canteen queue check",
+    [
+      "Lunch period",
+      "Approximate waiting time",
+      "No names or individual tracking."
+    ]
+  ],
+  "teacher_approval": [
+    "Pilot approval",
+    [
+      "Supervised first-year activity",
+      "Anonymous feedback only",
+      "Keep a working paper alternative."
+    ]
+  ],
+  "adviser_questions": [
+    "Questions for the adviser",
+    [
+      "What can I study?",
+      "What support could I apply for?",
+      "Which step can I take this year?"
+    ]
+  ],
+  "caption_drafts": [
+    "A view from our window",
+    [
+      "A familiar place, seen carefully.",
+      "Photo and caption by Seo-yun",
+      "Ask before changing the author line."
+    ]
+  ],
+  "credit_labels": [
+    "Author credit",
+    [
+      "Photograph: Han Seo-yun",
+      "Ask the author before making changes."
+    ]
+  ],
+  "feedback_sheets": [
+    "What did you notice?",
+    [
+      "One thing that caught your eye",
+      "One question about the display",
+      "Personal questions are optional."
+    ]
+  ],
+  "handouts": [
+    "The view from here",
+    [
+      "First-year library-window display",
+      "Small photographs of ordinary places",
+      "Please return reference books to the desk."
+    ]
+  ],
+  "library_record": [
+    "Donated atlas check",
+    [
+      "Title / condition / shelf",
+      "Flag loose pages for the librarian.",
+      "Do not repair books without asking."
+    ]
+  ],
+  "menu": [
+    "Today in the canteen",
+    [
+      "Noodles / rice / seasonal vegetables",
+      "Fruit cup",
+      "Ask the staff about spice and ingredients."
+    ]
+  ],
+  "reference_cards": [
+    "Places to learn about",
+    [
+      "Find an atlas entry.",
+      "Compare two reliable sources.",
+      "Write down what you still want to know."
+    ]
+  ],
+  "study_options": [
+    "Study options",
+    [
+      "Courses and entry requirements",
+      "Language preparation",
+      "Scholarships and adviser appointment"
+    ]
+  ],
+  "window_essay": [
+    "The view from here",
+    [
+      "The window is the same each day.",
+      "The light never quite is.",
+      "Looking carefully is a place to begin."
+    ]
+  ],
+  "drying_paper": [
+    "Visitor information",
+    [
+      "Please let the ink dry.",
+      "The nurse can answer health questions."
+    ]
+  ],
+  "finished_reading_corner": [
+    "A quiet reading corner",
+    [
+      "Books and public information",
+      "Please ask before borrowing.",
+      "The visitor chairs are for resting, too."
+    ]
+  ],
+  "homework": [
+    "Independent study",
+    [
+      "Work through one question at a time.",
+      "Ask if an instruction is unclear."
+    ]
+  ],
+  "household_plan": [
+    "Sharing the evening tasks",
+    [
+      "Choose tasks together.",
+      "Leave time for homework and rest.",
+      "No one has to do everything."
+    ]
+  ],
+  "leaflet_list": [
+    "Public information checklist",
+    [
+      "Check the dates.",
+      "Replace damaged copies.",
+      "Ask the nurse before adding new material."
+    ]
+  ],
+  "meal_worksheet": [
+    "A lunch for yourself",
+    [
+      "Choose a main dish.",
+      "Add vegetables and something you enjoy.",
+      "Plan a portion that suits you."
+    ]
+  ],
+  "noticeboard": [
+    "Visitor information",
+    [
+      "Ask the nurse for medical help.",
+      "Please keep the doorway clear.",
+      "Public reading materials are by the window."
+    ]
+  ],
+  "paper_headings": [
+    "Reading-corner headings",
+    [
+      "Visitor information",
+      "Books to borrow",
+      "A place to take a break"
+    ]
+  ],
+  "public_leaflets": [
+    "School visitor information",
+    [
+      "For questions, please ask the nurse.",
+      "These copies contain public information."
+    ]
+  ],
+  "reading_list": [
+    "Reading list",
+    [
+      "A short story",
+      "A book about gardens",
+      "Something you choose for yourself"
+    ]
+  ],
+  "staff_only_sign": [
+    "Staff only",
+    [
+      "Please ask the nurse.",
+      "Students must not enter the medicine store."
+    ]
+  ],
+  "attendance_sheet": [
+    "Sports activity / attendance",
+    [
+      "First-year supervised session",
+      "Report to the coach before leaving."
+    ]
+  ],
+  "budget_exercise": [
+    "Equipment budget exercise",
+    [
+      "Check what we already have.",
+      "Replace damaged equipment first.",
+      "Show how you reached the total."
+    ]
+  ],
+  "equipment_list": [
+    "Equipment return",
+    [
+      "Basketballs",
+      "Cones and practice markers",
+      "Return the cart to the marked space."
+    ]
+  ],
+  "group_assignment": [
+    "Group study",
+    [
+      "Explain your approach.",
+      "Give everyone time to answer.",
+      "Check the unfinished questions together."
+    ]
+  ],
+  "household_worksheet": [
+    "An ordinary routine",
+    [
+      "Describe one household task.",
+      "What helps it run smoothly?",
+      "What would you change?"
+    ]
+  ],
+  "practice_report": [
+    "Practice reflection",
+    [
+      "What worked?",
+      "What needs another try?",
+      "Leave time to rest."
+    ]
+  ],
+  "practice_statistics": [
+    "Practice record",
+    [
+      "Attempts / completed passes",
+      "Look for a pattern, not one bad result.",
+      "Check the notes with the player."
+    ]
+  ],
+  "workbook": [
+    "Independent study",
+    [
+      "Read the question carefully.",
+      "Show your working.",
+      "Take the next question when ready."
+    ]
+  ],
+  "worksheet": [
+    "Class worksheet",
+    [
+      "Name / class",
+      "One problem at a time.",
+      "Use the space below for your working."
+    ]
+  ],
+  "orientation_sign": [
+    "First-year orientation",
+    [
+      "Classrooms / main corridor",
+      "Ask at the lobby if you need help."
+    ]
+  ],
+  "booklet": [
+    "Welcome to Seiran",
+    [
+      "Classrooms are on the main corridor.",
+      "The lobby connects the shared spaces.",
+      "Take your time learning the way."
+    ]
+  ]
+}

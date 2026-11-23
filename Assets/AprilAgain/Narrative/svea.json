@@ -1,0 +1,2985 @@
+{
+  "schemaVersion": 1,
+  "id": "svea",
+  "name": "Kurokawa Svea",
+  "voice": "Blunt, relaxed, short replies and dry humor. Gets animated about basketball; otherwise doesn't waste words. Boku self-reference in Japanese; light roughness without constant insults. Actions carry affection. Comfortable with strength and independence, awkward about choosing closeness.",
+  "scenes": [
+    {
+      "number": 1,
+      "title": "Pass It Here",
+      "location": "field",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "basketball",
+        "attendance_sheet",
+        "equipment_cart"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "During a supervised sports activity block, a basketball rolls toward the MC. Svea waits by the hardcourt line with one hand raised.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Oi. Here. Bounce it.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "You're very confident in my throwing.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Not anymore. Keep it low. I'd like my nose where it is.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "He does. She catches the ball and turns toward the hoop, then notices his attendance sheet.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Svea",
+          "text": "You're helping with the practice count?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Apparently. Takahashi.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Kurokawa Svea. Svea's fine. Write down who actually shows up, not who says they'll come.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Does that happen a lot?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Enough to be a sentence.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "good",
+          "text": "Got it. Tell me if there's a better place to stand.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "Outside the line. Unless you want the ball to introduce itself again.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Once was enough.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Fast learner.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.01.choice1",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "I'll watch from here and check the names.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "Fine. Teacher's by the equipment cart if something's missing.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Including my ability to recognize anyone?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Point. I'll tell you.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.01.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "You're pretty good for a girl.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "Pretty good for someone you've watched for eight seconds.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I meant—",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Yeah. Leave the last part off next time.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.01.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "The block passes in drills, names and the occasional ball sent too far. Svea stays to collect the equipment after everyone else starts leaving.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "Do you do everything yourself?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "No. You're holding the sheet.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She says it without looking up. I can't decide whether I've been thanked or assigned a permanent position.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Stage",
+          "text": "A ball gets stuck behind the equipment cart. Before he can reach around it blindly, she points out the wheel that will roll over his shoe.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "You could've let me discover that.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Could've. Then I'd have to listen to the noise.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She pushes the cart while I retrieve the ball. It is a very small job for two people. Neither of us makes it larger.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {},
+      "id": "svea.01",
+      "previousScene": null,
+      "background": "bg_field_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_sports_jacket_and_trousers",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 2,
+      "title": "The Second Tray",
+      "location": "canteen",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "lunch_trays",
+        "strawberry_milk",
+        "equipment_list"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "A sports-activity lunch has put half the first-year group in the canteen. Svea sits with a large meal and a second small bowl.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "Hungry?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "No. Building a model of lunch. Yes, I'm hungry.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She shifts her bag off the empty chair with her foot.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Sit if you're sitting. Don't hover.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I was checking whether someone was coming back.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "The bag? It's had enough.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "A strawberry-milk carton is half hidden behind her water bottle.",
+          "kind": "narration"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "bad",
+          "text": "That's a lot of food. Are you sure you should eat all that?",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "I know when I'm hungry, Takahashi. Got several years of experience.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I was just surprised.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "You can be surprised quietly.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.02.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "What's good today?",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "Chicken. Rice. The small bowl is also rice.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "A focused review.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "You asked what was good.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.02.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "I've got a side dish I won't finish. Want it, or are you set?",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "If you actually don't want it. Don't give away your lunch to be polite.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I actually don't want it.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Then yeah. Thanks.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.02.choice3",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "We eat, then compare the equipment count for the next practice. She notices an absent name without checking the sheet.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "You remember everybody?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "The ones who borrow balls and forget to return them. Useful talent.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {},
+      "id": "svea.02",
+      "previousScene": "svea.01",
+      "background": "bg_canteen_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 3,
+      "title": "Five More Minutes",
+      "location": "class_c",
+      "hours": 3,
+      "expression": "sleepy",
+      "props": [
+        "workbook",
+        "worksheet",
+        "closed_bag"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "A supervised independent-study block is quiet enough that Svea has fallen asleep over an open workbook. Her hair hides most of her face.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "Svea. The teacher said we have to turn the sheet in before the end.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Mm. Heard.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She has not, in any useful sense, woken up. The MC puts the spare worksheet on the desk where she can see it.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "You want a reminder in five minutes?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Two. Five turns into twenty.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "Her phone is inside her closed bag. It would be easy to make this somebody else's entertainment.",
+          "kind": "narration"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "neutral",
+          "text": "I'll leave the sheet here. The teacher's still at the front.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "Got it.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Did you hear that one?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Annoyingly, yes.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.03.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "Two minutes. Then I'll wake you once and let you handle it.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "Deal. Don't shake the desk.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Bad previous experience?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Brother. Coffee. Long story. Bad ending.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.03.choice2",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "I should get a picture of this before you wake up.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "No.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I was joking.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Great. Keep it imaginary.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.03.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "She wakes, washes her face at the corridor sink and finishes the worksheet. The teacher checks it before the block ends.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Didn't miss anything important?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Several thrilling minutes of me not understanding question four.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Show me. I was awake for that lesson. Mostly.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {},
+      "id": "svea.03",
+      "previousScene": "svea.02",
+      "background": "bg_class_c_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 4,
+      "title": "The Carton",
+      "location": "canteen",
+      "hours": 3,
+      "expression": "flustered",
+      "props": [
+        "strawberry_milk",
+        "notebook",
+        "budget_exercise"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "We finish an equipment-budget exercise over lunch. Svea returns from the vending machine with strawberry milk and catches the MC looking.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Svea",
+          "text": "...What. Oi. You want the ingredients or something?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Nothing.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "That's an active-looking nothing.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She puts the carton behind her notebook, where it remains entirely recognizable.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "MC",
+          "text": "I was going to ask if it was good.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "It's milk. Strawberry happened to it. You can work out the rest.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "Her ears color before her face does. She gives the carton a fiercely unconvincing look of indifference.",
+          "kind": "direction"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "good",
+          "text": "Fair. I'll try one. You don't need to review it for me.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "Don't buy it because I did.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I do occasionally want things on my own.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Useful quality. Keep it.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.04.choice1",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "That's adorable. I didn't know you had such a cute side.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "It's a drink. Don't make it a whole event.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I meant it nicely.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Then stop when I ask.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.04.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "I'll stick with coffee. Back to the numbers?",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "Please. The calculator doesn't stare at my lunch.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I'll learn from its example.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Good role model.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.04.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "She finishes the milk and puts the empty carton with the recycling instead of hiding it in her bag.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Svea",
+          "text": "The big pack of markers is cheaper per piece.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "We need six. The big pack has forty.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Right. My household's usually the big-pack version.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {},
+      "id": "svea.04",
+      "previousScene": "svea.03",
+      "background": "bg_canteen_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 5,
+      "title": "A Better Question",
+      "location": "field",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "practice_statistics",
+        "basketball"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "The MC helps record a practice drill. Svea watches the numbers with more interest than the score.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "You made fewer shots than last time.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Different distance. Faster pass. Can't compare the total without that.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Then what should I compare?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She takes the sheet and starts explaining foot position, shot selection and why a bad pass makes an ordinary catch look clumsy.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Narration",
+          "text": "Three minutes pass before she realizes she has been talking without interruption.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Svea",
+          "text": "...You still listening?",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "neutral",
+          "text": "Most of it. I might need the short version for the sheet.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "Distance, attempts, clean catches. Three columns.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "That I can do.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Start there. Ask about the rest later.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.05.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "You're more talkative when you're trying to show off.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "You asked a question.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I didn't expect the lecture.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Fine. Write the number. I'll keep the rest.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.05.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "Yeah. Why does the clean catch matter more than the total?",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "Because it tells me whether the next move started right. The shot's later.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "So we're checking the part you can fix first.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Exactly. See? Not that complicated.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.05.choice3",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "The next set is easier to record and harder to shoot. Svea notices one improvement before checking the final total.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Better.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "You or my columns?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Both. Don't get greedy.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "With the drill finished, she offers him one attempt from the same marker. The ball falls short enough that neither of them can pretend otherwise.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "I think the hoop moved.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Whole building must be in on it. Try bending your knees.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "The second try touches the rim. She nods once, a more useful reaction than pretending it went in.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {
+        "warm": [
+          {
+            "speaker": "Svea",
+            "text": "I thought of something to show you. Since you actually ask about this stuff.",
+            "kind": "dialogue"
+          }
+        ],
+        "mixed": [
+          {
+            "speaker": "Svea",
+            "text": "If you're helping, might as well know what we're counting.",
+            "kind": "dialogue"
+          }
+        ],
+        "cool": [
+          {
+            "speaker": "Svea",
+            "text": "Just tell me if you don't want the explanation. I don't do guessing games.",
+            "kind": "dialogue"
+          }
+        ]
+      },
+      "id": "svea.05",
+      "previousScene": "svea.04",
+      "background": "bg_field_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_sports_jacket_and_trousers",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 6,
+      "title": "The Line Was Out",
+      "location": "field",
+      "hours": 3,
+      "expression": "annoyed",
+      "props": [
+        "court_cones",
+        "basketball"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "During a supervised practice game, a disputed ball gives Svea's side an extra possession. The MC saw the ball cross the line before she caught it.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Svea",
+          "text": "It was out.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Classmate",
+          "text": "Nobody called it. Keep playing.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "I'm calling it now.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "The instructor resets possession. Svea's side loses the short game by one point.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "That's an annoying margin.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Yeah. Still out.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She starts collecting the cones. Her movements are sharper than usual.",
+          "kind": "narration"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "bad",
+          "text": "You could've kept quiet. Winning would've made everyone happier.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "Not everyone. Other team's in the game too.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Your team would've liked it.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "They can like a win we actually earned.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.06.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "You made the right call. You can still be annoyed about losing.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "Good. Because I'm annoyed.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I noticed.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Subtle, wasn't I.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.06.choice2",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "Want to look at the last play once you've cooled down?",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "Later. Need to be annoyed at the cones first.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I'll take the innocent ones.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "All innocent. That's what makes it difficult.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.06.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "By the end of the block, she can point out the missed defensive switch without blaming the line call.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Next time I want a bigger margin.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "So one honest decision won't decide it?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "So we play better. Same thing, if we're lucky.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {},
+      "id": "svea.06",
+      "previousScene": "svea.05",
+      "background": "bg_field_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_sports_jacket_and_trousers",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 7,
+      "title": "Nothing on the Zip",
+      "location": "class_c",
+      "hours": 3,
+      "expression": "flustered",
+      "props": [
+        "sports_bag",
+        "plush_dog_keychain",
+        "pencil_case"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "A quiet study block is interrupted when Svea's pencil case jams inside her sports bag. A tiny plush dog hangs from an inner zip.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "I think its ear is caught.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Don't pull. You'll rip it.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She carefully works the pencil case free, then catches herself holding the plush dog with both hands.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Brother gave it to me. Stupid joke. Betsuni—it's not a big deal. Give me the zip a second.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "The little dog is clean, repaired at one seam and very clearly not neglected.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "MC",
+          "text": "A long-running stupid joke, then.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "neutral",
+          "text": "Glad you got it loose. Do you need the spare pen?",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "Yeah. Mine's disappeared into the bag's other dimension.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "A common problem.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Terrible design. Holds everything except what I want.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.07.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "It looks well looked after. I'll leave it at that.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "...Good.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "You don't have to explain everything you like.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Wasn't planning to. Thanks, though.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.07.choice2",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "Come on, let me show the others. They'll love this.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "It's in the inside pocket for a reason.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "You don't need to be embarrassed.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "I don't need you making that decision for me either.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.07.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "The bag closes. We finish the worksheet with one borrowed pen and no audience for the little dog.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Your answer to five's wrong.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I was trying a creative approach.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Math hates those.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {},
+      "id": "svea.07",
+      "previousScene": "svea.06",
+      "background": "bg_class_c_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 8,
+      "title": "The Animal Schedule",
+      "location": "gate",
+      "hours": 3,
+      "expression": "soft_smile",
+      "props": [
+        "supply_boxes",
+        "neighborhood_dog"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "A school volunteer block includes moving supplies from the gate store. Svea pauses to ask the groundskeeper about a neighborhood dog waiting outside with its owner.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "You know the dog?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "It walks past around this time. Usually carries a stick that's too big for its own plans.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "The owner permits a brief greeting. Svea crouches, lets the dog approach and gives its ears a careful rub.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "You watch for it?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "It's a big dog with a tree branch. Hard to miss.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "Today it has no branch. Svea has noticed that too.",
+          "kind": "narration"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "good",
+          "text": "I'll take the light box. You can finish saying hello.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "Two minutes.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Negotiating with me or the dog?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Dog's got better arguments.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.08.choice1",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "You act tough, but you're secretly soft about everything.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "I'm not acting.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "You know what I mean.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "I like dogs. Still me. Shouldn't be that confusing.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.08.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "I'll ask the groundskeeper where the boxes go.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "Store cupboard on the left. I'll get the heavy one.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "We can carry it together if it needs two people.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "We'll check the box before getting philosophical.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.08.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "The owner and dog leave. Svea helps carry the remaining boxes, accepts a second pair of hands for the awkward one and does not turn it into a competition.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Dog's back tomorrow, probably.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "With the branch?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Ambitious creature. I wouldn't rule it out.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Would you want a dog of your own?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Yeah. When I've got time to look after it properly. Not fair to pick one up because it's cute and leave everyone else doing the work.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Already thought about it, then.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Obviously. Next question.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {},
+      "id": "svea.08",
+      "previousScene": "svea.07",
+      "background": "bg_gate_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 9,
+      "title": "How Was Practice?",
+      "location": "canteen",
+      "hours": 3,
+      "expression": "flustered",
+      "props": [
+        "lunch_tray",
+        "practice_report"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "After a demanding supervised workshop, Svea eats more slowly than usual. The coach has already checked the group and told everyone to rest; nobody is injured.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "How was it?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Fine.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Fine as in good, or fine as in you don't feel like talking?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She looks up from her tray. It is the question, not the food, that catches her off guard.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Tiring. Useful. Little bit irritating. Pick three.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "All three accepted.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "bad",
+          "text": "You don't need to pretend you're strong with me.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "Boku wa daijoubu. I'm okay. Just tired. Big difference. You heard me, yeah?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I meant you can be honest.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "I just was. Don't invent a different answer.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.09.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "Want to leave the practice report until after lunch?",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "Yeah. Food first. Numbers can survive a delay.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "They don't cool down as fast.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Finally, a useful difference.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.09.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "Want to talk about the irritating part, or eat in peace?",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "Peace first. Maybe the rest after.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Deal.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "...Thanks for asking like that.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.09.choice3",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "After lunch, she explains a difficult drill in precise, enthusiastic detail. Nobody uncovers a secret wound. She had a hard practice and wanted someone to ask.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Narration",
+          "text": "I almost make a joke about her talking more. I decide I'd rather hear the rest.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "MC",
+          "text": "For the record, my day was tiring and mostly not useful.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "You asking me to pick three too?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I haven't found the third one yet.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Hungry. Usually hungry.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She nudges the spare chopsticks toward me, then continues the story without making a ceremony out of the gesture.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {},
+      "id": "svea.09",
+      "previousScene": "svea.08",
+      "background": "bg_canteen_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 10,
+      "title": "Two Older Brothers",
+      "location": "class_c",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "household_worksheet"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "An independent-study assignment asks students to describe a household routine. Svea has written 'Don't leave food unattended' at the top of her page.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "Is that a rule or a warning?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Family history. Two brothers. Anything without a name on it becomes public property.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Yours must be peaceful when everyone's out.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Weirdly quiet. I like it. Then I miss the noise. Annoying system.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She draws three boxes for shared chores, then adds one for her father.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Svea",
+          "text": "He taught us to handle ourselves. Doesn't mean we never eat together.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "good",
+          "text": "What do you like doing with them when nobody's competing?",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "We watch old games. Cook too much. Complain about who's blocking the screen.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Sounds competitive anyway.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Yeah. Bad example. Good evening, though.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.10.choice1",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "That explains why you're basically one of the guys.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "Explains why I have brothers. I'm still a girl, Takahashi.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I didn't mean it as an insult.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Then say what you mean without replacing who I am.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.10.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "Your house sounds livelier than mine.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "Come by at dinner and you'll hear it from the street.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Is that an invitation?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "That's a noise warning. Don't sprint ahead.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.10.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "She finishes the assignment with one unexpectedly fond paragraph about a meal that went wrong. The teacher asks for fewer complaints about stolen leftovers; she underlines 'fewer.'",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "A negotiator.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Need room to work.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {
+        "warm": [
+          {
+            "speaker": "Svea",
+            "text": "You'd probably get along with them. Don't look pleased. That's also a warning.",
+            "kind": "dialogue"
+          }
+        ],
+        "mixed": [
+          {
+            "speaker": "Svea",
+            "text": "Don't read too much into the assignment. It's just what home's like.",
+            "kind": "dialogue"
+          }
+        ],
+        "cool": [
+          {
+            "speaker": "Svea",
+            "text": "I'd rather you ask than decide you already understand me.",
+            "kind": "dialogue"
+          }
+        ]
+      },
+      "id": "svea.10",
+      "previousScene": "svea.09",
+      "background": "bg_class_c_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 11,
+      "title": "A Thing That Doesn't Need Winning",
+      "location": "class_c",
+      "hours": 3,
+      "expression": "smirk",
+      "props": [
+        "handheld_game",
+        "cozy_game_screen"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "During a club-day break, Svea takes a small handheld game from her bag. It features a tiny house, a vegetable patch and no obvious enemies.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "Where's the scoreboard?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "There isn't one.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Are you all right?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Give me that attitude again and you can weed the garden.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She shows him a crooked fence she has spent twenty minutes adjusting.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "You could just leave it.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Could. Don't want to.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "neutral",
+          "text": "I like the little house. Did you choose the colors?",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "Yeah. Roof took ages.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Worth it?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Obviously. Look at the roof.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.11.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "Can I try for a minute? You can tell me if I mess up your fence.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "You can't ruin it permanently. Probably.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Encouraging.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Save button's there. Use it before getting ambitious.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.11.choice2",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "This is a weird game for you. I thought you liked a challenge.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "I like different things. Nobody's confiscating my basketball.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "It just doesn't fit the image.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Then fix the image. Game's fine.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.11.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "They put the handheld away before the supervised activity resumes. The fence remains crooked by one small square.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "You're leaving it?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "For now. Need something to be unreasonable about tomorrow.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She zips the game into the same inside pocket as the plush dog.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "MC",
+          "text": "You ever let your brothers play that one?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Once. One planted the whole field in turnips. Called it a business strategy.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Did it work?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Worked for him. I had to water them.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She looks so sincerely offended by the memory that I laugh. Her mouth twitches. She has been waiting for that reaction.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {},
+      "id": "svea.11",
+      "previousScene": "svea.10",
+      "background": "bg_class_c_day",
+      "requiresClubDay": true,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 12,
+      "title": "The Empty Afternoon",
+      "location": "field",
+      "hours": 3,
+      "expression": "flustered",
+      "props": [
+        "basketball",
+        "field_bench"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "The coach ends practice early, leaving a supervised free-activity period. Svea keeps holding the ball after the others head toward the building.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "Another set?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Could do. Don't need one.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Is there something else you want to do?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She bounces the ball once. Her answer takes longer than any basketball explanation.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Was thinking we could sit for a bit. If you're not busy.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "The last few words lose volume. She clears her throat as if that might undo them.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She studies the court line with intense and completely unnecessary attention.",
+          "kind": "narration"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "bad",
+          "text": "Finally admitting you need me around?",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "No. Asking if you want to sit down.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I was teasing.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Pick a better target.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.12.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "I'd like that. You can just want company.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "Yeah. I know.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I'll stop explaining the invitation you already made.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Good. Bench is over there.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.12.choice2",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "Sure. I have until the block ends.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "Same. We should return the ball first.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Very responsible.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Don't sound shocked. I know where things belong.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.12.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "They return the ball and sit at the field-side bench. Svea talks about a game she watched with her brothers, then asks the MC what he does at home.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "Mostly games. Homework, occasionally. Telling myself I'll go to bed before I start another video.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Great. At least one shared bad habit.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Which one?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Sleep. Keep up.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "It's an ordinary question. I still take a moment to enjoy being asked.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {},
+      "id": "svea.12",
+      "previousScene": "svea.11",
+      "background": "bg_field_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_sports_jacket_and_trousers",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 13,
+      "title": "The Blunt Part",
+      "location": "class_c",
+      "hours": 3,
+      "expression": "annoyed",
+      "props": [
+        "group_assignment",
+        "pencil"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "A group assignment ends with Svea telling a struggling classmate to stop making excuses. The classmate goes quiet. Later, she looks at the unfinished sheet.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Svea",
+          "text": "That went badly.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "He'd been asking for help with the first step.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Sounded like he was giving up.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Maybe both can sound the same when someone's embarrassed.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She taps her pencil against the desk, then stops before it becomes annoying.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Svea",
+          "text": "I don't want to spend twenty minutes dressing up three words. Also don't want to be a jerk. Suggestions?",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "good",
+          "text": "Say what you got wrong, then ask if he still wants help with the step.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "Short apology. Actual question. Can do that.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "And let him answer.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Yeah. The difficult bit. Still can do it.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.13.choice1",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "Give him a minute before you go over.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "Fine. I'll make sure I don't use the minute to talk myself out of it.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "You know yourself.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Usually. Other people take longer. Nobody puts the instructions where you can see them.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.13.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "He was too sensitive. You shouldn't have to change how you talk.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "I can mean something and still say it badly.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "You were trying to help.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Didn't help. That's the part I'm checking.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.13.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "Svea apologizes plainly to the classmate and offers help. He chooses to finish the first step himself, then asks her to check it. She waits.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "How was that?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Awkward. Useful. Survived.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "A fair review of the afternoon.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {},
+      "id": "svea.13",
+      "previousScene": "svea.12",
+      "background": "bg_class_c_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 14,
+      "title": "After Practice",
+      "location": "field",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "equipment_list",
+        "two_strawberry_milk"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "The last scheduled practice-help block ends. Svea checks the equipment list and puts the final ball away before meeting the MC by the bench.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Svea",
+          "text": "You don't need to keep helping with the count. Teacher's got the new rota.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I'm retired?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "From counting. Try to adjust.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She has two unopened strawberry-milk cartons in her bag. She takes one out, considers the second and leaves it where it can be seen.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Svea",
+          "text": "I was going to ask you something. Another day, when we're not pretending it's equipment work.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "You can ask now if you want.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "I can also take a minute. That's allowed, right?",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "neutral",
+          "text": "Sure. Tell me when you've worked out what you want to say.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "Next time we're here. After the supervised block.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I'll come by the bench.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Good.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.14.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "You bought two drinks. You can stop acting like you don't like me.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "I wasn't asking you to announce my answer for me.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I thought it was pretty clear.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Then you can handle letting me say it.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.14.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "Take the minute. I'd rather hear what you choose to say.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "...Yeah. Thanks.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I can still accept the milk, if that one's for me.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "It is. Don't make me regret the purchase.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.14.choice3",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "She hands him the spare carton, or sets it on the bench with a brief 'If you want it' if he has made the exchange awkward. They leave before the gate closes.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Narration",
+          "text": "The next conversation will happen without a sheet to fill in. I realize I've stopped looking forward to the sheet anyway.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {
+        "warm": [
+          {
+            "speaker": "Svea",
+            "text": "Kept thinking of things to tell you during practice. Distracting. Not entirely bad.",
+            "kind": "dialogue"
+          }
+        ],
+        "mixed": [
+          {
+            "speaker": "Svea",
+            "text": "We should figure out what we're doing. Preferably with actual words.",
+            "kind": "dialogue"
+          }
+        ],
+        "cool": [
+          {
+            "speaker": "Svea",
+            "text": "I want to clear a few things up. You don't have to guess the point before I get there.",
+            "kind": "dialogue"
+          }
+        ]
+      },
+      "id": "svea.14",
+      "previousScene": "svea.13",
+      "background": "bg_field_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_sports_jacket_and_trousers",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 15,
+      "title": "Your Choice, My Choice",
+      "location": "field",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "basketball"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "Finale encounter; show the route-ending warning. The hardcourt is quiet within the open-school block. Svea stands with the ball under one arm; the coach is collecting equipment in the distance.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Right. No attendance sheet. No homework. We can probably manage one conversation.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I like you. I'd like to go on a date.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Good. Straight to it.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "Her ears have gone slightly pink. She looks at the ball, then deliberately back at me.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Svea",
+          "text": "I'm not great at this part. Doesn't mean somebody gets to do it for me.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "good",
+          "text": "I'd like to be someone you choose to spend time with. Do you want that too?",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "That's the question.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Your answer, then.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Yeah. Let me get it out.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.15.choice1",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "route_ending"
+        },
+        {
+          "kind": "neutral",
+          "text": "We can try spending time together and be honest if it doesn't feel right.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "Fair. No pretending because someone asked nicely.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Agreed.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Good. Here's where I'm at.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.15.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "route_ending"
+        },
+        {
+          "kind": "bad",
+          "text": "You don't have to act so independent. I'll be the one you rely on.",
+          "response": [
+            {
+              "speaker": "Svea",
+              "text": "I wasn't auditioning for someone to take over.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I meant I'd be there for you.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Svea",
+              "text": "Then be here and listen to what I'm saying.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "svea.15.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "route_ending"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "Record this choice once, compare effective good and bad totals, and play only the corresponding ending. The shared scene does not assume she accepts.",
+          "kind": "direction"
+        }
+      ],
+      "temperature": {
+        "warm": [
+          {
+            "speaker": "Svea",
+            "text": "Been looking forward to this. Mou... stop grinning. Makes it harder to get the words out.",
+            "kind": "dialogue"
+          }
+        ],
+        "mixed": [
+          {
+            "speaker": "Svea",
+            "text": "Thought about it. A lot. Need to tell you properly.",
+            "kind": "dialogue"
+          }
+        ],
+        "cool": [
+          {
+            "speaker": "Svea",
+            "text": "I came to be clear. Let me finish, even if you don't like the answer.",
+            "kind": "dialogue"
+          }
+        ]
+      },
+      "id": "svea.15",
+      "previousScene": "svea.14",
+      "background": "bg_field_day",
+      "requiresClubDay": false,
+      "requiredBlock": "late",
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": true
+    }
+  ],
+  "endings": [
+    {
+      "kind": "good",
+      "title": "One More Pass",
+      "location": "field",
+      "cgBrief": "Svea at the school hardcourt in clean late-afternoon light, feminine face and shaggy blue-black hair, rare soft smile while offering the basketball to a charcoal MC silhouette; loose blazer and uniform trousers, easy equal posture.",
+      "lines": [
+        {
+          "speaker": "Svea",
+          "text": "Yeah. I want that. A date. With you, Ren. ...There. Said it. Don't make the face.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I'm trying not to grin. It's not going well.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Yeah. I noticed.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She offers him the ball. When he takes it, she keeps her fingers against his for a brief moment, then lets go with a flushed, annoyed glance at herself.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "We could get lunch on Saturday.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Actual lunch. Big plates. If somebody serves one leaf and calls it a concept, we're leaving.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I have learned at least one thing about you.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Hopefully more than one.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She takes the ball back and bounces it once, collecting herself. Her smile returns before she can hide it.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Boku... I'm fine on my own. Always was. You get that, yeah?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I know.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Good. I want you here anyway.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "The coach calls for the last ball. They return it together, then walk toward the gate with time left to spare.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Narration",
+          "text": "I don't need to find a weakness that makes her stay. She's beside me because she wants to be, and she's finally said it plainly enough that even I can't miss it.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Stage",
+          "text": "Unlock Svea / Good. Credits, then title.",
+          "kind": "direction"
+        }
+      ],
+      "id": "svea.ending.good",
+      "cg": "cg_svea_good",
+      "next": "credits_then_title"
+    },
+    {
+      "kind": "neutral",
+      "title": "Same Side of the Court",
+      "location": "field",
+      "cgBrief": "Svea and a charcoal MC silhouette exchange a relaxed friendly fist bump at the hardcourt boundary; sports bag between them, normal daylight, comfortable friendship without romantic framing.",
+      "lines": [
+        {
+          "speaker": "Svea",
+          "text": "I like you, Takahashi. Just... not like that. Took a while to be sure. Don't want to keep you guessing now I am.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "All right.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "You can look disappointed. I'm not going to tell you how to take it.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "That blunt permission is unexpectedly useful. I let out the breath I've been holding.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "MC",
+          "text": "I am disappointed. I still like being around you.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Then take the time you need. Court isn't going anywhere.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "Several school days later, the MC joins a supervised casual game. Svea passes him the ball at an entirely reasonable speed and looks surprised when he catches it cleanly.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "Training paid off.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "One catch. Don't give a speech.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "Afterwards, she offers a fist bump. He returns it.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Narration",
+          "text": "Nothing secret is being promised. I don't have to pretend I never wanted more, but I can enjoy being on the same side of the court without treating the game as another chance to win her over.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Lunch?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Actual lunch?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Good. You remember.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "Unlock Svea / Neutral. Credits, then title.",
+          "kind": "direction"
+        }
+      ],
+      "id": "svea.ending.neutral",
+      "cg": "cg_svea_neutral",
+      "next": "credits_then_title"
+    },
+    {
+      "kind": "bad",
+      "title": "The Next Practice",
+      "location": "field",
+      "cgBrief": "Svea leaves the quiet hardcourt with a basketball under her arm, looking forward; an empty bench behind her, cool natural late light, steady resolved expression. She remains strong and self-directed.",
+      "lines": [
+        {
+          "speaker": "Svea",
+          "text": "No. I don't want to date you. I'd rather we stop meeting like this for a while.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I didn't think things were that bad.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "I kept telling you when something bothered me. Too often, you treated it like I was putting on an act you had to get past.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She shifts the ball under her arm and waits. There isn't a hidden smile underneath the answer.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "MC",
+          "text": "I understand. I'll give you space.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Good.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She returns the ball to the coach and collects her bag. The MC stays by the bench while she walks toward the building.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Narration",
+          "text": "I had wanted to be the person who saw some secret softer version of her. She was showing me who she was all along: hungry after practice, bad at lying, kind to animals, tired some days, interested in her own life.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "MC",
+          "text": "Good luck at the next practice.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Svea",
+          "text": "Thanks. Take care, Takahashi.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She leaves. He doesn't call after her or turn her refusal into one last challenge.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Narration",
+          "text": "Tomorrow she'll still have a court, a team and things she wants to do. I need to learn how to care about somebody without making myself the reason for all of them.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Stage",
+          "text": "Unlock Svea / Bad. Credits, then title.",
+          "kind": "direction"
+        }
+      ],
+      "id": "svea.ending.bad",
+      "cg": "cg_svea_bad",
+      "next": "credits_then_title"
+    }
+  ],
+  "finaleRepair": {
+    "when": "ending == good AND finalChoice == bad",
+    "lines": [
+      {
+        "speaker": "MC",
+        "text": "That came out like I wanted to take over. I don't. I'm sorry. I'll stop explaining and hear your answer.",
+        "kind": "dialogue"
+      },
+      {
+        "speaker": "Svea",
+        "text": "Good. One terrible sentence doesn't erase everything else. Doesn't get a free pass either. Listen.",
+        "kind": "dialogue"
+      }
+    ]
+  },
+  "voicePass": "Performed second pass: individual rhythm, meaningful pauses, physical tells and restrained contextual code-switching. English remains readable; no phonetic nationality caricatures."
+}

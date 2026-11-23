@@ -1,0 +1,570 @@
+[
+  {
+    "id": "room_katya_class_b_school_uniform",
+    "category": "room_placement",
+    "character": "katya",
+    "location": "class_b",
+    "wardrobe": "school_uniform",
+    "scenes": [
+      1,
+      2,
+      7,
+      12,
+      14
+    ],
+    "target": "Rooms/katya/katya_class_b_school_uniform.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_class_b_day.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\katya\\katya_base.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE finished point-and-click exploration room view with the girl NATURALLY PRESENT IN THE ROOM. Landscape16:9. Reference1 is the EXACT clean room plate: preserve its camera angle, door/window positions, architecture, furniture and layout. Reference2 is EXACT girl identity and school_uniform clothing. Reference3 approved rendering. Tall176cm girl, long WAIST-LENGTH SILVER WHITE straight hair with pristine center part and simple broad locks, ICE BLUE narrower eyes, slightly elongated face, precise fine brows, proud restrained gaze, small silver stud earrings. Impeccably tailored shared navy blazer, maroon ribbon, knee-length charcoal skirt, BLACK TIGHTS, black loafers. Relaxed arms loosely crossed, complete opaque body.. Add ONE girl only, standing beside the right project table, holding her closed cream folder at her waist.  Anatomically correct body, clearly female face, clean broad hair shapes, natural modest school-life acting. She is naturally room-scale, typically35-55% of image height; eyes and body visible sufficiently to click. Integrate appropriate soft contact shadows and believable furniture occlusion: seated thighs rest on chair, knees and feet visible naturally, no body passing through table. Keep all key doors readable; keep bottom20% clear for navigation UI. No other students, MC, dialogue, floating icons, lettering, labels or interface. This is a GAME EXPLORATION BACKGROUND WITH A CLICKABLE CHARACTER already in it, not a giant portrait pasted over scenery. No added rooms or decor."
+  },
+  {
+    "id": "room_katya_canteen_school_uniform",
+    "category": "room_placement",
+    "character": "katya",
+    "location": "canteen",
+    "wardrobe": "school_uniform",
+    "scenes": [
+      3,
+      13
+    ],
+    "target": "Rooms/katya/katya_canteen_school_uniform.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_canteen_day.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\katya\\katya_base.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE finished point-and-click exploration room view with the girl NATURALLY PRESENT IN THE ROOM. Landscape16:9. Reference1 is the EXACT clean room plate: preserve its camera angle, door/window positions, architecture, furniture and layout. Reference2 is EXACT girl identity and school_uniform clothing. Reference3 approved rendering. Tall176cm girl, long WAIST-LENGTH SILVER WHITE straight hair with pristine center part and simple broad locks, ICE BLUE narrower eyes, slightly elongated face, precise fine brows, proud restrained gaze, small silver stud earrings. Impeccably tailored shared navy blazer, maroon ribbon, knee-length charcoal skirt, BLACK TIGHTS, black loafers. Relaxed arms loosely crossed, complete opaque body.. Add ONE girl only, seated naturally at a middle canteen table, tea bottle on table, ankles together.  Anatomically correct body, clearly female face, clean broad hair shapes, natural modest school-life acting. She is naturally room-scale, typically35-55% of image height; eyes and body visible sufficiently to click. Integrate appropriate soft contact shadows and believable furniture occlusion: seated thighs rest on chair, knees and feet visible naturally, no body passing through table. Keep all key doors readable; keep bottom20% clear for navigation UI. No other students, MC, dialogue, floating icons, lettering, labels or interface. This is a GAME EXPLORATION BACKGROUND WITH A CLICKABLE CHARACTER already in it, not a giant portrait pasted over scenery. No added rooms or decor."
+  },
+  {
+    "id": "room_katya_field_school_tracksuit",
+    "category": "room_placement",
+    "character": "katya",
+    "location": "field",
+    "wardrobe": "school_tracksuit",
+    "scenes": [
+      4
+    ],
+    "target": "Rooms/katya/katya_field_school_tracksuit.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_field_day.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\katya\\Wardrobes\\school_tracksuit.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE finished point-and-click exploration room view with the girl NATURALLY PRESENT IN THE ROOM. Landscape16:9. Reference1 is the EXACT clean room plate: preserve its camera angle, door/window positions, architecture, furniture and layout. Reference2 is EXACT girl identity and school_tracksuit clothing; use its TOP-LEFT full-body costume, do NOT reproduce its atlas. Reference3 approved rendering. Tall176cm girl, long WAIST-LENGTH SILVER WHITE straight hair with pristine center part and simple broad locks, ICE BLUE narrower eyes, slightly elongated face, precise fine brows, proud restrained gaze, small silver stud earrings. Impeccably tailored shared navy blazer, maroon ribbon, knee-length charcoal skirt, BLACK TIGHTS, black loafers. Relaxed arms loosely crossed, complete opaque body.. Add ONE girl only, standing naturally on the practice strip at the safe edge of the hardcourt. Outfit must match reference2 exactly rather than generic school blazer. Anatomically correct body, clearly female face, clean broad hair shapes, natural modest school-life acting. She is naturally room-scale, typically35-55% of image height; eyes and body visible sufficiently to click. Integrate appropriate soft contact shadows and believable furniture occlusion: seated thighs rest on chair, knees and feet visible naturally, no body passing through table. Keep all key doors readable; keep bottom20% clear for navigation UI. No other students, MC, dialogue, floating icons, lettering, labels or interface. This is a GAME EXPLORATION BACKGROUND WITH A CLICKABLE CHARACTER already in it, not a giant portrait pasted over scenery. No added rooms or decor."
+  },
+  {
+    "id": "room_katya_corridor_school_uniform",
+    "category": "room_placement",
+    "character": "katya",
+    "location": "corridor",
+    "wardrobe": "school_uniform",
+    "scenes": [
+      5,
+      9
+    ],
+    "target": "Rooms/katya/katya_corridor_school_uniform.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_corridor_day.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\katya\\katya_base.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE finished point-and-click exploration room view with the girl NATURALLY PRESENT IN THE ROOM. Landscape16:9. Reference1 is the EXACT clean room plate: preserve its camera angle, door/window positions, architecture, furniture and layout. Reference2 is EXACT girl identity and school_uniform clothing. Reference3 approved rendering. Tall176cm girl, long WAIST-LENGTH SILVER WHITE straight hair with pristine center part and simple broad locks, ICE BLUE narrower eyes, slightly elongated face, precise fine brows, proud restrained gaze, small silver stud earrings. Impeccably tailored shared navy blazer, maroon ribbon, knee-length charcoal skirt, BLACK TIGHTS, black loafers. Relaxed arms loosely crossed, complete opaque body.. Add ONE girl only, standing beside the left corridor window comparing two cream paper sheets.  Anatomically correct body, clearly female face, clean broad hair shapes, natural modest school-life acting. She is naturally room-scale, typically35-55% of image height; eyes and body visible sufficiently to click. Integrate appropriate soft contact shadows and believable furniture occlusion: seated thighs rest on chair, knees and feet visible naturally, no body passing through table. Keep all key doors readable; keep bottom20% clear for navigation UI. No other students, MC, dialogue, floating icons, lettering, labels or interface. This is a GAME EXPLORATION BACKGROUND WITH A CLICKABLE CHARACTER already in it, not a giant portrait pasted over scenery. No added rooms or decor."
+  },
+  {
+    "id": "room_katya_gate_school_uniform",
+    "category": "room_placement",
+    "character": "katya",
+    "location": "gate",
+    "wardrobe": "school_uniform",
+    "scenes": [
+      6,
+      15
+    ],
+    "target": "Rooms/katya/katya_gate_school_uniform.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_gate_day.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\katya\\katya_base.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE finished point-and-click exploration room view with the girl NATURALLY PRESENT IN THE ROOM. Landscape16:9. Reference1 is the EXACT clean room plate: preserve its camera angle, door/window positions, architecture, furniture and layout. Reference2 is EXACT girl identity and school_uniform clothing. Reference3 approved rendering. Tall176cm girl, long WAIST-LENGTH SILVER WHITE straight hair with pristine center part and simple broad locks, ICE BLUE narrower eyes, slightly elongated face, precise fine brows, proud restrained gaze, small silver stud earrings. Impeccably tailored shared navy blazer, maroon ribbon, knee-length charcoal skirt, BLACK TIGHTS, black loafers. Relaxed arms loosely crossed, complete opaque body.. Add ONE girl only, standing inside the gate near the hedge, closed folder at waist.  Anatomically correct body, clearly female face, clean broad hair shapes, natural modest school-life acting. She is naturally room-scale, typically35-55% of image height; eyes and body visible sufficiently to click. Integrate appropriate soft contact shadows and believable furniture occlusion: seated thighs rest on chair, knees and feet visible naturally, no body passing through table. Keep all key doors readable; keep bottom20% clear for navigation UI. No other students, MC, dialogue, floating icons, lettering, labels or interface. This is a GAME EXPLORATION BACKGROUND WITH A CLICKABLE CHARACTER already in it, not a giant portrait pasted over scenery. No added rooms or decor."
+  },
+  {
+    "id": "room_katya_library_school_uniform",
+    "category": "room_placement",
+    "character": "katya",
+    "location": "library",
+    "wardrobe": "school_uniform",
+    "scenes": [
+      8
+    ],
+    "target": "Rooms/katya/katya_library_school_uniform.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_library_day.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\katya\\katya_base.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE finished point-and-click exploration room view with the girl NATURALLY PRESENT IN THE ROOM. Landscape16:9. Reference1 is the EXACT clean room plate: preserve its camera angle, door/window positions, architecture, furniture and layout. Reference2 is EXACT girl identity and school_uniform clothing. Reference3 approved rendering. Tall176cm girl, long WAIST-LENGTH SILVER WHITE straight hair with pristine center part and simple broad locks, ICE BLUE narrower eyes, slightly elongated face, precise fine brows, proud restrained gaze, small silver stud earrings. Impeccably tailored shared navy blazer, maroon ribbon, knee-length charcoal skirt, BLACK TIGHTS, black loafers. Relaxed arms loosely crossed, complete opaque body.. Add ONE girl only, seated naturally at the reading table by the window, reference books and two draft sheets in front of her.  Anatomically correct body, clearly female face, clean broad hair shapes, natural modest school-life acting. She is naturally room-scale, typically35-55% of image height; eyes and body visible sufficiently to click. Integrate appropriate soft contact shadows and believable furniture occlusion: seated thighs rest on chair, knees and feet visible naturally, no body passing through table. Keep all key doors readable; keep bottom20% clear for navigation UI. No other students, MC, dialogue, floating icons, lettering, labels or interface. This is a GAME EXPLORATION BACKGROUND WITH A CLICKABLE CHARACTER already in it, not a giant portrait pasted over scenery. No added rooms or decor."
+  },
+  {
+    "id": "room_katya_lobby_school_uniform",
+    "category": "room_placement",
+    "character": "katya",
+    "location": "lobby",
+    "wardrobe": "school_uniform",
+    "scenes": [
+      10
+    ],
+    "target": "Rooms/katya/katya_lobby_school_uniform.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_lobby_day.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\katya\\katya_base.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE finished point-and-click exploration room view with the girl NATURALLY PRESENT IN THE ROOM. Landscape16:9. Reference1 is the EXACT clean room plate: preserve its camera angle, door/window positions, architecture, furniture and layout. Reference2 is EXACT girl identity and school_uniform clothing. Reference3 approved rendering. Tall176cm girl, long WAIST-LENGTH SILVER WHITE straight hair with pristine center part and simple broad locks, ICE BLUE narrower eyes, slightly elongated face, precise fine brows, proud restrained gaze, small silver stud earrings. Impeccably tailored shared navy blazer, maroon ribbon, knee-length charcoal skirt, BLACK TIGHTS, black loafers. Relaxed arms loosely crossed, complete opaque body.. Add ONE girl only, standing beside one plain closed school supply box near the noticeboard.  Anatomically correct body, clearly female face, clean broad hair shapes, natural modest school-life acting. She is naturally room-scale, typically35-55% of image height; eyes and body visible sufficiently to click. Integrate appropriate soft contact shadows and believable furniture occlusion: seated thighs rest on chair, knees and feet visible naturally, no body passing through table. Keep all key doors readable; keep bottom20% clear for navigation UI. No other students, MC, dialogue, floating icons, lettering, labels or interface. This is a GAME EXPLORATION BACKGROUND WITH A CLICKABLE CHARACTER already in it, not a giant portrait pasted over scenery. No added rooms or decor."
+  },
+  {
+    "id": "room_katya_field_fencing_kit_with_mask",
+    "category": "room_placement",
+    "character": "katya",
+    "location": "field",
+    "wardrobe": "fencing_kit_with_mask",
+    "scenes": [
+      11
+    ],
+    "target": "Rooms/katya/katya_field_fencing_kit_with_mask.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_field_day.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\katya\\Wardrobes\\fencing_kit_with_mask.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE finished point-and-click exploration room view with the girl NATURALLY PRESENT IN THE ROOM. Landscape16:9. Reference1 is the EXACT clean room plate: preserve its camera angle, door/window positions, architecture, furniture and layout. Reference2 is EXACT girl identity and fencing_kit_with_mask clothing; use its TOP-LEFT full-body costume, do NOT reproduce its atlas. Reference3 approved rendering. Tall176cm girl, long WAIST-LENGTH SILVER WHITE straight hair with pristine center part and simple broad locks, ICE BLUE narrower eyes, slightly elongated face, precise fine brows, proud restrained gaze, small silver stud earrings. Impeccably tailored shared navy blazer, maroon ribbon, knee-length charcoal skirt, BLACK TIGHTS, black loafers. Relaxed arms loosely crossed, complete opaque body.. Add ONE girl only, standing naturally on the practice strip at the safe edge of the hardcourt; fencing mask under her arm, silver hair in a low braid. Outfit must match reference2 exactly rather than generic school blazer. Anatomically correct body, clearly female face, clean broad hair shapes, natural modest school-life acting. She is naturally room-scale, typically35-55% of image height; eyes and body visible sufficiently to click. Integrate appropriate soft contact shadows and believable furniture occlusion: seated thighs rest on chair, knees and feet visible naturally, no body passing through table. Keep all key doors readable; keep bottom20% clear for navigation UI. No other students, MC, dialogue, floating icons, lettering, labels or interface. This is a GAME EXPLORATION BACKGROUND WITH A CLICKABLE CHARACTER already in it, not a giant portrait pasted over scenery. No added rooms or decor."
+  },
+  {
+    "id": "room_akira_class_a_school_uniform",
+    "category": "room_placement",
+    "character": "akira",
+    "location": "class_a",
+    "wardrobe": "school_uniform",
+    "scenes": [
+      1,
+      3,
+      7,
+      8,
+      11,
+      12,
+      14
+    ],
+    "target": "Rooms/akira/akira_class_a_school_uniform.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_class_a_day.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\akira\\akira_base.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE finished point-and-click exploration room view with the girl NATURALLY PRESENT IN THE ROOM. Landscape16:9. Reference1 is the EXACT clean room plate: preserve its camera angle, door/window positions, architecture, furniture and layout. Reference2 is EXACT girl identity and school_uniform clothing. Reference3 approved rendering. 167cm girl, SHORT CHIN-LENGTH pastel PINK bob with one small ahoge, BROWN round lively eyes, thin round dark GLASSES and tiny simple charm on glasses arm, shorter rounded face, lively brows and friendly open expression. Shared navy blazer maroon ribbon white shirt knee-length charcoal skirt dark knee socks and loafers. Both hands loosely at sides. NO satchel on this neutral base; the satchel will be a separate scene prop.. Add ONE girl only, seated at the right project table using a dark-grey laptop, her satchel on chair side.  Anatomically correct body, clearly female face, clean broad hair shapes, natural modest school-life acting. She is naturally room-scale, typically35-55% of image height; eyes and body visible sufficiently to click. Integrate appropriate soft contact shadows and believable furniture occlusion: seated thighs rest on chair, knees and feet visible naturally, no body passing through table. Keep all key doors readable; keep bottom20% clear for navigation UI. No other students, MC, dialogue, floating icons, lettering, labels or interface. This is a GAME EXPLORATION BACKGROUND WITH A CLICKABLE CHARACTER already in it, not a giant portrait pasted over scenery. No added rooms or decor."
+  },
+  {
+    "id": "room_akira_canteen_school_uniform",
+    "category": "room_placement",
+    "character": "akira",
+    "location": "canteen",
+    "wardrobe": "school_uniform",
+    "scenes": [
+      2,
+      6,
+      13,
+      15
+    ],
+    "target": "Rooms/akira/akira_canteen_school_uniform.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_canteen_day.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\akira\\akira_base.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE finished point-and-click exploration room view with the girl NATURALLY PRESENT IN THE ROOM. Landscape16:9. Reference1 is the EXACT clean room plate: preserve its camera angle, door/window positions, architecture, furniture and layout. Reference2 is EXACT girl identity and school_uniform clothing. Reference3 approved rendering. 167cm girl, SHORT CHIN-LENGTH pastel PINK bob with one small ahoge, BROWN round lively eyes, thin round dark GLASSES and tiny simple charm on glasses arm, shorter rounded face, lively brows and friendly open expression. Shared navy blazer maroon ribbon white shirt knee-length charcoal skirt dark knee socks and loafers. Both hands loosely at sides. NO satchel on this neutral base; the satchel will be a separate scene prop.. Add ONE girl only, seated at a middle canteen table with a small notebook and lunch tray.  Anatomically correct body, clearly female face, clean broad hair shapes, natural modest school-life acting. She is naturally room-scale, typically35-55% of image height; eyes and body visible sufficiently to click. Integrate appropriate soft contact shadows and believable furniture occlusion: seated thighs rest on chair, knees and feet visible naturally, no body passing through table. Keep all key doors readable; keep bottom20% clear for navigation UI. No other students, MC, dialogue, floating icons, lettering, labels or interface. This is a GAME EXPLORATION BACKGROUND WITH A CLICKABLE CHARACTER already in it, not a giant portrait pasted over scenery. No added rooms or decor."
+  },
+  {
+    "id": "room_akira_library_school_uniform",
+    "category": "room_placement",
+    "character": "akira",
+    "location": "library",
+    "wardrobe": "school_uniform",
+    "scenes": [
+      4,
+      10
+    ],
+    "target": "Rooms/akira/akira_library_school_uniform.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_library_day.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\akira\\akira_base.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE finished point-and-click exploration room view with the girl NATURALLY PRESENT IN THE ROOM. Landscape16:9. Reference1 is the EXACT clean room plate: preserve its camera angle, door/window positions, architecture, furniture and layout. Reference2 is EXACT girl identity and school_uniform clothing. Reference3 approved rendering. 167cm girl, SHORT CHIN-LENGTH pastel PINK bob with one small ahoge, BROWN round lively eyes, thin round dark GLASSES and tiny simple charm on glasses arm, shorter rounded face, lively brows and friendly open expression. Shared navy blazer maroon ribbon white shirt knee-length charcoal skirt dark knee socks and loafers. Both hands loosely at sides. NO satchel on this neutral base; the satchel will be a separate scene prop.. Add ONE girl only, seated at the reading table with two survey sheets and notebook.  Anatomically correct body, clearly female face, clean broad hair shapes, natural modest school-life acting. She is naturally room-scale, typically35-55% of image height; eyes and body visible sufficiently to click. Integrate appropriate soft contact shadows and believable furniture occlusion: seated thighs rest on chair, knees and feet visible naturally, no body passing through table. Keep all key doors readable; keep bottom20% clear for navigation UI. No other students, MC, dialogue, floating icons, lettering, labels or interface. This is a GAME EXPLORATION BACKGROUND WITH A CLICKABLE CHARACTER already in it, not a giant portrait pasted over scenery. No added rooms or decor."
+  },
+  {
+    "id": "room_akira_lobby_school_uniform",
+    "category": "room_placement",
+    "character": "akira",
+    "location": "lobby",
+    "wardrobe": "school_uniform",
+    "scenes": [
+      5,
+      9
+    ],
+    "target": "Rooms/akira/akira_lobby_school_uniform.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_lobby_day.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\akira\\akira_base.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE finished point-and-click exploration room view with the girl NATURALLY PRESENT IN THE ROOM. Landscape16:9. Reference1 is the EXACT clean room plate: preserve its camera angle, door/window positions, architecture, furniture and layout. Reference2 is EXACT girl identity and school_uniform clothing. Reference3 approved rendering. 167cm girl, SHORT CHIN-LENGTH pastel PINK bob with one small ahoge, BROWN round lively eyes, thin round dark GLASSES and tiny simple charm on glasses arm, shorter rounded face, lively brows and friendly open expression. Shared navy blazer maroon ribbon white shirt knee-length charcoal skirt dark knee socks and loafers. Both hands loosely at sides. NO satchel on this neutral base; the satchel will be a separate scene prop.. Add ONE girl only, standing beside the lobby noticeboard with her keychain satchel and a small cream orientation booklet.  Anatomically correct body, clearly female face, clean broad hair shapes, natural modest school-life acting. She is naturally room-scale, typically35-55% of image height; eyes and body visible sufficiently to click. Integrate appropriate soft contact shadows and believable furniture occlusion: seated thighs rest on chair, knees and feet visible naturally, no body passing through table. Keep all key doors readable; keep bottom20% clear for navigation UI. No other students, MC, dialogue, floating icons, lettering, labels or interface. This is a GAME EXPLORATION BACKGROUND WITH A CLICKABLE CHARACTER already in it, not a giant portrait pasted over scenery. No added rooms or decor."
+  },
+  {
+    "id": "room_seoyun_library_school_uniform",
+    "category": "room_placement",
+    "character": "seoyun",
+    "location": "library",
+    "wardrobe": "school_uniform",
+    "scenes": [
+      1,
+      2,
+      5,
+      9,
+      12,
+      13,
+      15
+    ],
+    "target": "Rooms/seoyun/seoyun_library_school_uniform.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_library_day.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\seoyun\\seoyun_base.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE finished point-and-click exploration room view with the girl NATURALLY PRESENT IN THE ROOM. Landscape16:9. Reference1 is the EXACT clean room plate: preserve its camera angle, door/window positions, architecture, furniture and layout. Reference2 is EXACT girl identity and school_uniform clothing. Reference3 approved rendering. 163cm girl, long gently WAVY DARK BROWN hair loosely tied in a LOW ponytail with wispy curtain bangs but very few flyaways, DARK BROWN almond-shaped eyes, tiny mole under HER LEFT eye, gentle oval face, soft brows and quietly attentive expression. Neatly buttoned shared navy blazer maroon ribbon white shirt knee-length charcoal skirt dark knee socks loafers. Both hands loosely folded in front. NO journal in this neutral base.. Add ONE girl only, seated naturally at the reading table next to the window, CLOSED dark-blue journal on lap, gentle reserved face.  Anatomically correct body, clearly female face, clean broad hair shapes, natural modest school-life acting. She is naturally room-scale, typically35-55% of image height; eyes and body visible sufficiently to click. Integrate appropriate soft contact shadows and believable furniture occlusion: seated thighs rest on chair, knees and feet visible naturally, no body passing through table. Keep all key doors readable; keep bottom20% clear for navigation UI. No other students, MC, dialogue, floating icons, lettering, labels or interface. This is a GAME EXPLORATION BACKGROUND WITH A CLICKABLE CHARACTER already in it, not a giant portrait pasted over scenery. No added rooms or decor."
+  },
+  {
+    "id": "room_seoyun_corridor_school_uniform",
+    "category": "room_placement",
+    "character": "seoyun",
+    "location": "corridor",
+    "wardrobe": "school_uniform",
+    "scenes": [
+      3,
+      11
+    ],
+    "target": "Rooms/seoyun/seoyun_corridor_school_uniform.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_corridor_day.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\seoyun\\seoyun_base.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE finished point-and-click exploration room view with the girl NATURALLY PRESENT IN THE ROOM. Landscape16:9. Reference1 is the EXACT clean room plate: preserve its camera angle, door/window positions, architecture, furniture and layout. Reference2 is EXACT girl identity and school_uniform clothing. Reference3 approved rendering. 163cm girl, long gently WAVY DARK BROWN hair loosely tied in a LOW ponytail with wispy curtain bangs but very few flyaways, DARK BROWN almond-shaped eyes, tiny mole under HER LEFT eye, gentle oval face, soft brows and quietly attentive expression. Neatly buttoned shared navy blazer maroon ribbon white shirt knee-length charcoal skirt dark knee socks loafers. Both hands loosely folded in front. NO journal in this neutral base.. Add ONE girl only, standing by the corridor window holding a small black compact camera at waist.  Anatomically correct body, clearly female face, clean broad hair shapes, natural modest school-life acting. She is naturally room-scale, typically35-55% of image height; eyes and body visible sufficiently to click. Integrate appropriate soft contact shadows and believable furniture occlusion: seated thighs rest on chair, knees and feet visible naturally, no body passing through table. Keep all key doors readable; keep bottom20% clear for navigation UI. No other students, MC, dialogue, floating icons, lettering, labels or interface. This is a GAME EXPLORATION BACKGROUND WITH A CLICKABLE CHARACTER already in it, not a giant portrait pasted over scenery. No added rooms or decor."
+  },
+  {
+    "id": "room_seoyun_class_c_school_uniform",
+    "category": "room_placement",
+    "character": "seoyun",
+    "location": "class_c",
+    "wardrobe": "school_uniform",
+    "scenes": [
+      4,
+      7,
+      10
+    ],
+    "target": "Rooms/seoyun/seoyun_class_c_school_uniform.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_class_c_day.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\seoyun\\seoyun_base.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE finished point-and-click exploration room view with the girl NATURALLY PRESENT IN THE ROOM. Landscape16:9. Reference1 is the EXACT clean room plate: preserve its camera angle, door/window positions, architecture, furniture and layout. Reference2 is EXACT girl identity and school_uniform clothing. Reference3 approved rendering. 163cm girl, long gently WAVY DARK BROWN hair loosely tied in a LOW ponytail with wispy curtain bangs but very few flyaways, DARK BROWN almond-shaped eyes, tiny mole under HER LEFT eye, gentle oval face, soft brows and quietly attentive expression. Neatly buttoned shared navy blazer maroon ribbon white shirt knee-length charcoal skirt dark knee socks loafers. Both hands loosely folded in front. NO journal in this neutral base.. Add ONE girl only, seated at a window-side classroom desk, a caption sheet and closed dictionary on desk.  Anatomically correct body, clearly female face, clean broad hair shapes, natural modest school-life acting. She is naturally room-scale, typically35-55% of image height; eyes and body visible sufficiently to click. Integrate appropriate soft contact shadows and believable furniture occlusion: seated thighs rest on chair, knees and feet visible naturally, no body passing through table. Keep all key doors readable; keep bottom20% clear for navigation UI. No other students, MC, dialogue, floating icons, lettering, labels or interface. This is a GAME EXPLORATION BACKGROUND WITH A CLICKABLE CHARACTER already in it, not a giant portrait pasted over scenery. No added rooms or decor."
+  },
+  {
+    "id": "room_seoyun_canteen_school_uniform",
+    "category": "room_placement",
+    "character": "seoyun",
+    "location": "canteen",
+    "wardrobe": "school_uniform",
+    "scenes": [
+      6
+    ],
+    "target": "Rooms/seoyun/seoyun_canteen_school_uniform.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_canteen_day.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\seoyun\\seoyun_base.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE finished point-and-click exploration room view with the girl NATURALLY PRESENT IN THE ROOM. Landscape16:9. Reference1 is the EXACT clean room plate: preserve its camera angle, door/window positions, architecture, furniture and layout. Reference2 is EXACT girl identity and school_uniform clothing. Reference3 approved rendering. 163cm girl, long gently WAVY DARK BROWN hair loosely tied in a LOW ponytail with wispy curtain bangs but very few flyaways, DARK BROWN almond-shaped eyes, tiny mole under HER LEFT eye, gentle oval face, soft brows and quietly attentive expression. Neatly buttoned shared navy blazer maroon ribbon white shirt knee-length charcoal skirt dark knee socks loafers. Both hands loosely folded in front. NO journal in this neutral base.. Add ONE girl only, seated at a middle table with an ordinary noodle bowl and fruit cup.  Anatomically correct body, clearly female face, clean broad hair shapes, natural modest school-life acting. She is naturally room-scale, typically35-55% of image height; eyes and body visible sufficiently to click. Integrate appropriate soft contact shadows and believable furniture occlusion: seated thighs rest on chair, knees and feet visible naturally, no body passing through table. Keep all key doors readable; keep bottom20% clear for navigation UI. No other students, MC, dialogue, floating icons, lettering, labels or interface. This is a GAME EXPLORATION BACKGROUND WITH A CLICKABLE CHARACTER already in it, not a giant portrait pasted over scenery. No added rooms or decor."
+  },
+  {
+    "id": "room_seoyun_lobby_school_uniform",
+    "category": "room_placement",
+    "character": "seoyun",
+    "location": "lobby",
+    "wardrobe": "school_uniform",
+    "scenes": [
+      8,
+      14
+    ],
+    "target": "Rooms/seoyun/seoyun_lobby_school_uniform.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_lobby_day.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\seoyun\\seoyun_base.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE finished point-and-click exploration room view with the girl NATURALLY PRESENT IN THE ROOM. Landscape16:9. Reference1 is the EXACT clean room plate: preserve its camera angle, door/window positions, architecture, furniture and layout. Reference2 is EXACT girl identity and school_uniform clothing. Reference3 approved rendering. 163cm girl, long gently WAVY DARK BROWN hair loosely tied in a LOW ponytail with wispy curtain bangs but very few flyaways, DARK BROWN almond-shaped eyes, tiny mole under HER LEFT eye, gentle oval face, soft brows and quietly attentive expression. Neatly buttoned shared navy blazer maroon ribbon white shirt knee-length charcoal skirt dark knee socks loafers. Both hands loosely folded in front. NO journal in this neutral base.. Add ONE girl only, standing beside a modest portable display board showing two simple sky photographs with blank cream captions, her closed journal held at waist.  Anatomically correct body, clearly female face, clean broad hair shapes, natural modest school-life acting. She is naturally room-scale, typically35-55% of image height; eyes and body visible sufficiently to click. Integrate appropriate soft contact shadows and believable furniture occlusion: seated thighs rest on chair, knees and feet visible naturally, no body passing through table. Keep all key doors readable; keep bottom20% clear for navigation UI. No other students, MC, dialogue, floating icons, lettering, labels or interface. This is a GAME EXPLORATION BACKGROUND WITH A CLICKABLE CHARACTER already in it, not a giant portrait pasted over scenery. No added rooms or decor."
+  },
+  {
+    "id": "room_mari_infirmary_school_uniform",
+    "category": "room_placement",
+    "character": "mari",
+    "location": "infirmary",
+    "wardrobe": "school_uniform",
+    "scenes": [
+      1,
+      3,
+      4,
+      8,
+      10,
+      14,
+      15
+    ],
+    "target": "Rooms/mari/mari_infirmary_school_uniform.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_infirmary_day.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\mari\\mari_base.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE finished point-and-click exploration room view with the girl NATURALLY PRESENT IN THE ROOM. Landscape16:9. Reference1 is the EXACT clean room plate: preserve its camera angle, door/window positions, architecture, furniture and layout. Reference2 is EXACT girl identity and school_uniform clothing. Reference3 approved rendering. Tall176cm girl, MUTED SALMON PINK voluminous feathered LOW PONYTAIL, parted curtain bangs and cheek-framing sidelocks described as a few broad locks, large calm CYAN eyes, softly elongated feminine face, gently relaxed eyelids and a kind restrained smile. Same navy blazer maroon ribbon white shirt modest KNEE-LENGTH charcoal pleated skirt dark knee socks and loafers. Hands gently clasped at waist, no props. She is a fellow student.. Add ONE girl only, seated awake and well in the PUBLIC visitor chair at the left window, feet on floor, her own white tea cup held naturally, no patients.  Anatomically correct body, clearly female face, clean broad hair shapes, natural modest school-life acting. She is naturally room-scale, typically35-55% of image height; eyes and body visible sufficiently to click. Integrate appropriate soft contact shadows and believable furniture occlusion: seated thighs rest on chair, knees and feet visible naturally, no body passing through table. Keep all key doors readable; keep bottom20% clear for navigation UI. No other students, MC, dialogue, floating icons, lettering, labels or interface. This is a GAME EXPLORATION BACKGROUND WITH A CLICKABLE CHARACTER already in it, not a giant portrait pasted over scenery. No added rooms or decor."
+  },
+  {
+    "id": "room_mari_canteen_school_uniform",
+    "category": "room_placement",
+    "character": "mari",
+    "location": "canteen",
+    "wardrobe": "school_uniform",
+    "scenes": [
+      2,
+      5
+    ],
+    "target": "Rooms/mari/mari_canteen_school_uniform.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_canteen_day.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\mari\\mari_base.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE finished point-and-click exploration room view with the girl NATURALLY PRESENT IN THE ROOM. Landscape16:9. Reference1 is the EXACT clean room plate: preserve its camera angle, door/window positions, architecture, furniture and layout. Reference2 is EXACT girl identity and school_uniform clothing. Reference3 approved rendering. Tall176cm girl, MUTED SALMON PINK voluminous feathered LOW PONYTAIL, parted curtain bangs and cheek-framing sidelocks described as a few broad locks, large calm CYAN eyes, softly elongated feminine face, gently relaxed eyelids and a kind restrained smile. Same navy blazer maroon ribbon white shirt modest KNEE-LENGTH charcoal pleated skirt dark knee socks and loafers. Hands gently clasped at waist, no props. She is a fellow student.. Add ONE girl only, seated at a middle canteen table with a cloth-wrapped bento and green thermos.  Anatomically correct body, clearly female face, clean broad hair shapes, natural modest school-life acting. She is naturally room-scale, typically35-55% of image height; eyes and body visible sufficiently to click. Integrate appropriate soft contact shadows and believable furniture occlusion: seated thighs rest on chair, knees and feet visible naturally, no body passing through table. Keep all key doors readable; keep bottom20% clear for navigation UI. No other students, MC, dialogue, floating icons, lettering, labels or interface. This is a GAME EXPLORATION BACKGROUND WITH A CLICKABLE CHARACTER already in it, not a giant portrait pasted over scenery. No added rooms or decor."
+  },
+  {
+    "id": "room_mari_class_b_school_uniform",
+    "category": "room_placement",
+    "character": "mari",
+    "location": "class_b",
+    "wardrobe": "school_uniform",
+    "scenes": [
+      6,
+      12
+    ],
+    "target": "Rooms/mari/mari_class_b_school_uniform.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_class_b_day.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\mari\\mari_base.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE finished point-and-click exploration room view with the girl NATURALLY PRESENT IN THE ROOM. Landscape16:9. Reference1 is the EXACT clean room plate: preserve its camera angle, door/window positions, architecture, furniture and layout. Reference2 is EXACT girl identity and school_uniform clothing. Reference3 approved rendering. Tall176cm girl, MUTED SALMON PINK voluminous feathered LOW PONYTAIL, parted curtain bangs and cheek-framing sidelocks described as a few broad locks, large calm CYAN eyes, softly elongated feminine face, gently relaxed eyelids and a kind restrained smile. Same navy blazer maroon ribbon white shirt modest KNEE-LENGTH charcoal pleated skirt dark knee socks and loafers. Hands gently clasped at waist, no props. She is a fellow student.. Add ONE girl only, seated beside the right project table with a small sewing tin and folded blue felt, ordinary student activity.  Anatomically correct body, clearly female face, clean broad hair shapes, natural modest school-life acting. She is naturally room-scale, typically35-55% of image height; eyes and body visible sufficiently to click. Integrate appropriate soft contact shadows and believable furniture occlusion: seated thighs rest on chair, knees and feet visible naturally, no body passing through table. Keep all key doors readable; keep bottom20% clear for navigation UI. No other students, MC, dialogue, floating icons, lettering, labels or interface. This is a GAME EXPLORATION BACKGROUND WITH A CLICKABLE CHARACTER already in it, not a giant portrait pasted over scenery. No added rooms or decor."
+  },
+  {
+    "id": "room_mari_lobby_school_uniform",
+    "category": "room_placement",
+    "character": "mari",
+    "location": "lobby",
+    "wardrobe": "school_uniform",
+    "scenes": [
+      7
+    ],
+    "target": "Rooms/mari/mari_lobby_school_uniform.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_lobby_day.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\mari\\mari_base.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE finished point-and-click exploration room view with the girl NATURALLY PRESENT IN THE ROOM. Landscape16:9. Reference1 is the EXACT clean room plate: preserve its camera angle, door/window positions, architecture, furniture and layout. Reference2 is EXACT girl identity and school_uniform clothing. Reference3 approved rendering. Tall176cm girl, MUTED SALMON PINK voluminous feathered LOW PONYTAIL, parted curtain bangs and cheek-framing sidelocks described as a few broad locks, large calm CYAN eyes, softly elongated feminine face, gently relaxed eyelids and a kind restrained smile. Same navy blazer maroon ribbon white shirt modest KNEE-LENGTH charcoal pleated skirt dark knee socks and loafers. Hands gently clasped at waist, no props. She is a fellow student.. Add ONE girl only, standing near the lobby noticeboard holding a folded cream cloth, small supply box on bench beside her.  Anatomically correct body, clearly female face, clean broad hair shapes, natural modest school-life acting. She is naturally room-scale, typically35-55% of image height; eyes and body visible sufficiently to click. Integrate appropriate soft contact shadows and believable furniture occlusion: seated thighs rest on chair, knees and feet visible naturally, no body passing through table. Keep all key doors readable; keep bottom20% clear for navigation UI. No other students, MC, dialogue, floating icons, lettering, labels or interface. This is a GAME EXPLORATION BACKGROUND WITH A CLICKABLE CHARACTER already in it, not a giant portrait pasted over scenery. No added rooms or decor."
+  },
+  {
+    "id": "room_mari_field_aikido_gi_and_trousers",
+    "category": "room_placement",
+    "character": "mari",
+    "location": "field",
+    "wardrobe": "aikido_gi_and_trousers",
+    "scenes": [
+      9
+    ],
+    "target": "Rooms/mari/mari_field_aikido_gi_and_trousers.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_field_day.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\mari\\Wardrobes\\aikido_gi_and_trousers.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE finished point-and-click exploration room view with the girl NATURALLY PRESENT IN THE ROOM. Landscape16:9. Reference1 is the EXACT clean room plate: preserve its camera angle, door/window positions, architecture, furniture and layout. Reference2 is EXACT girl identity and aikido_gi_and_trousers clothing; use its TOP-LEFT full-body costume, do NOT reproduce its atlas. Reference3 approved rendering. Tall176cm girl, MUTED SALMON PINK voluminous feathered LOW PONYTAIL, parted curtain bangs and cheek-framing sidelocks described as a few broad locks, large calm CYAN eyes, softly elongated feminine face, gently relaxed eyelids and a kind restrained smile. Same navy blazer maroon ribbon white shirt modest KNEE-LENGTH charcoal pleated skirt dark knee socks and loafers. Hands gently clasped at waist, no props. She is a fellow student.. Add ONE girl only, standing calmly on a practice mat at the safe field edge after gentle aikido practice, closed sports bag beside her. Outfit must match reference2 exactly rather than generic school blazer. Anatomically correct body, clearly female face, clean broad hair shapes, natural modest school-life acting. She is naturally room-scale, typically35-55% of image height; eyes and body visible sufficiently to click. Integrate appropriate soft contact shadows and believable furniture occlusion: seated thighs rest on chair, knees and feet visible naturally, no body passing through table. Keep all key doors readable; keep bottom20% clear for navigation UI. No other students, MC, dialogue, floating icons, lettering, labels or interface. This is a GAME EXPLORATION BACKGROUND WITH A CLICKABLE CHARACTER already in it, not a giant portrait pasted over scenery. No added rooms or decor."
+  },
+  {
+    "id": "room_mari_canteen_uniform_with_apron",
+    "category": "room_placement",
+    "character": "mari",
+    "location": "canteen",
+    "wardrobe": "uniform_with_apron",
+    "scenes": [
+      11
+    ],
+    "target": "Rooms/mari/mari_canteen_uniform_with_apron.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_canteen_day.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\mari\\Wardrobes\\uniform_with_apron.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE finished point-and-click exploration room view with the girl NATURALLY PRESENT IN THE ROOM. Landscape16:9. Reference1 is the EXACT clean room plate: preserve its camera angle, door/window positions, architecture, furniture and layout. Reference2 is EXACT girl identity and uniform_with_apron clothing; use its TOP-LEFT full-body costume, do NOT reproduce its atlas. Reference3 approved rendering. Tall176cm girl, MUTED SALMON PINK voluminous feathered LOW PONYTAIL, parted curtain bangs and cheek-framing sidelocks described as a few broad locks, large calm CYAN eyes, softly elongated feminine face, gently relaxed eyelids and a kind restrained smile. Same navy blazer maroon ribbon white shirt modest KNEE-LENGTH charcoal pleated skirt dark knee socks and loafers. Hands gently clasped at waist, no props. She is a fellow student.. Add ONE girl only, standing at a cleared canteen work table, preparing a simple bento with food already cooked under staff supervision; ordinary cream apron over shirt and skirt. Outfit must match reference2 exactly rather than generic school blazer. Anatomically correct body, clearly female face, clean broad hair shapes, natural modest school-life acting. She is naturally room-scale, typically35-55% of image height; eyes and body visible sufficiently to click. Integrate appropriate soft contact shadows and believable furniture occlusion: seated thighs rest on chair, knees and feet visible naturally, no body passing through table. Keep all key doors readable; keep bottom20% clear for navigation UI. No other students, MC, dialogue, floating icons, lettering, labels or interface. This is a GAME EXPLORATION BACKGROUND WITH A CLICKABLE CHARACTER already in it, not a giant portrait pasted over scenery. No added rooms or decor."
+  },
+  {
+    "id": "room_mari_gate_school_uniform",
+    "category": "room_placement",
+    "character": "mari",
+    "location": "gate",
+    "wardrobe": "school_uniform",
+    "scenes": [
+      13
+    ],
+    "target": "Rooms/mari/mari_gate_school_uniform.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_gate_day.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\mari\\mari_base.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE finished point-and-click exploration room view with the girl NATURALLY PRESENT IN THE ROOM. Landscape16:9. Reference1 is the EXACT clean room plate: preserve its camera angle, door/window positions, architecture, furniture and layout. Reference2 is EXACT girl identity and school_uniform clothing. Reference3 approved rendering. Tall176cm girl, MUTED SALMON PINK voluminous feathered LOW PONYTAIL, parted curtain bangs and cheek-framing sidelocks described as a few broad locks, large calm CYAN eyes, softly elongated feminine face, gently relaxed eyelids and a kind restrained smile. Same navy blazer maroon ribbon white shirt modest KNEE-LENGTH charcoal pleated skirt dark knee socks and loafers. Hands gently clasped at waist, no props. She is a fellow student.. Add ONE girl only, seated on the wooden bench inside the gate, relaxed composed posture, no animals needed.  Anatomically correct body, clearly female face, clean broad hair shapes, natural modest school-life acting. She is naturally room-scale, typically35-55% of image height; eyes and body visible sufficiently to click. Integrate appropriate soft contact shadows and believable furniture occlusion: seated thighs rest on chair, knees and feet visible naturally, no body passing through table. Keep all key doors readable; keep bottom20% clear for navigation UI. No other students, MC, dialogue, floating icons, lettering, labels or interface. This is a GAME EXPLORATION BACKGROUND WITH A CLICKABLE CHARACTER already in it, not a giant portrait pasted over scenery. No added rooms or decor."
+  },
+  {
+    "id": "room_svea_field_school_sports_jacket_and_trousers",
+    "category": "room_placement",
+    "character": "svea",
+    "location": "field",
+    "wardrobe": "school_sports_jacket_and_trousers",
+    "scenes": [
+      1,
+      5,
+      6,
+      12,
+      14
+    ],
+    "target": "Rooms/svea/svea_field_school_sports_jacket_and_trousers.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_field_day.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\svea\\Wardrobes\\school_sports_jacket_and_trousers.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE finished point-and-click exploration room view with the girl NATURALLY PRESENT IN THE ROOM. Landscape16:9. Reference1 is the EXACT clean room plate: preserve its camera angle, door/window positions, architecture, furniture and layout. Reference2 is EXACT girl identity and school_sports_jacket_and_trousers clothing; use its TOP-LEFT full-body costume, do NOT reproduce its atlas. Reference3 approved rendering. 171cm athletic GIRL, visibly feminine youthful face with soft jaw and gently tapered cheeks, shaggy medium-short BLUE BLACK hair chin-to-nape, long side fringe partly covering HER RIGHT eye, calm half-lidded BLUE GREY eyes, understated lashes and small dry half smile. Match her exact face and hair in the supplied approved reference. Navy school blazer OPEN over white shirt with only top button undone and chest fully covered, plain charcoal straight UNIFORM TROUSERS, grey sneakers. No ribbon/tie. One hand in trouser pocket, other hand at side, NO basketball in neutral base.. Add ONE girl only, standing at the near hardcourt boundary with an ordinary basketball under one arm, athletic relaxed posture. Outfit must match reference2 exactly rather than generic school blazer. Anatomically correct body, clearly female face, clean broad hair shapes, natural modest school-life acting. She is naturally room-scale, typically35-55% of image height; eyes and body visible sufficiently to click. Integrate appropriate soft contact shadows and believable furniture occlusion: seated thighs rest on chair, knees and feet visible naturally, no body passing through table. Keep all key doors readable; keep bottom20% clear for navigation UI. No other students, MC, dialogue, floating icons, lettering, labels or interface. This is a GAME EXPLORATION BACKGROUND WITH A CLICKABLE CHARACTER already in it, not a giant portrait pasted over scenery. No added rooms or decor."
+  },
+  {
+    "id": "room_svea_canteen_school_uniform",
+    "category": "room_placement",
+    "character": "svea",
+    "location": "canteen",
+    "wardrobe": "school_uniform",
+    "scenes": [
+      2,
+      4,
+      9
+    ],
+    "target": "Rooms/svea/svea_canteen_school_uniform.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_canteen_day.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\svea\\svea_base.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE finished point-and-click exploration room view with the girl NATURALLY PRESENT IN THE ROOM. Landscape16:9. Reference1 is the EXACT clean room plate: preserve its camera angle, door/window positions, architecture, furniture and layout. Reference2 is EXACT girl identity and school_uniform clothing. Reference3 approved rendering. 171cm athletic GIRL, visibly feminine youthful face with soft jaw and gently tapered cheeks, shaggy medium-short BLUE BLACK hair chin-to-nape, long side fringe partly covering HER RIGHT eye, calm half-lidded BLUE GREY eyes, understated lashes and small dry half smile. Match her exact face and hair in the supplied approved reference. Navy school blazer OPEN over white shirt with only top button undone and chest fully covered, plain charcoal straight UNIFORM TROUSERS, grey sneakers. No ribbon/tie. One hand in trouser pocket, other hand at side, NO basketball in neutral base.. Add ONE girl only, seated at a middle table with a school lunch tray and pink strawberry milk carton.  Anatomically correct body, clearly female face, clean broad hair shapes, natural modest school-life acting. She is naturally room-scale, typically35-55% of image height; eyes and body visible sufficiently to click. Integrate appropriate soft contact shadows and believable furniture occlusion: seated thighs rest on chair, knees and feet visible naturally, no body passing through table. Keep all key doors readable; keep bottom20% clear for navigation UI. No other students, MC, dialogue, floating icons, lettering, labels or interface. This is a GAME EXPLORATION BACKGROUND WITH A CLICKABLE CHARACTER already in it, not a giant portrait pasted over scenery. No added rooms or decor."
+  },
+  {
+    "id": "room_svea_class_c_school_uniform",
+    "category": "room_placement",
+    "character": "svea",
+    "location": "class_c",
+    "wardrobe": "school_uniform",
+    "scenes": [
+      3,
+      7,
+      10,
+      11,
+      13
+    ],
+    "target": "Rooms/svea/svea_class_c_school_uniform.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_class_c_day.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\svea\\svea_base.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE finished point-and-click exploration room view with the girl NATURALLY PRESENT IN THE ROOM. Landscape16:9. Reference1 is the EXACT clean room plate: preserve its camera angle, door/window positions, architecture, furniture and layout. Reference2 is EXACT girl identity and school_uniform clothing. Reference3 approved rendering. 171cm athletic GIRL, visibly feminine youthful face with soft jaw and gently tapered cheeks, shaggy medium-short BLUE BLACK hair chin-to-nape, long side fringe partly covering HER RIGHT eye, calm half-lidded BLUE GREY eyes, understated lashes and small dry half smile. Match her exact face and hair in the supplied approved reference. Navy school blazer OPEN over white shirt with only top button undone and chest fully covered, plain charcoal straight UNIFORM TROUSERS, grey sneakers. No ribbon/tie. One hand in trouser pocket, other hand at side, NO basketball in neutral base.. Add ONE girl only, seated at a desk near the window, open workbook on desk and closed sports bag beside chair, half-lidded relaxed gaze.  Anatomically correct body, clearly female face, clean broad hair shapes, natural modest school-life acting. She is naturally room-scale, typically35-55% of image height; eyes and body visible sufficiently to click. Integrate appropriate soft contact shadows and believable furniture occlusion: seated thighs rest on chair, knees and feet visible naturally, no body passing through table. Keep all key doors readable; keep bottom20% clear for navigation UI. No other students, MC, dialogue, floating icons, lettering, labels or interface. This is a GAME EXPLORATION BACKGROUND WITH A CLICKABLE CHARACTER already in it, not a giant portrait pasted over scenery. No added rooms or decor."
+  },
+  {
+    "id": "room_svea_gate_school_uniform",
+    "category": "room_placement",
+    "character": "svea",
+    "location": "gate",
+    "wardrobe": "school_uniform",
+    "scenes": [
+      8
+    ],
+    "target": "Rooms/svea/svea_gate_school_uniform.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_gate_day.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\svea\\svea_base.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE finished point-and-click exploration room view with the girl NATURALLY PRESENT IN THE ROOM. Landscape16:9. Reference1 is the EXACT clean room plate: preserve its camera angle, door/window positions, architecture, furniture and layout. Reference2 is EXACT girl identity and school_uniform clothing. Reference3 approved rendering. 171cm athletic GIRL, visibly feminine youthful face with soft jaw and gently tapered cheeks, shaggy medium-short BLUE BLACK hair chin-to-nape, long side fringe partly covering HER RIGHT eye, calm half-lidded BLUE GREY eyes, understated lashes and small dry half smile. Match her exact face and hair in the supplied approved reference. Navy school blazer OPEN over white shirt with only top button undone and chest fully covered, plain charcoal straight UNIFORM TROUSERS, grey sneakers. No ribbon/tie. One hand in trouser pocket, other hand at side, NO basketball in neutral base.. Add ONE girl only, standing near the gate with a small school supply box placed safely on the ground nearby.  Anatomically correct body, clearly female face, clean broad hair shapes, natural modest school-life acting. She is naturally room-scale, typically35-55% of image height; eyes and body visible sufficiently to click. Integrate appropriate soft contact shadows and believable furniture occlusion: seated thighs rest on chair, knees and feet visible naturally, no body passing through table. Keep all key doors readable; keep bottom20% clear for navigation UI. No other students, MC, dialogue, floating icons, lettering, labels or interface. This is a GAME EXPLORATION BACKGROUND WITH A CLICKABLE CHARACTER already in it, not a giant portrait pasted over scenery. No added rooms or decor."
+  },
+  {
+    "id": "room_svea_field_school_uniform",
+    "category": "room_placement",
+    "character": "svea",
+    "location": "field",
+    "wardrobe": "school_uniform",
+    "scenes": [
+      15
+    ],
+    "target": "Rooms/svea/svea_field_school_uniform.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_field_day.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\svea\\svea_base.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE finished point-and-click exploration room view with the girl NATURALLY PRESENT IN THE ROOM. Landscape16:9. Reference1 is the EXACT clean room plate: preserve its camera angle, door/window positions, architecture, furniture and layout. Reference2 is EXACT girl identity and school_uniform clothing. Reference3 approved rendering. 171cm athletic GIRL, visibly feminine youthful face with soft jaw and gently tapered cheeks, shaggy medium-short BLUE BLACK hair chin-to-nape, long side fringe partly covering HER RIGHT eye, calm half-lidded BLUE GREY eyes, understated lashes and small dry half smile. Match her exact face and hair in the supplied approved reference. Navy school blazer OPEN over white shirt with only top button undone and chest fully covered, plain charcoal straight UNIFORM TROUSERS, grey sneakers. No ribbon/tie. One hand in trouser pocket, other hand at side, NO basketball in neutral base.. Add ONE girl only, standing at the near hardcourt boundary with an ordinary basketball under one arm, athletic relaxed posture.  Anatomically correct body, clearly female face, clean broad hair shapes, natural modest school-life acting. She is naturally room-scale, typically35-55% of image height; eyes and body visible sufficiently to click. Integrate appropriate soft contact shadows and believable furniture occlusion: seated thighs rest on chair, knees and feet visible naturally, no body passing through table. Keep all key doors readable; keep bottom20% clear for navigation UI. No other students, MC, dialogue, floating icons, lettering, labels or interface. This is a GAME EXPLORATION BACKGROUND WITH A CLICKABLE CHARACTER already in it, not a giant portrait pasted over scenery. No added rooms or decor."
+  }
+]

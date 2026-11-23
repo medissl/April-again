@@ -1,0 +1,198 @@
+{
+  "referenceCanvas": [
+    1920,
+    1080
+  ],
+  "scaleMode": "Scale With Screen Size; preserve illustration aspect ratio; width/height match 0.5",
+  "safeMargin": 64,
+  "screens": {
+    "title": {
+      "background": "Title/title_school.png",
+      "wordmark": "Title/wordmark_ink.png",
+      "menu": [
+        "New game",
+        "Continue",
+        "Load game",
+        "Gallery",
+        "Settings",
+        "Quit"
+      ]
+    },
+    "exploration": {
+      "day": [
+        64,
+        48,
+        400,
+        96
+      ],
+      "navigation": [
+        1512,
+        48,
+        296,
+        96
+      ],
+      "location": [
+        64,
+        918,
+        384,
+        88
+      ],
+      "normalSocialSlots": 2,
+      "saturdaySocialSlots": 3,
+      "slotIcons": [
+        "slot_open",
+        "slot_used"
+      ],
+      "durationHours": 3,
+      "labels": "Show character name and availability on hover/focus. Clicking empty scenery does nothing."
+    },
+    "dialogue": {
+      "panel": [
+        128,
+        752,
+        1664,
+        272
+      ],
+      "name": [
+        160,
+        708,
+        360,
+        64
+      ],
+      "portrait": [
+        1110,
+        130,
+        690,
+        690
+      ],
+      "text": [
+        176,
+        812,
+        1500,
+        132
+      ],
+      "bodySize": 32,
+      "lineHeight": 44,
+      "maximumLines": 3,
+      "footer": [
+        "History",
+        "Auto",
+        "Skip",
+        "Hide",
+        "Save"
+      ],
+      "pagination": "Paginate at line limit without discarding text."
+    },
+    "choices": {
+      "first": [
+        128,
+        294,
+        1008,
+        88
+      ],
+      "verticalStep": 106,
+      "bodySize": 28,
+      "textWidth": 908,
+      "maximumLines": 2,
+      "scoreVisibility": "No good/bad/neutral labels on choice buttons."
+    },
+    "bedroom": {
+      "background": "Backgrounds/bg_bedroom_evening.png",
+      "menu": [
+        "Journal",
+        "Save game",
+        "Sleep / next day"
+      ]
+    },
+    "save_load": {
+      "frame": "journal_panel",
+      "slot": "save_slot",
+      "slotCount": 4,
+      "pages": true
+    },
+    "settings": {
+      "frame": "journal_panel",
+      "controls": [
+        "slider_track",
+        "slider_fill",
+        "slider_handle",
+        "checkbox_empty",
+        "checkbox_checked"
+      ],
+      "values": [
+        "Master volume",
+        "Music",
+        "Text speed",
+        "Window mode",
+        "Reduced motion",
+        "Stop skip at unread text"
+      ]
+    },
+    "journal": {
+      "frame": "journal_panel",
+      "portraitSize": [
+        220,
+        220
+      ],
+      "show": [
+        "Known places",
+        "Encounter titles",
+        "Notes willingly shared"
+      ]
+    },
+    "ending_gallery": {
+      "frame": "journal_panel",
+      "locked": "icon_lock",
+      "columns": 3,
+      "unlockOn": "Completed ending"
+    },
+    "history": {
+      "frame": "journal_panel",
+      "scroll": [
+        "scroll_track",
+        "scroll_thumb"
+      ]
+    },
+    "pause": {
+      "frame": "journal_panel",
+      "menu": [
+        "Resume",
+        "Save game",
+        "Load game",
+        "Settings",
+        "Return to title"
+      ]
+    },
+    "confirmation": {
+      "frame": "modal_panel",
+      "actions": [
+        "Continue",
+        "Go back"
+      ],
+      "saveBeforeFinale": true
+    }
+  },
+  "interaction": {
+    "states": [
+      "idle",
+      "hover",
+      "pressed",
+      "disabled",
+      "focus"
+    ],
+    "minimumTarget": 56,
+    "keyboard": [
+      "Tab or arrows: focus",
+      "Enter/Space: select",
+      "Escape: back/pause"
+    ],
+    "focusOutlinePx": 3,
+    "skipStopsAtUnread": true,
+    "skipStopsAtChoices": true,
+    "reducedMotion": "Disable fades and decorative transitions",
+    "cursorHotspot": [
+      6,
+      4
+    ]
+  }
+}

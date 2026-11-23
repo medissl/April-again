@@ -1,0 +1,497 @@
+{
+  "coordinateSystem": "normalized top-left x,y,width,height",
+  "assetMode": "Character is already drawn into the room plate; hotspot is invisible until hover/focus.",
+  "rooms": {
+    "room_katya_class_b_school_uniform": {
+      "file": "Rooms/katya/katya_class_b_school_uniform.png",
+      "character": "katya",
+      "location": "class_b",
+      "hitRect": [
+        0.66,
+        0.22,
+        0.14,
+        0.74
+      ],
+      "label": "Katya",
+      "interaction": "Talk / availability check",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "room_katya_canteen_school_uniform": {
+      "file": "Rooms/katya/katya_canteen_school_uniform.png",
+      "character": "katya",
+      "location": "canteen",
+      "hitRect": [
+        0.49,
+        0.34,
+        0.1,
+        0.46
+      ],
+      "label": "Katya",
+      "interaction": "Talk / availability check",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "room_katya_corridor_school_uniform": {
+      "file": "Rooms/katya/katya_corridor_school_uniform.png",
+      "character": "katya",
+      "location": "corridor",
+      "hitRect": [
+        0.17,
+        0.23,
+        0.16,
+        0.72
+      ],
+      "label": "Katya",
+      "interaction": "Talk / availability check",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "room_katya_gate_school_uniform": {
+      "file": "Rooms/katya/katya_gate_school_uniform.png",
+      "character": "katya",
+      "location": "gate",
+      "hitRect": [
+        0.18,
+        0.28,
+        0.11,
+        0.58
+      ],
+      "label": "Katya",
+      "interaction": "Talk / availability check",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "room_katya_library_school_uniform": {
+      "file": "Rooms/katya/katya_library_school_uniform.png",
+      "character": "katya",
+      "location": "library",
+      "hitRect": [
+        0.14,
+        0.38,
+        0.18,
+        0.46
+      ],
+      "label": "Katya",
+      "interaction": "Talk / availability check",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "room_akira_canteen_school_uniform": {
+      "file": "Rooms/akira/akira_canteen_school_uniform.png",
+      "character": "akira",
+      "location": "canteen",
+      "hitRect": [
+        0.43,
+        0.34,
+        0.12,
+        0.46
+      ],
+      "label": "Akira",
+      "interaction": "Talk / availability check",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "room_akira_class_a_school_uniform": {
+      "file": "Rooms/akira/akira_class_a_school_uniform.png",
+      "character": "akira",
+      "location": "class_a",
+      "hitRect": [
+        0.74,
+        0.35,
+        0.11,
+        0.43
+      ],
+      "label": "Akira",
+      "interaction": "Talk / availability check",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "room_katya_lobby_school_uniform": {
+      "file": "Rooms/katya/katya_lobby_school_uniform.png",
+      "character": "katya",
+      "location": "lobby",
+      "hitRect": [
+        0.34,
+        0.3,
+        0.09,
+        0.44
+      ],
+      "label": "Katya",
+      "interaction": "Talk / availability check",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "room_akira_library_school_uniform": {
+      "file": "Rooms/akira/akira_library_school_uniform.png",
+      "character": "akira",
+      "location": "library",
+      "hitRect": [
+        0.21,
+        0.38,
+        0.15,
+        0.44
+      ],
+      "label": "Akira",
+      "interaction": "Talk / availability check",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "room_akira_lobby_school_uniform": {
+      "file": "Rooms/akira/akira_lobby_school_uniform.png",
+      "character": "akira",
+      "location": "lobby",
+      "hitRect": [
+        0.3,
+        0.3,
+        0.11,
+        0.55
+      ],
+      "label": "Akira",
+      "interaction": "Talk / availability check",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "room_seoyun_library_school_uniform": {
+      "file": "Rooms/seoyun/seoyun_library_school_uniform.png",
+      "character": "seoyun",
+      "location": "library",
+      "hitRect": [
+        0.14,
+        0.37,
+        0.15,
+        0.5
+      ],
+      "label": "Seo-yun",
+      "interaction": "Talk / availability check",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "room_seoyun_corridor_school_uniform": {
+      "file": "Rooms/seoyun/seoyun_corridor_school_uniform.png",
+      "character": "seoyun",
+      "location": "corridor",
+      "hitRect": [
+        0.18,
+        0.26,
+        0.13,
+        0.68
+      ],
+      "label": "Seo-yun",
+      "interaction": "Talk / availability check",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "room_seoyun_lobby_school_uniform": {
+      "file": "Rooms/seoyun/seoyun_lobby_school_uniform.png",
+      "character": "seoyun",
+      "location": "lobby",
+      "hitRect": [
+        0.38,
+        0.32,
+        0.11,
+        0.5
+      ],
+      "label": "Seo-yun",
+      "interaction": "Talk / availability check",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "room_seoyun_canteen_school_uniform": {
+      "file": "Rooms/seoyun/seoyun_canteen_school_uniform.png",
+      "character": "seoyun",
+      "location": "canteen",
+      "hitRect": [
+        0.43,
+        0.34,
+        0.13,
+        0.48
+      ],
+      "label": "Seo-yun",
+      "interaction": "Talk / availability check",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "room_seoyun_class_c_school_uniform": {
+      "file": "Rooms/seoyun/seoyun_class_c_school_uniform.png",
+      "character": "seoyun",
+      "location": "class_c",
+      "hitRect": [
+        0.07,
+        0.38,
+        0.13,
+        0.48
+      ],
+      "label": "Seo-yun",
+      "interaction": "Talk / availability check",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "room_mari_infirmary_school_uniform": {
+      "file": "Rooms/mari/mari_infirmary_school_uniform.png",
+      "character": "mari",
+      "location": "infirmary",
+      "hitRect": [
+        0.03,
+        0.36,
+        0.2,
+        0.57
+      ],
+      "label": "Mari",
+      "interaction": "Talk / availability check",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "room_mari_class_b_school_uniform": {
+      "file": "Rooms/mari/mari_class_b_school_uniform.png",
+      "character": "mari",
+      "location": "class_b",
+      "hitRect": [
+        0.66,
+        0.32,
+        0.18,
+        0.63
+      ],
+      "label": "Mari",
+      "interaction": "Talk / availability check",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "room_mari_canteen_school_uniform": {
+      "file": "Rooms/mari/mari_canteen_school_uniform.png",
+      "character": "mari",
+      "location": "canteen",
+      "hitRect": [
+        0.44,
+        0.31,
+        0.12,
+        0.54
+      ],
+      "label": "Mari",
+      "interaction": "Talk / availability check",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "room_mari_gate_school_uniform": {
+      "file": "Rooms/mari/mari_gate_school_uniform.png",
+      "character": "mari",
+      "location": "gate",
+      "hitRect": [
+        0.04,
+        0.4,
+        0.14,
+        0.39
+      ],
+      "label": "Mari",
+      "interaction": "Talk / availability check",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "room_mari_lobby_school_uniform": {
+      "file": "Rooms/mari/mari_lobby_school_uniform.png",
+      "character": "mari",
+      "location": "lobby",
+      "hitRect": [
+        0.35,
+        0.3,
+        0.11,
+        0.48
+      ],
+      "label": "Mari",
+      "interaction": "Talk / availability check",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "room_svea_canteen_school_uniform": {
+      "file": "Rooms/svea/svea_canteen_school_uniform.png",
+      "character": "svea",
+      "location": "canteen",
+      "hitRect": [
+        0.44,
+        0.31,
+        0.13,
+        0.57
+      ],
+      "label": "Svea",
+      "interaction": "Talk / availability check",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "room_svea_class_c_school_uniform": {
+      "file": "Rooms/svea/svea_class_c_school_uniform.png",
+      "character": "svea",
+      "location": "class_c",
+      "hitRect": [
+        0.045,
+        0.34,
+        0.17,
+        0.58
+      ],
+      "label": "Svea",
+      "interaction": "Talk / availability check",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "room_svea_field_school_uniform": {
+      "file": "Rooms/svea/svea_field_school_uniform.png",
+      "character": "svea",
+      "location": "field",
+      "hitRect": [
+        0.22,
+        0.24,
+        0.16,
+        0.72
+      ],
+      "label": "Svea",
+      "interaction": "Talk / availability check",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "room_svea_gate_school_uniform": {
+      "file": "Rooms/svea/svea_gate_school_uniform.png",
+      "character": "svea",
+      "location": "gate",
+      "hitRect": [
+        0.41,
+        0.28,
+        0.12,
+        0.6
+      ],
+      "label": "Svea",
+      "interaction": "Talk / availability check",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "room_katya_field_school_tracksuit": {
+      "file": "Rooms/katya/katya_field_school_tracksuit.png",
+      "character": "katya",
+      "location": "field",
+      "hitRect": [
+        0.06,
+        0.3,
+        0.12,
+        0.63
+      ],
+      "label": "Katya",
+      "interaction": "Talk / availability check",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "room_katya_field_fencing_kit_with_mask": {
+      "file": "Rooms/katya/katya_field_fencing_kit_with_mask.png",
+      "character": "katya",
+      "location": "field",
+      "hitRect": [
+        0.78,
+        0.3,
+        0.13,
+        0.62
+      ],
+      "label": "Katya",
+      "interaction": "Talk / availability check",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "room_mari_field_aikido_gi_and_trousers": {
+      "file": "Rooms/mari/mari_field_aikido_gi_and_trousers.png",
+      "character": "mari",
+      "location": "field",
+      "hitRect": [
+        0.21,
+        0.31,
+        0.12,
+        0.62
+      ],
+      "label": "Mari",
+      "interaction": "Talk / availability check",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "room_mari_canteen_uniform_with_apron": {
+      "file": "Rooms/mari/mari_canteen_uniform_with_apron.png",
+      "character": "mari",
+      "location": "canteen",
+      "hitRect": [
+        0.12,
+        0.38,
+        0.18,
+        0.54
+      ],
+      "label": "Mari",
+      "interaction": "Talk / availability check",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "room_svea_field_school_sports_jacket_and_trousers": {
+      "file": "Rooms/svea/svea_field_school_sports_jacket_and_trousers.png",
+      "character": "svea",
+      "location": "field",
+      "hitRect": [
+        0.24,
+        0.21,
+        0.16,
+        0.75
+      ],
+      "label": "Svea",
+      "interaction": "Talk / availability check",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "observation_katya": {
+      "file": "Observations/day_one_katya.png",
+      "character": "katya",
+      "location": "corridor",
+      "hitRect": [
+        0.6,
+        0.2,
+        0.17,
+        0.7
+      ],
+      "label": "Katya",
+      "interaction": "Observe",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "observation_akira": {
+      "file": "Observations/day_one_akira.png",
+      "character": "akira",
+      "location": "lobby",
+      "hitRect": [
+        0.36,
+        0.29,
+        0.15,
+        0.66
+      ],
+      "label": "Akira",
+      "interaction": "Observe",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "observation_seoyun": {
+      "file": "Observations/day_one_seoyun.png",
+      "character": "seoyun",
+      "location": "library",
+      "hitRect": [
+        0.13,
+        0.38,
+        0.19,
+        0.46
+      ],
+      "label": "Seo-yun",
+      "interaction": "Observe",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "observation_mari": {
+      "file": "Observations/day_one_mari.png",
+      "character": "mari",
+      "location": "infirmary",
+      "hitRect": [
+        0.08,
+        0.33,
+        0.12,
+        0.6
+      ],
+      "label": "Mari",
+      "interaction": "Observe",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "observation_svea": {
+      "file": "Observations/day_one_svea.png",
+      "character": "svea",
+      "location": "field",
+      "hitRect": [
+        0.58,
+        0.25,
+        0.22,
+        0.68
+      ],
+      "label": "Svea",
+      "interaction": "Observe",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    },
+    "room_katya_corridor_rain": {
+      "file": "Rooms/katya/katya_corridor_rain.png",
+      "character": "katya",
+      "location": "corridor",
+      "hitRect": [
+        0.14,
+        0.27,
+        0.18,
+        0.69
+      ],
+      "label": "Katya",
+      "interaction": "Talk / availability check",
+      "note": "Keep labels live; respect scene availability and once-per-day state."
+    }
+  },
+  "layeredMode": "For a shared room with multiple available people, use its clean plate and separate transparent character poses. Do not stack complete room PNGs."
+}

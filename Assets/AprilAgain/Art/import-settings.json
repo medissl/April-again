@@ -1,0 +1,34 @@
+{
+  "referenceCanvas": [
+    1920,
+    1080
+  ],
+  "colorSpace": "sRGB illustration and UI color textures",
+  "png": {
+    "maxSize": 2048,
+    "filter": "Bilinear",
+    "wrap": "Clamp",
+    "mipmaps": false,
+    "preserveAspect": true,
+    "alpha": "Straight alpha from input; enable Alpha Is Transparency for transparent sprites"
+  },
+  "sprites": {
+    "textureType": "Sprite (2D and UI)",
+    "mode": "Single for exported PNGs",
+    "pixelsPerUnit": 100,
+    "pivot": "Use alphaBounds from asset-manifest. Feet at lower visible bound for exploration."
+  },
+  "originals": "Atlases are preserved masters; use the exported individual sprites or supplied rect metadata, not both.",
+  "ui": "Apply nine-slice borders from UI/ui-theme.json; keep all dialogue and HUD text live.",
+  "fonts": "Use unmodified supplied static TTFs. Create TextMeshPro font assets during runtime integration.",
+  "audio": {
+    "format": "22050 Hz stereo 16-bit PCM WAV",
+    "music": "Streaming, loop enabled where audio-manifest says loop",
+    "shortEffects": "Decompress on load; one-shot",
+    "levels": "Keep music/ambience below dialogue and UI sounds."
+  },
+  "cautions": [
+    "Room-placement PNGs already include the character. Do not draw a second sprite on top.",
+    "Do not treat review JPGs as production art or as evidence of a running Unity game."
+  ]
+}

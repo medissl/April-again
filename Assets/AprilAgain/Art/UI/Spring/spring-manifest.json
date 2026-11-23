@@ -1,0 +1,979 @@
+{
+  "assets": [
+    {
+      "id": "spring_dialogue",
+      "path": "Assets/AprilAgain/Art/UI/Spring/spring_dialogue.png",
+      "file": "UI/Spring/spring_dialogue.png",
+      "width": 723,
+      "height": 185,
+      "border": [
+        64,
+        145,
+        165,
+        22
+      ],
+      "category": "generated_ui",
+      "method": "built-in image_gen; mechanical alpha-bounds atlas crop",
+      "sha256": "dcb62283aeb9dc1a54339017f6497dc0744818c4aa285c9985a8d29db560a473",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_name",
+      "path": "Assets/AprilAgain/Art/UI/Spring/spring_name.png",
+      "file": "UI/Spring/spring_name.png",
+      "width": 615,
+      "height": 185,
+      "border": [
+        140,
+        25,
+        70,
+        25
+      ],
+      "category": "generated_ui",
+      "method": "built-in image_gen; mechanical alpha-bounds atlas crop",
+      "sha256": "64a9286762a4b750221c90736dc045127d7ef5d95a62122cc4cbc5e61876ecd0",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_choice",
+      "path": "Assets/AprilAgain/Art/UI/Spring/spring_choice.png",
+      "file": "UI/Spring/spring_choice.png",
+      "width": 734,
+      "height": 115,
+      "border": [
+        70,
+        30,
+        55,
+        30
+      ],
+      "category": "generated_ui",
+      "method": "built-in image_gen; mechanical alpha-bounds atlas crop",
+      "sha256": "909b6cf4c8787b94b0a9307b6d72b01a030f57fd657bbde0c002c52bccac7b15",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_choice_hover",
+      "path": "Assets/AprilAgain/Art/UI/Spring/spring_choice_hover.png",
+      "file": "UI/Spring/spring_choice_hover.png",
+      "width": 734,
+      "height": 116,
+      "border": [
+        70,
+        30,
+        55,
+        30
+      ],
+      "category": "generated_ui",
+      "method": "built-in image_gen; mechanical alpha-bounds atlas crop",
+      "sha256": "aa512eeb40587a66927a055e35f0e613c20fd3eee81369c953f398a4bb1aa2b3",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_date",
+      "path": "Assets/AprilAgain/Art/UI/Spring/spring_date.png",
+      "file": "UI/Spring/spring_date.png",
+      "width": 579,
+      "height": 225,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "generated_ui",
+      "method": "built-in image_gen; mechanical alpha-bounds atlas crop",
+      "sha256": "ee8eebbf84bcc03afc735486918958ae85596c1a778afa7603fdf101630fff63",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_button",
+      "path": "Assets/AprilAgain/Art/UI/Spring/spring_button.png",
+      "file": "UI/Spring/spring_button.png",
+      "width": 626,
+      "height": 161,
+      "border": [
+        55,
+        45,
+        90,
+        45
+      ],
+      "category": "generated_ui",
+      "method": "built-in image_gen; mechanical alpha-bounds atlas crop",
+      "sha256": "8d20ad816a97afc5d57b92ee9eed094ef0608367ae5415a5e8e0ed13069518f4",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_menu",
+      "path": "Assets/AprilAgain/Art/UI/Spring/spring_menu.png",
+      "file": "UI/Spring/spring_menu.png",
+      "width": 1626,
+      "height": 888,
+      "border": [
+        150,
+        200,
+        150,
+        150
+      ],
+      "category": "generated_ui",
+      "method": "built-in image_gen; mechanical alpha-bounds atlas crop",
+      "sha256": "100f7263cd7706c28691d3a30af518d920523b120e89bbde5daaa640068ec6be",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_wordmark",
+      "path": "Assets/AprilAgain/Art/UI/Spring/spring_wordmark.png",
+      "file": "UI/Spring/spring_wordmark.png",
+      "width": 1374,
+      "height": 707,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "generated_ui",
+      "method": "built-in image_gen; mechanical alpha-bounds atlas crop",
+      "sha256": "a6718f220b15c8d2edcdabc9c26a49036082d135bd05128ccd05ab4507afb574",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_calendar",
+      "path": "Assets/AprilAgain/Art/UI/Spring/spring_calendar.png",
+      "file": "UI/Spring/spring_calendar.png",
+      "width": 480,
+      "height": 197,
+      "border": [
+        12,
+        20,
+        96,
+        12
+      ],
+      "category": "generated_ui",
+      "method": "built-in image_gen; mechanical alpha-bounds atlas crop",
+      "sha256": "f531b093b3c1541402f0d117c2089724c42ba9a38a252c5b0a2d66dbbcdcc5b5",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_map",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_map.png",
+      "file": "UI/Spring/Icons/icon_map.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "64e86917fc5951d7007616f09e3a6a2795252bc3f4e8fe60856945cd855bf5b3",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_journal",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_journal.png",
+      "file": "UI/Spring/Icons/icon_journal.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "bacf638ba011a30fe85cee6c6c94dcf08ee3be2130c24aa2f38a274627c32902",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_home",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_home.png",
+      "file": "UI/Spring/Icons/icon_home.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "a1b715adcdfef6c504451934c6828d466bf24ed21dac967a9e467a92ee8a4df2",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_door",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_door.png",
+      "file": "UI/Spring/Icons/icon_door.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "85bbf035fa37180180583d6e52f3dd0553301482e1a186c9c1a39e514842a799",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_back",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_back.png",
+      "file": "UI/Spring/Icons/icon_back.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "958718f4bfc8e08e10015585000cc320710b798338b6e97c1073cc11144b6ccb",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_next",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_next.png",
+      "file": "UI/Spring/Icons/icon_next.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "b0cbb97a9cc784185c334d3e76f8e8a0b610596c31a014706ea76b1352bd4810",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_close",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_close.png",
+      "file": "UI/Spring/Icons/icon_close.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "d6b94f270abdedce56b2953808cd9e057d7bec84c15f92fe58cd46e839b20fd9",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_pause",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_pause.png",
+      "file": "UI/Spring/Icons/icon_pause.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "e7336ffc20f4e587eeb0b0419c67e627cd56d17ddbb1feec14425f255c176504",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_play",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_play.png",
+      "file": "UI/Spring/Icons/icon_play.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "42c0706fa36cb4978770b8d1784ae33199f8d50343ba02c787be00bc8df85745",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_skip",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_skip.png",
+      "file": "UI/Spring/Icons/icon_skip.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "51e305cc972c3a80f65c4db527bd63bdc2462b826192a72b46758641ec6d7409",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_save",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_save.png",
+      "file": "UI/Spring/Icons/icon_save.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "c509336a0628222cdf80d039eb71a98a9ddb341fca80cf63a4e0384327e30e8b",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_load",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_load.png",
+      "file": "UI/Spring/Icons/icon_load.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "19774a59f90e6f33a346e790b3530dc9975e873ea204a4ad135cf5cbd7382f6d",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_history",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_history.png",
+      "file": "UI/Spring/Icons/icon_history.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "f55a822b7959f1ea58ece784bc73e89b6aa8c505f817b92613662c9d9bef4bab",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_gallery",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_gallery.png",
+      "file": "UI/Spring/Icons/icon_gallery.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "e9ca379921e83799f8b6615003d58d8dd34e7b5bbb5fe7ae8f2619b4b56aa0c5",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_calendar",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_calendar.png",
+      "file": "UI/Spring/Icons/icon_calendar.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "d19af23fd3a3e0192e893c86f05f327d21eb88fffa04037186997d8ebd074b45",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_clock",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_clock.png",
+      "file": "UI/Spring/Icons/icon_clock.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "c0d4877845582845253f2934de7f556cdfca71278244d1b67c52681f775cc331",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_sleep",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_sleep.png",
+      "file": "UI/Spring/Icons/icon_sleep.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "30a96905224b11b22f8804a09376b813c4dffc019c7c4cdd25704d59e5e7bf63",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_volume",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_volume.png",
+      "file": "UI/Spring/Icons/icon_volume.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "929b045c01fbf62df7776814279547e04de5292bc429373adaf96e72d3e397a1",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_check",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_check.png",
+      "file": "UI/Spring/Icons/icon_check.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "104b5231798625d1335b664d79e4b6bce2c31b9e86c3fb65d7a69aa6096445a1",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_lock",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_lock.png",
+      "file": "UI/Spring/Icons/icon_lock.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "483cc9d027c7f77b7c807b3803f5a02cc497092f2ea4aa2c89c4fc545df09d21",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_info",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_info.png",
+      "file": "UI/Spring/Icons/icon_info.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "b26fb567571a18521f4505612d9e8cc22555809847f946948dc4fa4a17aaea6e",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_wait",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_wait.png",
+      "file": "UI/Spring/Icons/icon_wait.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "47977d63b6ffe8cbba960bce9c6dbab434bcf72582a5a6dba73b62d0193d2aff",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_classroom",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_classroom.png",
+      "file": "UI/Spring/Icons/icon_classroom.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "311732e3fe9c5e3f384fd96b2d8553d66560157e1073a2e1acc30e98d8bea345",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_library",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_library.png",
+      "file": "UI/Spring/Icons/icon_library.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "621fb111d1ae6b20f29992ac87a98508f995483c639accb7dd9c11e803b4102c",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_infirmary",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_infirmary.png",
+      "file": "UI/Spring/Icons/icon_infirmary.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "eab100c4ec21810655cfd975755a30558b9d07da75bb5d47a7bfb7d0f5bdb42c",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_canteen",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_canteen.png",
+      "file": "UI/Spring/Icons/icon_canteen.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "3238b40c45d2bc8fe48b9dfe20c0c2ac350c0989794c7d4e4de79d4781526953",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_field",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_field.png",
+      "file": "UI/Spring/Icons/icon_field.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "effbd148605c33085fbe01219e9880c2e395150fecfb7229707e6148f33af4e0",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_cursor_pointer",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/cursor_pointer.png",
+      "file": "UI/Spring/Icons/cursor_pointer.png",
+      "width": 40,
+      "height": 48,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "8a1ffbf37194fcca9ee2b390e6ba20376c6039bc078eb2d91ee55ae0ff182708",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_continue_marker",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/continue_marker.png",
+      "file": "UI/Spring/Icons/continue_marker.png",
+      "width": 32,
+      "height": 24,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "bf3fd4e5440e162242682ab5d065ceec3c1b28164256e921e1433da4eab8ef01",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_slider_knob",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/slider_knob.png",
+      "file": "UI/Spring/Icons/slider_knob.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "86608acd03624a5c5fcdb0ba87656c134b369b1026c31c8088fc59aa54a56cfd",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_inspect",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_inspect.png",
+      "file": "UI/Spring/Icons/icon_inspect.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "b5d0700ac11afa783f174c4db2c9d253ae4f814ecd115cd6b070cdefe3aa502a",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_menu",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_menu.png",
+      "file": "UI/Spring/Icons/icon_menu.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "14e0058c7941fb9c2d1f0906912c87b3812625e1a101e526092f21412e78c9a7",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_chat",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_chat.png",
+      "file": "UI/Spring/Icons/icon_chat.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "97d956078046664904783f3c640ec30b9f0c6e656d31163e909a4787f30047de",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_upload",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_upload.png",
+      "file": "UI/Spring/Icons/icon_upload.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "cf023a2ae412398cde7e3c4ab9ec5cba64cb15a0bb43803185f196b3e883f539",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "spring_icon_settings",
+      "path": "Assets/AprilAgain/Art/UI/Spring/Icons/icon_settings.png",
+      "file": "UI/Spring/Icons/icon_settings.png",
+      "width": 64,
+      "height": 64,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "category": "native_ui_icon",
+      "method": "original project vector geometry, white-ink export",
+      "sha256": "fc896b75432549d1e73b33ad947759aef5e2e731ec27e075acf6007ead4b4c2f",
+      "rect": [
+        0,
+        0,
+        1,
+        1
+      ]
+    }
+  ],
+  "sourceMasters": {
+    "concept": "exec-5c17f7d2-9db4-4b4c-91a1-e1f26df1e1b8.png",
+    "components": "exec-910804c9-38c5-4b10-8822-23216a92d930.png",
+    "menu": "exec-5a72801b-382c-4115-9408-96beb7ba0416.png",
+    "wordmark": "exec-7c2a7f1f-de41-426e-82dc-0cb4428669a9.png",
+    "calendar": "exec-c890f9cc-8d3f-46cd-8ddc-9e31317d62ce.png"
+  }
+}

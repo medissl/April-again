@@ -1,0 +1,2738 @@
+{
+  "schemaVersion": 1,
+  "scenes": {
+    "katya.01": {
+      "cleanBackground": "bg_class_b_day",
+      "explorationRoom": "room_katya_class_b_school_uniform",
+      "dialoguePortrait": "expr_katya_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "forms": {
+          "asset": "native_forms",
+          "file": "Documents/forms.png",
+          "count": 1
+        },
+        "folder": {
+          "asset": "folder",
+          "file": "Props/Items/folder.png",
+          "count": 1
+        },
+        "stapler": {
+          "asset": "stapler",
+          "file": "Props/Items/stapler.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "katya.02": {
+      "cleanBackground": "bg_class_b_day",
+      "explorationRoom": "room_katya_class_b_school_uniform",
+      "dialoguePortrait": "expr_katya_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "room_signs": {
+          "asset": "native_room_signs",
+          "file": "Documents/room_signs.png",
+          "count": 1
+        },
+        "class_register": {
+          "asset": "native_class_register",
+          "file": "Documents/class_register.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "katya.03": {
+      "cleanBackground": "bg_canteen_day",
+      "explorationRoom": "room_katya_canteen_school_uniform",
+      "dialoguePortrait": "expr_katya_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "tea_bottle": {
+          "asset": "tea_bottle",
+          "file": "Props/Items/tea_bottle.png",
+          "count": 1
+        },
+        "paper_labels": {
+          "asset": "native_paper_labels",
+          "file": "Documents/paper_labels.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "katya.04": {
+      "cleanBackground": "bg_field_day",
+      "explorationRoom": "room_katya_field_school_tracksuit",
+      "dialoguePortrait": "wardrobe_katya_school_tracksuit_active",
+      "wardrobe": "school_tracksuit",
+      "props": {
+        "floor_tape": {
+          "asset": "floor_tape",
+          "file": "Props/Items/floor_tape.png",
+          "count": 1
+        },
+        "fencing_bag": {
+          "asset": "fencing_bag",
+          "file": "Props/Items/fencing_bag.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "katya.05": {
+      "cleanBackground": "bg_corridor_rain",
+      "explorationRoom": "room_katya_corridor_rain",
+      "dialoguePortrait": "expr_katya_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "melonpan": {
+          "asset": "melonpan",
+          "file": "Props/Items/melonpan.png",
+          "count": 1
+        },
+        "committee_notes": {
+          "asset": "native_committee_notes",
+          "file": "Documents/committee_notes.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "katya.06": {
+      "cleanBackground": "bg_gate_day",
+      "explorationRoom": "room_katya_gate_school_uniform",
+      "dialoguePortrait": "expr_katya_flustered",
+      "wardrobe": "school_uniform",
+      "props": {
+        "cat": {
+          "asset": "cat",
+          "file": "Props/Items/cat.png",
+          "count": 1
+        },
+        "supply_clipboard": {
+          "asset": "native_supply_clipboard",
+          "file": "Documents/supply_clipboard.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "katya.07": {
+      "cleanBackground": "bg_class_b_day",
+      "explorationRoom": "room_katya_class_b_school_uniform",
+      "dialoguePortrait": "expr_katya_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "budget_sheet": {
+          "asset": "native_budget_sheet",
+          "file": "Documents/budget_sheet.png",
+          "count": 1
+        },
+        "paper_samples": {
+          "asset": "native_paper_samples",
+          "file": "Documents/paper_samples.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "katya.08": {
+      "cleanBackground": "bg_library_day",
+      "explorationRoom": "room_katya_library_school_uniform",
+      "dialoguePortrait": "expr_katya_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "three_drafts": {
+          "asset": "native_three_drafts",
+          "file": "Documents/three_drafts.png",
+          "count": 1
+        },
+        "reference_books": {
+          "asset": "reference_books",
+          "file": "Props/Items/reference_books.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "katya.09": {
+      "cleanBackground": "bg_corridor_day",
+      "explorationRoom": "room_katya_corridor_school_uniform",
+      "dialoguePortrait": "expr_katya_sad",
+      "wardrobe": "school_uniform",
+      "props": {
+        "phone": {
+          "asset": "phone",
+          "file": "Props/Items/phone.png",
+          "count": 1
+        },
+        "paper_samples": {
+          "asset": "native_paper_samples",
+          "file": "Documents/paper_samples.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "katya.10": {
+      "cleanBackground": "bg_lobby_day",
+      "explorationRoom": "room_katya_lobby_school_uniform",
+      "dialoguePortrait": "expr_katya_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "delivery_box": {
+          "asset": "delivery_box",
+          "file": "Props/Items/delivery_box.png",
+          "count": 1
+        },
+        "receipt": {
+          "asset": "native_receipt",
+          "file": "Documents/receipt.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "katya.11": {
+      "cleanBackground": "bg_field_day",
+      "explorationRoom": "room_katya_field_fencing_kit_with_mask",
+      "dialoguePortrait": "wardrobe_katya_fencing_kit_with_mask_active",
+      "wardrobe": "fencing_kit_with_mask",
+      "props": {
+        "fencing_mask": {
+          "asset": "fencing_mask",
+          "file": "Props/Items/fencing_mask.png",
+          "count": 1
+        },
+        "floor_markers": {
+          "asset": "native_floor_markers",
+          "file": "UI/floor_markers.png",
+          "count": 3
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "katya.12": {
+      "cleanBackground": "bg_class_b_day",
+      "explorationRoom": "room_katya_class_b_school_uniform",
+      "dialoguePortrait": "expr_katya_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "backing_card": {
+          "asset": "native_backing_card",
+          "file": "Documents/backing_card.png",
+          "count": 1
+        },
+        "glue": {
+          "asset": "glue",
+          "file": "Props/Items/glue.png",
+          "count": 1
+        },
+        "photo_prints": {
+          "asset": "photo_prints",
+          "file": "Props/Items/photo_prints.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "katya.13": {
+      "cleanBackground": "bg_canteen_day",
+      "explorationRoom": "room_katya_canteen_school_uniform",
+      "dialoguePortrait": "expr_katya_soft_smile",
+      "wardrobe": "school_uniform",
+      "props": {
+        "dark_chocolate": {
+          "asset": "dark_chocolate",
+          "file": "Props/Items/dark_chocolate.png",
+          "count": 1
+        },
+        "music_note": {
+          "asset": "native_music_note",
+          "file": "Documents/music_note.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "katya.14": {
+      "cleanBackground": "bg_class_b_day",
+      "explorationRoom": "room_katya_class_b_school_uniform",
+      "dialoguePortrait": "expr_katya_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "final_report": {
+          "asset": "native_final_report",
+          "file": "Documents/final_report.png",
+          "count": 1
+        },
+        "pen": {
+          "asset": "pen",
+          "file": "Props/Items/pen.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "katya.15": {
+      "cleanBackground": "bg_gate_day",
+      "explorationRoom": "room_katya_gate_school_uniform",
+      "dialoguePortrait": "expr_katya_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "two_melonpan": {
+          "asset": "melonpan",
+          "file": "Props/Items/melonpan.png",
+          "count": 2
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "katya.ending.good": {
+      "cg": "cg_katya_good",
+      "audio": "bgm_ending_good",
+      "dialogueFrame": "ui_dialogue_panel"
+    },
+    "katya.ending.neutral": {
+      "cg": "cg_katya_neutral",
+      "audio": "bgm_ending_neutral",
+      "dialogueFrame": "ui_dialogue_panel"
+    },
+    "katya.ending.bad": {
+      "cg": "cg_katya_bad",
+      "audio": "bgm_ending_bad",
+      "dialogueFrame": "ui_dialogue_panel"
+    },
+    "akira.01": {
+      "cleanBackground": "bg_class_a_day",
+      "explorationRoom": "room_akira_class_a_school_uniform",
+      "dialoguePortrait": "expr_akira_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "sticky_notes": {
+          "asset": "native_paper_labels",
+          "file": "Documents/paper_labels.png",
+          "count": 1
+        },
+        "project_notebook": {
+          "asset": "native_project_notebook",
+          "file": "Documents/project_notebook.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "akira.02": {
+      "cleanBackground": "bg_canteen_day",
+      "explorationRoom": "room_akira_canteen_school_uniform",
+      "dialoguePortrait": "expr_akira_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "queue_survey": {
+          "asset": "native_queue_survey",
+          "file": "Documents/queue_survey.png",
+          "count": 1
+        },
+        "sandwich_wrapper": {
+          "asset": "sandwich_wrapper",
+          "file": "Props/Items/sandwich_wrapper.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "akira.03": {
+      "cleanBackground": "bg_class_a_day",
+      "explorationRoom": "room_akira_class_a_school_uniform",
+      "dialoguePortrait": "expr_akira_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "laptop": {
+          "asset": "laptop",
+          "file": "Props/Items/laptop.png",
+          "count": 1
+        },
+        "strategy_game_screen": {
+          "asset": "native_strategy_game_screen",
+          "file": "Screens/strategy_game_screen.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "akira.04": {
+      "cleanBackground": "bg_library_day",
+      "explorationRoom": "room_akira_library_school_uniform",
+      "dialoguePortrait": "expr_akira_worried",
+      "wardrobe": "school_uniform",
+      "props": {
+        "anonymous_survey": {
+          "asset": "native_anonymous_survey",
+          "file": "Documents/anonymous_survey.png",
+          "count": 1
+        },
+        "notebook": {
+          "asset": "blue_journal",
+          "file": "Props/Items/blue_journal.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "akira.05": {
+      "cleanBackground": "bg_lobby_day",
+      "explorationRoom": "room_akira_lobby_school_uniform",
+      "dialoguePortrait": "expr_akira_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "satchel_keychains": {
+          "asset": "satchel",
+          "file": "Props/Items/satchel.png",
+          "count": 1
+        },
+        "phone": {
+          "asset": "phone",
+          "file": "Props/Items/phone.png",
+          "count": 1
+        },
+        "survey_envelopes": {
+          "asset": "envelope",
+          "file": "Props/Items/envelope.png",
+          "count": 3
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "akira.06": {
+      "cleanBackground": "bg_canteen_day",
+      "explorationRoom": "room_akira_canteen_school_uniform",
+      "dialoguePortrait": "expr_akira_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "bento": {
+          "asset": "bento",
+          "file": "Props/Items/bento.png",
+          "count": 1
+        },
+        "calculator": {
+          "asset": "calculator",
+          "file": "Props/Items/calculator.png",
+          "count": 1
+        },
+        "spare_container": {
+          "asset": "spare_container",
+          "file": "Props/Items/spare_container.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "akira.07": {
+      "cleanBackground": "bg_class_a_day",
+      "explorationRoom": "room_akira_class_a_school_uniform",
+      "dialoguePortrait": "expr_akira_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "laptop": {
+          "asset": "laptop",
+          "file": "Props/Items/laptop.png",
+          "count": 1
+        },
+        "anonymous_form": {
+          "asset": "native_anonymous_form",
+          "file": "Documents/anonymous_form.png",
+          "count": 1
+        },
+        "teacher_approval": {
+          "asset": "native_teacher_approval",
+          "file": "Documents/teacher_approval.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "akira.08": {
+      "cleanBackground": "bg_class_a_day",
+      "explorationRoom": "room_akira_class_a_school_uniform",
+      "dialoguePortrait": "expr_akira_puzzled",
+      "wardrobe": "school_uniform",
+      "props": {
+        "laptop": {
+          "asset": "laptop",
+          "file": "Props/Items/laptop.png",
+          "count": 1
+        },
+        "paper_mockups": {
+          "asset": "native_paper_mockups",
+          "file": "Documents/paper_mockups.png",
+          "count": 1
+        },
+        "offline_notice": {
+          "asset": "native_offline_notice",
+          "file": "Documents/offline_notice.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "akira.09": {
+      "cleanBackground": "bg_lobby_day",
+      "explorationRoom": "room_akira_lobby_school_uniform",
+      "dialoguePortrait": "expr_akira_worried",
+      "wardrobe": "school_uniform",
+      "props": {
+        "phone": {
+          "asset": "phone",
+          "file": "Props/Items/phone.png",
+          "count": 1
+        },
+        "three_request_messages": {
+          "asset": "native_three_request_messages",
+          "file": "Screens/three_request_messages.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "akira.10": {
+      "cleanBackground": "bg_library_day",
+      "explorationRoom": "room_akira_library_school_uniform",
+      "dialoguePortrait": "expr_akira_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "project_notebook": {
+          "asset": "native_project_notebook",
+          "file": "Documents/project_notebook.png",
+          "count": 1
+        },
+        "consent_text": {
+          "asset": "native_consent_text",
+          "file": "Documents/consent_text.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "akira.11": {
+      "cleanBackground": "bg_class_a_day",
+      "explorationRoom": "room_akira_class_a_school_uniform",
+      "dialoguePortrait": "expr_akira_delighted",
+      "wardrobe": "school_uniform",
+      "props": {
+        "headphones": {
+          "asset": "headphones",
+          "file": "Props/Items/headphones.png",
+          "count": 1
+        },
+        "phone": {
+          "asset": "phone",
+          "file": "Props/Items/phone.png",
+          "count": 1
+        },
+        "laptop": {
+          "asset": "laptop",
+          "file": "Props/Items/laptop.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "akira.12": {
+      "cleanBackground": "bg_class_a_day",
+      "explorationRoom": "room_akira_class_a_school_uniform",
+      "dialoguePortrait": "expr_akira_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "feature_sheet": {
+          "asset": "native_feature_sheet",
+          "file": "Documents/feature_sheet.png",
+          "count": 1
+        },
+        "maintenance_guide": {
+          "asset": "native_maintenance_guide",
+          "file": "Documents/maintenance_guide.png",
+          "count": 1
+        },
+        "laptop": {
+          "asset": "laptop",
+          "file": "Props/Items/laptop.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "akira.13": {
+      "cleanBackground": "bg_canteen_day",
+      "explorationRoom": "room_akira_canteen_school_uniform",
+      "dialoguePortrait": "expr_akira_flustered",
+      "wardrobe": "school_uniform",
+      "props": {
+        "phone_message": {
+          "asset": "native_phone_message",
+          "file": "Screens/phone_message.png",
+          "count": 1
+        },
+        "lunch_trays": {
+          "asset": "lunch_tray",
+          "file": "Props/Items/lunch_tray.png",
+          "count": 2
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "akira.14": {
+      "cleanBackground": "bg_class_a_day",
+      "explorationRoom": "room_akira_class_a_school_uniform",
+      "dialoguePortrait": "expr_akira_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "laptop": {
+          "asset": "laptop",
+          "file": "Props/Items/laptop.png",
+          "count": 1
+        },
+        "backup_envelope": {
+          "asset": "envelope",
+          "file": "Props/Items/envelope.png",
+          "count": 1
+        },
+        "presentation": {
+          "asset": "native_presentation",
+          "file": "Documents/presentation.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "akira.15": {
+      "cleanBackground": "bg_canteen_day",
+      "explorationRoom": "room_akira_canteen_school_uniform",
+      "dialoguePortrait": "expr_akira_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "two_coffee_cans": {
+          "asset": "coffee_can",
+          "file": "Props/Items/coffee_can.png",
+          "count": 2
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "akira.ending.good": {
+      "cg": "cg_akira_good",
+      "audio": "bgm_ending_good",
+      "dialogueFrame": "ui_dialogue_panel"
+    },
+    "akira.ending.neutral": {
+      "cg": "cg_akira_neutral",
+      "audio": "bgm_ending_neutral",
+      "dialogueFrame": "ui_dialogue_panel"
+    },
+    "akira.ending.bad": {
+      "cg": "cg_akira_bad",
+      "audio": "bgm_ending_bad",
+      "dialogueFrame": "ui_dialogue_panel"
+    },
+    "seoyun.01": {
+      "cleanBackground": "bg_library_day",
+      "explorationRoom": "room_seoyun_library_school_uniform",
+      "dialoguePortrait": "expr_seoyun_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "atlases": {
+          "asset": "closed_atlas",
+          "file": "Props/Items/closed_atlas.png",
+          "count": 3
+        },
+        "library_record": {
+          "asset": "native_library_record",
+          "file": "Documents/library_record.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "seoyun.02": {
+      "cleanBackground": "bg_library_day",
+      "explorationRoom": "room_seoyun_library_school_uniform",
+      "dialoguePortrait": "expr_seoyun_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "blue_journal": {
+          "asset": "blue_journal",
+          "file": "Props/Items/blue_journal.png",
+          "count": 1
+        },
+        "folded_sketch": {
+          "asset": "folded_sketch",
+          "file": "Props/Pages/folded_sketch.png",
+          "count": 1
+        },
+        "reference_cards": {
+          "asset": "native_reference_cards",
+          "file": "Documents/reference_cards.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "seoyun.03": {
+      "cleanBackground": "bg_corridor_day",
+      "explorationRoom": "room_seoyun_corridor_school_uniform",
+      "dialoguePortrait": "expr_seoyun_curious",
+      "wardrobe": "school_uniform",
+      "props": {
+        "camera": {
+          "asset": "camera",
+          "file": "Props/Items/camera.png",
+          "count": 1
+        },
+        "sky_photo": {
+          "asset": "sky_photo",
+          "file": "Props/Pages/sky_photo.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "seoyun.04": {
+      "cleanBackground": "bg_class_c_day",
+      "explorationRoom": "room_seoyun_class_c_school_uniform",
+      "dialoguePortrait": "expr_seoyun_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "caption_drafts": {
+          "asset": "native_caption_drafts",
+          "file": "Documents/caption_drafts.png",
+          "count": 1
+        },
+        "dictionary": {
+          "asset": "book",
+          "file": "Props/Items/book.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "seoyun.05": {
+      "cleanBackground": "bg_library_day",
+      "explorationRoom": "room_seoyun_library_school_uniform",
+      "dialoguePortrait": "expr_seoyun_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "atlas": {
+          "asset": "open_atlas",
+          "file": "Props/Items/open_atlas.png",
+          "count": 1
+        },
+        "paperweight": {
+          "asset": "paperweight",
+          "file": "Props/Items/paperweight.png",
+          "count": 1
+        },
+        "bookmark": {
+          "asset": "bookmark",
+          "file": "Props/Items/bookmark.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "seoyun.06": {
+      "cleanBackground": "bg_canteen_day",
+      "explorationRoom": "room_seoyun_canteen_school_uniform",
+      "dialoguePortrait": "expr_seoyun_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "noodle_bowl": {
+          "asset": "noodle_bowl",
+          "file": "Props/Items/noodle_bowl.png",
+          "count": 1
+        },
+        "fruit_cup": {
+          "asset": "fruit_cup",
+          "file": "Props/Items/fruit_cup.png",
+          "count": 1
+        },
+        "menu": {
+          "asset": "native_menu",
+          "file": "Documents/menu.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "seoyun.07": {
+      "cleanBackground": "bg_class_c_day",
+      "explorationRoom": "room_seoyun_class_c_school_uniform",
+      "dialoguePortrait": "expr_seoyun_determined",
+      "wardrobe": "school_uniform",
+      "props": {
+        "photo_prints": {
+          "asset": "photo_prints",
+          "file": "Props/Items/photo_prints.png",
+          "count": 1
+        },
+        "credit_labels": {
+          "asset": "native_credit_labels",
+          "file": "Documents/credit_labels.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "seoyun.08": {
+      "cleanBackground": "bg_lobby_day",
+      "explorationRoom": "room_seoyun_lobby_school_uniform",
+      "dialoguePortrait": "expr_seoyun_determined",
+      "wardrobe": "school_uniform",
+      "props": {
+        "feedback_sheets": {
+          "asset": "native_feedback_sheets",
+          "file": "Documents/feedback_sheets.png",
+          "count": 1
+        },
+        "display_board": {
+          "asset": "display_board",
+          "file": "Props/Items/display_board.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "seoyun.09": {
+      "cleanBackground": "bg_library_day",
+      "explorationRoom": "room_seoyun_library_school_uniform",
+      "dialoguePortrait": "expr_seoyun_sad",
+      "wardrobe": "school_uniform",
+      "props": {
+        "sealed_letter": {
+          "asset": "envelope",
+          "file": "Props/Items/envelope.png",
+          "count": 1
+        },
+        "blue_journal": {
+          "asset": "blue_journal",
+          "file": "Props/Items/blue_journal.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "seoyun.10": {
+      "cleanBackground": "bg_class_c_day",
+      "explorationRoom": "room_seoyun_class_c_school_uniform",
+      "dialoguePortrait": "expr_seoyun_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "study_options": {
+          "asset": "native_study_options",
+          "file": "Documents/study_options.png",
+          "count": 1
+        },
+        "adviser_questions": {
+          "asset": "native_adviser_questions",
+          "file": "Documents/adviser_questions.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "seoyun.11": {
+      "cleanBackground": "bg_corridor_day",
+      "explorationRoom": "room_seoyun_corridor_school_uniform",
+      "dialoguePortrait": "expr_seoyun_sad",
+      "wardrobe": "school_uniform",
+      "props": {
+        "camera": {
+          "asset": "camera",
+          "file": "Props/Items/camera.png",
+          "count": 1
+        },
+        "blurred_photo": {
+          "asset": "blurred_photo",
+          "file": "Props/Pages/blurred_photo.png",
+          "count": 1
+        },
+        "alternate_photo": {
+          "asset": "alternate_photo",
+          "file": "Props/Pages/alternate_photo.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "seoyun.12": {
+      "cleanBackground": "bg_library_day",
+      "explorationRoom": "room_seoyun_library_school_uniform",
+      "dialoguePortrait": "expr_seoyun_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "window_essay": {
+          "asset": "native_window_essay",
+          "file": "Documents/window_essay.png",
+          "count": 1
+        },
+        "photo_print": {
+          "asset": "sky_photo",
+          "file": "Props/Pages/sky_photo.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "seoyun.13": {
+      "cleanBackground": "bg_library_day",
+      "explorationRoom": "room_seoyun_library_school_uniform",
+      "dialoguePortrait": "expr_seoyun_warm",
+      "wardrobe": "school_uniform",
+      "props": {
+        "window_chairs": {
+          "asset": "chair",
+          "file": "Props/Items/chair.png",
+          "count": 2
+        },
+        "drying_display": {
+          "asset": "display_board",
+          "file": "Props/Items/display_board.png",
+          "count": 1,
+          "layers": [
+            "sky_photo",
+            "alternate_photo",
+            "native_window_essay"
+          ]
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "seoyun.14": {
+      "cleanBackground": "bg_lobby_day",
+      "explorationRoom": "room_seoyun_lobby_school_uniform",
+      "dialoguePortrait": "expr_seoyun_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "finished_display": {
+          "asset": "display_board",
+          "file": "Props/Items/display_board.png",
+          "count": 1,
+          "layers": [
+            "sky_photo",
+            "alternate_photo",
+            "native_window_essay"
+          ]
+        },
+        "handouts": {
+          "asset": "native_handouts",
+          "file": "Documents/handouts.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "seoyun.15": {
+      "cleanBackground": "bg_library_day",
+      "explorationRoom": "room_seoyun_library_school_uniform",
+      "dialoguePortrait": "expr_seoyun_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "blue_journal": {
+          "asset": "blue_journal",
+          "file": "Props/Items/blue_journal.png",
+          "count": 1
+        },
+        "two_blank_bookmarks": {
+          "asset": "bookmark",
+          "file": "Props/Items/bookmark.png",
+          "count": 2
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "seoyun.ending.good": {
+      "cg": "cg_seoyun_good",
+      "audio": "bgm_ending_good",
+      "dialogueFrame": "ui_dialogue_panel"
+    },
+    "seoyun.ending.neutral": {
+      "cg": "cg_seoyun_neutral",
+      "audio": "bgm_ending_neutral",
+      "dialogueFrame": "ui_dialogue_panel"
+    },
+    "seoyun.ending.bad": {
+      "cg": "cg_seoyun_bad",
+      "audio": "bgm_ending_bad",
+      "dialogueFrame": "ui_dialogue_panel"
+    },
+    "mari.01": {
+      "cleanBackground": "bg_infirmary_day",
+      "explorationRoom": "room_mari_infirmary_school_uniform",
+      "dialoguePortrait": "expr_mari_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "public_leaflets": {
+          "asset": "native_public_leaflets",
+          "file": "Documents/public_leaflets.png",
+          "count": 1
+        },
+        "squeaky_chair": {
+          "asset": "chair",
+          "file": "Props/Items/chair.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "mari.02": {
+      "cleanBackground": "bg_canteen_day",
+      "explorationRoom": "room_mari_canteen_school_uniform",
+      "dialoguePortrait": "expr_mari_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "two_bento": {
+          "asset": "bento",
+          "file": "Props/Items/bento.png",
+          "count": 2
+        },
+        "thermos": {
+          "asset": "thermos",
+          "file": "Props/Items/thermos.png",
+          "count": 1
+        },
+        "paper_headings": {
+          "asset": "native_paper_headings",
+          "file": "Documents/paper_headings.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "mari.03": {
+      "cleanBackground": "bg_infirmary_day",
+      "explorationRoom": "room_mari_infirmary_school_uniform",
+      "dialoguePortrait": "expr_mari_peaceful",
+      "wardrobe": "school_uniform",
+      "props": {
+        "thermos": {
+          "asset": "thermos",
+          "file": "Props/Items/thermos.png",
+          "count": 1
+        },
+        "two_tea_cups": {
+          "asset": "tea_cup",
+          "file": "Props/Items/tea_cup.png",
+          "count": 2
+        },
+        "drying_paper": {
+          "asset": "native_drying_paper",
+          "file": "Documents/drying_paper.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "mari.04": {
+      "cleanBackground": "bg_infirmary_day",
+      "explorationRoom": "room_mari_infirmary_school_uniform",
+      "dialoguePortrait": "expr_mari_concerned",
+      "wardrobe": "school_uniform",
+      "props": {
+        "noticeboard": {
+          "asset": "native_noticeboard",
+          "file": "Documents/noticeboard.png",
+          "count": 1
+        },
+        "staff_only_sign": {
+          "asset": "native_staff_only_sign",
+          "file": "Documents/staff_only_sign.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "mari.05": {
+      "cleanBackground": "bg_canteen_day",
+      "explorationRoom": "room_mari_canteen_school_uniform",
+      "dialoguePortrait": "expr_mari_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "custard_dessert": {
+          "asset": "custard_dessert",
+          "file": "Props/Items/custard_dessert.png",
+          "count": 1
+        },
+        "red_bean_dessert": {
+          "asset": "red_bean_dessert",
+          "file": "Props/Items/red_bean_dessert.png",
+          "count": 1
+        },
+        "leaflet_list": {
+          "asset": "native_leaflet_list",
+          "file": "Documents/leaflet_list.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "mari.06": {
+      "cleanBackground": "bg_class_b_day",
+      "explorationRoom": "room_mari_class_b_school_uniform",
+      "dialoguePortrait": "expr_mari_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "sewing_kit": {
+          "asset": "sewing_kit",
+          "file": "Props/Items/sewing_kit.png",
+          "count": 1
+        },
+        "loose_button": {
+          "asset": "loose_button",
+          "file": "Props/Items/loose_button.png",
+          "count": 1
+        },
+        "fabric_backing": {
+          "asset": "fabric_backing",
+          "file": "Props/Items/fabric_backing.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "mari.07": {
+      "cleanBackground": "bg_lobby_day",
+      "explorationRoom": "room_mari_lobby_school_uniform",
+      "dialoguePortrait": "expr_mari_concerned",
+      "wardrobe": "school_uniform",
+      "props": {
+        "phone": {
+          "asset": "phone",
+          "file": "Props/Items/phone.png",
+          "count": 1
+        },
+        "supply_box": {
+          "asset": "supply_box",
+          "file": "Props/Items/supply_box.png",
+          "count": 1
+        },
+        "folded_cloth": {
+          "asset": "folded_cloth",
+          "file": "Props/Items/folded_cloth.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "mari.08": {
+      "cleanBackground": "bg_infirmary_day",
+      "explorationRoom": "room_mari_infirmary_school_uniform",
+      "dialoguePortrait": "expr_mari_peaceful",
+      "wardrobe": "school_uniform",
+      "props": {
+        "visitor_chairs": {
+          "asset": "chair",
+          "file": "Props/Items/chair.png",
+          "count": 2
+        },
+        "clean_blankets": {
+          "asset": "clean_blankets",
+          "file": "Props/Items/clean_blankets.png",
+          "count": 1
+        },
+        "book": {
+          "asset": "book",
+          "file": "Props/Items/book.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "mari.09": {
+      "cleanBackground": "bg_field_day",
+      "explorationRoom": "room_mari_field_aikido_gi_and_trousers",
+      "dialoguePortrait": "wardrobe_mari_aikido_gi_and_trousers_soft_smile",
+      "wardrobe": "aikido_gi_and_trousers",
+      "props": {
+        "practice_mat": {
+          "asset": "practice_mat",
+          "file": "Props/Items/practice_mat.png",
+          "count": 1
+        },
+        "sports_bag": {
+          "asset": "sports_bag",
+          "file": "Props/Items/sports_bag.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "mari.10": {
+      "cleanBackground": "bg_infirmary_day",
+      "explorationRoom": "room_mari_infirmary_school_uniform",
+      "dialoguePortrait": "expr_mari_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "leaflet_rack": {
+          "asset": "leaflet_rack",
+          "file": "Props/Items/leaflet_rack.png",
+          "count": 1
+        },
+        "reading_list": {
+          "asset": "native_reading_list",
+          "file": "Documents/reading_list.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "mari.11": {
+      "cleanBackground": "bg_canteen_day",
+      "explorationRoom": "room_mari_canteen_uniform_with_apron",
+      "dialoguePortrait": "wardrobe_mari_uniform_with_apron_soft_smile",
+      "wardrobe": "uniform_with_apron",
+      "props": {
+        "meal_worksheet": {
+          "asset": "native_meal_worksheet",
+          "file": "Documents/meal_worksheet.png",
+          "count": 1
+        },
+        "lunch_plate": {
+          "asset": "lunch_tray",
+          "file": "Props/Items/lunch_tray.png",
+          "count": 1
+        },
+        "apron": {
+          "asset": "wardrobe_mari_uniform_with_apron_full_body",
+          "file": "Characters/mari/Wardrobes/uniform_with_apron/full_body.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "mari.12": {
+      "cleanBackground": "bg_class_b_day",
+      "explorationRoom": "room_mari_class_b_school_uniform",
+      "dialoguePortrait": "expr_mari_concerned",
+      "wardrobe": "school_uniform",
+      "props": {
+        "homework": {
+          "asset": "native_homework",
+          "file": "Documents/homework.png",
+          "count": 1
+        },
+        "household_plan": {
+          "asset": "native_household_plan",
+          "file": "Documents/household_plan.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "mari.13": {
+      "cleanBackground": "bg_gate_day",
+      "explorationRoom": "room_mari_gate_school_uniform",
+      "dialoguePortrait": "expr_mari_warm",
+      "wardrobe": "school_uniform",
+      "props": {
+        "gate_bench": {
+          "asset": "bench",
+          "file": "Props/Items/bench.png",
+          "count": 1
+        },
+        "cat": {
+          "asset": "cat",
+          "file": "Props/Items/cat.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "mari.14": {
+      "cleanBackground": "bg_infirmary_day",
+      "explorationRoom": "room_mari_infirmary_school_uniform",
+      "dialoguePortrait": "expr_mari_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "tea_tin": {
+          "asset": "tea_tin",
+          "file": "Props/Items/tea_tin.png",
+          "count": 1
+        },
+        "two_cups": {
+          "asset": "tea_cup",
+          "file": "Props/Items/tea_cup.png",
+          "count": 2
+        },
+        "finished_reading_corner": {
+          "asset": "native_finished_reading_corner",
+          "file": "Documents/finished_reading_corner.png",
+          "count": 1,
+          "layers": [
+            "leaflet_rack",
+            "book",
+            "native_reading_list"
+          ]
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "mari.15": {
+      "cleanBackground": "bg_infirmary_day",
+      "explorationRoom": "room_mari_infirmary_school_uniform",
+      "dialoguePortrait": "expr_mari_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "her_tea_cup": {
+          "asset": "tea_cup",
+          "file": "Props/Items/tea_cup.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "mari.ending.good": {
+      "cg": "cg_mari_good",
+      "audio": "bgm_ending_good",
+      "dialogueFrame": "ui_dialogue_panel"
+    },
+    "mari.ending.neutral": {
+      "cg": "cg_mari_neutral",
+      "audio": "bgm_ending_neutral",
+      "dialogueFrame": "ui_dialogue_panel"
+    },
+    "mari.ending.bad": {
+      "cg": "cg_mari_bad",
+      "audio": "bgm_ending_bad",
+      "dialogueFrame": "ui_dialogue_panel"
+    },
+    "svea.01": {
+      "cleanBackground": "bg_field_day",
+      "explorationRoom": "room_svea_field_school_sports_jacket_and_trousers",
+      "dialoguePortrait": "wardrobe_svea_school_sports_jacket_and_trousers_neutral",
+      "wardrobe": "school_sports_jacket_and_trousers",
+      "props": {
+        "basketball": {
+          "asset": "basketball",
+          "file": "Props/Items/basketball.png",
+          "count": 1
+        },
+        "attendance_sheet": {
+          "asset": "native_attendance_sheet",
+          "file": "Documents/attendance_sheet.png",
+          "count": 1
+        },
+        "equipment_cart": {
+          "asset": "equipment_cart",
+          "file": "Props/Items/equipment_cart.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "svea.02": {
+      "cleanBackground": "bg_canteen_day",
+      "explorationRoom": "room_svea_canteen_school_uniform",
+      "dialoguePortrait": "expr_svea_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "lunch_trays": {
+          "asset": "lunch_tray",
+          "file": "Props/Items/lunch_tray.png",
+          "count": 2
+        },
+        "strawberry_milk": {
+          "asset": "strawberry_milk",
+          "file": "Props/Items/strawberry_milk.png",
+          "count": 1
+        },
+        "equipment_list": {
+          "asset": "native_equipment_list",
+          "file": "Documents/equipment_list.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "svea.03": {
+      "cleanBackground": "bg_class_c_day",
+      "explorationRoom": "room_svea_class_c_school_uniform",
+      "dialoguePortrait": "expr_svea_sleepy",
+      "wardrobe": "school_uniform",
+      "props": {
+        "workbook": {
+          "asset": "native_workbook",
+          "file": "Documents/workbook.png",
+          "count": 1
+        },
+        "worksheet": {
+          "asset": "native_worksheet",
+          "file": "Documents/worksheet.png",
+          "count": 1
+        },
+        "closed_bag": {
+          "asset": "sports_bag",
+          "file": "Props/Items/sports_bag.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "svea.04": {
+      "cleanBackground": "bg_canteen_day",
+      "explorationRoom": "room_svea_canteen_school_uniform",
+      "dialoguePortrait": "expr_svea_flustered",
+      "wardrobe": "school_uniform",
+      "props": {
+        "strawberry_milk": {
+          "asset": "strawberry_milk",
+          "file": "Props/Items/strawberry_milk.png",
+          "count": 1
+        },
+        "notebook": {
+          "asset": "blue_journal",
+          "file": "Props/Items/blue_journal.png",
+          "count": 1
+        },
+        "budget_exercise": {
+          "asset": "native_budget_exercise",
+          "file": "Documents/budget_exercise.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "svea.05": {
+      "cleanBackground": "bg_field_day",
+      "explorationRoom": "room_svea_field_school_sports_jacket_and_trousers",
+      "dialoguePortrait": "wardrobe_svea_school_sports_jacket_and_trousers_neutral",
+      "wardrobe": "school_sports_jacket_and_trousers",
+      "props": {
+        "practice_statistics": {
+          "asset": "native_practice_statistics",
+          "file": "Documents/practice_statistics.png",
+          "count": 1
+        },
+        "basketball": {
+          "asset": "basketball",
+          "file": "Props/Items/basketball.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "svea.06": {
+      "cleanBackground": "bg_field_day",
+      "explorationRoom": "room_svea_field_school_sports_jacket_and_trousers",
+      "dialoguePortrait": "wardrobe_svea_school_sports_jacket_and_trousers_active",
+      "wardrobe": "school_sports_jacket_and_trousers",
+      "props": {
+        "court_cones": {
+          "asset": "court_cone",
+          "file": "Props/Items/court_cone.png",
+          "count": 3
+        },
+        "basketball": {
+          "asset": "basketball",
+          "file": "Props/Items/basketball.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "svea.07": {
+      "cleanBackground": "bg_class_c_day",
+      "explorationRoom": "room_svea_class_c_school_uniform",
+      "dialoguePortrait": "expr_svea_flustered",
+      "wardrobe": "school_uniform",
+      "props": {
+        "sports_bag": {
+          "asset": "sports_bag",
+          "file": "Props/Items/sports_bag.png",
+          "count": 1
+        },
+        "plush_dog_keychain": {
+          "asset": "plush_dog_keychain",
+          "file": "Props/Items/plush_dog_keychain.png",
+          "count": 1
+        },
+        "pencil_case": {
+          "asset": "pencil_case",
+          "file": "Props/Items/pencil_case.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "svea.08": {
+      "cleanBackground": "bg_gate_day",
+      "explorationRoom": "room_svea_gate_school_uniform",
+      "dialoguePortrait": "expr_svea_soft_smile",
+      "wardrobe": "school_uniform",
+      "props": {
+        "supply_boxes": {
+          "asset": "delivery_box",
+          "file": "Props/Items/delivery_box.png",
+          "count": 2
+        },
+        "neighborhood_dog": {
+          "asset": "neighborhood_dog",
+          "file": "Props/Items/neighborhood_dog.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "svea.09": {
+      "cleanBackground": "bg_canteen_day",
+      "explorationRoom": "room_svea_canteen_school_uniform",
+      "dialoguePortrait": "expr_svea_flustered",
+      "wardrobe": "school_uniform",
+      "props": {
+        "lunch_tray": {
+          "asset": "lunch_tray",
+          "file": "Props/Items/lunch_tray.png",
+          "count": 1
+        },
+        "practice_report": {
+          "asset": "native_practice_report",
+          "file": "Documents/practice_report.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "svea.10": {
+      "cleanBackground": "bg_class_c_day",
+      "explorationRoom": "room_svea_class_c_school_uniform",
+      "dialoguePortrait": "expr_svea_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "household_worksheet": {
+          "asset": "native_household_worksheet",
+          "file": "Documents/household_worksheet.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "svea.11": {
+      "cleanBackground": "bg_class_c_day",
+      "explorationRoom": "room_svea_class_c_school_uniform",
+      "dialoguePortrait": "expr_svea_smirk",
+      "wardrobe": "school_uniform",
+      "props": {
+        "handheld_game": {
+          "asset": "handheld_game",
+          "file": "Props/Items/handheld_game.png",
+          "count": 1
+        },
+        "cozy_game_screen": {
+          "asset": "native_cozy_game_screen",
+          "file": "Screens/cozy_game_screen.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "svea.12": {
+      "cleanBackground": "bg_field_day",
+      "explorationRoom": "room_svea_field_school_sports_jacket_and_trousers",
+      "dialoguePortrait": "wardrobe_svea_sports_flustered",
+      "wardrobe": "school_sports_jacket_and_trousers",
+      "props": {
+        "basketball": {
+          "asset": "basketball",
+          "file": "Props/Items/basketball.png",
+          "count": 1
+        },
+        "field_bench": {
+          "asset": "bench",
+          "file": "Props/Items/bench.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "svea.13": {
+      "cleanBackground": "bg_class_c_day",
+      "explorationRoom": "room_svea_class_c_school_uniform",
+      "dialoguePortrait": "expr_svea_annoyed",
+      "wardrobe": "school_uniform",
+      "props": {
+        "group_assignment": {
+          "asset": "native_group_assignment",
+          "file": "Documents/group_assignment.png",
+          "count": 1
+        },
+        "pencil": {
+          "asset": "pencil",
+          "file": "Props/Items/pencil.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "svea.14": {
+      "cleanBackground": "bg_field_day",
+      "explorationRoom": "room_svea_field_school_sports_jacket_and_trousers",
+      "dialoguePortrait": "wardrobe_svea_school_sports_jacket_and_trousers_neutral",
+      "wardrobe": "school_sports_jacket_and_trousers",
+      "props": {
+        "equipment_list": {
+          "asset": "native_equipment_list",
+          "file": "Documents/equipment_list.png",
+          "count": 1
+        },
+        "two_strawberry_milk": {
+          "asset": "strawberry_milk",
+          "file": "Props/Items/strawberry_milk.png",
+          "count": 2
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "svea.15": {
+      "cleanBackground": "bg_field_day",
+      "explorationRoom": "room_svea_field_school_uniform",
+      "dialoguePortrait": "expr_svea_neutral",
+      "wardrobe": "school_uniform",
+      "props": {
+        "basketball": {
+          "asset": "basketball",
+          "file": "Props/Items/basketball.png",
+          "count": 1
+        }
+      },
+      "dialogueFrame": "ui_dialogue_panel",
+      "choiceFrame": "ui_choice_idle",
+      "audio": "bgm_daily"
+    },
+    "svea.ending.good": {
+      "cg": "cg_svea_good",
+      "audio": "bgm_ending_good",
+      "dialogueFrame": "ui_dialogue_panel"
+    },
+    "svea.ending.neutral": {
+      "cg": "cg_svea_neutral",
+      "audio": "bgm_ending_neutral",
+      "dialogueFrame": "ui_dialogue_panel"
+    },
+    "svea.ending.bad": {
+      "cg": "cg_svea_bad",
+      "audio": "bgm_ending_bad",
+      "dialogueFrame": "ui_dialogue_panel"
+    }
+  },
+  "observations": {
+    "observe.katya": {
+      "explorationRoom": "observation_katya",
+      "portrait": "expr_katya_neutral",
+      "props": {
+        "orientation_sign": {
+          "asset": "native_orientation_sign",
+          "file": "Documents/orientation_sign.png",
+          "count": 1
+        },
+        "folder": {
+          "asset": "folder",
+          "file": "Props/Items/folder.png",
+          "count": 1
+        }
+      },
+      "observationOnly": true
+    },
+    "observe.akira": {
+      "explorationRoom": "observation_akira",
+      "portrait": "expr_akira_excited",
+      "props": {
+        "booklet": {
+          "asset": "native_booklet",
+          "file": "Documents/booklet.png",
+          "count": 1
+        },
+        "keychain_satchel": {
+          "asset": "satchel",
+          "file": "Props/Items/satchel.png",
+          "count": 1
+        }
+      },
+      "observationOnly": true
+    },
+    "observe.seoyun": {
+      "explorationRoom": "observation_seoyun",
+      "portrait": "expr_seoyun_curious",
+      "props": {
+        "blue_journal": {
+          "asset": "blue_journal",
+          "file": "Props/Items/blue_journal.png",
+          "count": 1
+        },
+        "pencil": {
+          "asset": "pencil",
+          "file": "Props/Items/pencil.png",
+          "count": 1
+        }
+      },
+      "observationOnly": true
+    },
+    "observe.mari": {
+      "explorationRoom": "observation_mari",
+      "portrait": "expr_mari_warm",
+      "props": {
+        "bento": {
+          "asset": "bento",
+          "file": "Props/Items/bento.png",
+          "count": 1
+        },
+        "thermos": {
+          "asset": "thermos",
+          "file": "Props/Items/thermos.png",
+          "count": 1
+        },
+        "visitor_chair": {
+          "asset": "chair",
+          "file": "Props/Items/chair.png",
+          "count": 1
+        }
+      },
+      "observationOnly": true
+    },
+    "observe.svea": {
+      "explorationRoom": "observation_svea",
+      "portrait": "expr_svea_neutral",
+      "props": {
+        "basketball": {
+          "asset": "basketball",
+          "file": "Props/Items/basketball.png",
+          "count": 1
+        },
+        "sports_bag": {
+          "asset": "sports_bag",
+          "file": "Props/Items/sports_bag.png",
+          "count": 1
+        },
+        "hoop": {
+          "asset": "bg_field_day",
+          "file": "Backgrounds/bg_field_day.png",
+          "count": 1,
+          "embedded": true,
+          "region": [
+            0.44,
+            0.2,
+            0.14,
+            0.38
+          ]
+        }
+      },
+      "observationOnly": true
+    }
+  },
+  "props": {
+    "adviser_questions": {
+      "asset": "native_adviser_questions",
+      "file": "Documents/adviser_questions.png",
+      "count": 1
+    },
+    "alternate_photo": {
+      "asset": "alternate_photo",
+      "file": "Props/Pages/alternate_photo.png",
+      "count": 1
+    },
+    "anonymous_form": {
+      "asset": "native_anonymous_form",
+      "file": "Documents/anonymous_form.png",
+      "count": 1
+    },
+    "anonymous_survey": {
+      "asset": "native_anonymous_survey",
+      "file": "Documents/anonymous_survey.png",
+      "count": 1
+    },
+    "apron": {
+      "asset": "wardrobe_mari_uniform_with_apron_full_body",
+      "file": "Characters/mari/Wardrobes/uniform_with_apron/full_body.png",
+      "count": 1
+    },
+    "atlas": {
+      "asset": "open_atlas",
+      "file": "Props/Items/open_atlas.png",
+      "count": 1
+    },
+    "atlases": {
+      "asset": "closed_atlas",
+      "file": "Props/Items/closed_atlas.png",
+      "count": 3
+    },
+    "attendance_sheet": {
+      "asset": "native_attendance_sheet",
+      "file": "Documents/attendance_sheet.png",
+      "count": 1
+    },
+    "backing_card": {
+      "asset": "native_backing_card",
+      "file": "Documents/backing_card.png",
+      "count": 1
+    },
+    "backup_envelope": {
+      "asset": "envelope",
+      "file": "Props/Items/envelope.png",
+      "count": 1
+    },
+    "basketball": {
+      "asset": "basketball",
+      "file": "Props/Items/basketball.png",
+      "count": 1
+    },
+    "bento": {
+      "asset": "bento",
+      "file": "Props/Items/bento.png",
+      "count": 1
+    },
+    "blue_journal": {
+      "asset": "blue_journal",
+      "file": "Props/Items/blue_journal.png",
+      "count": 1
+    },
+    "blurred_photo": {
+      "asset": "blurred_photo",
+      "file": "Props/Pages/blurred_photo.png",
+      "count": 1
+    },
+    "book": {
+      "asset": "book",
+      "file": "Props/Items/book.png",
+      "count": 1
+    },
+    "booklet": {
+      "asset": "native_booklet",
+      "file": "Documents/booklet.png",
+      "count": 1
+    },
+    "bookmark": {
+      "asset": "bookmark",
+      "file": "Props/Items/bookmark.png",
+      "count": 1
+    },
+    "budget_exercise": {
+      "asset": "native_budget_exercise",
+      "file": "Documents/budget_exercise.png",
+      "count": 1
+    },
+    "budget_sheet": {
+      "asset": "native_budget_sheet",
+      "file": "Documents/budget_sheet.png",
+      "count": 1
+    },
+    "calculator": {
+      "asset": "calculator",
+      "file": "Props/Items/calculator.png",
+      "count": 1
+    },
+    "camera": {
+      "asset": "camera",
+      "file": "Props/Items/camera.png",
+      "count": 1
+    },
+    "caption_drafts": {
+      "asset": "native_caption_drafts",
+      "file": "Documents/caption_drafts.png",
+      "count": 1
+    },
+    "cat": {
+      "asset": "cat",
+      "file": "Props/Items/cat.png",
+      "count": 1
+    },
+    "class_register": {
+      "asset": "native_class_register",
+      "file": "Documents/class_register.png",
+      "count": 1
+    },
+    "clean_blankets": {
+      "asset": "clean_blankets",
+      "file": "Props/Items/clean_blankets.png",
+      "count": 1
+    },
+    "closed_bag": {
+      "asset": "sports_bag",
+      "file": "Props/Items/sports_bag.png",
+      "count": 1
+    },
+    "committee_notes": {
+      "asset": "native_committee_notes",
+      "file": "Documents/committee_notes.png",
+      "count": 1
+    },
+    "consent_text": {
+      "asset": "native_consent_text",
+      "file": "Documents/consent_text.png",
+      "count": 1
+    },
+    "court_cones": {
+      "asset": "court_cone",
+      "file": "Props/Items/court_cone.png",
+      "count": 3
+    },
+    "cozy_game_screen": {
+      "asset": "native_cozy_game_screen",
+      "file": "Screens/cozy_game_screen.png",
+      "count": 1
+    },
+    "credit_labels": {
+      "asset": "native_credit_labels",
+      "file": "Documents/credit_labels.png",
+      "count": 1
+    },
+    "custard_dessert": {
+      "asset": "custard_dessert",
+      "file": "Props/Items/custard_dessert.png",
+      "count": 1
+    },
+    "dark_chocolate": {
+      "asset": "dark_chocolate",
+      "file": "Props/Items/dark_chocolate.png",
+      "count": 1
+    },
+    "delivery_box": {
+      "asset": "delivery_box",
+      "file": "Props/Items/delivery_box.png",
+      "count": 1
+    },
+    "dictionary": {
+      "asset": "book",
+      "file": "Props/Items/book.png",
+      "count": 1
+    },
+    "display_board": {
+      "asset": "display_board",
+      "file": "Props/Items/display_board.png",
+      "count": 1
+    },
+    "drying_display": {
+      "asset": "display_board",
+      "file": "Props/Items/display_board.png",
+      "count": 1,
+      "layers": [
+        "sky_photo",
+        "alternate_photo",
+        "native_window_essay"
+      ]
+    },
+    "drying_paper": {
+      "asset": "native_drying_paper",
+      "file": "Documents/drying_paper.png",
+      "count": 1
+    },
+    "equipment_cart": {
+      "asset": "equipment_cart",
+      "file": "Props/Items/equipment_cart.png",
+      "count": 1
+    },
+    "equipment_list": {
+      "asset": "native_equipment_list",
+      "file": "Documents/equipment_list.png",
+      "count": 1
+    },
+    "fabric_backing": {
+      "asset": "fabric_backing",
+      "file": "Props/Items/fabric_backing.png",
+      "count": 1
+    },
+    "feature_sheet": {
+      "asset": "native_feature_sheet",
+      "file": "Documents/feature_sheet.png",
+      "count": 1
+    },
+    "feedback_sheets": {
+      "asset": "native_feedback_sheets",
+      "file": "Documents/feedback_sheets.png",
+      "count": 1
+    },
+    "fencing_bag": {
+      "asset": "fencing_bag",
+      "file": "Props/Items/fencing_bag.png",
+      "count": 1
+    },
+    "fencing_mask": {
+      "asset": "fencing_mask",
+      "file": "Props/Items/fencing_mask.png",
+      "count": 1
+    },
+    "field_bench": {
+      "asset": "bench",
+      "file": "Props/Items/bench.png",
+      "count": 1
+    },
+    "final_report": {
+      "asset": "native_final_report",
+      "file": "Documents/final_report.png",
+      "count": 1
+    },
+    "finished_display": {
+      "asset": "display_board",
+      "file": "Props/Items/display_board.png",
+      "count": 1,
+      "layers": [
+        "sky_photo",
+        "alternate_photo",
+        "native_window_essay"
+      ]
+    },
+    "finished_reading_corner": {
+      "asset": "native_finished_reading_corner",
+      "file": "Documents/finished_reading_corner.png",
+      "count": 1,
+      "layers": [
+        "leaflet_rack",
+        "book",
+        "native_reading_list"
+      ]
+    },
+    "floor_markers": {
+      "asset": "native_floor_markers",
+      "file": "UI/floor_markers.png",
+      "count": 3
+    },
+    "floor_tape": {
+      "asset": "floor_tape",
+      "file": "Props/Items/floor_tape.png",
+      "count": 1
+    },
+    "folded_cloth": {
+      "asset": "folded_cloth",
+      "file": "Props/Items/folded_cloth.png",
+      "count": 1
+    },
+    "folded_sketch": {
+      "asset": "folded_sketch",
+      "file": "Props/Pages/folded_sketch.png",
+      "count": 1
+    },
+    "folder": {
+      "asset": "folder",
+      "file": "Props/Items/folder.png",
+      "count": 1
+    },
+    "forms": {
+      "asset": "native_forms",
+      "file": "Documents/forms.png",
+      "count": 1
+    },
+    "fruit_cup": {
+      "asset": "fruit_cup",
+      "file": "Props/Items/fruit_cup.png",
+      "count": 1
+    },
+    "gate_bench": {
+      "asset": "bench",
+      "file": "Props/Items/bench.png",
+      "count": 1
+    },
+    "glue": {
+      "asset": "glue",
+      "file": "Props/Items/glue.png",
+      "count": 1
+    },
+    "group_assignment": {
+      "asset": "native_group_assignment",
+      "file": "Documents/group_assignment.png",
+      "count": 1
+    },
+    "handheld_game": {
+      "asset": "handheld_game",
+      "file": "Props/Items/handheld_game.png",
+      "count": 1
+    },
+    "handouts": {
+      "asset": "native_handouts",
+      "file": "Documents/handouts.png",
+      "count": 1
+    },
+    "headphones": {
+      "asset": "headphones",
+      "file": "Props/Items/headphones.png",
+      "count": 1
+    },
+    "her_tea_cup": {
+      "asset": "tea_cup",
+      "file": "Props/Items/tea_cup.png",
+      "count": 1
+    },
+    "homework": {
+      "asset": "native_homework",
+      "file": "Documents/homework.png",
+      "count": 1
+    },
+    "hoop": {
+      "asset": "bg_field_day",
+      "file": "Backgrounds/bg_field_day.png",
+      "count": 1,
+      "embedded": true,
+      "region": [
+        0.44,
+        0.2,
+        0.14,
+        0.38
+      ]
+    },
+    "household_plan": {
+      "asset": "native_household_plan",
+      "file": "Documents/household_plan.png",
+      "count": 1
+    },
+    "household_worksheet": {
+      "asset": "native_household_worksheet",
+      "file": "Documents/household_worksheet.png",
+      "count": 1
+    },
+    "keychain_satchel": {
+      "asset": "satchel",
+      "file": "Props/Items/satchel.png",
+      "count": 1
+    },
+    "laptop": {
+      "asset": "laptop",
+      "file": "Props/Items/laptop.png",
+      "count": 1
+    },
+    "leaflet_list": {
+      "asset": "native_leaflet_list",
+      "file": "Documents/leaflet_list.png",
+      "count": 1
+    },
+    "leaflet_rack": {
+      "asset": "leaflet_rack",
+      "file": "Props/Items/leaflet_rack.png",
+      "count": 1
+    },
+    "library_record": {
+      "asset": "native_library_record",
+      "file": "Documents/library_record.png",
+      "count": 1
+    },
+    "loose_button": {
+      "asset": "loose_button",
+      "file": "Props/Items/loose_button.png",
+      "count": 1
+    },
+    "lunch_plate": {
+      "asset": "lunch_tray",
+      "file": "Props/Items/lunch_tray.png",
+      "count": 1
+    },
+    "lunch_tray": {
+      "asset": "lunch_tray",
+      "file": "Props/Items/lunch_tray.png",
+      "count": 1
+    },
+    "lunch_trays": {
+      "asset": "lunch_tray",
+      "file": "Props/Items/lunch_tray.png",
+      "count": 2
+    },
+    "maintenance_guide": {
+      "asset": "native_maintenance_guide",
+      "file": "Documents/maintenance_guide.png",
+      "count": 1
+    },
+    "meal_worksheet": {
+      "asset": "native_meal_worksheet",
+      "file": "Documents/meal_worksheet.png",
+      "count": 1
+    },
+    "melonpan": {
+      "asset": "melonpan",
+      "file": "Props/Items/melonpan.png",
+      "count": 1
+    },
+    "menu": {
+      "asset": "native_menu",
+      "file": "Documents/menu.png",
+      "count": 1
+    },
+    "music_note": {
+      "asset": "native_music_note",
+      "file": "Documents/music_note.png",
+      "count": 1
+    },
+    "neighborhood_dog": {
+      "asset": "neighborhood_dog",
+      "file": "Props/Items/neighborhood_dog.png",
+      "count": 1
+    },
+    "noodle_bowl": {
+      "asset": "noodle_bowl",
+      "file": "Props/Items/noodle_bowl.png",
+      "count": 1
+    },
+    "notebook": {
+      "asset": "blue_journal",
+      "file": "Props/Items/blue_journal.png",
+      "count": 1
+    },
+    "noticeboard": {
+      "asset": "native_noticeboard",
+      "file": "Documents/noticeboard.png",
+      "count": 1
+    },
+    "offline_notice": {
+      "asset": "native_offline_notice",
+      "file": "Documents/offline_notice.png",
+      "count": 1
+    },
+    "orientation_sign": {
+      "asset": "native_orientation_sign",
+      "file": "Documents/orientation_sign.png",
+      "count": 1
+    },
+    "paper_headings": {
+      "asset": "native_paper_headings",
+      "file": "Documents/paper_headings.png",
+      "count": 1
+    },
+    "paper_labels": {
+      "asset": "native_paper_labels",
+      "file": "Documents/paper_labels.png",
+      "count": 1
+    },
+    "paper_mockups": {
+      "asset": "native_paper_mockups",
+      "file": "Documents/paper_mockups.png",
+      "count": 1
+    },
+    "paper_samples": {
+      "asset": "native_paper_samples",
+      "file": "Documents/paper_samples.png",
+      "count": 1
+    },
+    "paperweight": {
+      "asset": "paperweight",
+      "file": "Props/Items/paperweight.png",
+      "count": 1
+    },
+    "pen": {
+      "asset": "pen",
+      "file": "Props/Items/pen.png",
+      "count": 1
+    },
+    "pencil": {
+      "asset": "pencil",
+      "file": "Props/Items/pencil.png",
+      "count": 1
+    },
+    "pencil_case": {
+      "asset": "pencil_case",
+      "file": "Props/Items/pencil_case.png",
+      "count": 1
+    },
+    "phone": {
+      "asset": "phone",
+      "file": "Props/Items/phone.png",
+      "count": 1
+    },
+    "phone_message": {
+      "asset": "native_phone_message",
+      "file": "Screens/phone_message.png",
+      "count": 1
+    },
+    "photo_print": {
+      "asset": "sky_photo",
+      "file": "Props/Pages/sky_photo.png",
+      "count": 1
+    },
+    "photo_prints": {
+      "asset": "photo_prints",
+      "file": "Props/Items/photo_prints.png",
+      "count": 1
+    },
+    "plush_dog_keychain": {
+      "asset": "plush_dog_keychain",
+      "file": "Props/Items/plush_dog_keychain.png",
+      "count": 1
+    },
+    "practice_mat": {
+      "asset": "practice_mat",
+      "file": "Props/Items/practice_mat.png",
+      "count": 1
+    },
+    "practice_report": {
+      "asset": "native_practice_report",
+      "file": "Documents/practice_report.png",
+      "count": 1
+    },
+    "practice_statistics": {
+      "asset": "native_practice_statistics",
+      "file": "Documents/practice_statistics.png",
+      "count": 1
+    },
+    "presentation": {
+      "asset": "native_presentation",
+      "file": "Documents/presentation.png",
+      "count": 1
+    },
+    "project_notebook": {
+      "asset": "native_project_notebook",
+      "file": "Documents/project_notebook.png",
+      "count": 1
+    },
+    "public_leaflets": {
+      "asset": "native_public_leaflets",
+      "file": "Documents/public_leaflets.png",
+      "count": 1
+    },
+    "queue_survey": {
+      "asset": "native_queue_survey",
+      "file": "Documents/queue_survey.png",
+      "count": 1
+    },
+    "reading_list": {
+      "asset": "native_reading_list",
+      "file": "Documents/reading_list.png",
+      "count": 1
+    },
+    "receipt": {
+      "asset": "native_receipt",
+      "file": "Documents/receipt.png",
+      "count": 1
+    },
+    "red_bean_dessert": {
+      "asset": "red_bean_dessert",
+      "file": "Props/Items/red_bean_dessert.png",
+      "count": 1
+    },
+    "reference_books": {
+      "asset": "reference_books",
+      "file": "Props/Items/reference_books.png",
+      "count": 1
+    },
+    "reference_cards": {
+      "asset": "native_reference_cards",
+      "file": "Documents/reference_cards.png",
+      "count": 1
+    },
+    "room_signs": {
+      "asset": "native_room_signs",
+      "file": "Documents/room_signs.png",
+      "count": 1
+    },
+    "sandwich_wrapper": {
+      "asset": "sandwich_wrapper",
+      "file": "Props/Items/sandwich_wrapper.png",
+      "count": 1
+    },
+    "satchel_keychains": {
+      "asset": "satchel",
+      "file": "Props/Items/satchel.png",
+      "count": 1
+    },
+    "sealed_letter": {
+      "asset": "envelope",
+      "file": "Props/Items/envelope.png",
+      "count": 1
+    },
+    "sewing_kit": {
+      "asset": "sewing_kit",
+      "file": "Props/Items/sewing_kit.png",
+      "count": 1
+    },
+    "sky_photo": {
+      "asset": "sky_photo",
+      "file": "Props/Pages/sky_photo.png",
+      "count": 1
+    },
+    "spare_container": {
+      "asset": "spare_container",
+      "file": "Props/Items/spare_container.png",
+      "count": 1
+    },
+    "sports_bag": {
+      "asset": "sports_bag",
+      "file": "Props/Items/sports_bag.png",
+      "count": 1
+    },
+    "squeaky_chair": {
+      "asset": "chair",
+      "file": "Props/Items/chair.png",
+      "count": 1
+    },
+    "staff_only_sign": {
+      "asset": "native_staff_only_sign",
+      "file": "Documents/staff_only_sign.png",
+      "count": 1
+    },
+    "stapler": {
+      "asset": "stapler",
+      "file": "Props/Items/stapler.png",
+      "count": 1
+    },
+    "sticky_notes": {
+      "asset": "native_paper_labels",
+      "file": "Documents/paper_labels.png",
+      "count": 1
+    },
+    "strategy_game_screen": {
+      "asset": "native_strategy_game_screen",
+      "file": "Screens/strategy_game_screen.png",
+      "count": 1
+    },
+    "strawberry_milk": {
+      "asset": "strawberry_milk",
+      "file": "Props/Items/strawberry_milk.png",
+      "count": 1
+    },
+    "study_options": {
+      "asset": "native_study_options",
+      "file": "Documents/study_options.png",
+      "count": 1
+    },
+    "supply_box": {
+      "asset": "supply_box",
+      "file": "Props/Items/supply_box.png",
+      "count": 1
+    },
+    "supply_boxes": {
+      "asset": "delivery_box",
+      "file": "Props/Items/delivery_box.png",
+      "count": 2
+    },
+    "supply_clipboard": {
+      "asset": "native_supply_clipboard",
+      "file": "Documents/supply_clipboard.png",
+      "count": 1
+    },
+    "survey_envelopes": {
+      "asset": "envelope",
+      "file": "Props/Items/envelope.png",
+      "count": 3
+    },
+    "tea_bottle": {
+      "asset": "tea_bottle",
+      "file": "Props/Items/tea_bottle.png",
+      "count": 1
+    },
+    "tea_tin": {
+      "asset": "tea_tin",
+      "file": "Props/Items/tea_tin.png",
+      "count": 1
+    },
+    "teacher_approval": {
+      "asset": "native_teacher_approval",
+      "file": "Documents/teacher_approval.png",
+      "count": 1
+    },
+    "thermos": {
+      "asset": "thermos",
+      "file": "Props/Items/thermos.png",
+      "count": 1
+    },
+    "three_drafts": {
+      "asset": "native_three_drafts",
+      "file": "Documents/three_drafts.png",
+      "count": 1
+    },
+    "three_request_messages": {
+      "asset": "native_three_request_messages",
+      "file": "Screens/three_request_messages.png",
+      "count": 1
+    },
+    "two_bento": {
+      "asset": "bento",
+      "file": "Props/Items/bento.png",
+      "count": 2
+    },
+    "two_blank_bookmarks": {
+      "asset": "bookmark",
+      "file": "Props/Items/bookmark.png",
+      "count": 2
+    },
+    "two_coffee_cans": {
+      "asset": "coffee_can",
+      "file": "Props/Items/coffee_can.png",
+      "count": 2
+    },
+    "two_cups": {
+      "asset": "tea_cup",
+      "file": "Props/Items/tea_cup.png",
+      "count": 2
+    },
+    "two_melonpan": {
+      "asset": "melonpan",
+      "file": "Props/Items/melonpan.png",
+      "count": 2
+    },
+    "two_strawberry_milk": {
+      "asset": "strawberry_milk",
+      "file": "Props/Items/strawberry_milk.png",
+      "count": 2
+    },
+    "two_tea_cups": {
+      "asset": "tea_cup",
+      "file": "Props/Items/tea_cup.png",
+      "count": 2
+    },
+    "visitor_chair": {
+      "asset": "chair",
+      "file": "Props/Items/chair.png",
+      "count": 1
+    },
+    "visitor_chairs": {
+      "asset": "chair",
+      "file": "Props/Items/chair.png",
+      "count": 2
+    },
+    "window_chairs": {
+      "asset": "chair",
+      "file": "Props/Items/chair.png",
+      "count": 2
+    },
+    "window_essay": {
+      "asset": "native_window_essay",
+      "file": "Documents/window_essay.png",
+      "count": 1
+    },
+    "workbook": {
+      "asset": "native_workbook",
+      "file": "Documents/workbook.png",
+      "count": 1
+    },
+    "worksheet": {
+      "asset": "native_worksheet",
+      "file": "Documents/worksheet.png",
+      "count": 1
+    }
+  },
+  "copySource": "Assets/AprilAgain/Narrative",
+  "missingProps": [],
+  "missingScenes": [],
+  "common": {
+    "opening": {
+      "opening.bedroom": {
+        "background": "bg_bedroom_day",
+        "dialogueFrame": "ui_dialogue_panel",
+        "audio": "bgm_reflection"
+      },
+      "opening.gate": {
+        "background": "bg_gate_day",
+        "dialogueFrame": "ui_dialogue_panel",
+        "audio": "bgm_daily"
+      },
+      "opening.orientation": {
+        "background": "bg_class_a_day",
+        "dialogueFrame": "ui_dialogue_panel",
+        "audio": "bgm_daily"
+      }
+    },
+    "postTour": {
+      "backgroundPolicy": "Keep current exploration location",
+      "dialogueFrame": "ui_dialogue_panel"
+    },
+    "firstNight": {
+      "background": "bg_bedroom_evening",
+      "dialogueFrame": "ui_dialogue_panel",
+      "audio": "bgm_reflection",
+      "props": [
+        "mc_blazer_draped",
+        "folded_campus_map"
+      ]
+    },
+    "morningVariations": {
+      "background": "bg_bedroom_day",
+      "dialogueFrame": "ui_dialogue_panel",
+      "props": [
+        "mc_blazer_draped",
+        "alarm_clock",
+        "admission_envelope"
+      ]
+    },
+    "home": {
+      "background": "bg_bedroom_evening",
+      "frame": "ui_menu_panel",
+      "audio": "bgm_reflection"
+    },
+    "nonScoringBarks": {
+      "frame": "ui_dialogue_panel",
+      "availabilityIcon": "ui_icon_wait",
+      "scoreDelta": 0
+    },
+    "systemCopy": {
+      "frame": "ui_modal_panel",
+      "buttons": [
+        "ui_button_idle",
+        "ui_button_focus"
+      ],
+      "textSource": "Narrative/common.json"
+    },
+    "navigation": {
+      "map": "map_campus",
+      "layout": "Map/map-layout.json",
+      "labelsAreLive": true
+    },
+    "ambience": {
+      "default": "amb_school",
+      "rain": "light_rain"
+    },
+    "sfx": {
+      "selection": "ui_confirm",
+      "back": "ui_cancel",
+      "alarm": "alarm",
+      "bell": "school_bell",
+      "rain": "light_rain",
+      "paper": "paper",
+      "page": "page_turn",
+      "zip": "zip",
+      "cup": "cup",
+      "bounce": "basketball_bounce",
+      "rim": "basketball_rim",
+      "pa": "pa_chime"
+    }
+  }
+}

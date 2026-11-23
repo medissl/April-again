@@ -1,0 +1,2834 @@
+{
+  "schemaVersion": 1,
+  "id": "mari",
+  "name": "Yasuko Mari",
+  "voice": "Soft, attentive and gently practical. Notices sleeves, uneaten food and tired eyes. Deflects attention by caring for the other person. Small hesitations reveal uncertainty; her humor is quiet. A first-year peer, never the nurse or the MC's mother.",
+  "scenes": [
+    {
+      "number": 1,
+      "title": "The Spare Chair",
+      "location": "infirmary",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "public_leaflets",
+        "squeaky_chair"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "The nurse asks two first-years to prepare a public noticeboard outside the infirmary rest area. No patient records or medical tasks are involved.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Mari",
+          "text": "You can use this chair. The other one makes a terrible noise.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "You know that from experience?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "Everyone knows when someone uses it. That's the difficulty.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She moves her bag off the good chair and notices a loose thread on the MC's cuff.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Mari",
+          "text": "Ano... your sleeve. It's caught on the button. May I?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Oh. Yes, thanks.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She frees the thread, then steps back before I can feel that I'm being inspected.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Mari",
+          "text": "Yasuko Mari. Mari is fine. The nurse said we're sorting the public leaflets today.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "neutral",
+          "text": "I'm Takahashi. Which pile should I take?",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "The ones with the blue heading. They're easiest to mix up.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I can probably manage that.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "Good. If either of us gets confused, we can ask.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.01.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "You seem good at this. I'll let you do the careful parts.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "I can. But we were both asked to help, Takahashi-kun. Here—this pile is yours.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I meant I don't want to get in your way.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "Then take a pile. That would help more.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.01.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "Thanks for the sleeve. You don't have to look after me while we're working.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "I wasn't—ah. I was, wasn't I? You caught me before the leaflets even started.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I can keep track of my own buttons. Usually.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "Then we'll trust you with the blue leaflets too.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.01.choice3",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "We sort the public information sheets and ask the nurse to check them. The chair squeaks once when the MC forgets which one to use.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Mari",
+          "text": "That one.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I understand the warning now.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She covers a small laugh with her hand, as if we're in a library rather than an office with very loud furniture.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {},
+      "id": "mari.01",
+      "previousScene": null,
+      "background": "bg_infirmary_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 2,
+      "title": "The Extra Lunch",
+      "location": "canteen",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "two_bento",
+        "thermos",
+        "paper_headings"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "We work on noticeboard headings during a long lunch/activity block. Mari has two cloth-wrapped lunch boxes.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "Expecting company?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "I pack lunches for my siblings in the morning. Sometimes my hands keep going after I've counted everyone.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "So the second one is an administrative error?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "A rather nice one, I hope. You may have it if you like.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She starts explaining every part of the meal before opening her own box.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Narration",
+          "text": "Her tea is still sealed. I haven't seen her take a bite.",
+          "kind": "narration"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "good",
+          "text": "I'd like some. Let's both eat before the headings take over the table.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "They do seem to be multiplying.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I'll move the scissors. You rescue your lunch.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "Thank you. I almost forgot it was getting cold.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.02.choice1",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "You should bring an extra one for me every day.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "Every day?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "If you already make too much.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "I can offer you this one. I don't want that to become a promise I haven't made.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.02.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "Thanks, but I brought lunch. Could you save it for yourself later?",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "I could. That hadn't quite occurred to me.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Afternoons are long.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "They are. I'll put it somewhere cool.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.02.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "We put the work aside for lunch, then finish the headings afterwards.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Mari",
+          "text": "I used to be better at making small portions.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "You could practice on yourself.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "That sounds oddly difficult when you say it. I'll try.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {},
+      "id": "mari.02",
+      "previousScene": "mari.01",
+      "background": "bg_canteen_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 3,
+      "title": "The Tea She Likes",
+      "location": "infirmary",
+      "hours": 3,
+      "expression": "peaceful",
+      "props": [
+        "thermos",
+        "two_tea_cups",
+        "drying_paper"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "The nurse permits a break at the visitor table while the noticeboard materials dry. Mari opens a thermos.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Mari",
+          "text": "Barley tea. Mugicha. No caffeine, if that helps you decide.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "You carry an entire drinks menu in there?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "Only the part people ask about most often.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She pours a cup for herself and pauses over the spare one.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "Is it your favorite?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "Everyone at home likes it.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She answers automatically, then watches his face. Her fingers tighten slightly around the lid of the thermos.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "I asked whether you do.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "bad",
+          "text": "Come on, that shouldn't be a difficult question.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "I heard the question. I was thinking.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I didn't mean to put you on the spot.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "Then please give me a moment.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.03.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "You can think about it. I'm not testing you.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "I like the roasted smell. Especially before the first sip.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "That sounds like an answer.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "It is, isn't it? Yes. I like it.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.03.choice2",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "I'll try a little, if there's enough.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "There is. I brought a spare cup.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Of course you did.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "I may be predictable, Takahashi-kun. I have other qualities, I promise. Give me a minute to remember them.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.03.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "We drink while the paper dries. Mari closes her eyes for a brief, unguarded breath over the warm cup.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Narration",
+          "text": "It is the first thing I've seen her enjoy without first checking whether someone else needs it.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Mari",
+          "text": "Better while it's warm. We should stop talking about it and drink.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {},
+      "id": "mari.03",
+      "previousScene": "mari.02",
+      "background": "bg_infirmary_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 4,
+      "title": "Ask the Nurse",
+      "location": "infirmary",
+      "hours": 3,
+      "expression": "concerned",
+      "props": [
+        "noticeboard",
+        "staff_only_sign"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "We hang the noticeboard sheets. A classmate asks Mari to fetch medicine while the nurse is briefly in the adjoining office.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Mari",
+          "text": "Please ask the nurse when she comes back. I can't give you that.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Classmate",
+          "text": "But you know where everything is.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "That doesn't make me qualified to use it.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "The classmate waits outside the office. Mari checks that the noticeboard is straight, then checks it again.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "Does that happen often?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "People see me here and assume I'm useful in every possible way.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She gives a small smile, but there is very little amusement in it.",
+          "kind": "narration"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "neutral",
+          "text": "We can put a staff-only label on that cupboard.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "The nurse has one. It might need to be more visible.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Public information project finally finds its subject.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "A useful discovery.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.04.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "You answered clearly. I'll back you up if they ask me.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "Thank you. I don't need you to argue with them.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Just say the same thing.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "Yes. That would be enough.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.04.choice2",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "It would've been quicker to fetch it and let the nurse check later.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "No. The nurse needs to decide what is appropriate.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I thought it was a small thing.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "Then waiting for the right person is a small thing too.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.04.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "The nurse handles the request. We finish the public noticeboard and leave the medical cupboards alone.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Mari",
+          "text": "I like helping here. I still want to be allowed to sit in the quiet chair sometimes.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "We should put that in the leaflet.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "Perhaps not in quite those words.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {},
+      "id": "mari.04",
+      "previousScene": "mari.03",
+      "background": "bg_infirmary_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 5,
+      "title": "One Preference",
+      "location": "canteen",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "custard_dessert",
+        "red_bean_dessert",
+        "leaflet_list"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "The canteen offers two desserts. Mari studies them long enough for the MC to notice.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "Custard or red bean?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "Which would you prefer?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I was asking you.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "Ah. Of course.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She looks at the display again. The queue moves behind us.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Mari",
+          "text": "You choose. I don't mind either.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "It sounds easy until I notice her eyes return to the custard.",
+          "kind": "narration"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "good",
+          "text": "I'm getting red bean. You can choose separately.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "Then... custard, please.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "There we are. Two desserts, no difficult negotiations.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "I may have made that more complicated than necessary.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.05.choice1",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "Just pick one. I can't decide everything for you.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "I wasn't asking you to decide everything.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "It feels like you never say what you want.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "I was trying not to make a small thing difficult. I see that didn't work.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.05.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "We can skip dessert if you're not in the mood.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "No, I'd like one. The custard, I think.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Custard it is.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "Yes. Thank you for waiting.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.05.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "We use the remaining block to review which public leaflets need replacing. Mari keeps the dessert wrapper out of the paperwork.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "Worth the decision?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "Very. I may recklessly choose the same one next time.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "Her smile reaches her eyes before she lowers them to the list.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {
+        "warm": [
+          {
+            "speaker": "Mari",
+            "text": "You remembered I liked the roasted tea too. I wasn't expecting you to remember.",
+            "kind": "dialogue"
+          }
+        ],
+        "mixed": [
+          {
+            "speaker": "Mari",
+            "text": "I know you mean well when you ask. Sometimes I need a little time to answer.",
+            "kind": "dialogue"
+          }
+        ],
+        "cool": [
+          {
+            "speaker": "Mari",
+            "text": "Let's keep today simple. We can each choose for ourselves.",
+            "kind": "dialogue"
+          }
+        ]
+      },
+      "id": "mari.05",
+      "previousScene": "mari.04",
+      "background": "bg_canteen_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 6,
+      "title": "The Button",
+      "location": "class_b",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "sewing_kit",
+        "loose_button",
+        "fabric_backing"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "A class craft block becomes an opportunity to repair loose buttons on the fabric display backing. Mari has brought a small sewing kit.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "You look prepared for every possible fabric emergency.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "Only ordinary ones. Please don't invent a difficult one.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "The MC's own blazer button comes loose while he reaches for the thread. Mari immediately sets down her work.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Mari",
+          "text": "I can do that before it falls off.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "What about your part of the backing?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "I'll finish it afterwards.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "There is already a small queue of repairs beside her.",
+          "kind": "narration"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "bad",
+          "text": "Thanks. You really are everyone's mum here.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "Your classmate, Takahashi-kun. I'd like to stay your classmate.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I meant you're reliable.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "You can call me reliable. I would prefer that.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.06.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "It can wait until the backing's finished.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "Put the button somewhere safe if it comes off.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Front pocket. I have a system.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "Then I won't interrupt your system.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.06.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "Could you show me instead? I'd like to manage the next one myself.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "Slowly. The stitches don't need to be perfect; they need to hold. And please don't look at me while you're holding the needle.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "A refreshing school assessment.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "Give it here. I'll show you the first stitch; you can do the rest.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.06.choice3",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "With Mari's demonstration if he requested it, or the class sewing guide if he did not, the MC secures his own button. Mari returns to her own work. His stitches are noticeably less neat than the display backing.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "I think the button has character now.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "It has a great deal of thread. We can call that character.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {},
+      "id": "mari.06",
+      "previousScene": "mari.05",
+      "background": "bg_class_b_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 7,
+      "title": "The Message From Home",
+      "location": "lobby",
+      "hours": 3,
+      "expression": "concerned",
+      "props": [
+        "phone",
+        "supply_box",
+        "folded_cloth"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "While we carry spare materials to the lobby, Mari receives a message asking her to collect groceries and help a sibling with homework that evening.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Mari",
+          "text": "I should have expected that. It is their difficult subject this term.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "And you have your own assignment due.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "I can do it later.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She shifts the box, trying to type an answer with her free thumb. The lid slides.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "Let me set this down first.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "Sorry. Yes. Thank you.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She apologizes again when a folded cloth falls out, although nobody was hurt and nothing was damaged.",
+          "kind": "narration"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "good",
+          "text": "What can you realistically do tonight? You can answer with that, not the best possible version of you.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "I can collect the groceries. The homework will need to be tomorrow, or someone else can help.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "That sounds clear.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "It sounds strange. I'll try writing it before I change my mind.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.07.choice1",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "Can we finish the school task another day?",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "We can ask the teacher. I'd rather not quietly leave it for you.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Then we ask.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "All right.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.07.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "They need you. Your assignment can wait one night.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "It already waited last night.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I didn't know.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "No. I haven't been saying so. That doesn't make the time appear.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.07.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "We finish the carry together. Mari sends a specific reply and receives a short acknowledgment. It doesn't solve every expectation at home, but tonight now has a limit.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Mari",
+          "text": "I keep expecting a clear answer to sound unkind.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She reads her own message once more, then puts the phone away.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {},
+      "id": "mari.07",
+      "previousScene": "mari.06",
+      "background": "bg_lobby_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 8,
+      "title": "The Chair Is for Sitting",
+      "location": "infirmary",
+      "hours": 3,
+      "expression": "peaceful",
+      "props": [
+        "visitor_chairs",
+        "clean_blankets",
+        "book"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "The nurse tells the student volunteers to take a break before doing anything else. Mari reaches for an untidy stack of clean blankets anyway.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Nurse",
+          "text": "Mari. Chair first. Those can wait.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "I was only going to fold the top two.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Nurse",
+          "text": "They will survive their current condition.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "Mari sits. The MC takes the other visitor chair, the one that squeaks.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "I think the chair is pleased to be useful.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "You don't have to keep me company if you have something to do.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "neutral",
+          "text": "I'll read quietly here until the break's over.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "All right. I won't ask what you're reading every thirty seconds.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I'd appreciate that. I might not know yet.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "A difficult book, then.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.08.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "You worry too much. I'll make sure you rest from now on.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "I don't need someone else deciding my whole day.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "You weren't going to stop by yourself.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "I can accept a reminder without giving up every decision.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.08.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "Would you prefer company or a little quiet on your own?",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "Company. Quiet company, if that's... if that's all right. Stay where I can see you, but you don't have to keep talking.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I can attempt that.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "A brave promise, in that chair.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.08.choice3",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "The break ends when the nurse checks in. Mari is tired but well; there is no collapse or romanticized illness. They finish only the assigned public materials, not extra work.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Mari",
+          "text": "I didn't fold a single blanket.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "A terrible afternoon for blankets.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "They seem to have managed.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {},
+      "id": "mari.08",
+      "previousScene": "mari.07",
+      "background": "bg_infirmary_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 9,
+      "title": "Before the Bell",
+      "location": "field",
+      "hours": 3,
+      "expression": "warm",
+      "props": [
+        "practice_mat",
+        "sports_bag"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "A supervised open-campus activity block starts early. The MC finds Mari finishing slow aikido practice on the quiet field edge before a general exercise workshop.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "I didn't know you did martial arts.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "I usually practice before the house gets busy. It helps me begin the day with one thing at a time.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "You're good at making it look calm.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "You didn't see the mornings when I forget which foot I'm using.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "The instructor calls for everyone to put away the mats. Mari carries one, leaving the others for the group.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She catches me noticing and almost smiles.",
+          "kind": "narration"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "good",
+          "text": "What do you enjoy about it when nobody needs you to be good at it?",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "The moment when the movement starts to feel continuous. I stop counting things I haven't done yet.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I'd like to find something that does that for me.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "You could try the beginner session. Nobody starts graceful.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.09.choice1",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "Remind me never to annoy you. You look harmless until you do that.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "I would rather you listened because I asked, not because you imagined I might hurt you.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "It was supposed to be a compliment.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "Then tell me what you actually liked.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.09.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "Can I help carry that mat?",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "There's another one by the fence. This one's light enough.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Right. Separate jobs.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "We appear to be learning.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.09.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "The workshop fills the block with ordinary beginner exercises. Mari makes a mistake in front of the group, laughs at herself and tries again.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Narration",
+          "text": "For once, nobody seems to need anything from her except that she enjoy being here.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {},
+      "id": "mari.09",
+      "previousScene": "mari.08",
+      "background": "bg_field_day",
+      "requiresClubDay": true,
+      "requiredBlock": "morning",
+      "wardrobe": "aikido_gi_and_trousers",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 10,
+      "title": "And You?",
+      "location": "infirmary",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "leaflet_rack",
+        "reading_list"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "We check the public reading corner after classes. Mari listens while the MC admits he has been nervous about making friends at the new school.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "I keep thinking everyone else received instructions I missed.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "I don't think they did. Some people are very confident while being just as confused.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Are you?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "Oh, I could find you the information sheet about new-school anxiety. The nurse has—",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She stops when she sees the MC's expression.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Mari",
+          "text": "You were asking about me.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "neutral",
+          "text": "Only if you feel like answering.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "I am still learning what that feels like.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "We can leave the question open.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "Thank you. I might come back to it.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.10.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "Yes. I don't need another leaflet. I'm interested in how you're doing.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "Tired, sometimes. And relieved to be somewhere that doesn't already know who I am supposed to be.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "You don't have to have a finished version ready for me.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "I would like to believe that.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.10.choice2",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "You don't need to hide behind helping people. Tell me what's really wrong.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "Please don't decide what my answer should be before I give it.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I thought you needed a push.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "I needed enough room to speak.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.10.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "She returns the leaflet to its rack. They finish checking the reading-corner list without turning the conversation into a diagnosis or a confession.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Mari",
+          "text": "I was worried that if I had nothing useful to offer, I'd have nothing to say.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She has already said more than she seemed to expect. I don't ask her to prove the point again.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {
+        "warm": [
+          {
+            "speaker": "Mari",
+            "text": "When I see you coming, I feel glad before I start wondering what you might need. That is new.",
+            "kind": "dialogue"
+          }
+        ],
+        "mixed": [
+          {
+            "speaker": "Mari",
+            "text": "I know we keep trying to understand each other. Some days it comes more easily than others.",
+            "kind": "dialogue"
+          }
+        ],
+        "cool": [
+          {
+            "speaker": "Mari",
+            "text": "I can listen for a little while. I would like you to listen when I answer too.",
+            "kind": "dialogue"
+          }
+        ]
+      },
+      "id": "mari.10",
+      "previousScene": "mari.09",
+      "background": "bg_infirmary_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 11,
+      "title": "One Portion",
+      "location": "canteen",
+      "hours": 3,
+      "expression": "warm",
+      "props": [
+        "meal_worksheet",
+        "lunch_plate",
+        "apron"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "A cooking assignment uses the canteen tables after service, under staff supervision. Everyone must plan a simple lunch for themselves.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Mari",
+          "text": "My little brother dislikes these mushrooms. My sister won't eat—",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She looks down at the worksheet heading.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Mari",
+          "text": "For myself. It says it quite clearly.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "What did you want before the household meeting began?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "Mushrooms. Apparently I have been arguing against my own lunch.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She crosses out one substitution, then two.",
+          "kind": "narration"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "bad",
+          "text": "You could make what your siblings like and take it home. That would be more useful.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "The assignment is one meal for me.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I thought you'd be happier helping them.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "I know. I am trying to find out what I like before somebody needs me to like something else. Just this once. Let me keep the mushrooms.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.11.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "Keep the mushrooms. You don't have to justify liking your own lunch.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "Then I'm keeping the ginger too.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "A dangerous wave of personal opinions.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "Someone should alert the kitchen.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.11.choice2",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "Let's follow the worksheet first. We can change things after the taste test.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "A practical defense against my own habits.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Schoolwork occasionally helps.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "Please don't sound too surprised. The teacher might hear.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.11.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "Staff supervise the food preparation. Mari eats her own finished portion and writes a note about what she would change next time.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Mari",
+          "text": "More ginger.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "That seems settled.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "It is. I like knowing that.",
+          "kind": "dialogue"
+        }
+      ],
+      "temperature": {},
+      "id": "mari.11",
+      "previousScene": "mari.10",
+      "background": "bg_canteen_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "uniform_with_apron",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 12,
+      "title": "Not Tonight",
+      "location": "class_b",
+      "hours": 3,
+      "expression": "concerned",
+      "props": [
+        "homework",
+        "household_plan"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "During independent study, Mari tells the MC she asked her family to share two evening tasks. The first conversation was awkward.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Mari",
+          "text": "My father said I had always managed before. I didn't know how to explain that managing and managing well weren't always the same.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Did he listen afterwards?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "A little. My mother suggested a weekly plan. My siblings were mostly concerned about who would cook.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She opens a notebook with both her homework and the household plan on separate pages.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Mari",
+          "text": "I still feel guilty about leaving a blank space after my name.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "good",
+          "text": "What would make the plan workable for you? You don't have to fill the blank just because it bothers you.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "Two evenings for my own work. And one morning when I don't make everyone's lunch.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Those are things you can put on the page.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "Yes. Specific things. I can ask for specific things.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.12.choice1",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "Try the plan for a week before deciding whether it works.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "I can keep track of what actually happens, instead of only what I hoped would happen.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "That sounds fair.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "I think so too.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.12.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "Your family sounds awful. You should stop helping them completely.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "I love them. I am trying to change something, not erase them.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I don't like how much they ask of you.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "Neither do I, sometimes. Please let the conversation be more complicated than that.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.12.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "They use the rest of the block for their own assignments. Mari writes her available evenings on the household page before closing the notebook.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Narration",
+          "text": "Nothing is solved by a single conversation. At least the next one will begin with something she actually wants.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {},
+      "id": "mari.12",
+      "previousScene": "mari.11",
+      "background": "bg_class_b_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 13,
+      "title": "No One to Feed",
+      "location": "gate",
+      "hours": 3,
+      "expression": "warm",
+      "props": [
+        "gate_bench",
+        "cat"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "The public-information project is finished for the day. Mari takes a short break by the gate before going home. A familiar neighborhood cat sleeps under a hedge.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "It seems to have beaten everyone to the good seat.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "It has a strict schedule. Sleep here, sleep somewhere else, inspect people carrying food.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Did you bring anything for it?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "Not today. The groundskeeper said its owner would prefer us not to feed it.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She sits on the nearby bench with empty hands. For a moment, she seems unsure what to do with them.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Mari",
+          "text": "I can still stay a little while, can't I?",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "neutral",
+          "text": "I'll stay until the activity block ends too.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "All right. We can be available if the teacher needs the display moved.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "And otherwise do absolutely nothing useful.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "A demanding assignment.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.13.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "You look happier when you're taking care of something.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "Do I need to be doing that to be good company?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I meant it suits you.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "It is part of me. I don't want it to be the only part you want here.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.13.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "good",
+          "text": "Yes. You don't need a job to have a place on the bench.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "I was hoping you would say something like that.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Should I have made it sound more impressive?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "No. This was exactly enough.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.13.choice3",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "The cat wakes, decides neither person has anything worth investigating and goes home.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Mari",
+          "text": "Well. We have been thoroughly assessed.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Low scores for catering.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She laughs without hiding it this time. We remain on the bench after the cat has gone.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {},
+      "id": "mari.13",
+      "previousScene": "mari.12",
+      "background": "bg_gate_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 14,
+      "title": "Her Own Cup",
+      "location": "infirmary",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "tea_tin",
+        "two_cups",
+        "finished_reading_corner"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "The nurse checks the completed reading corner and thanks both students. Mari has no extra duty assigned today.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Nurse",
+          "text": "You can use the visitor table during the break, but go home when the block ends. Both of you.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "Understood.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "Mari brings one small bag of tea and looks at the two cups on the tray.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "What's the plan?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "I want to make myself a cup. You may have one if you like, but I'm not going to spend the break checking whether everyone in the corridor wants tea.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "A clear plan.",
+          "kind": "dialogue"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "good",
+          "text": "Make yours first. I'll handle my own cup.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "The spare tea is in the small tin.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I have received the necessary training.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "Then I shall stop supervising. Probably.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.14.choice1",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "neutral",
+          "text": "I'll just have water. You enjoy yours.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "Thank you. I will.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "No looking guilty about it.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "I'll try. You're allowed to enjoy the water without supervising me too.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.14.choice2",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "shared_closing"
+        },
+        {
+          "kind": "bad",
+          "text": "But helping everyone is what makes you special.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "I don't want to earn a place with you by being endlessly available.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I didn't say endlessly.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "I need you to hear the difference, even when you don't mean harm.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.14.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "shared_closing"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "They drink at the visitor table and leave on time. Mari puts her own cup away last, after she has finished it.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Mari",
+          "text": "Next time, could we talk about us? I want to answer as myself, before I worry about making the answer comfortable for you.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "I agree. She doesn't apologize for asking.",
+          "kind": "narration"
+        }
+      ],
+      "temperature": {
+        "warm": [
+          {
+            "speaker": "Mari",
+            "text": "I've been choosing to spend these afternoons with you. I wanted you to know I notice that choice.",
+            "kind": "dialogue"
+          }
+        ],
+        "mixed": [
+          {
+            "speaker": "Mari",
+            "text": "I think we have learned some things about each other. I'm still working out what I feel.",
+            "kind": "dialogue"
+          }
+        ],
+        "cool": [
+          {
+            "speaker": "Mari",
+            "text": "I need to say a few things plainly. I don't want to hide them inside another offer to help.",
+            "kind": "dialogue"
+          }
+        ]
+      },
+      "id": "mari.14",
+      "previousScene": "mari.13",
+      "background": "bg_infirmary_day",
+      "requiresClubDay": false,
+      "requiredBlock": null,
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": false
+    },
+    {
+      "number": 15,
+      "title": "After the Tea",
+      "location": "infirmary",
+      "hours": 3,
+      "expression": "neutral",
+      "props": [
+        "her_tea_cup"
+      ],
+      "setup": [
+        {
+          "speaker": "Stage",
+          "text": "Finale encounter; show the route-ending warning. The nurse permits a quiet conversation at the open visitor table. No patients are present; the nurse remains in the adjacent office.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Mari",
+          "text": "I nearly brought a spare lunch. Ano... don't laugh. I thought you might assume I'd called you here because you looked hungry.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I might still look hungry. It isn't why I came.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She tucks a loose strand of salmon hair behind her ear. Her cup is still full.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "I like you, Mari. I want to ask you out.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "I know. I wanted to be able to answer without offering you something else instead.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She starts to straighten the cup, catches her hand and leaves it crooked. This time she keeps looking at him.",
+          "kind": "direction"
+        }
+      ],
+      "choices": [
+        {
+          "kind": "bad",
+          "text": "I need someone like you. I know you'd always take care of me.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "I don't want that to be the reason you ask.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "I meant that I feel safe with you.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "I understand. I need room to be tired and uncertain with someone too.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.15.choice1",
+          "rawDelta": {
+            "good": 0,
+            "bad": 1,
+            "neutral": 0
+          },
+          "next": "route_ending"
+        },
+        {
+          "kind": "good",
+          "text": "I want to spend time with you, including the days when you have nothing to give.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "Even when I'm quiet, or don't know what I want yet?",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "We can talk about it. You don't have to make every day easy for me.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "All right. Let me tell you what I do know.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.15.choice2",
+          "rawDelta": {
+            "good": 1,
+            "bad": 0,
+            "neutral": 0
+          },
+          "next": "route_ending"
+        },
+        {
+          "kind": "neutral",
+          "text": "You can answer honestly. I'll manage my feelings if it isn't what I hoped.",
+          "response": [
+            {
+              "speaker": "Mari",
+              "text": "Thank you. I needed to hear that.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "MC",
+              "text": "Take your time.",
+              "kind": "dialogue"
+            },
+            {
+              "speaker": "Mari",
+              "text": "I think I've taken the time I need.",
+              "kind": "dialogue"
+            }
+          ],
+          "id": "mari.15.choice3",
+          "rawDelta": {
+            "good": 0,
+            "bad": 0,
+            "neutral": 1
+          },
+          "next": "route_ending"
+        }
+      ],
+      "closing": [
+        {
+          "speaker": "Stage",
+          "text": "Apply this choice once and compare effective good and bad totals. Select the matching ending; do not write her acceptance into this shared closing.",
+          "kind": "direction"
+        }
+      ],
+      "temperature": {
+        "warm": [
+          {
+            "speaker": "Mari",
+            "text": "I'm nervous. Daijoubu—I'm all right. A nice kind of nervous, I think. Mostly.",
+            "kind": "dialogue"
+          }
+        ],
+        "mixed": [
+          {
+            "speaker": "Mari",
+            "text": "I have thought about this carefully. I don't want to confuse gratitude with an answer.",
+            "kind": "dialogue"
+          }
+        ],
+        "cool": [
+          {
+            "speaker": "Mari",
+            "text": "Please let me finish what I want to say. I will try to be kind, but I need to be clear.",
+            "kind": "dialogue"
+          }
+        ]
+      },
+      "id": "mari.15",
+      "previousScene": "mari.14",
+      "background": "bg_infirmary_day",
+      "requiresClubDay": false,
+      "requiredBlock": "late",
+      "wardrobe": "school_uniform",
+      "temperatureTiming": "after_setup_before_choice_using_pre_scene_counts",
+      "onlyAfterOpening": true,
+      "oncePerGirlPerDay": true,
+      "isFinale": true
+    }
+  ],
+  "endings": [
+    {
+      "kind": "good",
+      "title": "Stay a Little",
+      "location": "infirmary",
+      "cgBrief": "Mari with a salmon feathered low ponytail and cyan eyes rests beside the infirmary visitor window with her own tea; a charcoal MC silhouette sits quietly at an equal distance beside her. Warm natural light, relaxed posture, ordinary modest uniform; she is well and awake.",
+      "lines": [
+        {
+          "speaker": "Mari",
+          "text": "I would like that. Yes, Ren. A date. Oh... saying your name without the rest of it feels surprisingly bold.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Ren is fine. And you don't have to worry about getting every word right.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "Good. You'll still have to tell me when I offer you lunch instead of answering a question. Gently, please. I'm likely to be embarrassed already.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "Can we have the conversation and the food?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She laughs, then reaches for his hand. He waits until she has offered it.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Mari",
+          "text": "Yes. Though some days I may ask you to bring lunch.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I'll learn something that survives the trip to school.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "The nurse passes the open doorway and reminds us when the block ends. Mari answers without letting go of my hand.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Mari",
+          "text": "Yes. Otsukaresama deshita—thank you for today. We're leaving on time. I promise.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "For the remaining few minutes, she leans back in the visitor chair and drinks her tea while it is still warm.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Mari",
+          "text": "Stay a little. Not because I need help with anything.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I'd like that.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "She closes her eyes for one peaceful breath. I don't have to turn the moment into a promise about fixing her life. Today she has chosen something for herself, and I'm glad it includes me.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Stage",
+          "text": "Unlock Mari / Good. Credits, then title.",
+          "kind": "direction"
+        }
+      ],
+      "id": "mari.ending.good",
+      "cg": "cg_mari_good",
+      "next": "credits_then_title"
+    },
+    {
+      "kind": "neutral",
+      "title": "Tea for Two",
+      "location": "infirmary",
+      "cgBrief": "Mari and the MC silhouette share a calm tea break across two visitor chairs, balanced composition and independent cups, gentle cordial expression, open infirmary doorway in the background.",
+      "lines": [
+        {
+          "speaker": "Mari",
+          "text": "I care about you, Takahashi-kun. But I don't want to date you. I kept trying to find a kinder sentence. I think... I think this is the kindest one I can actually mean.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I'm glad you did.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "Are you all right?",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She catches the question before turning it into three more.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "MC",
+          "text": "Disappointed. I'll be all right. You don't have to pour tea over the whole problem.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "That would be a terrible use of tea.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "We both smile, a little awkwardly. Her answer remains what it is.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Stage",
+          "text": "On a later school day, they meet at the visitor table after returning some public leaflets. Mari asks whether the MC wants company. He says yes.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Mari",
+          "text": "I brought one tea bag. The spare tin is there if you want some.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I remember where it is.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "We make our own cups. The conversation is ordinary and occasionally uneven. I don't pretend that being her friend was my plan all along, and she doesn't try to repay my disappointment by doing more for me.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "Mari",
+          "text": "It's nice to see you.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "It's nice to see you too.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "Unlock Mari / Neutral. Credits, then title.",
+          "kind": "direction"
+        }
+      ],
+      "id": "mari.ending.neutral",
+      "cg": "cg_mari_neutral",
+      "next": "credits_then_title"
+    },
+    {
+      "kind": "bad",
+      "title": "A Cup Left Full",
+      "location": "infirmary",
+      "cgBrief": "Mari calmly gathers her school bag to leave the infirmary visitor table; her full tea cup remains in the foreground, cool late light, her expression tired but resolved. No collapse, injury or helpless framing.",
+      "lines": [
+        {
+          "speaker": "Mari",
+          "text": "I don't want to date you. I need some distance from the way things have been between us.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "MC",
+          "text": "I thought you liked looking after me.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "Sometimes I did. I wanted you to be interested in the rest of me too. When I tried to say what I needed, I often felt I was making our time together less convenient for you.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Narration",
+          "text": "The cup in front of her is still full. I almost tell her to drink it, then stop. She has already told me what matters.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "MC",
+          "text": "I'm sorry. I won't try to talk you out of it.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "Thank you.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She collects her bag. The nurse takes care of the visitor table after they leave; Mari does not stay to tidy away the conversation.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Narration",
+          "text": "I go home without an extra lunch or an offer to check my homework. Those things were never proof that she owed me more.",
+          "kind": "narration"
+        },
+        {
+          "speaker": "MC",
+          "text": "Take care, Mari.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Mari",
+          "text": "You too.",
+          "kind": "dialogue"
+        },
+        {
+          "speaker": "Stage",
+          "text": "She leaves by her own route. The MC does not follow.",
+          "kind": "direction"
+        },
+        {
+          "speaker": "Stage",
+          "text": "Unlock Mari / Bad. Credits, then title.",
+          "kind": "direction"
+        }
+      ],
+      "id": "mari.ending.bad",
+      "cg": "cg_mari_bad",
+      "next": "credits_then_title"
+    }
+  ],
+  "finaleRepair": {
+    "when": "ending == good AND finalChoice == bad",
+    "lines": [
+      {
+        "speaker": "MC",
+        "text": "That sounded as if I was looking for someone to take care of me. I'm sorry. I want to know you, including what you need.",
+        "kind": "dialogue"
+      },
+      {
+        "speaker": "Mari",
+        "text": "Then listen to this answer as mine. I don't want to earn it by being endlessly useful.",
+        "kind": "dialogue"
+      }
+    ]
+  },
+  "voicePass": "Performed second pass: individual rhythm, meaningful pauses, physical tells and restrained contextual code-switching. English remains readable; no phonetic nationality caricatures."
+}

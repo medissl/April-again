@@ -1,0 +1,15 @@
+{
+  "body": "Source Sans 3 Regular / Semibold",
+  "display": "Source Serif 4 Regular / Italic",
+  "licenseFiles": [
+    "SourceSans3-OFL.txt",
+    "SourceSerif4-OFL.txt"
+  ],
+  "modified": false,
+  "sources": [
+    "https://github.com/adobe-fonts/source-sans/tree/release/TTF",
+    "https://github.com/adobe-fonts/source-serif/tree/release/TTF",
+    "https://github.com/google/fonts/tree/main/ofl/sourcesans3",
+    "https://github.com/google/fonts/tree/main/ofl/sourceserif4"
+  ]
+}

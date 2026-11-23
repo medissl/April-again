@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: ad910437fcdb60a4ca50e9ece9d15a14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6184168494123110405
+    second: leaflet_rack_0
+  - first:
+      213: 8243043625567608697
+    second: leaflet_rack_1
+  - first:
+      213: -2509667925321408397
+    second: leaflet_rack_2
+  - first:
+      213: 7166678285386203917
+    second: leaflet_rack_3
+  - first:
+      213: 5257079584470296967
+    second: leaflet_rack_4
+  - first:
+      213: -3109295461883771038
+    second: leaflet_rack_5
+  - first:
+      213: 6661592219893045949
+    second: leaflet_rack_6
+  - first:
+      213: 5286080777628139322
+    second: leaflet_rack_7
+  - first:
+      213: 2980521135494206621
+    second: leaflet_rack_8
+  - first:
+      213: -7759750732089563871
+    second: leaflet_rack_9
+  - first:
+      213: -650594375050177946
+    second: leaflet_rack_10
+  - first:
+      213: -7760819395711666140
+    second: leaflet_rack_11
+  - first:
+      213: -1773547417870385894
+    second: leaflet_rack_12
+  - first:
+      213: -8097159199755274713
+    second: leaflet_rack_13
+  - first:
+      213: -7505675772469968665
+    second: leaflet_rack_14
+  - first:
+      213: 6408014944830711992
+    second: leaflet_rack_15
+  - first:
+      213: -5115078355860294674
+    second: leaflet_rack_16
+  - first:
+      213: 5382744634888576193
+    second: leaflet_rack_17
+  - first:
+      213: 4049311949102931228
+    second: leaflet_rack_18
+  - first:
+      213: 1439744455816913373
+    second: leaflet_rack_19
+  - first:
+      213: 8825057983704292922
+    second: leaflet_rack_20
+  - first:
+      213: -8975758859973567421
+    second: leaflet_rack_21
+  - first:
+      213: 954855053391706590
+    second: leaflet_rack_22
+  - first:
+      213: -4846692375678802705
+    second: leaflet_rack_23
+  - first:
+      213: 3917435365883338489
+    second: leaflet_rack_24
+  - first:
+      213: -7701040030389522583
+    second: leaflet_rack_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leaflet_rack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 469
+        width: 11
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500de53fa7492d550800000000000000
+      internalID: 6184168494123110405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaflet_rack_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 371
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f5102018c256270800000000000000
+      internalID: 8243043625567608697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaflet_rack_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 480
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370a607915edb2dd0800000000000000
+      internalID: -2509667925321408397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaflet_rack_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 486
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0343fb0ee7257360800000000000000
+      internalID: 7166678285386203917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaflet_rack_4
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 489
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7896f446706e4f840800000000000000
+      internalID: 5257079584470296967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaflet_rack_5
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 391
+        width: 49
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2670fac404099d4d0800000000000000
+      internalID: -3109295461883771038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaflet_rack_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 471
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba1b3154dab27c50800000000000000
+      internalID: 6661592219893045949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaflet_rack_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 457
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fbb8cd57eeb5940800000000000000
+      internalID: 5286080777628139322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaflet_rack_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 261
+        width: 105
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d941da66e20fc5920800000000000000
+      internalID: 2980521135494206621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaflet_rack_9
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 467
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125693472d3df4490800000000000000
+      internalID: -7759750732089563871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaflet_rack_10
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 447
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6625446ecdf98f6f0800000000000000
+      internalID: -650594375050177946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaflet_rack_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 349
+        width: 33
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428f4a0d0e70c4490800000000000000
+      internalID: -7760819395711666140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaflet_rack_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 439
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d368525081367e0800000000000000
+      internalID: -1773547417870385894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaflet_rack_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 415
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726fcc0cb9c11af80800000000000000
+      internalID: -8097159199755274713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaflet_rack_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 305
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e00ca6d6ab76d790800000000000000
+      internalID: -7505675772469968665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaflet_rack_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 269
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8670624a7dde850800000000000000
+      internalID: 6408014944830711992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaflet_rack_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 269
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee378a016579309b0800000000000000
+      internalID: -5115078355860294674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaflet_rack_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115
+        width: 49
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc5c27f9b953ba40800000000000000
+      internalID: 5382744634888576193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaflet_rack_18
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 221
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d560773cb023830800000000000000
+      internalID: 4049311949102931228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaflet_rack_19
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 27
+        width: 85
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd12e4854fffaf310800000000000000
+      internalID: 1439744455816913373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaflet_rack_20
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 135
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e5be0aa77e87a70800000000000000
+      internalID: 8825057983704292922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaflet_rack_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 85
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cd5b95fd2bf6380800000000000000
+      internalID: -8975758859973567421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaflet_rack_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 49
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9366dac93504d00800000000000000
+      internalID: 954855053391706590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaflet_rack_23
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 35
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4221496f61dbcb0800000000000000
+      internalID: -4846692375678802705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaflet_rack_24
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 37
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe5706b5b68d5630800000000000000
+      internalID: 3917435365883338489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaflet_rack_25
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 15
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fa19be4e8602590800000000000000
+      internalID: -7701040030389522583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      leaflet_rack_0: 6184168494123110405
+      leaflet_rack_1: 8243043625567608697
+      leaflet_rack_10: -650594375050177946
+      leaflet_rack_11: -7760819395711666140
+      leaflet_rack_12: -1773547417870385894
+      leaflet_rack_13: -8097159199755274713
+      leaflet_rack_14: -7505675772469968665
+      leaflet_rack_15: 6408014944830711992
+      leaflet_rack_16: -5115078355860294674
+      leaflet_rack_17: 5382744634888576193
+      leaflet_rack_18: 4049311949102931228
+      leaflet_rack_19: 1439744455816913373
+      leaflet_rack_2: -2509667925321408397
+      leaflet_rack_20: 8825057983704292922
+      leaflet_rack_21: -8975758859973567421
+      leaflet_rack_22: 954855053391706590
+      leaflet_rack_23: -4846692375678802705
+      leaflet_rack_24: 3917435365883338489
+      leaflet_rack_25: -7701040030389522583
+      leaflet_rack_3: 7166678285386203917
+      leaflet_rack_4: 5257079584470296967
+      leaflet_rack_5: -3109295461883771038
+      leaflet_rack_6: 6661592219893045949
+      leaflet_rack_7: 5286080777628139322
+      leaflet_rack_8: 2980521135494206621
+      leaflet_rack_9: -7759750732089563871
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

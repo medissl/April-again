@@ -1,0 +1,1404 @@
+fileFormatVersion: 2
+guid: cefd7aa25c7d9184398b96491f85a90a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4192941543962539817
+    second: uniform_with_apron_0
+  - first:
+      213: 1231194200221884141
+    second: uniform_with_apron_1
+  - first:
+      213: 5332785783551549401
+    second: uniform_with_apron_2
+  - first:
+      213: 5643754668107073617
+    second: uniform_with_apron_3
+  - first:
+      213: -5922088078810473903
+    second: uniform_with_apron_4
+  - first:
+      213: 7517551788385199731
+    second: uniform_with_apron_5
+  - first:
+      213: -5690250857145073798
+    second: uniform_with_apron_6
+  - first:
+      213: -1168872781932772149
+    second: uniform_with_apron_7
+  - first:
+      213: -7232156518701601825
+    second: uniform_with_apron_8
+  - first:
+      213: 2633783062391184928
+    second: uniform_with_apron_9
+  - first:
+      213: 5550018141642909056
+    second: uniform_with_apron_10
+  - first:
+      213: 4681880902019359888
+    second: uniform_with_apron_11
+  - first:
+      213: 8081634656541071375
+    second: uniform_with_apron_12
+  - first:
+      213: -3696721825052119696
+    second: uniform_with_apron_13
+  - first:
+      213: 3398097450269523861
+    second: uniform_with_apron_14
+  - first:
+      213: -4341344616259107070
+    second: uniform_with_apron_15
+  - first:
+      213: 6443886728291269974
+    second: uniform_with_apron_16
+  - first:
+      213: -2761728041991256273
+    second: uniform_with_apron_17
+  - first:
+      213: 7981867712577540590
+    second: uniform_with_apron_18
+  - first:
+      213: -6034389678482033964
+    second: uniform_with_apron_19
+  - first:
+      213: -4114964007053430867
+    second: uniform_with_apron_20
+  - first:
+      213: 7672661881227775303
+    second: uniform_with_apron_21
+  - first:
+      213: -6113896785995297126
+    second: uniform_with_apron_22
+  - first:
+      213: -3789806685801338779
+    second: uniform_with_apron_23
+  - first:
+      213: -4516404879010002418
+    second: uniform_with_apron_24
+  - first:
+      213: -7309548084847745368
+    second: uniform_with_apron_25
+  - first:
+      213: 7570310343530542393
+    second: uniform_with_apron_26
+  - first:
+      213: 1676367640263020877
+    second: uniform_with_apron_27
+  - first:
+      213: -2953160685604138624
+    second: uniform_with_apron_28
+  - first:
+      213: -2387588430293232057
+    second: uniform_with_apron_29
+  - first:
+      213: -4085805985073866287
+    second: uniform_with_apron_30
+  - first:
+      213: 3593911283995708332
+    second: uniform_with_apron_31
+  - first:
+      213: -7467868640137674996
+    second: uniform_with_apron_32
+  - first:
+      213: -7702445079661785605
+    second: uniform_with_apron_33
+  - first:
+      213: -1946325734202220207
+    second: uniform_with_apron_34
+  - first:
+      213: 635455031369210108
+    second: uniform_with_apron_35
+  - first:
+      213: 638951429378384600
+    second: uniform_with_apron_36
+  - first:
+      213: -2705519144776724898
+    second: uniform_with_apron_37
+  - first:
+      213: -2733509528760030503
+    second: uniform_with_apron_38
+  - first:
+      213: -5332222186580489689
+    second: uniform_with_apron_39
+  - first:
+      213: 1430401806695806324
+    second: uniform_with_apron_40
+  - first:
+      213: -5063674433457916768
+    second: uniform_with_apron_41
+  - first:
+      213: -9167949421221755151
+    second: uniform_with_apron_42
+  - first:
+      213: -8636077309836704276
+    second: uniform_with_apron_43
+  - first:
+      213: -7511383780426271934
+    second: uniform_with_apron_44
+  - first:
+      213: -3901471337531875580
+    second: uniform_with_apron_45
+  - first:
+      213: 9167067239114057541
+    second: uniform_with_apron_46
+  - first:
+      213: 1531885062403491393
+    second: uniform_with_apron_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: uniform_with_apron_0
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 624
+        width: 314
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8822481edafc5c0800000000000000
+      internalID: -4192941543962539817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_1
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 558
+        width: 723
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee1fb91a94161110800000000000000
+      internalID: 1231194200221884141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_2
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1160
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfd7d37a6cd10a40800000000000000
+      internalID: 5332785783551549401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_3
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1179
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15889fff7f4a25e40800000000000000
+      internalID: 5643754668107073617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_4
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1132
+        width: 90
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a1de5d44480dda0800000000000000
+      internalID: -5922088078810473903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_5
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1165
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3766d479585b35860800000000000000
+      internalID: 7517551788385199731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_6
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1126
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f71016efa2801b0800000000000000
+      internalID: -5690250857145073798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 813
+        width: 190
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc44645d56457cfe0800000000000000
+      internalID: -1168872781932772149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 742
+        width: 136
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbe3ceb6f732ab90800000000000000
+      internalID: -7232156518701601825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 822
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e5449adb31d8420800000000000000
+      internalID: 2633783062391184928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_10
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 821
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08569953810a50d40800000000000000
+      internalID: 5550018141642909056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_11
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 813
+        width: 154
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094ac8defd169f040800000000000000
+      internalID: 4681880902019359888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_12
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1114
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08dd9bd6ebb72070800000000000000
+      internalID: 8081634656541071375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_13
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 888
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07da550161b92bcc0800000000000000
+      internalID: -3696721825052119696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_14
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 872
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fb97b80a7782f20800000000000000
+      internalID: 3398097450269523861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_15
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 905
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207425ca21270c3c0800000000000000
+      internalID: -4341344616259107070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_16
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 859
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65db7a496d84d6950800000000000000
+      internalID: 6443886728291269974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_17
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 799
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2740e26afe5ca9d0800000000000000
+      internalID: -2761728041991256273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 793
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee11854156a45ce60800000000000000
+      internalID: 7981867712577540590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_19
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 785
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d27bc91f8a814ca0800000000000000
+      internalID: -6034389678482033964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_20
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 674
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafef00a906b4e6c0800000000000000
+      internalID: -4114964007053430867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_21
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 664
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d03485455ca7a60800000000000000
+      internalID: 7672661881227775303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_22
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 668
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e09551443172ba0800000000000000
+      internalID: -6113896785995297126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 666
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568296506e6e76bc0800000000000000
+      internalID: -3789806685801338779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_24
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 660
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a84c401b18251c0800000000000000
+      internalID: -4516404879010002418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 658
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a663069eb44f8a90800000000000000
+      internalID: -7309548084847745368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_26
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 658
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9357a91f5252f0960800000000000000
+      internalID: 7570310343530542393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_27
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 660
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4156deac77a34710800000000000000
+      internalID: 1676367640263020877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_28
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 646
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0819ae1c0044407d0800000000000000
+      internalID: -2953160685604138624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_29
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 646
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7461a8ef8f49dded0800000000000000
+      internalID: -2387588430293232057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_30
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 642
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9d186aa1d4c47c0800000000000000
+      internalID: -4085805985073866287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 598
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab05dc754320e130800000000000000
+      internalID: 3593911283995708332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_32
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 439
+        width: 138
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f705bc90dcc5890800000000000000
+      internalID: -7467868640137674996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_33
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 0
+        width: 536
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdcdc4620b6b1590800000000000000
+      internalID: -7702445079661785605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_34
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 564
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151ecab8e034df4e0800000000000000
+      internalID: -1946325734202220207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_35
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 562
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf81f77fbf691d800800000000000000
+      internalID: 635455031369210108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_36
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 521
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2a3d090f20ed800800000000000000
+      internalID: 638951429378384600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_37
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 537
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e809a1ca0147ad0800000000000000
+      internalID: -2705519144776724898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_38
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 535
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9daec1cf09f901ad0800000000000000
+      internalID: -2733509528760030503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 132
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ac9613c242006b0800000000000000
+      internalID: -5332222186580489689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 13
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4753e265ddec9d310800000000000000
+      internalID: 1430401806695806324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_41
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 271
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a473876ee63ab9b0800000000000000
+      internalID: -5063674433457916768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_42
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 240
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f644554396e4c080800000000000000
+      internalID: -9167949421221755151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_43
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 260
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce54f5e417d762880800000000000000
+      internalID: -8636077309836704276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_44
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 238
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243bf0caf3432c790800000000000000
+      internalID: -7511383780426271934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_45
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 248
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f5b094d703bd9c0800000000000000
+      internalID: -3901471337531875580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_46
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 178
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547a383b517f73f70800000000000000
+      internalID: 9167067239114057541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniform_with_apron_47
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 131
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14689451959524510800000000000000
+      internalID: 1531885062403491393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      uniform_with_apron_0: -4192941543962539817
+      uniform_with_apron_1: 1231194200221884141
+      uniform_with_apron_10: 5550018141642909056
+      uniform_with_apron_11: 4681880902019359888
+      uniform_with_apron_12: 8081634656541071375
+      uniform_with_apron_13: -3696721825052119696
+      uniform_with_apron_14: 3398097450269523861
+      uniform_with_apron_15: -4341344616259107070
+      uniform_with_apron_16: 6443886728291269974
+      uniform_with_apron_17: -2761728041991256273
+      uniform_with_apron_18: 7981867712577540590
+      uniform_with_apron_19: -6034389678482033964
+      uniform_with_apron_2: 5332785783551549401
+      uniform_with_apron_20: -4114964007053430867
+      uniform_with_apron_21: 7672661881227775303
+      uniform_with_apron_22: -6113896785995297126
+      uniform_with_apron_23: -3789806685801338779
+      uniform_with_apron_24: -4516404879010002418
+      uniform_with_apron_25: -7309548084847745368
+      uniform_with_apron_26: 7570310343530542393
+      uniform_with_apron_27: 1676367640263020877
+      uniform_with_apron_28: -2953160685604138624
+      uniform_with_apron_29: -2387588430293232057
+      uniform_with_apron_3: 5643754668107073617
+      uniform_with_apron_30: -4085805985073866287
+      uniform_with_apron_31: 3593911283995708332
+      uniform_with_apron_32: -7467868640137674996
+      uniform_with_apron_33: -7702445079661785605
+      uniform_with_apron_34: -1946325734202220207
+      uniform_with_apron_35: 635455031369210108
+      uniform_with_apron_36: 638951429378384600
+      uniform_with_apron_37: -2705519144776724898
+      uniform_with_apron_38: -2733509528760030503
+      uniform_with_apron_39: -5332222186580489689
+      uniform_with_apron_4: -5922088078810473903
+      uniform_with_apron_40: 1430401806695806324
+      uniform_with_apron_41: -5063674433457916768
+      uniform_with_apron_42: -9167949421221755151
+      uniform_with_apron_43: -8636077309836704276
+      uniform_with_apron_44: -7511383780426271934
+      uniform_with_apron_45: -3901471337531875580
+      uniform_with_apron_46: 9167067239114057541
+      uniform_with_apron_47: 1531885062403491393
+      uniform_with_apron_5: 7517551788385199731
+      uniform_with_apron_6: -5690250857145073798
+      uniform_with_apron_7: -1168872781932772149
+      uniform_with_apron_8: -7232156518701601825
+      uniform_with_apron_9: 2633783062391184928
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

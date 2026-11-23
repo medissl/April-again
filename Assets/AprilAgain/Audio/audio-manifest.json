@@ -1,0 +1,247 @@
+{
+  "license": "Original project-authored compositions and sound design; no third-party samples.",
+  "assets": [
+    {
+      "id": "bgm_daily",
+      "file": "bgm_daily.wav",
+      "seconds": 21.818,
+      "sampleRate": 22050,
+      "channels": 2,
+      "loop": true,
+      "peak": 0.16159,
+      "rms": 0.03547,
+      "provenance": "Original eight-bar composition; synthesized soft piano-like instrument, no samples"
+    },
+    {
+      "id": "bgm_reflection",
+      "file": "bgm_reflection.wav",
+      "seconds": 28.235,
+      "sampleRate": 22050,
+      "channels": 2,
+      "loop": true,
+      "peak": 0.15167,
+      "rms": 0.02863,
+      "provenance": "Original eight-bar composition; synthesized soft piano-like instrument, no samples"
+    },
+    {
+      "id": "bgm_ending_good",
+      "file": "bgm_ending_good.wav",
+      "seconds": 24.0,
+      "sampleRate": 22050,
+      "channels": 2,
+      "loop": true,
+      "peak": 0.15854,
+      "rms": 0.03299,
+      "provenance": "Original eight-bar composition; synthesized soft piano-like instrument, no samples"
+    },
+    {
+      "id": "bgm_ending_neutral",
+      "file": "bgm_ending_neutral.wav",
+      "seconds": 25.263,
+      "sampleRate": 22050,
+      "channels": 2,
+      "loop": true,
+      "peak": 0.16633,
+      "rms": 0.03265,
+      "provenance": "Original eight-bar composition; synthesized soft piano-like instrument, no samples"
+    },
+    {
+      "id": "bgm_ending_bad",
+      "file": "bgm_ending_bad.wav",
+      "seconds": 29.091,
+      "sampleRate": 22050,
+      "channels": 2,
+      "loop": true,
+      "peak": 0.14906,
+      "rms": 0.02841,
+      "provenance": "Original eight-bar composition; synthesized soft piano-like instrument, no samples"
+    },
+    {
+      "id": "ui_confirm",
+      "file": "ui_confirm.wav",
+      "seconds": 0.17,
+      "sampleRate": 22050,
+      "channels": 2,
+      "loop": false,
+      "peak": 0.14618,
+      "rms": 0.06057,
+      "provenance": "Original procedural sound design"
+    },
+    {
+      "id": "ui_hover",
+      "file": "ui_hover.wav",
+      "seconds": 0.06,
+      "sampleRate": 22050,
+      "channels": 2,
+      "loop": false,
+      "peak": 0.02965,
+      "rms": 0.01335,
+      "provenance": "Original procedural sound design"
+    },
+    {
+      "id": "ui_cancel",
+      "file": "ui_cancel.wav",
+      "seconds": 0.18,
+      "sampleRate": 22050,
+      "channels": 2,
+      "loop": false,
+      "peak": 0.07927,
+      "rms": 0.04379,
+      "provenance": "Original procedural sound design"
+    },
+    {
+      "id": "page_turn",
+      "file": "page_turn.wav",
+      "seconds": 0.48,
+      "sampleRate": 22050,
+      "channels": 2,
+      "loop": false,
+      "peak": 0.31145,
+      "rms": 0.05606,
+      "provenance": "Original procedural sound design"
+    },
+    {
+      "id": "paper",
+      "file": "paper.wav",
+      "seconds": 0.27,
+      "sampleRate": 22050,
+      "channels": 2,
+      "loop": false,
+      "peak": 0.24915,
+      "rms": 0.05057,
+      "provenance": "Original procedural sound design"
+    },
+    {
+      "id": "zip",
+      "file": "zip.wav",
+      "seconds": 0.38,
+      "sampleRate": 22050,
+      "channels": 2,
+      "loop": false,
+      "peak": 0.29624,
+      "rms": 0.05859,
+      "provenance": "Original procedural sound design"
+    },
+    {
+      "id": "cup",
+      "file": "cup.wav",
+      "seconds": 0.28,
+      "sampleRate": 22050,
+      "channels": 2,
+      "loop": false,
+      "peak": 0.1017,
+      "rms": 0.04028,
+      "provenance": "Original procedural sound design"
+    },
+    {
+      "id": "footstep",
+      "file": "footstep.wav",
+      "seconds": 0.19,
+      "sampleRate": 22050,
+      "channels": 2,
+      "loop": false,
+      "peak": 0.04774,
+      "rms": 0.0085,
+      "provenance": "Original procedural sound design"
+    },
+    {
+      "id": "basketball_bounce",
+      "file": "basketball_bounce.wav",
+      "seconds": 0.65,
+      "sampleRate": 22050,
+      "channels": 2,
+      "loop": false,
+      "peak": 0.26352,
+      "rms": 0.04162,
+      "provenance": "Original procedural sound design"
+    },
+    {
+      "id": "basketball_rim",
+      "file": "basketball_rim.wav",
+      "seconds": 0.7,
+      "sampleRate": 22050,
+      "channels": 2,
+      "loop": false,
+      "peak": 0.18402,
+      "rms": 0.05181,
+      "provenance": "Original procedural sound design"
+    },
+    {
+      "id": "door",
+      "file": "door.wav",
+      "seconds": 0.65,
+      "sampleRate": 22050,
+      "channels": 2,
+      "loop": false,
+      "peak": 0.09486,
+      "rms": 0.02869,
+      "provenance": "Original procedural sound design"
+    },
+    {
+      "id": "bag_set_down",
+      "file": "bag_set_down.wav",
+      "seconds": 0.28,
+      "sampleRate": 22050,
+      "channels": 2,
+      "loop": false,
+      "peak": 0.07232,
+      "rms": 0.01244,
+      "provenance": "Original procedural sound design"
+    },
+    {
+      "id": "school_bell",
+      "file": "school_bell.wav",
+      "seconds": 5.0,
+      "sampleRate": 22050,
+      "channels": 2,
+      "loop": false,
+      "peak": 0.17601,
+      "rms": 0.0434,
+      "provenance": "Original procedural sound design"
+    },
+    {
+      "id": "alarm",
+      "file": "alarm.wav",
+      "seconds": 3.0,
+      "sampleRate": 22050,
+      "channels": 2,
+      "loop": false,
+      "peak": 0.09311,
+      "rms": 0.02605,
+      "provenance": "Original procedural sound design"
+    },
+    {
+      "id": "pa_chime",
+      "file": "pa_chime.wav",
+      "seconds": 1.6,
+      "sampleRate": 22050,
+      "channels": 2,
+      "loop": false,
+      "peak": 0.14864,
+      "rms": 0.02755,
+      "provenance": "Original procedural sound design"
+    },
+    {
+      "id": "light_rain",
+      "file": "light_rain.wav",
+      "seconds": 15.0,
+      "sampleRate": 22050,
+      "channels": 2,
+      "loop": true,
+      "peak": 0.27591,
+      "rms": 0.05941,
+      "provenance": "Original procedural sound design"
+    },
+    {
+      "id": "amb_school",
+      "file": "amb_school.wav",
+      "seconds": 15.0,
+      "sampleRate": 22050,
+      "channels": 2,
+      "loop": true,
+      "peak": 0.01918,
+      "rms": 0.00445,
+      "provenance": "Original procedural sound design"
+    }
+  ]
+}

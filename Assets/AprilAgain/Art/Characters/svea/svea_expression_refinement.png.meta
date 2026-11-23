@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 33348e530fbfdfb4a966c3c682286cd9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7222002754622596852
+    second: svea_expression_refinement_0
+  - first:
+      213: 7525349216494407649
+    second: svea_expression_refinement_1
+  - first:
+      213: 4735397417658899679
+    second: svea_expression_refinement_2
+  - first:
+      213: 7548832125533483489
+    second: svea_expression_refinement_3
+  - first:
+      213: 9205142863711502897
+    second: svea_expression_refinement_4
+  - first:
+      213: -2851114764969137363
+    second: svea_expression_refinement_5
+  - first:
+      213: -7611120449448632297
+    second: svea_expression_refinement_6
+  - first:
+      213: 5574942584920190315
+    second: svea_expression_refinement_7
+  - first:
+      213: -2545077354441113343
+    second: svea_expression_refinement_8
+  - first:
+      213: 6219764220827821847
+    second: svea_expression_refinement_9
+  - first:
+      213: 1006366644181887131
+    second: svea_expression_refinement_10
+  - first:
+      213: -5067936471325897480
+    second: svea_expression_refinement_11
+  - first:
+      213: 926654883325989642
+    second: svea_expression_refinement_12
+  - first:
+      213: 6625938451485964502
+    second: svea_expression_refinement_13
+  - first:
+      213: -6635144906056907903
+    second: svea_expression_refinement_14
+  - first:
+      213: -3732358359911725710
+    second: svea_expression_refinement_15
+  - first:
+      213: 8868078862685192471
+    second: svea_expression_refinement_16
+  - first:
+      213: -3941036282692735228
+    second: svea_expression_refinement_17
+  - first:
+      213: -7654993582960759005
+    second: svea_expression_refinement_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: svea_expression_refinement_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 888
+        height: 869
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f62c24dd35b93460800000000000000
+      internalID: 7222002754622596852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: svea_expression_refinement_1
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 777
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efc9ebcd396f6860800000000000000
+      internalID: 7525349216494407649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: svea_expression_refinement_2
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 0
+        width: 840
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc5cd5bcd287b140800000000000000
+      internalID: 4735397417658899679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: svea_expression_refinement_3
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 608
+        width: 123
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1fa7f92d6d2c860800000000000000
+      internalID: 7548832125533483489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: svea_expression_refinement_4
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 610
+        width: 74
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1320f32e9ac3fbf70800000000000000
+      internalID: 9205142863711502897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: svea_expression_refinement_5
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 602
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ba4242a3ece68d0800000000000000
+      internalID: -2851114764969137363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: svea_expression_refinement_6
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 600
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71027e3d64edf5690800000000000000
+      internalID: -7611120449448632297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: svea_expression_refinement_7
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 601
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dad516ebc2e5d40800000000000000
+      internalID: 5574942584920190315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: svea_expression_refinement_8
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 593
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10185aa61a11eacd0800000000000000
+      internalID: -2545077354441113343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: svea_expression_refinement_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 386
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7176029ea9a015650800000000000000
+      internalID: 6219764220827821847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: svea_expression_refinement_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 346
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b986344812557fd00800000000000000
+      internalID: 1006366644181887131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: svea_expression_refinement_11
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 317
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc8f5261a21ba9b0800000000000000
+      internalID: -5067936471325897480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: svea_expression_refinement_12
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 317
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03d60ee4b32cdc00800000000000000
+      internalID: 926654883325989642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: svea_expression_refinement_13
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 297
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d83c687aef04fb50800000000000000
+      internalID: 6625938451485964502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: svea_expression_refinement_14
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 150
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1834c39ccda3be3a0800000000000000
+      internalID: -6635144906056907903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: svea_expression_refinement_15
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 130
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2758007b8dff33cc0800000000000000
+      internalID: -3732358359911725710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: svea_expression_refinement_16
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 114
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71140829dbeb11b70800000000000000
+      internalID: 8868078862685192471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: svea_expression_refinement_17
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 114
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f6c23a160ae49c0800000000000000
+      internalID: -3941036282692735228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: svea_expression_refinement_18
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 61
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32faab9e4eff3c590800000000000000
+      internalID: -7654993582960759005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      svea_expression_refinement_0: 7222002754622596852
+      svea_expression_refinement_1: 7525349216494407649
+      svea_expression_refinement_10: 1006366644181887131
+      svea_expression_refinement_11: -5067936471325897480
+      svea_expression_refinement_12: 926654883325989642
+      svea_expression_refinement_13: 6625938451485964502
+      svea_expression_refinement_14: -6635144906056907903
+      svea_expression_refinement_15: -3732358359911725710
+      svea_expression_refinement_16: 8868078862685192471
+      svea_expression_refinement_17: -3941036282692735228
+      svea_expression_refinement_18: -7654993582960759005
+      svea_expression_refinement_2: 4735397417658899679
+      svea_expression_refinement_3: 7548832125533483489
+      svea_expression_refinement_4: 9205142863711502897
+      svea_expression_refinement_5: -2851114764969137363
+      svea_expression_refinement_6: -7611120449448632297
+      svea_expression_refinement_7: 5574942584920190315
+      svea_expression_refinement_8: -2545077354441113343
+      svea_expression_refinement_9: 6219764220827821847
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

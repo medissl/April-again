@@ -1,0 +1,3484 @@
+fileFormatVersion: 2
+guid: 36516b978d24ba94092c6ff2694df845
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8845196006380080137
+    second: meals_0
+  - first:
+      213: 5925648666195364921
+    second: meals_1
+  - first:
+      213: 6033942755355690546
+    second: meals_2
+  - first:
+      213: -2459750666778831261
+    second: meals_3
+  - first:
+      213: 603289462017548543
+    second: meals_4
+  - first:
+      213: 5961146890306221900
+    second: meals_5
+  - first:
+      213: -6817213202331225459
+    second: meals_6
+  - first:
+      213: -7293437709632132801
+    second: meals_7
+  - first:
+      213: -4483691631527152608
+    second: meals_8
+  - first:
+      213: -1868111766288185719
+    second: meals_9
+  - first:
+      213: -3125869311632647310
+    second: meals_10
+  - first:
+      213: 1182290041654815290
+    second: meals_11
+  - first:
+      213: -8245289037549306028
+    second: meals_12
+  - first:
+      213: -2928196568176872829
+    second: meals_13
+  - first:
+      213: 7697940735606961249
+    second: meals_14
+  - first:
+      213: 3150589538928088599
+    second: meals_15
+  - first:
+      213: -9140351900155025324
+    second: meals_16
+  - first:
+      213: 4825945995481570520
+    second: meals_17
+  - first:
+      213: 2498935279670114585
+    second: meals_18
+  - first:
+      213: 3603728788010998196
+    second: meals_19
+  - first:
+      213: 6535893242539967233
+    second: meals_20
+  - first:
+      213: 820918686321312639
+    second: meals_21
+  - first:
+      213: -1894523357135147216
+    second: meals_22
+  - first:
+      213: 1365446734209118686
+    second: meals_23
+  - first:
+      213: 1619738485929864444
+    second: meals_24
+  - first:
+      213: 5876010537208539066
+    second: meals_25
+  - first:
+      213: 5329176923707176061
+    second: meals_26
+  - first:
+      213: -175523421369368841
+    second: meals_27
+  - first:
+      213: 686628708571450314
+    second: meals_28
+  - first:
+      213: -6217032576110372809
+    second: meals_29
+  - first:
+      213: -1888196458391844027
+    second: meals_30
+  - first:
+      213: 116839192698589694
+    second: meals_31
+  - first:
+      213: -1417256279102037301
+    second: meals_32
+  - first:
+      213: -2725594313210820163
+    second: meals_33
+  - first:
+      213: 24926879010784125
+    second: meals_34
+  - first:
+      213: 1590231126061092129
+    second: meals_35
+  - first:
+      213: 6152322394455320002
+    second: meals_36
+  - first:
+      213: -8588499743350172083
+    second: meals_37
+  - first:
+      213: 8678075802033773855
+    second: meals_38
+  - first:
+      213: -2502099066045246077
+    second: meals_39
+  - first:
+      213: -5492593247466966958
+    second: meals_40
+  - first:
+      213: -1475523301122351158
+    second: meals_41
+  - first:
+      213: -4509161864882021117
+    second: meals_42
+  - first:
+      213: 6728511344463036298
+    second: meals_43
+  - first:
+      213: -2668847542399453215
+    second: meals_44
+  - first:
+      213: -3830630152878152277
+    second: meals_45
+  - first:
+      213: 386440134245602518
+    second: meals_46
+  - first:
+      213: 5273593921078677558
+    second: meals_47
+  - first:
+      213: -8042343379390411070
+    second: meals_48
+  - first:
+      213: -6773204142777478397
+    second: meals_49
+  - first:
+      213: -1897698306357889471
+    second: meals_50
+  - first:
+      213: -6378608186258907543
+    second: meals_51
+  - first:
+      213: -2282201701169807889
+    second: meals_52
+  - first:
+      213: -3332658755593740546
+    second: meals_53
+  - first:
+      213: -2889387823410917026
+    second: meals_54
+  - first:
+      213: -2725473947199257083
+    second: meals_55
+  - first:
+      213: -7197006358347778021
+    second: meals_56
+  - first:
+      213: -9186757303960450096
+    second: meals_57
+  - first:
+      213: 8332191066560041557
+    second: meals_58
+  - first:
+      213: -2562047361437881521
+    second: meals_59
+  - first:
+      213: 81490403568293848
+    second: meals_60
+  - first:
+      213: 7520305549858795613
+    second: meals_61
+  - first:
+      213: -791635634509379461
+    second: meals_62
+  - first:
+      213: -703931084553193648
+    second: meals_63
+  - first:
+      213: -1328146401332527299
+    second: meals_64
+  - first:
+      213: 677711032831829383
+    second: meals_65
+  - first:
+      213: -1058835588638048965
+    second: meals_66
+  - first:
+      213: 3829192185003428607
+    second: meals_67
+  - first:
+      213: 6143353202113967431
+    second: meals_68
+  - first:
+      213: 8392223307065512134
+    second: meals_69
+  - first:
+      213: -1439158929151955959
+    second: meals_70
+  - first:
+      213: -6721157908766689008
+    second: meals_71
+  - first:
+      213: 7741546636574719437
+    second: meals_72
+  - first:
+      213: 7072105285320173349
+    second: meals_73
+  - first:
+      213: 1315438842907255237
+    second: meals_74
+  - first:
+      213: 6896651505704008251
+    second: meals_75
+  - first:
+      213: 1220940138939278928
+    second: meals_76
+  - first:
+      213: 6759428161042761257
+    second: meals_77
+  - first:
+      213: 2332922972083863164
+    second: meals_78
+  - first:
+      213: -7754085146658815410
+    second: meals_79
+  - first:
+      213: 2606006533389962825
+    second: meals_80
+  - first:
+      213: 4519799244495101145
+    second: meals_81
+  - first:
+      213: -6513616249949221002
+    second: meals_82
+  - first:
+      213: -4217177247695997204
+    second: meals_83
+  - first:
+      213: -2268523973034800103
+    second: meals_84
+  - first:
+      213: 1305984823741471990
+    second: meals_85
+  - first:
+      213: 3120595510009767162
+    second: meals_86
+  - first:
+      213: -1701043412723528960
+    second: meals_87
+  - first:
+      213: -3714613475102293472
+    second: meals_88
+  - first:
+      213: 4877942506916074969
+    second: meals_89
+  - first:
+      213: -4881351548221509203
+    second: meals_90
+  - first:
+      213: 4388553470054623093
+    second: meals_91
+  - first:
+      213: -3133523451465609821
+    second: meals_92
+  - first:
+      213: -6132338072328191688
+    second: meals_93
+  - first:
+      213: -6394631411573170026
+    second: meals_94
+  - first:
+      213: -447050948228383382
+    second: meals_95
+  - first:
+      213: 6596937679761420613
+    second: meals_96
+  - first:
+      213: -7685166097915219996
+    second: meals_97
+  - first:
+      213: 338403603092948626
+    second: meals_98
+  - first:
+      213: -6861075008301487131
+    second: meals_99
+  - first:
+      213: -4057175960085592384
+    second: meals_100
+  - first:
+      213: -8545258609905256405
+    second: meals_101
+  - first:
+      213: 5208996412042820008
+    second: meals_102
+  - first:
+      213: 2169153097417073914
+    second: meals_103
+  - first:
+      213: -3194964276816409964
+    second: meals_104
+  - first:
+      213: -4300347806036794232
+    second: meals_105
+  - first:
+      213: 4575055209229508926
+    second: meals_106
+  - first:
+      213: -3755738869281044090
+    second: meals_107
+  - first:
+      213: -6505347075732890268
+    second: meals_108
+  - first:
+      213: 2934850853958425252
+    second: meals_109
+  - first:
+      213: 490655198465990279
+    second: meals_110
+  - first:
+      213: -8741477247137373320
+    second: meals_111
+  - first:
+      213: -759192684657616559
+    second: meals_112
+  - first:
+      213: 4126676316304501685
+    second: meals_113
+  - first:
+      213: -5232285924171032645
+    second: meals_114
+  - first:
+      213: 5076363053445786534
+    second: meals_115
+  - first:
+      213: -634795682863155409
+    second: meals_116
+  - first:
+      213: -7670616739659550
+    second: meals_117
+  - first:
+      213: 8900613652470093262
+    second: meals_118
+  - first:
+      213: 4188991769224040687
+    second: meals_119
+  - first:
+      213: 7929578558488219922
+    second: meals_120
+  - first:
+      213: 4657763374336262414
+    second: meals_121
+  - first:
+      213: 1462591299603319080
+    second: meals_122
+  - first:
+      213: 1994097605379258705
+    second: meals_123
+  - first:
+      213: -4468959296801087999
+    second: meals_124
+  - first:
+      213: 4700661009995534917
+    second: meals_125
+  - first:
+      213: -2295059744692662852
+    second: meals_126
+  - first:
+      213: -7616402314135538609
+    second: meals_127
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: meals_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 485
+        width: 501
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3f207981d8f3580800000000000000
+      internalID: -8845196006380080137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_1
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 952
+        width: 80
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c875401122c3250800000000000000
+      internalID: 5925648666195364921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_2
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 943
+        width: 139
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236840087fedcb350800000000000000
+      internalID: 6033942755355690546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_3
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1013
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3661e960dc53dddd0800000000000000
+      internalID: -2459750666778831261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_4
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 899
+        width: 75
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0ea40c1905f5800800000000000000
+      internalID: 603289462017548543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_5
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 977
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4770a2638f3ab250800000000000000
+      internalID: 5961146890306221900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 943
+        width: 115
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82b1fc26b46461a0800000000000000
+      internalID: -6817213202331225459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_7
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 971
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3920fd9b0188ca90800000000000000
+      internalID: -7293437709632132801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_8
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 991
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024be6c773ab6c1c0800000000000000
+      internalID: -4483691631527152608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_9
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 927
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9864aa90f322316e0800000000000000
+      internalID: -1868111766288185719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_10
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 939
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b57d13c6eae94d0800000000000000
+      internalID: -3125869311632647310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_11
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 893
+        width: 91
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a21526786586010800000000000000
+      internalID: 1182290041654815290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_12
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 927
+        width: 124
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f73764e49d29d80800000000000000
+      internalID: -8245289037549306028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_13
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 926
+        width: 89
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382bc494cb4fc57d0800000000000000
+      internalID: -2928196568176872829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_14
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 845
+        width: 119
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164bcd7405494da60800000000000000
+      internalID: 7697940735606961249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_15
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 935
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716dedc3e7429bb20800000000000000
+      internalID: 3150589538928088599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_16
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 271
+        width: 547
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458613ddf52f62180800000000000000
+      internalID: -9140351900155025324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_17
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 915
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcd5ed505439f240800000000000000
+      internalID: 4825945995481570520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_18
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 910
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919bd6d95600ea220800000000000000
+      internalID: 2498935279670114585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_19
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 399
+        width: 501
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b99e344d34030230800000000000000
+      internalID: 3603728788010998196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_20
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 835
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1038873864824ba50800000000000000
+      internalID: 6535893242539967233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_21
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 822
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7389af123d746b00800000000000000
+      internalID: 820918686321312639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_22
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 839
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f67475b0d45b5e0800000000000000
+      internalID: -1894523357135147216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_23
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 823
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed17040029a03f210800000000000000
+      internalID: 1365446734209118686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_24
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 800
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfce0ea32977a7610800000000000000
+      internalID: 1619738485929864444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_25
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 759
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab764ce7378cb8150800000000000000
+      internalID: 5876010537208539066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_26
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 655
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7476ca4d2a05f940800000000000000
+      internalID: 5329176923707176061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_27
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 657
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe7483d06a609df0800000000000000
+      internalID: -175523421369368841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_28
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 559
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb8cfa2c25678900800000000000000
+      internalID: 686628708571450314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_29
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 547
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738d8efafc9a8b9a0800000000000000
+      internalID: -6217032576110372809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_30
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 561
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b476f3357cbc5e0800000000000000
+      internalID: -1888196458391844027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_31
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 529
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef194a070a81f9100800000000000000
+      internalID: 116839192698589694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_32
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 533
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc26e605ce4e45ce0800000000000000
+      internalID: -1417256279102037301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_33
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 543
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db98e37b96ebc2ad0800000000000000
+      internalID: -2725594313210820163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_34
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 529
+        width: 91
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d730cc84dde885000800000000000000
+      internalID: 24926879010784125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_35
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 559
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d04a3a8c2a11610800000000000000
+      internalID: 1590231126061092129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_36
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 538
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5a0311f90716550800000000000000
+      internalID: 6152322394455320002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_37
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 505
+        width: 93
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46541cbcf48fc880800000000000000
+      internalID: -8588499743350172083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_38
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 541
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1dd22aa6f7be6870800000000000000
+      internalID: 8678075802033773855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_39
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 533
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3855987f722c64dd0800000000000000
+      internalID: -2502099066045246077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_40
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 551
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250b50dda8366c3b0800000000000000
+      internalID: -5492593247466966958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_41
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 527
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf5ac21063e58be0800000000000000
+      internalID: -1475523301122351158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 501
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d18f8ac2d3c61c0800000000000000
+      internalID: -4509161864882021117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_43
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 505
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fb7e92b69706d50800000000000000
+      internalID: 6728511344463036298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_44
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 499
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e73b93ec4956fad0800000000000000
+      internalID: -2668847542399453215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_45
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 535
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba52cc7eb2ed6dac0800000000000000
+      internalID: -3830630152878152277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_46
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 533
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4d9a03149ec5500800000000000000
+      internalID: 386440134245602518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_47
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 517
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630dd830bb19f2940800000000000000
+      internalID: 5273593921078677558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_48
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 532
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce48bd7e4bd36090800000000000000
+      internalID: -8042343379390411070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_49
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 534
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3035b86d7beb002a0800000000000000
+      internalID: -6773204142777478397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_50
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 527
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1467daed1750aa5e0800000000000000
+      internalID: -1897698306357889471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_51
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 519
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e93a066a1aa77a0800000000000000
+      internalID: -6378608186258907543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 519
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed3bf7f4adf350e0800000000000000
+      internalID: -2282201701169807889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 499
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe5d3bd48400c1d0800000000000000
+      internalID: -3332658755593740546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_54
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 519
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51d04f4515d6e7d0800000000000000
+      internalID: -2889387823410917026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_55
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 519
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5064b9c92eb2d2ad0800000000000000
+      internalID: -2725473947199257083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_56
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 498
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18f37439d81f1c90800000000000000
+      internalID: -7197006358347778021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_57
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 513
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db46b3d7e4128080800000000000000
+      internalID: -9186757303960450096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_58
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 511
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5529ef211a3e1a370800000000000000
+      internalID: 8332191066560041557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_59
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 486
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ba4c3cf77c17cd0800000000000000
+      internalID: -2562047361437881521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_60
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 481
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d79a4d1713812100800000000000000
+      internalID: 81490403568293848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_61
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 487
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d507bb5ad0e7d5860800000000000000
+      internalID: 7520305549858795613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_62
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 465
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78078da59b8305f0800000000000000
+      internalID: -791635634509379461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_63
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 501
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057f9de78622b36f0800000000000000
+      internalID: -703931084553193648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_64
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 450
+        width: 107
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f7cd282e9719de0800000000000000
+      internalID: -1328146401332527299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_65
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 495
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785ed4cf796b76900800000000000000
+      internalID: 677711032831829383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 421
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dffaf54a24e41f0800000000000000
+      internalID: -1058835588638048965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_67
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 491
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffac4db1106042530800000000000000
+      internalID: 3829192185003428607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_68
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 479
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745f2cd3033914550800000000000000
+      internalID: 6143353202113967431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_69
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 485
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0d46542aa277470800000000000000
+      internalID: 8392223307065512134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_70
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 485
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ce0943494170ce0800000000000000
+      internalID: -1439158929151955959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_71
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 479
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01977a00e76a9b2a0800000000000000
+      internalID: -6721157908766689008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_72
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 471
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdf72546af7f6b60800000000000000
+      internalID: 7741546636574719437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_73
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 473
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527eba1994a252260800000000000000
+      internalID: 7072105285320173349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 109
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1ec3b78a0614210800000000000000
+      internalID: 1315438842907255237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_75
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 436
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a76212104d5bf50800000000000000
+      internalID: 6896651505704008251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_76
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 475
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056ed796696a1f010800000000000000
+      internalID: 1220940138939278928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_77
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 469
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926c9b779105ecd50800000000000000
+      internalID: 6759428161042761257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_78
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 479
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e386f2515306020800000000000000
+      internalID: 2332922972083863164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_79
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 455
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42c44b54a4f36490800000000000000
+      internalID: -7754085146658815410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_80
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 446
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e4e0982256a2420800000000000000
+      internalID: 2606006533389962825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_81
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 445
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc9538477d89be30800000000000000
+      internalID: 4519799244495101145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_82
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 451
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f8092088cfa95a0800000000000000
+      internalID: -6513616249949221002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_83
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 454
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6783403a39975c0800000000000000
+      internalID: -4217177247695997204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_84
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 455
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c8dc637759480e0800000000000000
+      internalID: -2268523973034800103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_85
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 455
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc592d174acf1210800000000000000
+      internalID: 1305984823741471990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_86
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 443
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4afcd25159e4b20800000000000000
+      internalID: 3120595510009767162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_87
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 453
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b8815570ea468e0800000000000000
+      internalID: -1701043412723528960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_88
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 429
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02206aaa9ba037cc0800000000000000
+      internalID: -3714613475102293472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_89
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 439
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5d2879ddee1b340800000000000000
+      internalID: 4877942506916074969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_90
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 441
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1347021a4f14cb0800000000000000
+      internalID: -4881351548221509203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_91
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 443
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577e964212647ec30800000000000000
+      internalID: 4388553470054623093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_92
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 453
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad4904e50d7384d0800000000000000
+      internalID: -3133523451465609821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_93
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 447
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8314644830f85eaa0800000000000000
+      internalID: -6132338072328191688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_94
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 449
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69060a38c94b147a0800000000000000
+      internalID: -6394631411573170026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_95
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 451
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d785af781cbc9f0800000000000000
+      internalID: -447050948228383382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_96
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 0
+        width: 485
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541b19f1ed70d8b50800000000000000
+      internalID: 6596937679761420613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_97
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 397
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef63e5d62ec85590800000000000000
+      internalID: -7685166097915219996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_98
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 407
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2964119b84042b400800000000000000
+      internalID: 338403603092948626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_99
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 397
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb21e8a1a098c0a0800000000000000
+      internalID: -6861075008301487131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_100
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 401
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c608dbc5f302b7c0800000000000000
+      internalID: -4057175960085592384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_101
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 407
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28bfbaa194296980800000000000000
+      internalID: -8545258609905256405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_102
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 401
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9b81863a21a4840800000000000000
+      internalID: 5208996412042820008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_103
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 367
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4abfadf316a1e10800000000000000
+      internalID: 2169153097417073914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_104
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 0
+        width: 484
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a8b4afae439a3d0800000000000000
+      internalID: -3194964276816409964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_105
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 179
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884eb8264781254c0800000000000000
+      internalID: -4300347806036794232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_106
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 193
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31eced197cdd7f30800000000000000
+      internalID: 4575055209229508926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_107
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 89
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689406ba56fe0ebc0800000000000000
+      internalID: -3755738869281044090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_108
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 85
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d905a2d4d58b5a0800000000000000
+      internalID: -6505347075732890268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_109
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 65
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa91fa5d4faab820800000000000000
+      internalID: 2934850853958425252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_110
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 61
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e93cbad482fc600800000000000000
+      internalID: 490655198465990279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_111
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 71
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873a73012c800b680800000000000000
+      internalID: -8741477247137373320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_112
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 67
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15958e2964ec675f0800000000000000
+      internalID: -759192684657616559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_113
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 53
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbe850ee36e44930800000000000000
+      internalID: 4126676316304501685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_114
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 17
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7528e7caf2367b0800000000000000
+      internalID: -5232285924171032645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_115
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 47
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abad872d4dd27640800000000000000
+      internalID: 5076363053445786534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_116
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 35
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f277df190b0c037f0800000000000000
+      internalID: -634795682863155409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_117
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 37
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0460e5d9fb4eff0800000000000000
+      internalID: -7670616739659550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_118
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 39
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5d87e95f4558b70800000000000000
+      internalID: 8900613652470093262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_119
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 37
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe052a3e1d9422a30800000000000000
+      internalID: 4188991769224040687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_120
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 45
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2119e3dafa58b0e60800000000000000
+      internalID: 7929578558488219922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_121
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 21
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01432f6c13b3a040800000000000000
+      internalID: 4657763374336262414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_122
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 37
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829ce60b90b2c4410800000000000000
+      internalID: 1462591299603319080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_123
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 39
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1597618f4357cab10800000000000000
+      internalID: 1994097605379258705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_124
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 31
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10edd7672311bf1c0800000000000000
+      internalID: -4468959296801087999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_125
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 23
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542105e884a1c3140800000000000000
+      internalID: 4700661009995534917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_126
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 21
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd8b4b625f4620e0800000000000000
+      internalID: -2295059744692662852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meals_127
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 0
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44fc7fd27a1d4690800000000000000
+      internalID: -7616402314135538609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      meals_0: -8845196006380080137
+      meals_1: 5925648666195364921
+      meals_10: -3125869311632647310
+      meals_100: -4057175960085592384
+      meals_101: -8545258609905256405
+      meals_102: 5208996412042820008
+      meals_103: 2169153097417073914
+      meals_104: -3194964276816409964
+      meals_105: -4300347806036794232
+      meals_106: 4575055209229508926
+      meals_107: -3755738869281044090
+      meals_108: -6505347075732890268
+      meals_109: 2934850853958425252
+      meals_11: 1182290041654815290
+      meals_110: 490655198465990279
+      meals_111: -8741477247137373320
+      meals_112: -759192684657616559
+      meals_113: 4126676316304501685
+      meals_114: -5232285924171032645
+      meals_115: 5076363053445786534
+      meals_116: -634795682863155409
+      meals_117: -7670616739659550
+      meals_118: 8900613652470093262
+      meals_119: 4188991769224040687
+      meals_12: -8245289037549306028
+      meals_120: 7929578558488219922
+      meals_121: 4657763374336262414
+      meals_122: 1462591299603319080
+      meals_123: 1994097605379258705
+      meals_124: -4468959296801087999
+      meals_125: 4700661009995534917
+      meals_126: -2295059744692662852
+      meals_127: -7616402314135538609
+      meals_13: -2928196568176872829
+      meals_14: 7697940735606961249
+      meals_15: 3150589538928088599
+      meals_16: -9140351900155025324
+      meals_17: 4825945995481570520
+      meals_18: 2498935279670114585
+      meals_19: 3603728788010998196
+      meals_2: 6033942755355690546
+      meals_20: 6535893242539967233
+      meals_21: 820918686321312639
+      meals_22: -1894523357135147216
+      meals_23: 1365446734209118686
+      meals_24: 1619738485929864444
+      meals_25: 5876010537208539066
+      meals_26: 5329176923707176061
+      meals_27: -175523421369368841
+      meals_28: 686628708571450314
+      meals_29: -6217032576110372809
+      meals_3: -2459750666778831261
+      meals_30: -1888196458391844027
+      meals_31: 116839192698589694
+      meals_32: -1417256279102037301
+      meals_33: -2725594313210820163
+      meals_34: 24926879010784125
+      meals_35: 1590231126061092129
+      meals_36: 6152322394455320002
+      meals_37: -8588499743350172083
+      meals_38: 8678075802033773855
+      meals_39: -2502099066045246077
+      meals_4: 603289462017548543
+      meals_40: -5492593247466966958
+      meals_41: -1475523301122351158
+      meals_42: -4509161864882021117
+      meals_43: 6728511344463036298
+      meals_44: -2668847542399453215
+      meals_45: -3830630152878152277
+      meals_46: 386440134245602518
+      meals_47: 5273593921078677558
+      meals_48: -8042343379390411070
+      meals_49: -6773204142777478397
+      meals_5: 5961146890306221900
+      meals_50: -1897698306357889471
+      meals_51: -6378608186258907543
+      meals_52: -2282201701169807889
+      meals_53: -3332658755593740546
+      meals_54: -2889387823410917026
+      meals_55: -2725473947199257083
+      meals_56: -7197006358347778021
+      meals_57: -9186757303960450096
+      meals_58: 8332191066560041557
+      meals_59: -2562047361437881521
+      meals_6: -6817213202331225459
+      meals_60: 81490403568293848
+      meals_61: 7520305549858795613
+      meals_62: -791635634509379461
+      meals_63: -703931084553193648
+      meals_64: -1328146401332527299
+      meals_65: 677711032831829383
+      meals_66: -1058835588638048965
+      meals_67: 3829192185003428607
+      meals_68: 6143353202113967431
+      meals_69: 8392223307065512134
+      meals_7: -7293437709632132801
+      meals_70: -1439158929151955959
+      meals_71: -6721157908766689008
+      meals_72: 7741546636574719437
+      meals_73: 7072105285320173349
+      meals_74: 1315438842907255237
+      meals_75: 6896651505704008251
+      meals_76: 1220940138939278928
+      meals_77: 6759428161042761257
+      meals_78: 2332922972083863164
+      meals_79: -7754085146658815410
+      meals_8: -4483691631527152608
+      meals_80: 2606006533389962825
+      meals_81: 4519799244495101145
+      meals_82: -6513616249949221002
+      meals_83: -4217177247695997204
+      meals_84: -2268523973034800103
+      meals_85: 1305984823741471990
+      meals_86: 3120595510009767162
+      meals_87: -1701043412723528960
+      meals_88: -3714613475102293472
+      meals_89: 4877942506916074969
+      meals_9: -1868111766288185719
+      meals_90: -4881351548221509203
+      meals_91: 4388553470054623093
+      meals_92: -3133523451465609821
+      meals_93: -6132338072328191688
+      meals_94: -6394631411573170026
+      meals_95: -447050948228383382
+      meals_96: 6596937679761420613
+      meals_97: -7685166097915219996
+      meals_98: 338403603092948626
+      meals_99: -6861075008301487131
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

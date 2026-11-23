@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: ae00e24ade9ff8b498ad103fab65913a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1420682315626740282
+    second: snacks_0
+  - first:
+      213: -3266481743949625274
+    second: snacks_1
+  - first:
+      213: 3626932856893037757
+    second: snacks_2
+  - first:
+      213: -3429626253035837133
+    second: snacks_3
+  - first:
+      213: 4705832004180782951
+    second: snacks_4
+  - first:
+      213: 7511750618063876256
+    second: snacks_5
+  - first:
+      213: 6498371017968081684
+    second: snacks_6
+  - first:
+      213: 177748627398986276
+    second: snacks_7
+  - first:
+      213: -1088637891907939388
+    second: snacks_8
+  - first:
+      213: -6406405529203793585
+    second: snacks_9
+  - first:
+      213: 6495689100430257185
+    second: snacks_10
+  - first:
+      213: 5668133739256513264
+    second: snacks_11
+  - first:
+      213: 3301111551532748894
+    second: snacks_12
+  - first:
+      213: 1726047766288688678
+    second: snacks_13
+  - first:
+      213: -2489018618435528164
+    second: snacks_14
+  - first:
+      213: -6085756064753046024
+    second: snacks_15
+  - first:
+      213: -4093691009925312118
+    second: snacks_16
+  - first:
+      213: -4272433987133818535
+    second: snacks_17
+  - first:
+      213: -5489015022040822106
+    second: snacks_18
+  - first:
+      213: -4011683944104079053
+    second: snacks_19
+  - first:
+      213: 6528720922337709387
+    second: snacks_20
+  - first:
+      213: 3694745544240025816
+    second: snacks_21
+  - first:
+      213: 6822151825394596103
+    second: snacks_22
+  - first:
+      213: -4929117905200767572
+    second: snacks_23
+  - first:
+      213: -5195629785899825481
+    second: snacks_24
+  - first:
+      213: 1135640370718596545
+    second: snacks_25
+  - first:
+      213: 2276112784382820634
+    second: snacks_26
+  - first:
+      213: 2254822994161455003
+    second: snacks_27
+  - first:
+      213: -1956526243664284312
+    second: snacks_28
+  - first:
+      213: -2948119882351981648
+    second: snacks_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: snacks_0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1012
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a7c99f90747b310800000000000000
+      internalID: 1420682315626740282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snacks_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 991
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648859219202ba2d0800000000000000
+      internalID: -3266481743949625274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snacks_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 959
+        width: 93
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc5d4f8734755230800000000000000
+      internalID: 3626932856893037757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snacks_3
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 1193
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339e17308158760d0800000000000000
+      internalID: -3429626253035837133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snacks_4
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1004
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f2cd576497e4140800000000000000
+      internalID: 4705832004180782951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snacks_5
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 969
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0b40f53691f3860800000000000000
+      internalID: 7511750618063876256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snacks_6
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1013
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b5ea0d20ade2a50800000000000000
+      internalID: 6498371017968081684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snacks_7
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1009
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a0e635f6d777200800000000000000
+      internalID: 177748627398986276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snacks_8
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 519
+        width: 224
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c31ccbea9164e0f0800000000000000
+      internalID: -1088637891907939388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snacks_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 522
+        width: 491
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41a5b02d10e717a0800000000000000
+      internalID: -6406405529203793585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snacks_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 979
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ca58a32d2552a50800000000000000
+      internalID: 6495689100430257185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snacks_11
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 933
+        width: 123
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f28ac3da9149ae40800000000000000
+      internalID: 5668133739256513264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snacks_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 879
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e505c015777efcd20800000000000000
+      internalID: 3301111551532748894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snacks_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 867
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6266ef66c4724f710800000000000000
+      internalID: 1726047766288688678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snacks_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 394
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a11d001ca357dd0800000000000000
+      internalID: -2489018618435528164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snacks_15
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 513
+        width: 105
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd27b25a1d0b8ba0800000000000000
+      internalID: -6085756064753046024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snacks_16
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 533
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81113d37b94037c0800000000000000
+      internalID: -4093691009925312118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snacks_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 446
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959359ecce345b4c0800000000000000
+      internalID: -4272433987133818535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snacks_18
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 451
+        width: 97
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae49746be913d3b0800000000000000
+      internalID: -5489015022040822106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snacks_19
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 441
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331d98825b2a358c0800000000000000
+      internalID: -4011683944104079053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snacks_20
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 411
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d8995961daa9a50800000000000000
+      internalID: 6528720922337709387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snacks_21
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 219
+        width: 58
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d052e33f7f564330800000000000000
+      internalID: 3694745544240025816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snacks_22
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 207
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7097d6c90f62dae50800000000000000
+      internalID: 6822151825394596103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snacks_23
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 193
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad9d7c7161489bb0800000000000000
+      internalID: -4929117905200767572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snacks_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 5
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b68003cc3a65e7b0800000000000000
+      internalID: -5195629785899825481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snacks_25
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 49
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd564976ea92cf00800000000000000
+      internalID: 1135640370718596545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snacks_26
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a110ddd9480669f10800000000000000
+      internalID: 2276112784382820634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snacks_27
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 24
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f406e019dba4f10800000000000000
+      internalID: 2254822994161455003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snacks_28
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 29
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86539ac5fb509d4e0800000000000000
+      internalID: -1956526243664284312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snacks_29
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 23
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbc429369c2617d0800000000000000
+      internalID: -2948119882351981648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      snacks_0: 1420682315626740282
+      snacks_1: -3266481743949625274
+      snacks_10: 6495689100430257185
+      snacks_11: 5668133739256513264
+      snacks_12: 3301111551532748894
+      snacks_13: 1726047766288688678
+      snacks_14: -2489018618435528164
+      snacks_15: -6085756064753046024
+      snacks_16: -4093691009925312118
+      snacks_17: -4272433987133818535
+      snacks_18: -5489015022040822106
+      snacks_19: -4011683944104079053
+      snacks_2: 3626932856893037757
+      snacks_20: 6528720922337709387
+      snacks_21: 3694745544240025816
+      snacks_22: 6822151825394596103
+      snacks_23: -4929117905200767572
+      snacks_24: -5195629785899825481
+      snacks_25: 1135640370718596545
+      snacks_26: 2276112784382820634
+      snacks_27: 2254822994161455003
+      snacks_28: -1956526243664284312
+      snacks_29: -2948119882351981648
+      snacks_3: -3429626253035837133
+      snacks_4: 4705832004180782951
+      snacks_5: 7511750618063876256
+      snacks_6: 6498371017968081684
+      snacks_7: 177748627398986276
+      snacks_8: -1088637891907939388
+      snacks_9: -6406405529203793585
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

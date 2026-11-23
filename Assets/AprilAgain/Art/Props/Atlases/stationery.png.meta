@@ -1,0 +1,2938 @@
+fileFormatVersion: 2
+guid: f18aec4946185f54cbcfc498cfce0fcd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5965367340976189718
+    second: stationery_0
+  - first:
+      213: 8595466789155040289
+    second: stationery_1
+  - first:
+      213: 2187922964545486619
+    second: stationery_2
+  - first:
+      213: 3473603346456652020
+    second: stationery_3
+  - first:
+      213: 551081170628898023
+    second: stationery_4
+  - first:
+      213: -956062240616895895
+    second: stationery_5
+  - first:
+      213: -8963921421874930747
+    second: stationery_6
+  - first:
+      213: -6403631213275508804
+    second: stationery_7
+  - first:
+      213: 4451591031298706536
+    second: stationery_8
+  - first:
+      213: 2496578734481654031
+    second: stationery_9
+  - first:
+      213: 6561576375157761818
+    second: stationery_10
+  - first:
+      213: -2802477231692425099
+    second: stationery_11
+  - first:
+      213: 1665176274142014912
+    second: stationery_12
+  - first:
+      213: -2527661970973227995
+    second: stationery_13
+  - first:
+      213: 7812549242267766033
+    second: stationery_14
+  - first:
+      213: 313199012229427682
+    second: stationery_15
+  - first:
+      213: -1475901944780247293
+    second: stationery_16
+  - first:
+      213: -1599899450300108304
+    second: stationery_17
+  - first:
+      213: 2063418307543908268
+    second: stationery_18
+  - first:
+      213: -5080265360496713889
+    second: stationery_19
+  - first:
+      213: -2629000947004136252
+    second: stationery_20
+  - first:
+      213: 1021975486469786311
+    second: stationery_21
+  - first:
+      213: -3339879689381194249
+    second: stationery_22
+  - first:
+      213: 8445689578175501668
+    second: stationery_23
+  - first:
+      213: 4048009941879167996
+    second: stationery_24
+  - first:
+      213: -6958174136459965213
+    second: stationery_25
+  - first:
+      213: -2198736153597552840
+    second: stationery_26
+  - first:
+      213: -520111923907186183
+    second: stationery_27
+  - first:
+      213: -6348223997932543309
+    second: stationery_28
+  - first:
+      213: -5095926445488518444
+    second: stationery_29
+  - first:
+      213: 11441800071927428
+    second: stationery_30
+  - first:
+      213: -7733360966895270501
+    second: stationery_31
+  - first:
+      213: -7490911296035751448
+    second: stationery_32
+  - first:
+      213: -707773511828959107
+    second: stationery_33
+  - first:
+      213: -4601719891306026738
+    second: stationery_34
+  - first:
+      213: 2878454947318563641
+    second: stationery_35
+  - first:
+      213: -4630228954728552951
+    second: stationery_36
+  - first:
+      213: -7255072706851732854
+    second: stationery_37
+  - first:
+      213: 1153815638300979445
+    second: stationery_38
+  - first:
+      213: 7278283009895092270
+    second: stationery_39
+  - first:
+      213: -6915767298718714968
+    second: stationery_40
+  - first:
+      213: 3710378084378723510
+    second: stationery_41
+  - first:
+      213: -5482720132736741755
+    second: stationery_42
+  - first:
+      213: -4224620310361028296
+    second: stationery_43
+  - first:
+      213: 8561568190312796305
+    second: stationery_44
+  - first:
+      213: -919813016580989263
+    second: stationery_45
+  - first:
+      213: 1171586129979602545
+    second: stationery_46
+  - first:
+      213: 4977906528018301485
+    second: stationery_47
+  - first:
+      213: 7884473676157266433
+    second: stationery_48
+  - first:
+      213: -3605196301681228299
+    second: stationery_49
+  - first:
+      213: -5730441485682915803
+    second: stationery_50
+  - first:
+      213: 6299866908107854963
+    second: stationery_51
+  - first:
+      213: -6941936703575287926
+    second: stationery_52
+  - first:
+      213: 5540874497155061835
+    second: stationery_53
+  - first:
+      213: -3148645968236581657
+    second: stationery_54
+  - first:
+      213: 9090679160794747660
+    second: stationery_55
+  - first:
+      213: -8089351225861298809
+    second: stationery_56
+  - first:
+      213: 2265855784073535975
+    second: stationery_57
+  - first:
+      213: 2616472420531658952
+    second: stationery_58
+  - first:
+      213: -972128319058477155
+    second: stationery_59
+  - first:
+      213: -5945411991396242439
+    second: stationery_60
+  - first:
+      213: 2424074891743694387
+    second: stationery_61
+  - first:
+      213: 315798285068608812
+    second: stationery_62
+  - first:
+      213: 6688648015109871279
+    second: stationery_63
+  - first:
+      213: 3753594939036510611
+    second: stationery_64
+  - first:
+      213: -1405065706056580012
+    second: stationery_65
+  - first:
+      213: 640469746310946839
+    second: stationery_66
+  - first:
+      213: -5967679244394926873
+    second: stationery_67
+  - first:
+      213: -4679487729395486341
+    second: stationery_68
+  - first:
+      213: 6366787888546671329
+    second: stationery_69
+  - first:
+      213: -5296059853577524437
+    second: stationery_70
+  - first:
+      213: 8708635892418912204
+    second: stationery_71
+  - first:
+      213: -1567473133995254940
+    second: stationery_72
+  - first:
+      213: -2359750321478048982
+    second: stationery_73
+  - first:
+      213: -3508665650311912965
+    second: stationery_74
+  - first:
+      213: -7574815223924920415
+    second: stationery_75
+  - first:
+      213: -1094325581111556047
+    second: stationery_76
+  - first:
+      213: -4891862658286030933
+    second: stationery_77
+  - first:
+      213: -4413075642526474456
+    second: stationery_78
+  - first:
+      213: -5649701531544050643
+    second: stationery_79
+  - first:
+      213: 8239247402583055941
+    second: stationery_80
+  - first:
+      213: -6371709568367657215
+    second: stationery_81
+  - first:
+      213: -2799763664479601296
+    second: stationery_82
+  - first:
+      213: 6914664169232620921
+    second: stationery_83
+  - first:
+      213: -2703754688809980144
+    second: stationery_84
+  - first:
+      213: 4472227455544272474
+    second: stationery_85
+  - first:
+      213: -6024409706398497127
+    second: stationery_86
+  - first:
+      213: -4393966759266297126
+    second: stationery_87
+  - first:
+      213: 5860572779157367211
+    second: stationery_88
+  - first:
+      213: 1052629918982572920
+    second: stationery_89
+  - first:
+      213: 7827679720206109402
+    second: stationery_90
+  - first:
+      213: -7330870132704558966
+    second: stationery_91
+  - first:
+      213: -140750461626451648
+    second: stationery_92
+  - first:
+      213: -3129697410770018501
+    second: stationery_93
+  - first:
+      213: -3788472365888011256
+    second: stationery_94
+  - first:
+      213: -1310817232487854811
+    second: stationery_95
+  - first:
+      213: -6917005814767211735
+    second: stationery_96
+  - first:
+      213: -2820678989216629077
+    second: stationery_97
+  - first:
+      213: 7571783720995978216
+    second: stationery_98
+  - first:
+      213: -5970328517856940648
+    second: stationery_99
+  - first:
+      213: 6817280135459302075
+    second: stationery_100
+  - first:
+      213: 1491578437641586895
+    second: stationery_101
+  - first:
+      213: -8592781342247470975
+    second: stationery_102
+  - first:
+      213: 7467451274032475936
+    second: stationery_103
+  - first:
+      213: -3768284423786169411
+    second: stationery_104
+  - first:
+      213: -4928988623786089472
+    second: stationery_105
+  - first:
+      213: 4385714655414062977
+    second: stationery_106
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stationery_0
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 465
+        width: 549
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6113a91adfd39c250800000000000000
+      internalID: 5965367340976189718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_1
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1015
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ce046018b394770800000000000000
+      internalID: 8595466789155040289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_2
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1015
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f37a918501d5e10800000000000000
+      internalID: 2187922964545486619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_3
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1013
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f82824f6d7b43030800000000000000
+      internalID: 3473603346456652020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_4
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1009
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecedb9a765d5a700800000000000000
+      internalID: 551081170628898023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_5
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 967
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96aadd425726bb2f0800000000000000
+      internalID: -956062240616895895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_6
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 979
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb51aea5f0c99380800000000000000
+      internalID: -8963921421874930747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_7
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1005
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf0c14e65bb127a0800000000000000
+      internalID: -6403631213275508804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 447
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ccfd9157a37cd30800000000000000
+      internalID: 4451591031298706536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 951
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01c29ea121a5a220800000000000000
+      internalID: 2496578734481654031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 989
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17afdfc2f66f0b50800000000000000
+      internalID: 6561576375157761818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_11
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 990
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5785ad15ec99b19d0800000000000000
+      internalID: -2802477231692425099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_12
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 925
+        width: 65
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cda4a4bff4eb1710800000000000000
+      internalID: 1665176274142014912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_13
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 913
+        width: 127
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52480eb54d0fbecd0800000000000000
+      internalID: -2527661970973227995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_14
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 999
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d0e97a420cb6c60800000000000000
+      internalID: 7812549242267766033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_15
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 977
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e130fb97d4b85400800000000000000
+      internalID: 313199012229427682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_16
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 982
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fa01a300b848be0800000000000000
+      internalID: -1475901944780247293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_17
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 983
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1f4843de30cc9e0800000000000000
+      internalID: -1599899450300108304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_18
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 965
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf313ca40cb2ac10800000000000000
+      internalID: 2063418307543908268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_19
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 981
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f1fde22954f79b0800000000000000
+      internalID: -5080265360496713889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_20
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 991
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c427a75199e38bd0800000000000000
+      internalID: -2629000947004136252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_21
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 975
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca40305a49ce2e00800000000000000
+      internalID: 1021975486469786311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_22
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 975
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f554e13e1d56a1d0800000000000000
+      internalID: -3339879689381194249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_23
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 687
+        width: 127
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4659e569ced153570800000000000000
+      internalID: 8445689578175501668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_24
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 399
+        width: 493
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb15f8489b6d2830800000000000000
+      internalID: 4048009941879167996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_25
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 983
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec4ef62d799f6f90800000000000000
+      internalID: -6958174136459965213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_26
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 979
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83752022e158c71e0800000000000000
+      internalID: -2198736153597552840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_27
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 987
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1311cf5f038c8f0800000000000000
+      internalID: -520111923907186183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_28
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 991
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2ee9088e396e7a0800000000000000
+      internalID: -6348223997932543309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_29
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 999
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da432fa5e1a749b0800000000000000
+      internalID: -5095926445488518444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_30
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 997
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486d0eca146a82000800000000000000
+      internalID: 11441800071927428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_31
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 981
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9506587c259da490800000000000000
+      internalID: -7733360966895270501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_32
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 992
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9f3d36ddfea0890800000000000000
+      internalID: -7490911296035751448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_33
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 979
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70110eadbb7d26f0800000000000000
+      internalID: -707773511828959107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_34
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 985
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09eadac3286320c0800000000000000
+      internalID: -4601719891306026738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_35
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 979
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93383ec168352f720800000000000000
+      internalID: 2878454947318563641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_36
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 967
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9062da43c4f1ebfb0800000000000000
+      internalID: -4630228954728552951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_37
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 933
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a828878efcdc05b90800000000000000
+      internalID: -7255072706851732854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_38
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 927
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f07839b53d230010800000000000000
+      internalID: 1153815638300979445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_39
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 903
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20de83e5d7a10560800000000000000
+      internalID: 7278283009895092270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_40
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 927
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3bb9a78424600a0800000000000000
+      internalID: -6915767298718714968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_41
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 887
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4c9c59539ed7330800000000000000
+      internalID: 3710378084378723510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_42
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 897
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e0855861779e3b0800000000000000
+      internalID: -5482720132736741755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_43
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 865
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839c702f5322f55c0800000000000000
+      internalID: -4224620310361028296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_44
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 773
+        width: 43
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190d0ef68ecc0d670800000000000000
+      internalID: 8561568190312796305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_45
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 791
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bed8ee4fea2c33f0800000000000000
+      internalID: -919813016580989263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_46
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 703
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176753db06f424010800000000000000
+      internalID: 1171586129979602545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_47
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 694
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2201a7fc93151540800000000000000
+      internalID: 4977906528018301485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_48
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 681
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10aa544e8074b6d60800000000000000
+      internalID: 7884473676157266433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_49
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 661
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f50db49015c7fdc0800000000000000
+      internalID: -3605196301681228299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_50
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 611
+        width: 34
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52645b774d16970b0800000000000000
+      internalID: -5730441485682915803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_51
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 597
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374d106239f9d6750800000000000000
+      internalID: 6299866908107854963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_52
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 608
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87162a195949af90800000000000000
+      internalID: -6941936703575287926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_53
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 551
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48d2f39ff325ec40800000000000000
+      internalID: 5540874497155061835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_54
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 559
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eceac39c23cd44d0800000000000000
+      internalID: -3148645968236581657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_55
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 573
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0397324884982e70800000000000000
+      internalID: 9090679160794747660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_56
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 497
+        width: 99
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785aa275be9dcbf80800000000000000
+      internalID: -8089351225861298809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_57
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 561
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1a7f1a4dfe17f10800000000000000
+      internalID: 2265855784073535975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_58
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 551
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c06566cdc39f4420800000000000000
+      internalID: 2616472420531658952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_59
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 527
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ffb62c17e4282f0800000000000000
+      internalID: -972128319058477155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_60
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 456
+        width: 175
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbaa714b47ad7da0800000000000000
+      internalID: -5945411991396242439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_61
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 514
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e835f454b04a120800000000000000
+      internalID: 2424074891743694387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_62
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 501
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25213afdd0f16400800000000000000
+      internalID: 315798285068608812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_63
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 510
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6de388ee9d2dc50800000000000000
+      internalID: 6688648015109871279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_64
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 15
+        width: 441
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399a9fba5b2771430800000000000000
+      internalID: 3753594939036510611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_65
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 487
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4540a684f24308ce0800000000000000
+      internalID: -1405065706056580012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_66
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 475
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710af3647d763e800800000000000000
+      internalID: 640469746310946839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_67
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 453
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec6e58685b8e2da0800000000000000
+      internalID: -5967679244394926873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_68
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 473
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71359ef3be1f0fb0800000000000000
+      internalID: -4679487729395486341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_69
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 481
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea65191adf5b5850800000000000000
+      internalID: 6366787888546671329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_70
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 479
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bed467f9d9086b0800000000000000
+      internalID: -5296059853577524437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_71
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 487
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf98dd243a4bd870800000000000000
+      internalID: 8708635892418912204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_72
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 463
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b9e3d4d773f3ae0800000000000000
+      internalID: -1567473133995254940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_73
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 415
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23efa9c59b704fd0800000000000000
+      internalID: -2359750321478048982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_74
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 419
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf12b854e27be4fc0800000000000000
+      internalID: -3508665650311912965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_75
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 439
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afebbadfa9d0e690800000000000000
+      internalID: -7574815223924920415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_76
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 401
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13809359eac20d0f0800000000000000
+      internalID: -1094325581111556047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_77
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 423
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafecda94dc9c1cb0800000000000000
+      internalID: -4891862658286030933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_78
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 427
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fd748a51b91c2c0800000000000000
+      internalID: -4413075642526474456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_79
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 351
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d242655f36a3891b0800000000000000
+      internalID: -5649701531544050643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_80
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 423
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ed587fbdfa75270800000000000000
+      internalID: 8239247402583055941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_81
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 407
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ffc7508e32397a0800000000000000
+      internalID: -6371709568367657215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_82
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 411
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07db5abe7cd3529d0800000000000000
+      internalID: -2799763664479601296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_83
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 404
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d5b3c2d62d5ff50800000000000000
+      internalID: 6914664169232620921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_84
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 19
+        width: 503
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f2fa58f655a7ad0800000000000000
+      internalID: -2703754688809980144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_85
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 317
+        width: 36
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56277a0d2b801e30800000000000000
+      internalID: 4472227455544272474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_86
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 387
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996c3bc6a4ff46ca0800000000000000
+      internalID: -6024409706398497127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_87
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 377
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adade0f338e7503c0800000000000000
+      internalID: -4393966759266297126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_88
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 365
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9aff954efe45150800000000000000
+      internalID: 5860572779157367211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_89
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 322
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b87e09551bb9e00800000000000000
+      internalID: 1052629918982572920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_90
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 335
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada0a629b3181ac60800000000000000
+      internalID: 7827679720206109402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_91
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 197
+        width: 57
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80cf957474834a90800000000000000
+      internalID: -7330870132704558966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_92
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 189
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04978cc6334fb0ef0800000000000000
+      internalID: -140750461626451648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_93
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 139
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fd79869c41194d0800000000000000
+      internalID: -3129697410770018501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_94
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 167
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8048cd59474ac6bc0800000000000000
+      internalID: -3788472365888011256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_95
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 131
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dc91c0caa0fcde0800000000000000
+      internalID: -1310817232487854811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_96
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 75
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b2d7dfbdbd100a0800000000000000
+      internalID: -6917005814767211735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_97
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 97
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baeb556676fead8d0800000000000000
+      internalID: -2820678989216629077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_98
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2
+        width: 105
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebfc0e5d21641960800000000000000
+      internalID: 7571783720995978216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_99
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 63
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89da0cc58d1252da0800000000000000
+      internalID: -5970328517856940648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_100
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 67
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbae068e928db9e50800000000000000
+      internalID: 6817280135459302075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_101
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 27
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc84242bfa623b410800000000000000
+      internalID: 1491578437641586895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_102
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 70
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1883cbe45ee40c880800000000000000
+      internalID: -8592781342247470975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_103
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 33
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f6e369e57b1a760800000000000000
+      internalID: 7467451274032475936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_104
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 0
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb7693284d54bbc0800000000000000
+      internalID: -3768284423786169411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_105
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 16
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004e94926f6b89bb0800000000000000
+      internalID: -4928988623786089472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stationery_106
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 13
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f0e2a1e303ddc30800000000000000
+      internalID: 4385714655414062977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      stationery_0: 5965367340976189718
+      stationery_1: 8595466789155040289
+      stationery_10: 6561576375157761818
+      stationery_100: 6817280135459302075
+      stationery_101: 1491578437641586895
+      stationery_102: -8592781342247470975
+      stationery_103: 7467451274032475936
+      stationery_104: -3768284423786169411
+      stationery_105: -4928988623786089472
+      stationery_106: 4385714655414062977
+      stationery_11: -2802477231692425099
+      stationery_12: 1665176274142014912
+      stationery_13: -2527661970973227995
+      stationery_14: 7812549242267766033
+      stationery_15: 313199012229427682
+      stationery_16: -1475901944780247293
+      stationery_17: -1599899450300108304
+      stationery_18: 2063418307543908268
+      stationery_19: -5080265360496713889
+      stationery_2: 2187922964545486619
+      stationery_20: -2629000947004136252
+      stationery_21: 1021975486469786311
+      stationery_22: -3339879689381194249
+      stationery_23: 8445689578175501668
+      stationery_24: 4048009941879167996
+      stationery_25: -6958174136459965213
+      stationery_26: -2198736153597552840
+      stationery_27: -520111923907186183
+      stationery_28: -6348223997932543309
+      stationery_29: -5095926445488518444
+      stationery_3: 3473603346456652020
+      stationery_30: 11441800071927428
+      stationery_31: -7733360966895270501
+      stationery_32: -7490911296035751448
+      stationery_33: -707773511828959107
+      stationery_34: -4601719891306026738
+      stationery_35: 2878454947318563641
+      stationery_36: -4630228954728552951
+      stationery_37: -7255072706851732854
+      stationery_38: 1153815638300979445
+      stationery_39: 7278283009895092270
+      stationery_4: 551081170628898023
+      stationery_40: -6915767298718714968
+      stationery_41: 3710378084378723510
+      stationery_42: -5482720132736741755
+      stationery_43: -4224620310361028296
+      stationery_44: 8561568190312796305
+      stationery_45: -919813016580989263
+      stationery_46: 1171586129979602545
+      stationery_47: 4977906528018301485
+      stationery_48: 7884473676157266433
+      stationery_49: -3605196301681228299
+      stationery_5: -956062240616895895
+      stationery_50: -5730441485682915803
+      stationery_51: 6299866908107854963
+      stationery_52: -6941936703575287926
+      stationery_53: 5540874497155061835
+      stationery_54: -3148645968236581657
+      stationery_55: 9090679160794747660
+      stationery_56: -8089351225861298809
+      stationery_57: 2265855784073535975
+      stationery_58: 2616472420531658952
+      stationery_59: -972128319058477155
+      stationery_6: -8963921421874930747
+      stationery_60: -5945411991396242439
+      stationery_61: 2424074891743694387
+      stationery_62: 315798285068608812
+      stationery_63: 6688648015109871279
+      stationery_64: 3753594939036510611
+      stationery_65: -1405065706056580012
+      stationery_66: 640469746310946839
+      stationery_67: -5967679244394926873
+      stationery_68: -4679487729395486341
+      stationery_69: 6366787888546671329
+      stationery_7: -6403631213275508804
+      stationery_70: -5296059853577524437
+      stationery_71: 8708635892418912204
+      stationery_72: -1567473133995254940
+      stationery_73: -2359750321478048982
+      stationery_74: -3508665650311912965
+      stationery_75: -7574815223924920415
+      stationery_76: -1094325581111556047
+      stationery_77: -4891862658286030933
+      stationery_78: -4413075642526474456
+      stationery_79: -5649701531544050643
+      stationery_8: 4451591031298706536
+      stationery_80: 8239247402583055941
+      stationery_81: -6371709568367657215
+      stationery_82: -2799763664479601296
+      stationery_83: 6914664169232620921
+      stationery_84: -2703754688809980144
+      stationery_85: 4472227455544272474
+      stationery_86: -6024409706398497127
+      stationery_87: -4393966759266297126
+      stationery_88: 5860572779157367211
+      stationery_89: 1052629918982572920
+      stationery_9: 2496578734481654031
+      stationery_90: 7827679720206109402
+      stationery_91: -7330870132704558966
+      stationery_92: -140750461626451648
+      stationery_93: -3129697410770018501
+      stationery_94: -3788472365888011256
+      stationery_95: -1310817232487854811
+      stationery_96: -6917005814767211735
+      stationery_97: -2820678989216629077
+      stationery_98: 7571783720995978216
+      stationery_99: -5970328517856940648
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

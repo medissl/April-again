@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: 1e9e2a1fe6cec7b46b166a9cd39ab3d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9208123011426541918
+    second: school_tracksuit_0
+  - first:
+      213: 2162961163179981537
+    second: school_tracksuit_1
+  - first:
+      213: -2631561482150602272
+    second: school_tracksuit_2
+  - first:
+      213: 138138563447744137
+    second: school_tracksuit_3
+  - first:
+      213: 6043955045400298560
+    second: school_tracksuit_4
+  - first:
+      213: 1876792093541280582
+    second: school_tracksuit_5
+  - first:
+      213: -9220446584693120946
+    second: school_tracksuit_6
+  - first:
+      213: 9165842024706992268
+    second: school_tracksuit_7
+  - first:
+      213: -2789000584314772914
+    second: school_tracksuit_8
+  - first:
+      213: 230393262867255638
+    second: school_tracksuit_9
+  - first:
+      213: -197094325783097811
+    second: school_tracksuit_10
+  - first:
+      213: -1019642835150539096
+    second: school_tracksuit_11
+  - first:
+      213: -3463910709845618998
+    second: school_tracksuit_12
+  - first:
+      213: 3647947627682956070
+    second: school_tracksuit_13
+  - first:
+      213: -394685456154820287
+    second: school_tracksuit_14
+  - first:
+      213: 2461968519837673368
+    second: school_tracksuit_15
+  - first:
+      213: 2545682506198733382
+    second: school_tracksuit_16
+  - first:
+      213: -2284740187678419713
+    second: school_tracksuit_17
+  - first:
+      213: -6315896951945746818
+    second: school_tracksuit_18
+  - first:
+      213: 3428268204599906033
+    second: school_tracksuit_19
+  - first:
+      213: 6601061421102654651
+    second: school_tracksuit_20
+  - first:
+      213: -8031974450133645315
+    second: school_tracksuit_21
+  - first:
+      213: 2020910983348530928
+    second: school_tracksuit_22
+  - first:
+      213: -328063488015288546
+    second: school_tracksuit_23
+  - first:
+      213: -3652017037203222419
+    second: school_tracksuit_24
+  - first:
+      213: -257075891860051588
+    second: school_tracksuit_25
+  - first:
+      213: -4611756467836309283
+    second: school_tracksuit_26
+  - first:
+      213: -3481171128500382563
+    second: school_tracksuit_27
+  - first:
+      213: 609573388715072670
+    second: school_tracksuit_28
+  - first:
+      213: 6865111551063341943
+    second: school_tracksuit_29
+  - first:
+      213: 7584002744712124385
+    second: school_tracksuit_30
+  - first:
+      213: -8960058635519774885
+    second: school_tracksuit_31
+  - first:
+      213: -7838997069201515939
+    second: school_tracksuit_32
+  - first:
+      213: 4006575195872417842
+    second: school_tracksuit_33
+  - first:
+      213: -4017791037621794008
+    second: school_tracksuit_34
+  - first:
+      213: 241412021909679846
+    second: school_tracksuit_35
+  - first:
+      213: -4981675865760148410
+    second: school_tracksuit_36
+  - first:
+      213: 4485472595189096715
+    second: school_tracksuit_37
+  - first:
+      213: 3541958580704019630
+    second: school_tracksuit_38
+  - first:
+      213: -1896205371757148366
+    second: school_tracksuit_39
+  - first:
+      213: -1412425908987333998
+    second: school_tracksuit_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: school_tracksuit_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 620
+        width: 476
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae12d768ec263080800000000000000
+      internalID: -9208123011426541918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_1
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 590
+        width: 705
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eafe42d7b1640e10800000000000000
+      internalID: 2162961163179981537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_2
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1207
+        width: 125
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e910db46c0da7bd0800000000000000
+      internalID: -2631561482150602272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_3
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1207
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986e514aa44cae100800000000000000
+      internalID: 138138563447744137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1108
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044c38f671170e350800000000000000
+      internalID: 6043955045400298560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1108
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b2ac42774bb0a10800000000000000
+      internalID: 1876792093541280582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_6
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1092
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4027e8eea46a0080800000000000000
+      internalID: -9220446584693120946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_7
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1067
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88e10e32cc933f70800000000000000
+      internalID: 9165842024706992268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_8
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1090
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42af8dceba7b49d0800000000000000
+      internalID: -2789000584314772914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_9
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1052
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65198dfa375823300800000000000000
+      internalID: 230393262867255638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_10
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1093
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e047441c7c34df0800000000000000
+      internalID: -197094325783097811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_11
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1092
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a674156e3089d1f0800000000000000
+      internalID: -1019642835150539096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_12
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1078
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace0bfddf87bdefc0800000000000000
+      internalID: -3463910709845618998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1012
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623854b2a0d10a230800000000000000
+      internalID: 3647947627682956070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 990
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14101e33babc58af0800000000000000
+      internalID: -394685456154820287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_15
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 843
+        width: 104
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8976e11235baa2220800000000000000
+      internalID: 2461968519837673368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_16
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 847
+        width: 90
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642d6e470c4145320800000000000000
+      internalID: 2545682506198733382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_17
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 813
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff45e5587e8fa40e0800000000000000
+      internalID: -2284740187678419713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_18
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 689
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e762d4d6f2d6958a0800000000000000
+      internalID: -6315896951945746818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_19
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 708
+        width: 89
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe81f1b4c7a39f20800000000000000
+      internalID: 3428268204599906033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_20
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 758
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4eb59736eab9b50800000000000000
+      internalID: 6601061421102654651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_21
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 751
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df745c6fac1b88090800000000000000
+      internalID: -8031974450133645315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_22
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 727
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0feac2505d7bb0c10800000000000000
+      internalID: 2020910983348530928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 690
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17b21deefb727bf0800000000000000
+      internalID: -328063488015288546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_24
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 690
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60d3d79add615dc0800000000000000
+      internalID: -3652017037203222419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_25
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 602
+        width: 112
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c796d51a6deae6cf0800000000000000
+      internalID: -257075891860051588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_26
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 664
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0b1083defbfffb0800000000000000
+      internalID: -4611756467836309283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_27
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 635
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94936b7d4560bfc0800000000000000
+      internalID: -3481171128500382563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 564
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c94e274c3a57800800000000000000
+      internalID: 609573388715072670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_29
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 497
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bbf803596c54f50800000000000000
+      internalID: 6865111551063341943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_30
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 0
+        width: 636
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e75726805acf3960800000000000000
+      internalID: 7584002744712124385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_31
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 545
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f2c27b42a77a380800000000000000
+      internalID: -8960058635519774885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 469
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a5ae6c2b9463390800000000000000
+      internalID: -7838997069201515939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_33
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 457
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238ddd3b9e63a9730800000000000000
+      internalID: 4006575195872417842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 7
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b0ec4a650fd38c0800000000000000
+      internalID: -4017791037621794008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_35
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 152
+        width: 41
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee6f6274faa95300800000000000000
+      internalID: 241412021909679846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_36
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 123
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644da33b1388ddab0800000000000000
+      internalID: -4981675865760148410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01eefd6f899f3e30800000000000000
+      internalID: 4485472595189096715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_38
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 134
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea482042090972130800000000000000
+      internalID: 3541958580704019630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_39
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 102
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2374a3bc2435fa5e0800000000000000
+      internalID: -1896205371757148366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school_tracksuit_40
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 91
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292704f7e1e066ce0800000000000000
+      internalID: -1412425908987333998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      school_tracksuit_0: -9208123011426541918
+      school_tracksuit_1: 2162961163179981537
+      school_tracksuit_10: -197094325783097811
+      school_tracksuit_11: -1019642835150539096
+      school_tracksuit_12: -3463910709845618998
+      school_tracksuit_13: 3647947627682956070
+      school_tracksuit_14: -394685456154820287
+      school_tracksuit_15: 2461968519837673368
+      school_tracksuit_16: 2545682506198733382
+      school_tracksuit_17: -2284740187678419713
+      school_tracksuit_18: -6315896951945746818
+      school_tracksuit_19: 3428268204599906033
+      school_tracksuit_2: -2631561482150602272
+      school_tracksuit_20: 6601061421102654651
+      school_tracksuit_21: -8031974450133645315
+      school_tracksuit_22: 2020910983348530928
+      school_tracksuit_23: -328063488015288546
+      school_tracksuit_24: -3652017037203222419
+      school_tracksuit_25: -257075891860051588
+      school_tracksuit_26: -4611756467836309283
+      school_tracksuit_27: -3481171128500382563
+      school_tracksuit_28: 609573388715072670
+      school_tracksuit_29: 6865111551063341943
+      school_tracksuit_3: 138138563447744137
+      school_tracksuit_30: 7584002744712124385
+      school_tracksuit_31: -8960058635519774885
+      school_tracksuit_32: -7838997069201515939
+      school_tracksuit_33: 4006575195872417842
+      school_tracksuit_34: -4017791037621794008
+      school_tracksuit_35: 241412021909679846
+      school_tracksuit_36: -4981675865760148410
+      school_tracksuit_37: 4485472595189096715
+      school_tracksuit_38: 3541958580704019630
+      school_tracksuit_39: -1896205371757148366
+      school_tracksuit_4: 6043955045400298560
+      school_tracksuit_40: -1412425908987333998
+      school_tracksuit_5: 1876792093541280582
+      school_tracksuit_6: -9220446584693120946
+      school_tracksuit_7: 9165842024706992268
+      school_tracksuit_8: -2789000584314772914
+      school_tracksuit_9: 230393262867255638
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

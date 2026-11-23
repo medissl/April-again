@@ -1,0 +1,753 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14a9ea1a7aa34304b905a48fe57400ef, type: 3}
+  m_Name: GameCatalog
+  m_EditorClassIdentifier: Assembly-CSharp::AprilAgain.NovelCatalog
+  content: {fileID: 4900000, guid: 6b20e0edded4bb64c97b4efd2ee0ca41, type: 3}
+  bodyFont: {fileID: 11400000, guid: d28364235e574fd41893e491d385808c, type: 2}
+  titleFont: {fileID: 11400000, guid: d28364235e574fd41893e491d385808c, type: 2}
+  sprites:
+  - id: char_katya_base
+    sprite: {fileID: 21300000, guid: 2be62abf7c0e83848aba392e608d3bda, type: 3}
+  - id: char_akira_base
+    sprite: {fileID: 21300000, guid: d30b517e688668c43ac57ba0fe808603, type: 3}
+  - id: char_seoyun_base
+    sprite: {fileID: 21300000, guid: d77482a75148b854fbfdbbe22a070aa4, type: 3}
+  - id: char_mari_base
+    sprite: {fileID: 21300000, guid: 591e5638131c68b43b0124945e5e346b, type: 3}
+  - id: char_svea_base
+    sprite: {fileID: 21300000, guid: 1146390c7da2a9d4ab965e710f44c659, type: 3}
+  - id: bg_corridor_day
+    sprite: {fileID: 21300000, guid: 916ffdb8806bbdf418ee2fbdc26c731d, type: 3}
+  - id: bg_class_a_day
+    sprite: {fileID: 21300000, guid: 100970a03a6bb974fb7a828a15f2bcda, type: 3}
+  - id: bg_library_day
+    sprite: {fileID: 21300000, guid: a6fde63908f9f33448f9b27c866f1d5b, type: 3}
+  - id: expr_katya_neutral
+    sprite: {fileID: 21300000, guid: 408588b88a4a3a648a4b07246322b81b, type: 3}
+  - id: expr_katya_annoyed
+    sprite: {fileID: 21300000, guid: 94aae1da652fdf94b9e6aab5bd99e3d3, type: 3}
+  - id: expr_katya_determined
+    sprite: {fileID: 21300000, guid: 15a7656b251923041bfc3e6191371376, type: 3}
+  - id: expr_katya_flustered
+    sprite: {fileID: 21300000, guid: 043f97bf75f849746834a6cf72637dcb, type: 3}
+  - id: expr_katya_sad
+    sprite: {fileID: 21300000, guid: 86b1f744ab926634fa3b6fbf242c69f6, type: 3}
+  - id: expr_katya_soft_smile
+    sprite: {fileID: 21300000, guid: 7bca838694c972047b3434539457317e, type: 3}
+  - id: expr_katya_concerned
+    sprite: {fileID: 21300000, guid: 6a2fbe3ccf5f5ab479ce01e32d76c6d0, type: 3}
+  - id: expr_katya_surprised
+    sprite: {fileID: 21300000, guid: 4bd926a07b4020d40a07f00d19a38ae2, type: 3}
+  - id: expr_akira_neutral
+    sprite: {fileID: 21300000, guid: cf5492e3b673be341b1e83e7bea50b72, type: 3}
+  - id: expr_akira_delighted
+    sprite: {fileID: 21300000, guid: be01e46eb995178419a5f8747d646210, type: 3}
+  - id: expr_akira_puzzled
+    sprite: {fileID: 21300000, guid: f4bfb5488e819a948b680d58517860c3, type: 3}
+  - id: expr_akira_worried
+    sprite: {fileID: 21300000, guid: 6289dde21747db340bd6061946ec041d, type: 3}
+  - id: expr_akira_flustered
+    sprite: {fileID: 21300000, guid: d250d70b236a9024ba41b61722ab8e0e, type: 3}
+  - id: expr_akira_excited
+    sprite: {fileID: 21300000, guid: b4b6448a8ac87e5409b941122cc31fbf, type: 3}
+  - id: expr_akira_sad
+    sprite: {fileID: 21300000, guid: caeaab2a5e252534b893093f9e4bd89e, type: 3}
+  - id: expr_akira_surprised
+    sprite: {fileID: 21300000, guid: 3a70e69276984184db1fe1535fd94b47, type: 3}
+  - id: bg_bedroom_day
+    sprite: {fileID: 21300000, guid: cbb1f431588b2824997f94b12955faf7, type: 3}
+  - id: bg_gate_day
+    sprite: {fileID: 21300000, guid: 30c77d6b30144dc4c940051b1463a900, type: 3}
+  - id: bg_lobby_day
+    sprite: {fileID: 21300000, guid: cba11ac584f6ef1438beef2dcf5b500d, type: 3}
+  - id: bg_infirmary_day
+    sprite: {fileID: 21300000, guid: 2b0a566abaaa5114e8a08eeab9324078, type: 3}
+  - id: bg_class_b_day
+    sprite: {fileID: 21300000, guid: e635a55c5fced38459d28cf8a67425e2, type: 3}
+  - id: bg_class_c_day
+    sprite: {fileID: 21300000, guid: 4be98487d3c470c459b5c0298b568026, type: 3}
+  - id: bg_canteen_day
+    sprite: {fileID: 21300000, guid: 605601ec68c97524391776b2681bf3f9, type: 3}
+  - id: bg_field_day
+    sprite: {fileID: 21300000, guid: 11f32aa9323c4a64b9bc30250f8463d8, type: 3}
+  - id: pose_katya_standing_folder
+    sprite: {fileID: 21300000, guid: 7a1061e73658c874ea0fdd418eb726a7, type: 3}
+  - id: pose_katya_seated_folder
+    sprite: {fileID: 21300000, guid: 199eb1642c715cd4ba3a133fe94b0c63, type: 3}
+  - id: pose_akira_standing_satchel
+    sprite: {fileID: 21300000, guid: bcf023bf67152294c975a8a2f27be068, type: 3}
+  - id: pose_akira_seated_laptop
+    sprite: {fileID: 21300000, guid: e0326477f3ae81240bc053cc6bdf8591, type: 3}
+  - id: pose_seoyun_seated_sketching
+    sprite: {fileID: 21300000, guid: dd6408f40ebcd85429be84ad751fc6b0, type: 3}
+  - id: pose_seoyun_standing_camera
+    sprite: {fileID: 21300000, guid: 0c6ca0d9f5a44f3449b0c85b85a43349, type: 3}
+  - id: pose_mari_standing_bento
+    sprite: {fileID: 21300000, guid: 88c1264d151369343b74140efac75f23, type: 3}
+  - id: pose_mari_seated_tea
+    sprite: {fileID: 21300000, guid: 474bbee98f36e504b862188e464e82a3, type: 3}
+  - id: pose_svea_standing_ball
+    sprite: {fileID: 21300000, guid: 7103f87a9c61ce243ab5527f3dc07a91, type: 3}
+  - id: pose_svea_seated_relaxed
+    sprite: {fileID: 21300000, guid: 095d5c692ff5dce408ab22cbe9d71dcf, type: 3}
+  - id: wardrobe_katya_school_tracksuit_full_body
+    sprite: {fileID: 21300000, guid: 1943313517f28ab40b7d465a0b68f866, type: 3}
+  - id: wardrobe_katya_school_tracksuit_neutral
+    sprite: {fileID: 21300000, guid: bf4b4988dd36a044597389b6a06c60da, type: 3}
+  - id: wardrobe_katya_school_tracksuit_active
+    sprite: {fileID: 21300000, guid: eb4d0543e60bb894699298d6fe3814a8, type: 3}
+  - id: wardrobe_katya_school_tracksuit_soft_smile
+    sprite: {fileID: 21300000, guid: 7026292fc5d4fab45a35ce334ff11fdc, type: 3}
+  - id: wardrobe_katya_fencing_kit_with_mask_full_body
+    sprite: {fileID: 21300000, guid: c6b80fb0021c65d449ffb0c7db0b63f1, type: 3}
+  - id: wardrobe_katya_fencing_kit_with_mask_neutral
+    sprite: {fileID: 21300000, guid: ac4433b35d1b3f1419aee732b56c7455, type: 3}
+  - id: wardrobe_katya_fencing_kit_with_mask_active
+    sprite: {fileID: 21300000, guid: 2eebd3e8bc5f36f45abad08aadae793a, type: 3}
+  - id: wardrobe_katya_fencing_kit_with_mask_soft_smile
+    sprite: {fileID: 21300000, guid: ece1f01083d1f174193511a6baa2b410, type: 3}
+  - id: wardrobe_mari_aikido_gi_and_trousers_full_body
+    sprite: {fileID: 21300000, guid: fb0ea00c61b44954db41f83e15c7aed9, type: 3}
+  - id: wardrobe_mari_aikido_gi_and_trousers_neutral
+    sprite: {fileID: 21300000, guid: b579b2dc2f09b0c43bb83d7b16602fcf, type: 3}
+  - id: wardrobe_mari_aikido_gi_and_trousers_active
+    sprite: {fileID: 21300000, guid: 24c78283f9ba288438892b3d157f69e2, type: 3}
+  - id: wardrobe_mari_aikido_gi_and_trousers_soft_smile
+    sprite: {fileID: 21300000, guid: b9f8365b9362add429679976b14c2938, type: 3}
+  - id: wardrobe_mari_uniform_with_apron_full_body
+    sprite: {fileID: 21300000, guid: 41c93be92bf4ac143bda7352d7287234, type: 3}
+  - id: wardrobe_mari_uniform_with_apron_neutral
+    sprite: {fileID: 21300000, guid: b53629c044498a1488d6b4554956f50d, type: 3}
+  - id: wardrobe_mari_uniform_with_apron_active
+    sprite: {fileID: 21300000, guid: 07de5094be60cd246aaf6d792b075151, type: 3}
+  - id: wardrobe_mari_uniform_with_apron_soft_smile
+    sprite: {fileID: 21300000, guid: 153287702350a27429f01dc0e96f3c7c, type: 3}
+  - id: wardrobe_svea_school_sports_jacket_and_trousers_full_body
+    sprite: {fileID: 21300000, guid: ae88356834af4764798529b7a4769e42, type: 3}
+  - id: wardrobe_svea_school_sports_jacket_and_trousers_neutral
+    sprite: {fileID: 21300000, guid: a76c78f46fdae774c94e72bc7a861184, type: 3}
+  - id: wardrobe_svea_school_sports_jacket_and_trousers_active
+    sprite: {fileID: 21300000, guid: a2ddc3894cdce764fb8122e4f8d7af71, type: 3}
+  - id: wardrobe_svea_school_sports_jacket_and_trousers_soft_smile
+    sprite: {fileID: 21300000, guid: fbdf26c005825d346a1d9c92f3d685b8, type: 3}
+  - id: expr_seoyun_neutral
+    sprite: {fileID: 21300000, guid: 1ef0322bcf6314448a15c485fef4e934, type: 3}
+  - id: expr_seoyun_curious
+    sprite: {fileID: 21300000, guid: a4db9eaa4cc6a9241a54fe13bf79f649, type: 3}
+  - id: expr_seoyun_determined
+    sprite: {fileID: 21300000, guid: d36e8b597d01f64449070b7ba2679229, type: 3}
+  - id: expr_seoyun_sad
+    sprite: {fileID: 21300000, guid: bd2962a7ee5a3df498e9e948f2a2c03b, type: 3}
+  - id: expr_seoyun_warm
+    sprite: {fileID: 21300000, guid: df1717b49550a7848a94bdb7e15e408b, type: 3}
+  - id: expr_seoyun_flustered
+    sprite: {fileID: 21300000, guid: 5cc650ace41c0e34b8ba35d30c3aa8f1, type: 3}
+  - id: expr_seoyun_concerned
+    sprite: {fileID: 21300000, guid: 70ebf18ddd820c44aa02c50645d0f2b1, type: 3}
+  - id: expr_seoyun_surprised
+    sprite: {fileID: 21300000, guid: d0b93471533d81449b9713afdb6c4f88, type: 3}
+  - id: expr_mari_neutral
+    sprite: {fileID: 21300000, guid: f97f2b71f11626c41b7b98f4c8634315, type: 3}
+  - id: expr_mari_warm
+    sprite: {fileID: 21300000, guid: bc12fad900e8bae4db7c43f2e0dccfa4, type: 3}
+  - id: expr_mari_concerned
+    sprite: {fileID: 21300000, guid: 6c2b08a8ca47fa34ab58f5c98e5ade27, type: 3}
+  - id: expr_mari_peaceful
+    sprite: {fileID: 21300000, guid: d7f8d99e3d36407419df8eecbe6511e1, type: 3}
+  - id: expr_mari_sad
+    sprite: {fileID: 21300000, guid: c5b13f9ea1855f2499d9877ddc52fbb3, type: 3}
+  - id: expr_mari_flustered
+    sprite: {fileID: 21300000, guid: 0ec3646bdfc9c3a47979bd9c5da844bc, type: 3}
+  - id: expr_mari_surprised
+    sprite: {fileID: 21300000, guid: 4ee57d97e8ef85a4aa2b17a45268cd1c, type: 3}
+  - id: expr_mari_determined
+    sprite: {fileID: 21300000, guid: 7e4547096f71c364586b44f13faf3745, type: 3}
+  - id: expr_svea_neutral
+    sprite: {fileID: 21300000, guid: 9f34df60dbbf467418d955d63d8418b6, type: 3}
+  - id: expr_svea_smirk
+    sprite: {fileID: 21300000, guid: 61538f159d82e4a4d8a3720fad27f590, type: 3}
+  - id: expr_svea_annoyed
+    sprite: {fileID: 21300000, guid: 7f286ff3c0b09ee47a6feaf84eb6901b, type: 3}
+  - id: expr_svea_flustered
+    sprite: {fileID: 21300000, guid: 6a99a6416abaa4a41b133bf8c92a8737, type: 3}
+  - id: expr_svea_sleepy
+    sprite: {fileID: 21300000, guid: 419583dc4da06b64fa15e922127f33ba, type: 3}
+  - id: expr_svea_soft_smile
+    sprite: {fileID: 21300000, guid: 6dfcf5a167ebe914682c53fe6641d0cd, type: 3}
+  - id: expr_svea_sad
+    sprite: {fileID: 21300000, guid: 4e8ed3aafc1f0154597126ccdbfc1dc5, type: 3}
+  - id: expr_svea_surprised
+    sprite: {fileID: 21300000, guid: 2fd43a4613b18c14b8f1a2884fcf6486, type: 3}
+  - id: bg_bedroom_evening
+    sprite: {fileID: 21300000, guid: 2ab699a8762c3594b846e0f676998271, type: 3}
+  - id: bg_corridor_rain
+    sprite: {fileID: 21300000, guid: ac30678877291fc4183e10a701dbfb9f, type: 3}
+  - id: cg_katya_good
+    sprite: {fileID: 21300000, guid: 84556734dd1d9cd488434e362084fd2e, type: 3}
+  - id: cg_katya_neutral
+    sprite: {fileID: 21300000, guid: bc470b915621c6f458a48dcc351539b1, type: 3}
+  - id: room_katya_class_b_school_uniform
+    sprite: {fileID: 21300000, guid: c59ce31a7ce7f5d4ca9cb53a561a8eb3, type: 3}
+  - id: room_katya_canteen_school_uniform
+    sprite: {fileID: 21300000, guid: 740a2ef362b372440b7815046a411540, type: 3}
+  - id: room_katya_corridor_school_uniform
+    sprite: {fileID: 21300000, guid: 09b117b1d6be4954fa7df32b26bfbb0f, type: 3}
+  - id: room_katya_gate_school_uniform
+    sprite: {fileID: 21300000, guid: fa06c0bb1b8255d4fb599ad9e9b0aed9, type: 3}
+  - id: room_katya_library_school_uniform
+    sprite: {fileID: 21300000, guid: 49c493da7679df743a7c6e4e2279c8f3, type: 3}
+  - id: room_akira_canteen_school_uniform
+    sprite: {fileID: 21300000, guid: 91dfbeaf78037aa4a90faf14e4a8b2b6, type: 3}
+  - id: room_akira_class_a_school_uniform
+    sprite: {fileID: 21300000, guid: c500b77b8632be040a1c41599dbcc69d, type: 3}
+  - id: room_katya_lobby_school_uniform
+    sprite: {fileID: 21300000, guid: b861aacea45e0034bb9676a835e967c2, type: 3}
+  - id: room_akira_library_school_uniform
+    sprite: {fileID: 21300000, guid: 41aac02311570b74fa23ab643191c9ec, type: 3}
+  - id: room_akira_lobby_school_uniform
+    sprite: {fileID: 21300000, guid: b1c10fde1dbd9594c8dd082901fe6320, type: 3}
+  - id: room_seoyun_library_school_uniform
+    sprite: {fileID: 21300000, guid: 4949b06f16a4a7241874d3582630cde2, type: 3}
+  - id: room_seoyun_corridor_school_uniform
+    sprite: {fileID: 21300000, guid: 9ee9e694b33e2624ea26b86f078e20d2, type: 3}
+  - id: room_seoyun_lobby_school_uniform
+    sprite: {fileID: 21300000, guid: cf351c1f020cefa45bdc1302e20c355f, type: 3}
+  - id: room_seoyun_canteen_school_uniform
+    sprite: {fileID: 21300000, guid: c77f14e4c0ddcaa43be9a4b0ae08cf1a, type: 3}
+  - id: room_seoyun_class_c_school_uniform
+    sprite: {fileID: 21300000, guid: 2752c14e0f2529b4ab247e93349d9ea8, type: 3}
+  - id: room_mari_infirmary_school_uniform
+    sprite: {fileID: 21300000, guid: 325d5e5a95ea4b1438be3396f474128c, type: 3}
+  - id: room_mari_class_b_school_uniform
+    sprite: {fileID: 21300000, guid: b717669078245624e9a55b08a43fcb63, type: 3}
+  - id: room_mari_canteen_school_uniform
+    sprite: {fileID: 21300000, guid: 6715d1941db14b74fae1b87c5fc5d5ea, type: 3}
+  - id: room_mari_gate_school_uniform
+    sprite: {fileID: 21300000, guid: c533450558d011f42916bd8b9d5133ef, type: 3}
+  - id: room_mari_lobby_school_uniform
+    sprite: {fileID: 21300000, guid: 49e92c369f4428b419eb5b46d70adc5e, type: 3}
+  - id: room_svea_canteen_school_uniform
+    sprite: {fileID: 21300000, guid: 09eb359868a9e7d4b923dbbd22c239fd, type: 3}
+  - id: room_svea_class_c_school_uniform
+    sprite: {fileID: 21300000, guid: 0d7ecb025b6746e429bfb2eaaba2cb0c, type: 3}
+  - id: room_svea_field_school_uniform
+    sprite: {fileID: 21300000, guid: a09e2679e02aed64d893922db0a8a58b, type: 3}
+  - id: room_svea_gate_school_uniform
+    sprite: {fileID: 21300000, guid: 0f9d22daed091e54eba95c342a55feee, type: 3}
+  - id: room_katya_field_school_tracksuit
+    sprite: {fileID: 21300000, guid: fd9f8f52a351e1a4aaee7c9bb1c66907, type: 3}
+  - id: room_katya_field_fencing_kit_with_mask
+    sprite: {fileID: 21300000, guid: 7b03e678701290a44a56b55893799a82, type: 3}
+  - id: room_mari_field_aikido_gi_and_trousers
+    sprite: {fileID: 21300000, guid: c7f219aab9841d240b208ec7b1778b09, type: 3}
+  - id: room_mari_canteen_uniform_with_apron
+    sprite: {fileID: 21300000, guid: 8649f5314bb7f2f409196638d0b9892b, type: 3}
+  - id: room_svea_field_school_sports_jacket_and_trousers
+    sprite: {fileID: 21300000, guid: 2d47ced9f210b3944b87bfe88d9221fe, type: 3}
+  - id: observation_katya
+    sprite: {fileID: 21300000, guid: 244fa251da34e72438cc0e476d3e3405, type: 3}
+  - id: observation_akira
+    sprite: {fileID: 21300000, guid: bad643da6f8253e4da97cc19f5784145, type: 3}
+  - id: observation_seoyun
+    sprite: {fileID: 21300000, guid: e7bcce6d8ae97d243aca2e61f20191d1, type: 3}
+  - id: observation_mari
+    sprite: {fileID: 21300000, guid: 335d96b34143aea459ecd6416243684a, type: 3}
+  - id: observation_svea
+    sprite: {fileID: 21300000, guid: 18a746728a9b1324e89079549da3eacf, type: 3}
+  - id: wardrobe_svea_sports_flustered
+    sprite: {fileID: 21300000, guid: 3187ee4659f4c4441bb97bf96294099e, type: 3}
+  - id: room_katya_corridor_rain
+    sprite: {fileID: 21300000, guid: 28d4528b46463d0408516dda32e18d39, type: 3}
+  - id: open_atlas
+    sprite: {fileID: 21300000, guid: 239320e95d4dc6f4ead4c5d60a7e8777, type: 3}
+  - id: closed_atlas
+    sprite: {fileID: 21300000, guid: 1dc8de4097e229e4fa915e2e98203674, type: 3}
+  - id: sandwich_wrapper
+    sprite: {fileID: 21300000, guid: 663b8e4ae562b2e499b85a3f10059a7d, type: 3}
+  - id: cg_akira_neutral
+    sprite: {fileID: 21300000, guid: 369cd05e12de12843a8e998cb2f97747, type: 3}
+  - id: cg_akira_good
+    sprite: {fileID: 21300000, guid: 3c0da5b5a5e8cff41a3a959ce0e9dee3, type: 3}
+  - id: cg_katya_bad
+    sprite: {fileID: 21300000, guid: 8e6ac0aaaaec3014194b0c7664c14091, type: 3}
+  - id: cg_akira_bad
+    sprite: {fileID: 21300000, guid: fb0f25190da81be409169b5d54f664f2, type: 3}
+  - id: cg_seoyun_good
+    sprite: {fileID: 21300000, guid: 00d91f747b5c4d547a6ae613a7c21c05, type: 3}
+  - id: cg_seoyun_bad
+    sprite: {fileID: 21300000, guid: adba94a3d8c7fe541a193bf141186c44, type: 3}
+  - id: cg_seoyun_neutral
+    sprite: {fileID: 21300000, guid: 62e50a038d01e8444b472358984644b4, type: 3}
+  - id: cg_svea_good
+    sprite: {fileID: 21300000, guid: f1e111d088ce8594c8a032229e2fe98b, type: 3}
+  - id: cg_mari_bad
+    sprite: {fileID: 21300000, guid: 1e0b3c711c6fc264d9b6bd0d864fa6ad, type: 3}
+  - id: cg_mari_neutral
+    sprite: {fileID: 21300000, guid: bce720c13088cd945a307ad8df4528ed, type: 3}
+  - id: cg_mari_good
+    sprite: {fileID: 21300000, guid: 364ad5d09a909b0499b119747c05def5, type: 3}
+  - id: cg_svea_bad
+    sprite: {fileID: 21300000, guid: 1d48e523b15a1c04490e31dd727de82c, type: 3}
+  - id: cg_svea_neutral
+    sprite: {fileID: 21300000, guid: e08eb7e952d1efe4b886281927af6abf, type: 3}
+  - id: pen
+    sprite: {fileID: 21300000, guid: fbda74ab5ebdf9c43a9a305f2cdb0cac, type: 3}
+  - id: pencil
+    sprite: {fileID: 21300000, guid: d7811f3b8a6ad8c439e825f8b5803420, type: 3}
+  - id: calculator
+    sprite: {fileID: 21300000, guid: 70b5ecf5d3535a043ba3061b2931d3f6, type: 3}
+  - id: glue
+    sprite: {fileID: 21300000, guid: 84bba486d604c2249b75542733f80882, type: 3}
+  - id: floor_tape
+    sprite: {fileID: 21300000, guid: 243646efebab88b48a1980c1161cdb4e, type: 3}
+  - id: paperweight
+    sprite: {fileID: 21300000, guid: c4b999af5f039244fa832d1a451cc3c0, type: 3}
+  - id: folder
+    sprite: {fileID: 21300000, guid: a0a47f57219298547a6c1088fa856a6e, type: 3}
+  - id: blue_journal
+    sprite: {fileID: 21300000, guid: 2d7bb6b6d8681ed4db52f81d282de42f, type: 3}
+  - id: book
+    sprite: {fileID: 21300000, guid: cf075d5b8ef07a84dbbc38e0d3f3a0f5, type: 3}
+  - id: stapler
+    sprite: {fileID: 21300000, guid: 38b79a469c7febf4b89c8dce6cc31722, type: 3}
+  - id: bento
+    sprite: {fileID: 21300000, guid: a1e0c5f9708ccb54295d3d8d281f149f, type: 3}
+  - id: lunch_tray
+    sprite: {fileID: 21300000, guid: 6b3e4ba4e68a3b449985d6d4fe123014, type: 3}
+  - id: noodle_bowl
+    sprite: {fileID: 21300000, guid: 085df5631b3c32149a01189dfc8b9291, type: 3}
+  - id: thermos
+    sprite: {fileID: 21300000, guid: f184f9e673fba224e979607f46ca22da, type: 3}
+  - id: tea_cup
+    sprite: {fileID: 21300000, guid: 885311a19f631014a8170f653d4dfc8c, type: 3}
+  - id: spare_container
+    sprite: {fileID: 21300000, guid: 2d44742a88f2e4849a85e7c177bd4b2a, type: 3}
+  - id: satchel
+    sprite: {fileID: 21300000, guid: d1b018d83d3f75f42818edf396123294, type: 3}
+  - id: sports_bag
+    sprite: {fileID: 21300000, guid: 57b1ad9c01bd4174cae4f8620dc16d1f, type: 3}
+  - id: fencing_bag
+    sprite: {fileID: 21300000, guid: 0d91afe2d9281f049a03a0b90e34e167, type: 3}
+  - id: delivery_box
+    sprite: {fileID: 21300000, guid: f82e5436bdd6f1744b5c26802066b954, type: 3}
+  - id: supply_box
+    sprite: {fileID: 21300000, guid: 8c11550d6db6b8243b335715e8648271, type: 3}
+  - id: plush_dog_keychain
+    sprite: {fileID: 21300000, guid: 966feb2a65f730647b00e95da1b2c693, type: 3}
+  - id: phone
+    sprite: {fileID: 21300000, guid: 802f756306849dc47a44dd4b18257ee7, type: 3}
+  - id: laptop
+    sprite: {fileID: 21300000, guid: 783b48a67481dae4ea451c3ba968a2f3, type: 3}
+  - id: headphones
+    sprite: {fileID: 21300000, guid: a8b3af23cfa934e43963ca0d2e1c80c5, type: 3}
+  - id: camera
+    sprite: {fileID: 21300000, guid: 7450114cba4e92040a26e203d3dcedd8, type: 3}
+  - id: handheld_game
+    sprite: {fileID: 21300000, guid: 3b45a463b6566944785a7f2fc37bee2a, type: 3}
+  - id: pencil_case
+    sprite: {fileID: 21300000, guid: d1c1156ef56ad044a96ca1eac6f9642f, type: 3}
+  - id: melonpan
+    sprite: {fileID: 21300000, guid: 32a096ae330ce184b8bf59cb5f3d1476, type: 3}
+  - id: dark_chocolate
+    sprite: {fileID: 21300000, guid: 35cf975f8b51b6a4880ea2c432ff02f2, type: 3}
+  - id: tea_bottle
+    sprite: {fileID: 21300000, guid: d4712d084ebc59e4fb530e33d1e5e4f1, type: 3}
+  - id: coffee_can
+    sprite: {fileID: 21300000, guid: 424d54bc673350745b2429ad144fbfc7, type: 3}
+  - id: strawberry_milk
+    sprite: {fileID: 21300000, guid: 4d0259e3f39167f47a65f253f7633a95, type: 3}
+  - id: fruit_cup
+    sprite: {fileID: 21300000, guid: 99c4667d553eb14429e89341e607171b, type: 3}
+  - id: tea_tin
+    sprite: {fileID: 21300000, guid: ce595f24cf02ac446a9230d87194a52f, type: 3}
+  - id: custard_dessert
+    sprite: {fileID: 21300000, guid: e3345e2f54703644fa402fbc967221bd, type: 3}
+  - id: red_bean_dessert
+    sprite: {fileID: 21300000, guid: 65fdde0de66f6e54187851a4d96f28e2, type: 3}
+  - id: folded_cloth
+    sprite: {fileID: 21300000, guid: 6a535c241b737e1478e4651acf07c67d, type: 3}
+  - id: clean_blankets
+    sprite: {fileID: 21300000, guid: b3db434989212e1419db5aa5ca456a3a, type: 3}
+  - id: sewing_kit
+    sprite: {fileID: 21300000, guid: 915981b60182ded4586690d9ca204666, type: 3}
+  - id: envelope
+    sprite: {fileID: 21300000, guid: 1135c76283a3d7f48bfd228efe26f4bc, type: 3}
+  - id: photo_prints
+    sprite: {fileID: 21300000, guid: 8870d5c380f3f8340b87b7c50a3d2e18, type: 3}
+  - id: display_board
+    sprite: {fileID: 21300000, guid: bf9e56c2195c5c540834d528b780186e, type: 3}
+  - id: fabric_backing
+    sprite: {fileID: 21300000, guid: 2312ae0b8258eff4a950e28ff7882b2b, type: 3}
+  - id: bookmark
+    sprite: {fileID: 21300000, guid: 9cbf9abe6c4fb314cbf09c103781dc8d, type: 3}
+  - id: cat
+    sprite: {fileID: 21300000, guid: c75b38e244c0667428371d36bd403827, type: 3}
+  - id: neighborhood_dog
+    sprite: {fileID: 21300000, guid: 427c69ae30137714d9592876c6dc07b3, type: 3}
+  - id: bench
+    sprite: {fileID: 21300000, guid: 60a2078fdfa247242ba58c2c062ed915, type: 3}
+  - id: chair
+    sprite: {fileID: 21300000, guid: 63fad3b4fe4b3424e978805ada89043f, type: 3}
+  - id: equipment_cart
+    sprite: {fileID: 21300000, guid: c3106a65cca065e4ea6a2a0b214df785, type: 3}
+  - id: leaflet_rack
+    sprite: {fileID: 21300000, guid: ad910437fcdb60a4ca50e9ece9d15a14, type: 3}
+  - id: basketball
+    sprite: {fileID: 21300000, guid: 7bc3939bd92515d44ab1ab4f986f11b1, type: 3}
+  - id: fencing_mask
+    sprite: {fileID: 21300000, guid: 3c2d1124c8a9be84fb0f89e6b89ad95d, type: 3}
+  - id: court_cone
+    sprite: {fileID: 21300000, guid: bfc7ae074e5679746950166a772cdbe2, type: 3}
+  - id: practice_mat
+    sprite: {fileID: 21300000, guid: 6a05d61226fb6824389e2c96701bfb95, type: 3}
+  - id: loose_button
+    sprite: {fileID: 21300000, guid: 05aecefa4af1edd49b83cf2808d2887b, type: 3}
+  - id: reference_books
+    sprite: {fileID: 21300000, guid: 1575e401bdfa3bd4badabbc4d1b75397, type: 3}
+  - id: title_establishing
+    sprite: {fileID: 21300000, guid: 9619c7532fd399f4ca9334cc33bda53f, type: 3}
+  - id: sky_photo
+    sprite: {fileID: 21300000, guid: 47534e8049e56be47963234f61c27df8, type: 3}
+  - id: alternate_photo
+    sprite: {fileID: 21300000, guid: f2895e2f7038d9541998cb71776ae54c, type: 3}
+  - id: blurred_photo
+    sprite: {fileID: 21300000, guid: 53b94bfba482f74479f65f755edb255b, type: 3}
+  - id: folded_sketch
+    sprite: {fileID: 21300000, guid: 900484cd4772aaf45bb04088869af711, type: 3}
+  - id: map_campus
+    sprite: {fileID: 21300000, guid: 043aa808bd28d20439a2848af114dddd, type: 3}
+  - id: expr_svea_concerned
+    sprite: {fileID: 21300000, guid: 797194e4a04072e40af947903ba35a74, type: 3}
+  - id: native_backing_card
+    sprite: {fileID: 21300000, guid: b8de147c397a36b47aada0f45378c130, type: 3}
+  - id: native_budget_sheet
+    sprite: {fileID: 21300000, guid: ed69ff37eaf665f439fd0af1a7c33c19, type: 3}
+  - id: native_class_register
+    sprite: {fileID: 21300000, guid: d709c40676624fc4183e59b90bbedb5e, type: 3}
+  - id: native_committee_notes
+    sprite: {fileID: 21300000, guid: 51bf78c88b9f44b4b82cb5c1992d1fda, type: 3}
+  - id: native_final_report
+    sprite: {fileID: 21300000, guid: c315d95e221ea6043a6f6e7b04c1d9e6, type: 3}
+  - id: native_forms
+    sprite: {fileID: 21300000, guid: 474f8c88ed35f4a4da8ac4da1e45243a, type: 3}
+  - id: native_music_note
+    sprite: {fileID: 21300000, guid: 8098ac558ed01db4f8cd1f6cc2ed0047, type: 3}
+  - id: native_paper_labels
+    sprite: {fileID: 21300000, guid: 5fce8ff5cba1d5b479ad9e33ee941c89, type: 3}
+  - id: native_paper_samples
+    sprite: {fileID: 21300000, guid: e6b97e47962b9d94590d57aa788d85a4, type: 3}
+  - id: native_receipt
+    sprite: {fileID: 21300000, guid: a7eb8c09c760b19489bd3ac145985234, type: 3}
+  - id: native_room_signs
+    sprite: {fileID: 21300000, guid: 73f656140373e1d4b8025e71a73fa4ee, type: 3}
+  - id: native_supply_clipboard
+    sprite: {fileID: 21300000, guid: 9e67f788f88823743b038119cc9674b3, type: 3}
+  - id: native_three_drafts
+    sprite: {fileID: 21300000, guid: 2448b198e7b997649823328bb724a293, type: 3}
+  - id: native_anonymous_form
+    sprite: {fileID: 21300000, guid: 82360aa43be29784990b4c5acc91719b, type: 3}
+  - id: native_anonymous_survey
+    sprite: {fileID: 21300000, guid: afb159f1050c2734488d61b030c4e707, type: 3}
+  - id: native_consent_text
+    sprite: {fileID: 21300000, guid: acdd03d162ccb7441ba1a4e5c40d7c67, type: 3}
+  - id: native_feature_sheet
+    sprite: {fileID: 21300000, guid: f85bf71d07a658c448c784a95a12134f, type: 3}
+  - id: native_maintenance_guide
+    sprite: {fileID: 21300000, guid: 2ebd8392427f0fc459a73347ebcfbf79, type: 3}
+  - id: native_offline_notice
+    sprite: {fileID: 21300000, guid: d259d7a77664e6547ba50a5810c46b8e, type: 3}
+  - id: native_paper_mockups
+    sprite: {fileID: 21300000, guid: ad638c25403ab804491aece5faf3d2bd, type: 3}
+  - id: native_presentation
+    sprite: {fileID: 21300000, guid: 81f59cc541c16644581345d9417d64d8, type: 3}
+  - id: native_project_notebook
+    sprite: {fileID: 21300000, guid: 5205e737d2d4ca142a8911bcf7fb52f6, type: 3}
+  - id: native_queue_survey
+    sprite: {fileID: 21300000, guid: 22e1b0595676de34c8ed3f0b5c812b1b, type: 3}
+  - id: native_teacher_approval
+    sprite: {fileID: 21300000, guid: 0f3a263a5f0b82d469538445618e80e6, type: 3}
+  - id: native_adviser_questions
+    sprite: {fileID: 21300000, guid: 1785a2cbe61d0a6438562fe03d23175d, type: 3}
+  - id: native_caption_drafts
+    sprite: {fileID: 21300000, guid: d588201ad2e1a774cad22f9d146e58c0, type: 3}
+  - id: native_credit_labels
+    sprite: {fileID: 21300000, guid: 293b36e00e21b454ab42e41088c5254a, type: 3}
+  - id: native_feedback_sheets
+    sprite: {fileID: 21300000, guid: 03831b2fe9d680640be459224783ff43, type: 3}
+  - id: native_handouts
+    sprite: {fileID: 21300000, guid: e54af588d2ce86a4c981fc5024886e1a, type: 3}
+  - id: native_library_record
+    sprite: {fileID: 21300000, guid: 4fea740361e74d541ac4332c4aecf7d1, type: 3}
+  - id: native_menu
+    sprite: {fileID: 21300000, guid: 66609c9a27d9f714788a4841c7740af1, type: 3}
+  - id: native_reference_cards
+    sprite: {fileID: 21300000, guid: 5650bf3500f30d546997e42d7756a7e1, type: 3}
+  - id: native_study_options
+    sprite: {fileID: 21300000, guid: d3682c6c343cc6f4a92c042f5c9a67fd, type: 3}
+  - id: native_window_essay
+    sprite: {fileID: 21300000, guid: 3489ee9cd54ec30479724f7d8359f788, type: 3}
+  - id: native_drying_paper
+    sprite: {fileID: 21300000, guid: 61630982c4d004d4a820ad3e323fc9dd, type: 3}
+  - id: native_finished_reading_corner
+    sprite: {fileID: 21300000, guid: 345c064cd3915c6408b01faf775f249a, type: 3}
+  - id: native_homework
+    sprite: {fileID: 21300000, guid: ac059ae380f051e468a17a47cca67d73, type: 3}
+  - id: native_household_plan
+    sprite: {fileID: 21300000, guid: 2ed57cf4d922e584293709688defdb05, type: 3}
+  - id: native_leaflet_list
+    sprite: {fileID: 21300000, guid: c3688abcc6173cf419357ac030a20603, type: 3}
+  - id: native_meal_worksheet
+    sprite: {fileID: 21300000, guid: 2f8c42da58e71c04ab985158060ec06d, type: 3}
+  - id: native_noticeboard
+    sprite: {fileID: 21300000, guid: 1143a64c1d5881247867b40e03b5a652, type: 3}
+  - id: native_paper_headings
+    sprite: {fileID: 21300000, guid: f99931ba70dfe0e459f4ee1e611c7a7b, type: 3}
+  - id: native_public_leaflets
+    sprite: {fileID: 21300000, guid: 3470574cda102a14cb40b6d04886ef96, type: 3}
+  - id: native_reading_list
+    sprite: {fileID: 21300000, guid: 19a1261f44881a547b8025fbd3c57880, type: 3}
+  - id: native_staff_only_sign
+    sprite: {fileID: 21300000, guid: 275a0f265018ca544bb4f64527dd7034, type: 3}
+  - id: native_attendance_sheet
+    sprite: {fileID: 21300000, guid: 94a4f884d48ccad40ba45b46bbd31fce, type: 3}
+  - id: native_budget_exercise
+    sprite: {fileID: 21300000, guid: 4f3c5e909cdb75c4a8c9b62e5705e079, type: 3}
+  - id: native_equipment_list
+    sprite: {fileID: 21300000, guid: 858fc32ae5ce246459929ae5b2c8b3de, type: 3}
+  - id: native_group_assignment
+    sprite: {fileID: 21300000, guid: d8b207d89c4c9e4438a4051942643642, type: 3}
+  - id: native_household_worksheet
+    sprite: {fileID: 21300000, guid: 244f1f80cb41eef48ad04a7de98058cd, type: 3}
+  - id: native_practice_report
+    sprite: {fileID: 21300000, guid: 4d621163d6655c9429f4149aac81392e, type: 3}
+  - id: native_practice_statistics
+    sprite: {fileID: 21300000, guid: 104724d036bd2c34ea4e23ff8157d20a, type: 3}
+  - id: native_workbook
+    sprite: {fileID: 21300000, guid: 0fc287c1ef42d9045935087598ec4106, type: 3}
+  - id: native_worksheet
+    sprite: {fileID: 21300000, guid: 4bad27be7b4a45b4b82ac73f8711683f, type: 3}
+  - id: native_orientation_sign
+    sprite: {fileID: 21300000, guid: fc1ff258c80f8b240a2d32cd8b768d3f, type: 3}
+  - id: native_booklet
+    sprite: {fileID: 21300000, guid: 441d4aba4dc0dd742a77deff0f93dc60, type: 3}
+  - id: native_phone_message
+    sprite: {fileID: 21300000, guid: 0806ec78b8305a543a1935d96a648642, type: 3}
+  - id: native_three_request_messages
+    sprite: {fileID: 21300000, guid: 013814fb13e60e448b7569d711b8c807, type: 3}
+  - id: native_strategy_game_screen
+    sprite: {fileID: 21300000, guid: 6c9c07c373082bd4e8bcda7e42448ae3, type: 3}
+  - id: native_cozy_game_screen
+    sprite: {fileID: 21300000, guid: 298bdee8df621954a9d486933633faa6, type: 3}
+  - id: native_floor_markers
+    sprite: {fileID: 21300000, guid: 76de5fcb384916d4089e653efe6e27d0, type: 3}
+  - id: spring_dialogue
+    sprite: {fileID: 21300000, guid: b48c71d87674e804597a5a42a7f79ec2, type: 3}
+  - id: spring_name
+    sprite: {fileID: 21300000, guid: bd9b80c8ba69d6d4080296d022a74bf1, type: 3}
+  - id: spring_menu
+    sprite: {fileID: 21300000, guid: 46b3717461028c74bb4a6d004c648b29, type: 3}
+  - id: spring_wordmark
+    sprite: {fileID: 21300000, guid: 146fcd7330677cf41a582b5cb25d259b, type: 3}
+  - id: spring_calendar
+    sprite: {fileID: 21300000, guid: e690a11349259e147ae4c36a27798f67, type: 3}
+  - id: spring_icon_map
+    sprite: {fileID: 21300000, guid: bb1511f8f718fb844991fe4ed5f2514c, type: 3}
+  - id: spring_icon_journal
+    sprite: {fileID: 21300000, guid: 8bdfec4de9112084baaaad6e7f61e639, type: 3}
+  - id: spring_icon_home
+    sprite: {fileID: 21300000, guid: e4db6d4eeac93a7439aeecac377b08d8, type: 3}
+  - id: spring_icon_door
+    sprite: {fileID: 21300000, guid: 813e2e8fe2ce1a641afe0cd1322c7d6a, type: 3}
+  - id: spring_icon_back
+    sprite: {fileID: 21300000, guid: 1f6a56bb08b51f84db729719a399032d, type: 3}
+  - id: spring_icon_next
+    sprite: {fileID: 21300000, guid: 5f5fe9194ce258642bf9a51e5af533c4, type: 3}
+  - id: spring_icon_close
+    sprite: {fileID: 21300000, guid: 0b4f1ad8da1dbec4486aad50e978ea5e, type: 3}
+  - id: spring_icon_pause
+    sprite: {fileID: 21300000, guid: 348830b2acd388741ba20f8df4e7680c, type: 3}
+  - id: spring_icon_play
+    sprite: {fileID: 21300000, guid: 3c51320af4f67454e96dcdf6d788082b, type: 3}
+  - id: spring_icon_skip
+    sprite: {fileID: 21300000, guid: 8c16403c86a39d349bbd205c40042ed6, type: 3}
+  - id: spring_icon_save
+    sprite: {fileID: 21300000, guid: 96d992e6c6a8548469c9580e39dc121a, type: 3}
+  - id: spring_icon_load
+    sprite: {fileID: 21300000, guid: 67eab067b036cfc4c92575679de70053, type: 3}
+  - id: spring_icon_history
+    sprite: {fileID: 21300000, guid: c547b0b90f114d348acd11e2fb19f41c, type: 3}
+  - id: spring_icon_gallery
+    sprite: {fileID: 21300000, guid: bff319e2a0a461e43adeb5e4937f4490, type: 3}
+  - id: spring_icon_calendar
+    sprite: {fileID: 21300000, guid: 47645402a4e3a1b41a9529c9258e95a7, type: 3}
+  - id: spring_icon_clock
+    sprite: {fileID: 21300000, guid: 0b2d33135f92af7419eddb59a2e459c9, type: 3}
+  - id: spring_icon_sleep
+    sprite: {fileID: 21300000, guid: 5ee96a71fbbd1d4459a4f3b9b10ec45c, type: 3}
+  - id: spring_icon_volume
+    sprite: {fileID: 21300000, guid: 808fafc3925a6f24b9e6339febcdb95c, type: 3}
+  - id: spring_icon_check
+    sprite: {fileID: 21300000, guid: b7acd48edde434a449358190dbab0ef9, type: 3}
+  - id: spring_icon_lock
+    sprite: {fileID: 21300000, guid: 77bfe9fae3ba6584c98aec7bb135b9b9, type: 3}
+  - id: spring_icon_info
+    sprite: {fileID: 21300000, guid: 54febe6778c9be04aa9098c5219fe13b, type: 3}
+  - id: spring_icon_wait
+    sprite: {fileID: 21300000, guid: 359419c15184f1e4195b3ec1b8312b18, type: 3}
+  - id: spring_icon_classroom
+    sprite: {fileID: 21300000, guid: 0a2e9ade481697d41bce840724f9d40c, type: 3}
+  - id: spring_icon_library
+    sprite: {fileID: 21300000, guid: b5bd6034f8e7ffa4281eb4a020aa41c7, type: 3}
+  - id: spring_icon_infirmary
+    sprite: {fileID: 21300000, guid: d6c819d221808d545a4ef3c9b2096d8c, type: 3}
+  - id: spring_icon_canteen
+    sprite: {fileID: 21300000, guid: 524df58109e9f1a4c9774735324ce96b, type: 3}
+  - id: spring_icon_field
+    sprite: {fileID: 21300000, guid: 39590f60835e0c24ab7a0450812f3139, type: 3}
+  - id: spring_cursor_pointer
+    sprite: {fileID: 21300000, guid: 55a1f028a4942fb43956720f1d249fb7, type: 3}
+  - id: spring_continue_marker
+    sprite: {fileID: 21300000, guid: da8ac49b92aae8f4c9d55f3cccfd81dc, type: 3}
+  - id: spring_slider_knob
+    sprite: {fileID: 21300000, guid: 10f17a2bc8ea93142bcc55a1af1b7e33, type: 3}
+  - id: spring_icon_inspect
+    sprite: {fileID: 21300000, guid: 0d177c436b3bfbd4e98cac340e8ba729, type: 3}
+  - id: spring_icon_menu
+    sprite: {fileID: 21300000, guid: 42d20a95bc8da7c42ba224290509201f, type: 3}
+  - id: spring_icon_chat
+    sprite: {fileID: 21300000, guid: b082cfd9e09e29241ae3e654ca9751c2, type: 3}
+  - id: spring_icon_upload
+    sprite: {fileID: 21300000, guid: 7a932dd53cf05b94b8808df6fd4a03d1, type: 3}
+  - id: spring_icon_settings
+    sprite: {fileID: 21300000, guid: 79fbfb217d00c7549af7228a4afa3b82, type: 3}
+  - id: final_button
+    sprite: {fileID: 21300000, guid: 3bfc9e8d61fd2564aa7b8c2e823328a2, type: 3}
+  - id: final_button_primary
+    sprite: {fileID: 21300000, guid: 1cac0ef587c8ded40b450e61e9a4d9ad, type: 3}
+  - id: final_choice
+    sprite: {fileID: 21300000, guid: ac829c89d8ad93247a893781e07e2639, type: 3}
+  - id: final_map_label
+    sprite: {fileID: 21300000, guid: fe82b951c43a4a44f8d761c556960391, type: 3}
+  - id: final_map_current
+    sprite: {fileID: 21300000, guid: ee18ad3e7d8a9b545876cc83591556c1, type: 3}
+  - id: final_tooltip
+    sprite: {fileID: 21300000, guid: ade5fbcc6e764af4abf6bed1bb76fd49, type: 3}
+  - id: vn_katya_neutral
+    sprite: {fileID: 21300000, guid: c0ab2276f10769e4f9f6403ee4af17ac, type: 3}
+  - id: vn_katya_soft_smile
+    sprite: {fileID: 21300000, guid: 2ddd7acfb88ef154492af7b8d5e1d063, type: 3}
+  - id: vn_katya_annoyed
+    sprite: {fileID: 21300000, guid: b69c69f197d00724bbabe72d8711bbe8, type: 3}
+  - id: vn_katya_flustered
+    sprite: {fileID: 21300000, guid: 8e6c4c37b7605254a87647b182510e28, type: 3}
+  - id: vn_akira_neutral
+    sprite: {fileID: 21300000, guid: 4f05c0c2f2a141f4fbb1b7cc21b52164, type: 3}
+  - id: vn_akira_delighted
+    sprite: {fileID: 21300000, guid: 4423d797203916e4cafed917201b67c2, type: 3}
+  - id: vn_akira_excited
+    sprite: {fileID: 21300000, guid: bf5e8610a60eaeb4cb48cd5acf4a0d2e, type: 3}
+  - id: vn_akira_flustered
+    sprite: {fileID: 21300000, guid: f53ef0ca6217da945930d4b60996de29, type: 3}
+  - id: vn_seoyun_neutral
+    sprite: {fileID: 21300000, guid: 9320119b6def6604cad2a397bf086096, type: 3}
+  - id: vn_seoyun_warm
+    sprite: {fileID: 21300000, guid: ebf9fc356b967a24380531b19870296e, type: 3}
+  - id: vn_seoyun_curious
+    sprite: {fileID: 21300000, guid: 7d068c34b331858448b7df499e32d84a, type: 3}
+  - id: vn_seoyun_flustered
+    sprite: {fileID: 21300000, guid: 714223ff2bf13274c91e74bfd1d0913c, type: 3}
+  - id: vn_mari_neutral
+    sprite: {fileID: 21300000, guid: 1da2171c28fe1844ab6febe4eb090657, type: 3}
+  - id: vn_mari_warm
+    sprite: {fileID: 21300000, guid: 16f724880e0177a42af342ecb436b7ad, type: 3}
+  - id: vn_mari_concerned
+    sprite: {fileID: 21300000, guid: ef953928b6f12ac4c84ca3aa3802326d, type: 3}
+  - id: vn_mari_flustered
+    sprite: {fileID: 21300000, guid: 4b6de0e636d27de4299a7460262cfe31, type: 3}
+  - id: vn_svea_neutral
+    sprite: {fileID: 21300000, guid: a288a4a9f7e788b46b64080a29118ac0, type: 3}
+  - id: vn_svea_soft_smile
+    sprite: {fileID: 21300000, guid: edd90c88b1e3ee24bb65b3f186ddafbd, type: 3}
+  - id: vn_svea_smirk
+    sprite: {fileID: 21300000, guid: c4dacaac5c0b4ad408079a1971deeff2, type: 3}
+  - id: vn_svea_flustered
+    sprite: {fileID: 21300000, guid: 977c78f1e068f4c438338a4610609d11, type: 3}
+  - id: vn_katya_concerned
+    sprite: {fileID: 21300000, guid: 85ac9ed3837bfa044b7e9712bb8314cb, type: 3}
+  - id: vn_katya_determined
+    sprite: {fileID: 21300000, guid: c4def298e160a03488c0e5645d4ee54a, type: 3}
+  - id: vn_katya_sad
+    sprite: {fileID: 21300000, guid: 2f3652a6843ee6544b228db370cd2f0e, type: 3}
+  - id: vn_katya_surprised
+    sprite: {fileID: 21300000, guid: b6fdd6d07ebc77b4ea0ad876ecd29b71, type: 3}
+  - id: vn_akira_puzzled
+    sprite: {fileID: 21300000, guid: dbb20b1472f1f1341a7ecf919eed11db, type: 3}
+  - id: vn_akira_sad
+    sprite: {fileID: 21300000, guid: d594bd8ffb9ca2f4f9f9c78f4fc7e43a, type: 3}
+  - id: vn_akira_surprised
+    sprite: {fileID: 21300000, guid: d584dd8a98be17347849cbec495b4402, type: 3}
+  - id: vn_akira_worried
+    sprite: {fileID: 21300000, guid: 8326b9c0a4cf8934a8474e97317b9ce2, type: 3}
+  - id: vn_seoyun_concerned
+    sprite: {fileID: 21300000, guid: b4c0978da175628428b3b3ee07d0b489, type: 3}
+  - id: vn_seoyun_determined
+    sprite: {fileID: 21300000, guid: bc26b716f9cd20b4b966a5797509121e, type: 3}
+  - id: vn_seoyun_sad
+    sprite: {fileID: 21300000, guid: 254163329541e7046a225ca001bf6419, type: 3}
+  - id: vn_seoyun_surprised
+    sprite: {fileID: 21300000, guid: 43c56e537905570448496e14cf8bb532, type: 3}
+  - id: vn_mari_determined
+    sprite: {fileID: 21300000, guid: 67d8a504a267fb047addaa20f6d96f67, type: 3}
+  - id: vn_mari_peaceful
+    sprite: {fileID: 21300000, guid: 164bc5bb20a80cf47bf404f3afbc780e, type: 3}
+  - id: vn_mari_sad
+    sprite: {fileID: 21300000, guid: a51c0e6166dce5b44a40558cf3ed55c5, type: 3}
+  - id: vn_mari_surprised
+    sprite: {fileID: 21300000, guid: 7c7bcf3ec0ab93b4692e1b3cada1dd15, type: 3}
+  - id: vn_svea_annoyed
+    sprite: {fileID: 21300000, guid: 1b908974654fefc499f0a046f9658b09, type: 3}
+  - id: vn_svea_sleepy
+    sprite: {fileID: 21300000, guid: 5f0bae3dec4ef264182352ee3622a54b, type: 3}
+  - id: vn_svea_sad
+    sprite: {fileID: 21300000, guid: 82f9e50cb01f8094c89c24cfd97ba33c, type: 3}
+  - id: vn_svea_surprised
+    sprite: {fileID: 21300000, guid: 438dd41dd19423d45b94c1d6b1a6c3e2, type: 3}
+  - id: vn_svea_concerned
+    sprite: {fileID: 21300000, guid: 7aa5096843b98994d9cae1003016e1f1, type: 3}
+  audio:
+  - id: bgm_daily
+    clip: {fileID: 8300000, guid: fc068e3c58e097d4b88fb2394bcd096b, type: 3}
+  - id: bgm_ending_bad
+    clip: {fileID: 8300000, guid: f53213de2c7e7ca42ae9984951bb9de5, type: 3}
+  - id: bgm_ending_good
+    clip: {fileID: 8300000, guid: c3b9bcd057c1f1c499ca09fbdacaeb4d, type: 3}
+  - id: bgm_ending_neutral
+    clip: {fileID: 8300000, guid: d67c493b751f5ad4aaf1f017879b29cc, type: 3}
+  - id: bgm_reflection
+    clip: {fileID: 8300000, guid: c77af944cf04c314a88241a66cbc1c7c, type: 3}
+  - id: back
+    clip: {fileID: 8300000, guid: 96ffbda2655ba6148a7fc4cff4c30483, type: 3}
+  - id: error
+    clip: {fileID: 8300000, guid: 983930578e931ec49927f2ae2b77fd5e, type: 3}
+  - id: hover
+    clip: {fileID: 8300000, guid: 4a3069df393192c4793dcbe53740ee53, type: 3}
+  - id: open
+    clip: {fileID: 8300000, guid: 7e607945d29519c4fa6a15a5f9b1de64, type: 3}
+  - id: save
+    clip: {fileID: 8300000, guid: 32350dc46d48f024bbf3e7542cfacb25, type: 3}
+  - id: select
+    clip: {fileID: 8300000, guid: cdfd0f7490b0948449ecbd3c88ebcaa7, type: 3}
+  - id: rain_window
+    clip: {fileID: 8300000, guid: 3709d61d8f517d140b885b7c6339cc73, type: 3}
+  - id: room_door
+    clip: {fileID: 8300000, guid: b65c5773157d22c43a6347bc0e31fba4, type: 3}

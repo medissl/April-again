@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 2a5408aca0da08b418755bfb14ee54f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5768324764218776424
+    second: katya_placement_0
+  - first:
+      213: -7561001089247787732
+    second: katya_placement_1
+  - first:
+      213: 3527745128447777757
+    second: katya_placement_2
+  - first:
+      213: 4671006890613570506
+    second: katya_placement_3
+  - first:
+      213: 2479248587153200320
+    second: katya_placement_4
+  - first:
+      213: 3293628607510240395
+    second: katya_placement_5
+  - first:
+      213: -7238898560538053640
+    second: katya_placement_6
+  - first:
+      213: -8676877225486591494
+    second: katya_placement_7
+  - first:
+      213: -7280005892706740918
+    second: katya_placement_8
+  - first:
+      213: -4902995558896922962
+    second: katya_placement_9
+  - first:
+      213: -4722529061029856370
+    second: katya_placement_10
+  - first:
+      213: -1757563888945389543
+    second: katya_placement_11
+  - first:
+      213: -8480453730169408263
+    second: katya_placement_12
+  - first:
+      213: -7008574950893199920
+    second: katya_placement_13
+  - first:
+      213: 5770879410178873176
+    second: katya_placement_14
+  - first:
+      213: -2382372558808506865
+    second: katya_placement_15
+  - first:
+      213: 4874174595683290515
+    second: katya_placement_16
+  - first:
+      213: -7825517431128081918
+    second: katya_placement_17
+  - first:
+      213: 7867005125546276406
+    second: katya_placement_18
+  - first:
+      213: 6332533332658129307
+    second: katya_placement_19
+  - first:
+      213: 3315294508119604522
+    second: katya_placement_20
+  - first:
+      213: 7206829645209797294
+    second: katya_placement_21
+  - first:
+      213: 6428401738183699256
+    second: katya_placement_22
+  - first:
+      213: 6120786596952454140
+    second: katya_placement_23
+  - first:
+      213: -6690382712132897113
+    second: katya_placement_24
+  - first:
+      213: 3484384777253129453
+    second: katya_placement_25
+  - first:
+      213: -6076511530629383742
+    second: katya_placement_26
+  - first:
+      213: -1171494883337401585
+    second: katya_placement_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: katya_placement_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 593
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b5958afc43d0050800000000000000
+      internalID: 5768324764218776424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katya_placement_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 511
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c254b09b19de11790800000000000000
+      internalID: -7561001089247787732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katya_placement_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 669
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb9e37e08115f030800000000000000
+      internalID: 3527745128447777757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katya_placement_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 493
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb7c6ad400c2d040800000000000000
+      internalID: 4671006890613570506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katya_placement_4
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 767
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4d723547f086220800000000000000
+      internalID: 2479248587153200320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katya_placement_5
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 679
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c56b4a4c155bd20800000000000000
+      internalID: 3293628607510240395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katya_placement_6
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 287
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3fa0ecc144a8b90800000000000000
+      internalID: -7238898560538053640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katya_placement_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 435
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9d13fa22a859780800000000000000
+      internalID: -8676877225486591494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katya_placement_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 311
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45d672363938fa90800000000000000
+      internalID: -7280005892706740918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katya_placement_9
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 285
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae81a0348f05fbb0800000000000000
+      internalID: -4902995558896922962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katya_placement_10
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 148
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b3bdb07d4367eb0800000000000000
+      internalID: -4722529061029856370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katya_placement_11
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 149
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9102b5974f0eb97e0800000000000000
+      internalID: -1757563888945389543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katya_placement_12
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 325
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4bd1783406f4a80800000000000000
+      internalID: -8480453730169408263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katya_placement_13
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 562
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd5f46173a8cbe90800000000000000
+      internalID: -7008574950893199920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katya_placement_14
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 291
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857d3558f38461050800000000000000
+      internalID: 5770879410178873176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katya_placement_15
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 159
+        width: 237
+        height: 857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e9495b7cc10fed0800000000000000
+      internalID: -2382372558808506865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katya_placement_16
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 639
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d8fe468fb84a340800000000000000
+      internalID: 4874174595683290515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katya_placement_17
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 609
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20abbf59b5d266390800000000000000
+      internalID: -7825517431128081918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katya_placement_18
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 575
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636fc520b773d2d60800000000000000
+      internalID: 7867005125546276406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katya_placement_19
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 351
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99886dc38da1e750800000000000000
+      internalID: 6332533332658129307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katya_placement_20
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 0
+        width: 699
+        height: 970
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2db54a3aca420e20800000000000000
+      internalID: 3315294508119604522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katya_placement_21
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 693
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea20c7ff06dc30460800000000000000
+      internalID: 7206829645209797294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katya_placement_22
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 969
+        width: 95
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b61fd5255463950800000000000000
+      internalID: 6428401738183699256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katya_placement_23
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 977
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3b2590bf661f450800000000000000
+      internalID: 6120786596952454140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katya_placement_24
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 485
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a677e7de5cf623a0800000000000000
+      internalID: -6690382712132897113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katya_placement_25
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 287
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec83fc6e750b5030800000000000000
+      internalID: 3484384777253129453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katya_placement_26
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 638
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9354725f4ebaba0800000000000000
+      internalID: -6076511530629383742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katya_placement_27
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 291
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b8c764c930ebfe0800000000000000
+      internalID: -1171494883337401585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      katya_placement_0: 5768324764218776424
+      katya_placement_1: -7561001089247787732
+      katya_placement_10: -4722529061029856370
+      katya_placement_11: -1757563888945389543
+      katya_placement_12: -8480453730169408263
+      katya_placement_13: -7008574950893199920
+      katya_placement_14: 5770879410178873176
+      katya_placement_15: -2382372558808506865
+      katya_placement_16: 4874174595683290515
+      katya_placement_17: -7825517431128081918
+      katya_placement_18: 7867005125546276406
+      katya_placement_19: 6332533332658129307
+      katya_placement_2: 3527745128447777757
+      katya_placement_20: 3315294508119604522
+      katya_placement_21: 7206829645209797294
+      katya_placement_22: 6428401738183699256
+      katya_placement_23: 6120786596952454140
+      katya_placement_24: -6690382712132897113
+      katya_placement_25: 3484384777253129453
+      katya_placement_26: -6076511530629383742
+      katya_placement_27: -1171494883337401585
+      katya_placement_3: 4671006890613570506
+      katya_placement_4: 2479248587153200320
+      katya_placement_5: 3293628607510240395
+      katya_placement_6: -7238898560538053640
+      katya_placement_7: -8676877225486591494
+      katya_placement_8: -7280005892706740918
+      katya_placement_9: -4902995558896922962
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2704 @@
+fileFormatVersion: 2
+guid: 7dbbe114abf5c00468484d7b0f5507db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6142807998472802452
+    second: mc_room_0
+  - first:
+      213: -7368085315250965717
+    second: mc_room_1
+  - first:
+      213: -4961216832420924645
+    second: mc_room_2
+  - first:
+      213: 3978160766505047845
+    second: mc_room_3
+  - first:
+      213: -3378839615531170813
+    second: mc_room_4
+  - first:
+      213: 3243190513546906130
+    second: mc_room_5
+  - first:
+      213: -8594797005835017815
+    second: mc_room_6
+  - first:
+      213: -5665398175796117769
+    second: mc_room_7
+  - first:
+      213: -1522030269557234832
+    second: mc_room_8
+  - first:
+      213: 6689428811675642813
+    second: mc_room_9
+  - first:
+      213: -730518897611555127
+    second: mc_room_10
+  - first:
+      213: 7681444289483922741
+    second: mc_room_11
+  - first:
+      213: -2164530330483973771
+    second: mc_room_12
+  - first:
+      213: -8195739267562514256
+    second: mc_room_13
+  - first:
+      213: -968232425778996917
+    second: mc_room_14
+  - first:
+      213: 7376809532605307609
+    second: mc_room_15
+  - first:
+      213: -7229155395780652099
+    second: mc_room_16
+  - first:
+      213: -174259776399368634
+    second: mc_room_17
+  - first:
+      213: 2259393322513374265
+    second: mc_room_18
+  - first:
+      213: 3405054012951086784
+    second: mc_room_19
+  - first:
+      213: -7680665539387318333
+    second: mc_room_20
+  - first:
+      213: 2400034865803214290
+    second: mc_room_21
+  - first:
+      213: -7526172537370776676
+    second: mc_room_22
+  - first:
+      213: 1048186139166047421
+    second: mc_room_23
+  - first:
+      213: 3418633228057519075
+    second: mc_room_24
+  - first:
+      213: -5259193852961236651
+    second: mc_room_25
+  - first:
+      213: -1386383685089048017
+    second: mc_room_26
+  - first:
+      213: 4637471129779817779
+    second: mc_room_27
+  - first:
+      213: 7288021897453113754
+    second: mc_room_28
+  - first:
+      213: -839378715384919006
+    second: mc_room_29
+  - first:
+      213: 5831659754845187716
+    second: mc_room_30
+  - first:
+      213: -3182004256868632469
+    second: mc_room_31
+  - first:
+      213: 9149812040270382879
+    second: mc_room_32
+  - first:
+      213: 7987327101528852701
+    second: mc_room_33
+  - first:
+      213: 9088981934394734512
+    second: mc_room_34
+  - first:
+      213: -3468308291531096061
+    second: mc_room_35
+  - first:
+      213: -8624453530472153412
+    second: mc_room_36
+  - first:
+      213: -8045587724915607745
+    second: mc_room_37
+  - first:
+      213: -8615927268981810616
+    second: mc_room_38
+  - first:
+      213: 8213754401926292418
+    second: mc_room_39
+  - first:
+      213: 7078250876466530349
+    second: mc_room_40
+  - first:
+      213: 3506925836324203020
+    second: mc_room_41
+  - first:
+      213: -381511778911671128
+    second: mc_room_42
+  - first:
+      213: -5661519605821579990
+    second: mc_room_43
+  - first:
+      213: -7715588656217993055
+    second: mc_room_44
+  - first:
+      213: 8285553410070090736
+    second: mc_room_45
+  - first:
+      213: -4160303014592886866
+    second: mc_room_46
+  - first:
+      213: -7976892192740287407
+    second: mc_room_47
+  - first:
+      213: -1147706887749353258
+    second: mc_room_48
+  - first:
+      213: 146231408860452984
+    second: mc_room_49
+  - first:
+      213: -9108706863736378396
+    second: mc_room_50
+  - first:
+      213: 5444371927305569894
+    second: mc_room_51
+  - first:
+      213: -12373797403057762
+    second: mc_room_52
+  - first:
+      213: 1196502668912712111
+    second: mc_room_53
+  - first:
+      213: 4118933029011425082
+    second: mc_room_54
+  - first:
+      213: 2276959521145020041
+    second: mc_room_55
+  - first:
+      213: 7244084752419059774
+    second: mc_room_56
+  - first:
+      213: 6035468451365343495
+    second: mc_room_57
+  - first:
+      213: 7121712281397221739
+    second: mc_room_58
+  - first:
+      213: -1564652512636709300
+    second: mc_room_59
+  - first:
+      213: -2086400071329738694
+    second: mc_room_60
+  - first:
+      213: -3919996390219053190
+    second: mc_room_61
+  - first:
+      213: 6916841468375590214
+    second: mc_room_62
+  - first:
+      213: -3796164683169042800
+    second: mc_room_63
+  - first:
+      213: -5822876300733168399
+    second: mc_room_64
+  - first:
+      213: -2085201895097678036
+    second: mc_room_65
+  - first:
+      213: -3263297601624344463
+    second: mc_room_66
+  - first:
+      213: -7160570238924100845
+    second: mc_room_67
+  - first:
+      213: 2484628589196878695
+    second: mc_room_68
+  - first:
+      213: -3492811811438359183
+    second: mc_room_69
+  - first:
+      213: 553874426756268343
+    second: mc_room_70
+  - first:
+      213: 4024251929104057672
+    second: mc_room_71
+  - first:
+      213: 8800065311333906784
+    second: mc_room_72
+  - first:
+      213: -4146655192578893349
+    second: mc_room_73
+  - first:
+      213: 4855499214063077556
+    second: mc_room_74
+  - first:
+      213: -1086284942214949528
+    second: mc_room_75
+  - first:
+      213: 4758466713551998396
+    second: mc_room_76
+  - first:
+      213: 4217496235303912275
+    second: mc_room_77
+  - first:
+      213: -3507145635950545183
+    second: mc_room_78
+  - first:
+      213: 8231487691923489448
+    second: mc_room_79
+  - first:
+      213: 165781312830319920
+    second: mc_room_80
+  - first:
+      213: -36071892581172928
+    second: mc_room_81
+  - first:
+      213: 3593471185753313609
+    second: mc_room_82
+  - first:
+      213: 8653423859842705871
+    second: mc_room_83
+  - first:
+      213: 1391533231159508858
+    second: mc_room_84
+  - first:
+      213: -6589964179872906900
+    second: mc_room_85
+  - first:
+      213: -3272752817191921046
+    second: mc_room_86
+  - first:
+      213: 5314807922057975050
+    second: mc_room_87
+  - first:
+      213: 1200165481514858071
+    second: mc_room_88
+  - first:
+      213: 6622985957621384511
+    second: mc_room_89
+  - first:
+      213: 1806404235068932575
+    second: mc_room_90
+  - first:
+      213: -3159458218632845846
+    second: mc_room_91
+  - first:
+      213: -1753813200039901680
+    second: mc_room_92
+  - first:
+      213: -4846924646821926199
+    second: mc_room_93
+  - first:
+      213: -4117290290636441754
+    second: mc_room_94
+  - first:
+      213: 8787993592940558395
+    second: mc_room_95
+  - first:
+      213: 5270933163449418391
+    second: mc_room_96
+  - first:
+      213: 237803155943053669
+    second: mc_room_97
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mc_room_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49056602453af3550800000000000000
+      internalID: 6142807998472802452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 533
+        width: 644
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23b1bd817d4fb990800000000000000
+      internalID: -7368085315250965717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_2
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1224
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13bcd99397362bb0800000000000000
+      internalID: -4961216832420924645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1193
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527dde2d324453730800000000000000
+      internalID: 3978160766505047845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1201
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3044f338543fb11d0800000000000000
+      internalID: -3378839615531170813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1198
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a41e2c690220d20800000000000000
+      internalID: 3243190513546906130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_6
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1187
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1ec9e09a529b880800000000000000
+      internalID: -8594797005835017815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_7
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1195
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7feb68c20667061b0800000000000000
+      internalID: -5665398175796117769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_8
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1186
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07326ada889a0eae0800000000000000
+      internalID: -1522030269557234832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_9
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1079
+        width: 81
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbba036ef00a5dc50800000000000000
+      internalID: 6689428811675642813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_10
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1193
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce372edeecacd5f0800000000000000
+      internalID: -730518897611555127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_11
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1123
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d54ac12e8f99a60800000000000000
+      internalID: 7681444289483922741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_12
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571a1f1f12b06f1e0800000000000000
+      internalID: -2164530330483973771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_13
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1153
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8573d1f82e24e80800000000000000
+      internalID: -8195739267562514256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_14
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1140
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b499d691db52092f0800000000000000
+      internalID: -968232425778996917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_15
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1108
+        width: 97
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da97a69f21bf5660800000000000000
+      internalID: 7376809532605307609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_16
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1144
+        width: 100
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db355602871ecab90800000000000000
+      internalID: -7229155395780652099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_17
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1205
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e931918a7e49df0800000000000000
+      internalID: -174259776399368634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_18
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1218
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c9c4c814afa5f10800000000000000
+      internalID: 2259393322513374265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_19
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1240
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6c7f2859e214f20800000000000000
+      internalID: 3405054012951086784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_20
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1229
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf1c36c26bc86590800000000000000
+      internalID: -7680665539387318333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_21
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1028
+        width: 246
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddb0c89ef2ae4120800000000000000
+      internalID: 2400034865803214290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_22
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1223
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9be6bfd3f9ad8790800000000000000
+      internalID: -7526172537370776676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_23
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1207
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcfa737db7eb8e00800000000000000
+      internalID: 1048186139166047421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_24
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1129
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e327b7eecc617f20800000000000000
+      internalID: 3418633228057519075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_25
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1128
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559d35d1e079307b0800000000000000
+      internalID: -5259193852961236651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_26
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1130
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2acedf326392cce0800000000000000
+      internalID: -1386383685089048017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_27
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1094
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33dc7a21c6b9b5040800000000000000
+      internalID: 4637471129779817779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_28
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1114
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9116f85d41442560800000000000000
+      internalID: 7288021897453113754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_29
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 550
+        width: 558
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c457d618de954f0800000000000000
+      internalID: -839378715384919006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_30
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1062
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e2d7a46a73ee050800000000000000
+      internalID: 5831659754845187716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_31
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1046
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b687093ccff37d3d0800000000000000
+      internalID: -3182004256868632469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_32
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1059
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1788e5a299aafe70800000000000000
+      internalID: 9149812040270382879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_33
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1028
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd84a7f1eafa8de60800000000000000
+      internalID: 7987327101528852701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_34
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1016
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b77a81f9ec822e70800000000000000
+      internalID: 9088981934394734512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_35
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 730
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3004fb71cf71edfc0800000000000000
+      internalID: -3468308291531096061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_36
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 738
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbef7565539cf4880800000000000000
+      internalID: -8624453530472153412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_37
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 738
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37792f6794585090800000000000000
+      internalID: -8045587724915607745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_38
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 744
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84adcb94cc31e6880800000000000000
+      internalID: -8615927268981810616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_39
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 738
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c32e173c1e1df170800000000000000
+      internalID: 8213754401926292418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_40
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 742
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2882e28baffa3260800000000000000
+      internalID: 7078250876466530349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_41
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 717
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a6eb7b77a1ba030800000000000000
+      internalID: 3506925836324203020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_42
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 722
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aca754fe0994baf0800000000000000
+      internalID: -381511778911671128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_43
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 698
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d581e1aed3e61b0800000000000000
+      internalID: -5661519605821579990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_44
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 693
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0d7110ff8bce490800000000000000
+      internalID: -7715588656217993055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_45
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 700
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f311ce7de23cf270800000000000000
+      internalID: 8285553410070090736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_46
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 690
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea744315372a346c0800000000000000
+      internalID: -4160303014592886866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_47
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 630
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cd02860d26c4190800000000000000
+      internalID: -7976892192740287407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_48
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 682
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d04e699aa68210f0800000000000000
+      internalID: -1147706887749353258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_49
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 674
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878d12c01b4870200800000000000000
+      internalID: 146231408860452984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_50
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 664
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eba4df0e5f579180800000000000000
+      internalID: -9108706863736378396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_51
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 638
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66648202c6b4e8b40800000000000000
+      internalID: 5444371927305569894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_52
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 634
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91a449c81a04dff0800000000000000
+      internalID: -12373797403057762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_53
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 620
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9595986d4da9010800000000000000
+      internalID: 1196502668912712111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_54
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 606
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3789df44c3692930800000000000000
+      internalID: 4118933029011425082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_55
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 628
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98edac1ee92699f10800000000000000
+      internalID: 2276959521145020041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_56
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 608
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38f2c693b8288460800000000000000
+      internalID: 7244084752419059774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_57
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 608
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70155b8449a42c350800000000000000
+      internalID: 6035468451365343495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_58
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 615
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69d735669765d260800000000000000
+      internalID: 7121712281397221739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_59
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 610
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46dd5364dc394ae0800000000000000
+      internalID: -1564652512636709300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_60
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 602
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a309a09703e9b03e0800000000000000
+      internalID: -2086400071329738694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_61
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 596
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a770e285d006999c0800000000000000
+      internalID: -3919996390219053190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_62
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 574
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645e7322bae8dff50800000000000000
+      internalID: 6916841468375590214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_63
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 581
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e63d66550515bc0800000000000000
+      internalID: -3796164683169042800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_64
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 586
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f442cbfadcf03fa0800000000000000
+      internalID: -5822876300733168399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_65
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 576
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c274bbd9cefdf03e0800000000000000
+      internalID: -2085201895097678036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_66
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 585
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178fbcafe1076b2d0800000000000000
+      internalID: -3263297601624344463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_67
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 568
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31be1b75e4b80ac90800000000000000
+      internalID: -7160570238924100845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_68
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 564
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7632cd9a98c2b7220800000000000000
+      internalID: 2484628589196878695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_69
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 562
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d8de7c92a078fc0800000000000000
+      internalID: -3492811811438359183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_70
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 558
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7310bf84bd1cfa700800000000000000
+      internalID: 553874426756268343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_71
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 0
+        width: 558
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8458de0eec309d730800000000000000
+      internalID: 4024251929104057672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_72
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 540
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0697b42a6cc102a70800000000000000
+      internalID: 8800065311333906784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_73
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 535
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd95e40821f1476c0800000000000000
+      internalID: -4146655192578893349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_74
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 535
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b80b654fc2326340800000000000000
+      internalID: 4855499214063077556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 662
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8651c66b99dbce0f0800000000000000
+      internalID: -1086284942214949528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_76
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 374
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd89c8b348790240800000000000000
+      internalID: 4758466713551998396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_77
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 361
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35346d21b7e878a30800000000000000
+      internalID: 4217496235303912275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_78
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 340
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e63b9130ad145fc0800000000000000
+      internalID: -3507145635950545183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_79
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 278
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2891a817e1c3270800000000000000
+      internalID: 8231487691923489448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_80
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 244
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d26a5c939fc4200800000000000000
+      internalID: 165781312830319920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_81
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 240
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049b2580ec8df7ff0800000000000000
+      internalID: -36071892581172928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_82
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 213
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9419d6121039ed130800000000000000
+      internalID: 3593471185753313609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_83
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 89
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc960d81723271870800000000000000
+      internalID: 8653423859842705871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_84
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 63
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ff960e918bf4310800000000000000
+      internalID: 1391533231159508858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_85
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 57
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6180285e7ebb84a0800000000000000
+      internalID: -6589964179872906900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_86
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 55
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6add9d07a8d492d0800000000000000
+      internalID: -3272752817191921046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_87
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 49
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0592b365adf1c940800000000000000
+      internalID: 5314807922057975050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_88
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 55
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756f06d8528d7a010800000000000000
+      internalID: 1200165481514858071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_89
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 49
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f354c6c63a299eb50800000000000000
+      internalID: 6622985957621384511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_90
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 47
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd18b00c413a11910800000000000000
+      internalID: 1806404235068932575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_91
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 38
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae563bb5d795724d0800000000000000
+      internalID: -3159458218632845846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_92
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 15
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0160b39cf2439a7e0800000000000000
+      internalID: -1753813200039901680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_93
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cae71db6b34cbcb0800000000000000
+      internalID: -4846924646821926199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_94
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 21
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66733758b427cd6c0800000000000000
+      internalID: -4117290290636441754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_95
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 15
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3871abac9935f970800000000000000
+      internalID: 8787993592940558395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_96
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 15
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7928a3a19cd162940800000000000000
+      internalID: 5270933163449418391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_room_97
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 8
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569d37cd5b8dc4300800000000000000
+      internalID: 237803155943053669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mc_room_0: 6142807998472802452
+      mc_room_1: -7368085315250965717
+      mc_room_10: -730518897611555127
+      mc_room_11: 7681444289483922741
+      mc_room_12: -2164530330483973771
+      mc_room_13: -8195739267562514256
+      mc_room_14: -968232425778996917
+      mc_room_15: 7376809532605307609
+      mc_room_16: -7229155395780652099
+      mc_room_17: -174259776399368634
+      mc_room_18: 2259393322513374265
+      mc_room_19: 3405054012951086784
+      mc_room_2: -4961216832420924645
+      mc_room_20: -7680665539387318333
+      mc_room_21: 2400034865803214290
+      mc_room_22: -7526172537370776676
+      mc_room_23: 1048186139166047421
+      mc_room_24: 3418633228057519075
+      mc_room_25: -5259193852961236651
+      mc_room_26: -1386383685089048017
+      mc_room_27: 4637471129779817779
+      mc_room_28: 7288021897453113754
+      mc_room_29: -839378715384919006
+      mc_room_3: 3978160766505047845
+      mc_room_30: 5831659754845187716
+      mc_room_31: -3182004256868632469
+      mc_room_32: 9149812040270382879
+      mc_room_33: 7987327101528852701
+      mc_room_34: 9088981934394734512
+      mc_room_35: -3468308291531096061
+      mc_room_36: -8624453530472153412
+      mc_room_37: -8045587724915607745
+      mc_room_38: -8615927268981810616
+      mc_room_39: 8213754401926292418
+      mc_room_4: -3378839615531170813
+      mc_room_40: 7078250876466530349
+      mc_room_41: 3506925836324203020
+      mc_room_42: -381511778911671128
+      mc_room_43: -5661519605821579990
+      mc_room_44: -7715588656217993055
+      mc_room_45: 8285553410070090736
+      mc_room_46: -4160303014592886866
+      mc_room_47: -7976892192740287407
+      mc_room_48: -1147706887749353258
+      mc_room_49: 146231408860452984
+      mc_room_5: 3243190513546906130
+      mc_room_50: -9108706863736378396
+      mc_room_51: 5444371927305569894
+      mc_room_52: -12373797403057762
+      mc_room_53: 1196502668912712111
+      mc_room_54: 4118933029011425082
+      mc_room_55: 2276959521145020041
+      mc_room_56: 7244084752419059774
+      mc_room_57: 6035468451365343495
+      mc_room_58: 7121712281397221739
+      mc_room_59: -1564652512636709300
+      mc_room_6: -8594797005835017815
+      mc_room_60: -2086400071329738694
+      mc_room_61: -3919996390219053190
+      mc_room_62: 6916841468375590214
+      mc_room_63: -3796164683169042800
+      mc_room_64: -5822876300733168399
+      mc_room_65: -2085201895097678036
+      mc_room_66: -3263297601624344463
+      mc_room_67: -7160570238924100845
+      mc_room_68: 2484628589196878695
+      mc_room_69: -3492811811438359183
+      mc_room_7: -5665398175796117769
+      mc_room_70: 553874426756268343
+      mc_room_71: 4024251929104057672
+      mc_room_72: 8800065311333906784
+      mc_room_73: -4146655192578893349
+      mc_room_74: 4855499214063077556
+      mc_room_75: -1086284942214949528
+      mc_room_76: 4758466713551998396
+      mc_room_77: 4217496235303912275
+      mc_room_78: -3507145635950545183
+      mc_room_79: 8231487691923489448
+      mc_room_8: -1522030269557234832
+      mc_room_80: 165781312830319920
+      mc_room_81: -36071892581172928
+      mc_room_82: 3593471185753313609
+      mc_room_83: 8653423859842705871
+      mc_room_84: 1391533231159508858
+      mc_room_85: -6589964179872906900
+      mc_room_86: -3272752817191921046
+      mc_room_87: 5314807922057975050
+      mc_room_88: 1200165481514858071
+      mc_room_89: 6622985957621384511
+      mc_room_9: 6689428811675642813
+      mc_room_90: 1806404235068932575
+      mc_room_91: -3159458218632845846
+      mc_room_92: -1753813200039901680
+      mc_room_93: -4846924646821926199
+      mc_room_94: -4117290290636441754
+      mc_room_95: 8787993592940558395
+      mc_room_96: 5270933163449418391
+      mc_room_97: 237803155943053669
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

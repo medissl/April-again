@@ -1,0 +1,93 @@
+[
+  {
+    "id": "proof_title",
+    "file": "proof_title.jpg",
+    "category": "layout_proof",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "proof_exploration",
+    "file": "proof_exploration.jpg",
+    "category": "layout_proof",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "proof_dialogue",
+    "file": "proof_dialogue.jpg",
+    "category": "layout_proof",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "proof_choices",
+    "file": "proof_choices.jpg",
+    "category": "layout_proof",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "proof_bedroom",
+    "file": "proof_bedroom.jpg",
+    "category": "layout_proof",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "proof_save",
+    "file": "proof_save.jpg",
+    "category": "layout_proof",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "proof_settings",
+    "file": "proof_settings.jpg",
+    "category": "layout_proof",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "proof_journal",
+    "file": "proof_journal.jpg",
+    "category": "layout_proof",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "proof_gallery",
+    "file": "proof_gallery.jpg",
+    "category": "layout_proof",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "proof_pause",
+    "file": "proof_pause.jpg",
+    "category": "layout_proof",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "proof_confirmation",
+    "file": "proof_confirmation.jpg",
+    "category": "layout_proof",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "proof_backlog",
+    "file": "proof_backlog.jpg",
+    "category": "layout_proof",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "proof_map",
+    "file": "proof_map.jpg",
+    "category": "layout_proof",
+    "width": 1920,
+    "height": 1080
+  }
+]

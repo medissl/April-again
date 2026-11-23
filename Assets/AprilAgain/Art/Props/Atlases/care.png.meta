@@ -1,0 +1,2808 @@
+fileFormatVersion: 2
+guid: d98c26c96af5be3438024b90c9c51b54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8014400071326566332
+    second: care_0
+  - first:
+      213: -8946017699995999436
+    second: care_1
+  - first:
+      213: 5446422491066658566
+    second: care_2
+  - first:
+      213: -8298711254991423533
+    second: care_3
+  - first:
+      213: -2345095586990366155
+    second: care_4
+  - first:
+      213: 7552097382001367729
+    second: care_5
+  - first:
+      213: -5656122487721571375
+    second: care_6
+  - first:
+      213: -2635813496121090687
+    second: care_7
+  - first:
+      213: -1017187104219172253
+    second: care_8
+  - first:
+      213: 6258390090282509449
+    second: care_9
+  - first:
+      213: -6847260898231541020
+    second: care_10
+  - first:
+      213: 8823835282024779707
+    second: care_11
+  - first:
+      213: -145102770100178171
+    second: care_12
+  - first:
+      213: -2576941665026549041
+    second: care_13
+  - first:
+      213: -3038956327776885797
+    second: care_14
+  - first:
+      213: 1885514704106094503
+    second: care_15
+  - first:
+      213: -8157237975382947984
+    second: care_16
+  - first:
+      213: -7431506781889714653
+    second: care_17
+  - first:
+      213: -3721851036755700331
+    second: care_18
+  - first:
+      213: -270019588695676442
+    second: care_19
+  - first:
+      213: 1119224310952239776
+    second: care_20
+  - first:
+      213: -8517391342497791159
+    second: care_21
+  - first:
+      213: 2455769210333337820
+    second: care_22
+  - first:
+      213: 2567827037778751980
+    second: care_23
+  - first:
+      213: -5099319454120531350
+    second: care_24
+  - first:
+      213: -1498193009135402824
+    second: care_25
+  - first:
+      213: 6636646144188922971
+    second: care_26
+  - first:
+      213: -6769168595236640887
+    second: care_27
+  - first:
+      213: 3772613774501873344
+    second: care_28
+  - first:
+      213: 6513255648821525716
+    second: care_29
+  - first:
+      213: -2475460759506598633
+    second: care_30
+  - first:
+      213: -4975324551901030913
+    second: care_31
+  - first:
+      213: -6506219063439900389
+    second: care_32
+  - first:
+      213: -6079330278043338271
+    second: care_33
+  - first:
+      213: -1492510091978540190
+    second: care_34
+  - first:
+      213: -3342280755780463531
+    second: care_35
+  - first:
+      213: 4736837377617019050
+    second: care_36
+  - first:
+      213: 7566023887016388013
+    second: care_37
+  - first:
+      213: 6816719079680681899
+    second: care_38
+  - first:
+      213: -2646211240584357862
+    second: care_39
+  - first:
+      213: 7030442669117713975
+    second: care_40
+  - first:
+      213: 8259272775300591440
+    second: care_41
+  - first:
+      213: -7528320456349678430
+    second: care_42
+  - first:
+      213: -6548782140357561101
+    second: care_43
+  - first:
+      213: 6864213647683363382
+    second: care_44
+  - first:
+      213: 7962323645842468032
+    second: care_45
+  - first:
+      213: -5417082865019927471
+    second: care_46
+  - first:
+      213: -8431582817959971367
+    second: care_47
+  - first:
+      213: 7226475576972950019
+    second: care_48
+  - first:
+      213: 7599039714062410863
+    second: care_49
+  - first:
+      213: 5675101524160608617
+    second: care_50
+  - first:
+      213: 2172669802391530990
+    second: care_51
+  - first:
+      213: -2841868542596870071
+    second: care_52
+  - first:
+      213: 661452638453781082
+    second: care_53
+  - first:
+      213: -7927685228898199950
+    second: care_54
+  - first:
+      213: 1216709815852777630
+    second: care_55
+  - first:
+      213: -709641472000556544
+    second: care_56
+  - first:
+      213: 4049662398891471243
+    second: care_57
+  - first:
+      213: 7234196928135741546
+    second: care_58
+  - first:
+      213: -8576372341105404143
+    second: care_59
+  - first:
+      213: 342669981153856380
+    second: care_60
+  - first:
+      213: 1399837609070037203
+    second: care_61
+  - first:
+      213: -2429255212948947987
+    second: care_62
+  - first:
+      213: 5828578159628334113
+    second: care_63
+  - first:
+      213: 6087615824936477256
+    second: care_64
+  - first:
+      213: -9143321483694441883
+    second: care_65
+  - first:
+      213: 3700449218474519096
+    second: care_66
+  - first:
+      213: 4436971743584769360
+    second: care_67
+  - first:
+      213: -7717731278402322443
+    second: care_68
+  - first:
+      213: -3519108903138497037
+    second: care_69
+  - first:
+      213: -2031758946576052509
+    second: care_70
+  - first:
+      213: 5143119345528807604
+    second: care_71
+  - first:
+      213: 4690335519098189356
+    second: care_72
+  - first:
+      213: -2421984117100505339
+    second: care_73
+  - first:
+      213: 5179842380450866550
+    second: care_74
+  - first:
+      213: -7849078049281564813
+    second: care_75
+  - first:
+      213: -6447187645916396861
+    second: care_76
+  - first:
+      213: -5894910885807256153
+    second: care_77
+  - first:
+      213: -6825479611140429574
+    second: care_78
+  - first:
+      213: 886070732139101322
+    second: care_79
+  - first:
+      213: 5347017801622795285
+    second: care_80
+  - first:
+      213: -2732718350772633516
+    second: care_81
+  - first:
+      213: -7140236507797382461
+    second: care_82
+  - first:
+      213: 320772327937412277
+    second: care_83
+  - first:
+      213: -1263497359491065118
+    second: care_84
+  - first:
+      213: 8182476957420330247
+    second: care_85
+  - first:
+      213: -7832646977573213473
+    second: care_86
+  - first:
+      213: -6830330836915526669
+    second: care_87
+  - first:
+      213: 5112788117075318738
+    second: care_88
+  - first:
+      213: 1542031907694830639
+    second: care_89
+  - first:
+      213: -2169270521227692626
+    second: care_90
+  - first:
+      213: -8907007744375522557
+    second: care_91
+  - first:
+      213: 5595615434272702631
+    second: care_92
+  - first:
+      213: -4487441665038307814
+    second: care_93
+  - first:
+      213: 6089375464879837331
+    second: care_94
+  - first:
+      213: -5345012248308003418
+    second: care_95
+  - first:
+      213: 7725642360456544207
+    second: care_96
+  - first:
+      213: 5356306148304066784
+    second: care_97
+  - first:
+      213: -1613325003633007422
+    second: care_98
+  - first:
+      213: -70230717820085679
+    second: care_99
+  - first:
+      213: 5725395369240153781
+    second: care_100
+  - first:
+      213: -4631281437924281470
+    second: care_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: care_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 439
+        width: 453
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7094b176ed83f60800000000000000
+      internalID: 8014400071326566332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 997
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433a165cc4c59d380800000000000000
+      internalID: -8946017699995999436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_2
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 967
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fe9b43664959b40800000000000000
+      internalID: 5446422491066658566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_3
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 929
+        width: 161
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d733b0051e05dc80800000000000000
+      internalID: -8298711254991423533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_4
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 935
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5326a1d0dfb847fd0800000000000000
+      internalID: -2345095586990366155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_5
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 997
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba59536e807ec860800000000000000
+      internalID: 7552097382001367729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_6
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 991
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbc149909a6181b0800000000000000
+      internalID: -5656122487721571375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_7
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 953
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d95852795bb6bd0800000000000000
+      internalID: -2635813496121090687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_8
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 973
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36278eec7b932e1f0800000000000000
+      internalID: -1017187104219172253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_9
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 977
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9842d15f0a44ad650800000000000000
+      internalID: 6258390090282509449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_10
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 971
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2ac7ccd74a9f0a0800000000000000
+      internalID: -6847260898231541020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_11
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 949
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf45a5307f847a70800000000000000
+      internalID: 8823835282024779707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_12
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 949
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503f044accd7cfdf0800000000000000
+      internalID: -145102770100178171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_13
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 419
+        width: 515
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca5039753ddc3cd0800000000000000
+      internalID: -2576941665026549041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_14
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 933
+        width: 82
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3eeea225573d5d0800000000000000
+      internalID: -3038956327776885797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_15
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 975
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aff40d22a1ba2a10800000000000000
+      internalID: 1885514704106094503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_16
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 973
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07709f0c74babce80800000000000000
+      internalID: -8157237975382947984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_17
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 907
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326ae87a4fbfdd890800000000000000
+      internalID: -7431506781889714653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_18
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 936
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595d1478334595cc0800000000000000
+      internalID: -3721851036755700331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_19
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 933
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9a56d5d92b04cf0800000000000000
+      internalID: -270019588695676442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_20
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 927
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a22a46b498488f00800000000000000
+      internalID: 1119224310952239776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_21
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 917
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9438e6973b52cc980800000000000000
+      internalID: -8517391342497791159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_22
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 935
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd89248e515a41220800000000000000
+      internalID: 2455769210333337820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_23
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 943
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1327ff511c2a320800000000000000
+      internalID: 2567827037778751980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_24
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 929
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a28ec49f39b39b0800000000000000
+      internalID: -5099319454120531350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_25
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 945
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0c28d5569553be0800000000000000
+      internalID: -1498193009135402824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_26
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 939
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cb854718a1a1c50800000000000000
+      internalID: 6636646144188922971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_27
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 929
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987a038f6051f02a0800000000000000
+      internalID: -6769168595236640887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_28
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 919
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c60eef5d340b5430800000000000000
+      internalID: 3772613774501873344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_29
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 927
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc305ff08bb36a50800000000000000
+      internalID: 6513255648821525716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_30
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 909
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715c0360e8565add0800000000000000
+      internalID: -2475460759506598633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_31
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 895
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5d8a13ea814fab0800000000000000
+      internalID: -4975324551901030913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_32
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 447
+        width: 503
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b114ac4bb3445b5a0800000000000000
+      internalID: -6506219063439900389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_33
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 821
+        width: 73
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e933f06251e1aba0800000000000000
+      internalID: -6079330278043338271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_34
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 855
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bfeef9af9894be0800000000000000
+      internalID: -1492510091978540190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_35
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 841
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554d41c5c55dd91d0800000000000000
+      internalID: -3342280755780463531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_36
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 774
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0c7a38f70acb140800000000000000
+      internalID: 4736837377617019050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_37
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 701
+        width: 29
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da56bb383aaeff860800000000000000
+      internalID: 7566023887016388013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_38
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 589
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7aefde2e9d99e50800000000000000
+      internalID: 6816719079680681899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_39
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 585
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18d25c95e4c64bd0800000000000000
+      internalID: -2646211240584357862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_40
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 575
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ea282db56219160800000000000000
+      internalID: 7030442669117713975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_41
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 579
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fa8d264d4de9270800000000000000
+      internalID: 8259272775300591440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_42
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 567
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a488f38e68068790800000000000000
+      internalID: -7528320456349678430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_43
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 541
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4b09c175d0e15a0800000000000000
+      internalID: -6548782140357561101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_44
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 541
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6322e84c1f5924f50800000000000000
+      internalID: 6864213647683363382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_45
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 547
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc22217b2bdf7e60800000000000000
+      internalID: 7962323645842468032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_46
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 557
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154c1afc5d7a2d4b0800000000000000
+      internalID: -5417082865019927471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_47
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 529
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5753979100dfa80800000000000000
+      internalID: -8431582817959971367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_48
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 546
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a328fef39994460800000000000000
+      internalID: 7226475576972950019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_49
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 535
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64a6c6cb56357960800000000000000
+      internalID: 7599039714062410863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_50
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 526
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969fedba4c202ce40800000000000000
+      internalID: 5675101524160608617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_51
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 535
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eede3c98cafd62e10800000000000000
+      internalID: 2172669802391530990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_52
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 513
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940182c0e97af88d0800000000000000
+      internalID: -2841868542596870071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_53
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 481
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5258ce8ba3fd2900800000000000000
+      internalID: 661452638453781082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_54
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 478
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276596879443bf190800000000000000
+      internalID: -7927685228898199950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_55
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 503
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90c2a0912f92e010800000000000000
+      internalID: 1216709815852777630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_56
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 479
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002858f47d8d626f0800000000000000
+      internalID: -709641472000556544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_57
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 481
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81be2aee7a433830800000000000000
+      internalID: 4049662398891471243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_58
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 461
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60c0c817c7056460800000000000000
+      internalID: 7234196928135741546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_59
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 489
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1175dea9bca9af880800000000000000
+      internalID: -8576372341105404143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_60
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 451
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b8dd5488861c400800000000000000
+      internalID: 342669981153856380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_61
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 475
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d80ad783e83d6310800000000000000
+      internalID: 1399837609070037203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_62
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 411
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb796b214d894ed0800000000000000
+      internalID: -2429255212948947987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_63
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 477
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1243f3e74f443e050800000000000000
+      internalID: 5828578159628334113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 471
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842a266d65e8b7450800000000000000
+      internalID: 6087615824936477256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_65
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 466
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56af131dd856c1180800000000000000
+      internalID: -9143321483694441883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_66
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 393
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83aab8855f2aa5330800000000000000
+      internalID: 3700449218474519096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_67
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 341
+        width: 114
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055d0deea4a439d30800000000000000
+      internalID: 4436971743584769360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_68
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 23
+        width: 469
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff78e6ea4c15e490800000000000000
+      internalID: -7717731278402322443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_69
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 447
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fde38ef81d992fc0800000000000000
+      internalID: -3519108903138497037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_70
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 433
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eecc18b00ebdc3e0800000000000000
+      internalID: -2031758946576052509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_71
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 447
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b02fab9bc7006740800000000000000
+      internalID: 5143119345528807604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_72
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 453
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26be3ddd4b671140800000000000000
+      internalID: 4690335519098189356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_73
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 447
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50716981742636ed0800000000000000
+      internalID: -2421984117100505339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_74
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 445
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675a947733f72e740800000000000000
+      internalID: 5179842380450866550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_75
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 435
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f9142b919721390800000000000000
+      internalID: -7849078049281564813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_76
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 439
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2cdd4aefcf686a0800000000000000
+      internalID: -6447187645916396861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 467
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad00ec28c1113ea0800000000000000
+      internalID: -5894910885807256153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_78
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 0
+        width: 597
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8ad44e4760741a0800000000000000
+      internalID: -6825479611140429574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_79
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 417
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c7503e2a4fb4c00800000000000000
+      internalID: 886070732139101322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_80
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 367
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514ba616c5c643a40800000000000000
+      internalID: 5347017801622795285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_81
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 173
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4508107732f631ad0800000000000000
+      internalID: -2732718350772633516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_82
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 159
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca167c0ab8c8ec90800000000000000
+      internalID: -7140236507797382461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_83
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 167
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc0c749bbc937400800000000000000
+      internalID: 320772327937412277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_84
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 47
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea14e888d7277ee0800000000000000
+      internalID: -1263497359491065118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_85
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 27
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d9bdda07ffd8170800000000000000
+      internalID: 8182476957420330247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_86
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 31
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda26b2b219dc4390800000000000000
+      internalID: -7832646977573213473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_87
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 46
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3e04fda4ac531a0800000000000000
+      internalID: -6830330836915526669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_88
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 21
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7dc1a24b544f640800000000000000
+      internalID: 5112788117075318738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_89
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 45
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24e77a99d5666510800000000000000
+      internalID: 1542031907694830639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_90
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 45
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea53f7844f335e1e0800000000000000
+      internalID: -2169270521227692626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_91
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 45
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bf7d8d5a3f36480800000000000000
+      internalID: -8907007744375522557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_92
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 25
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a08483379e97ad40800000000000000
+      internalID: 5595615434272702631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_93
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 35
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1eaa15c49769b1c0800000000000000
+      internalID: -4487441665038307814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_94
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 26
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3905420f8bec18450800000000000000
+      internalID: 6089375464879837331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_95
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 31
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad4d73eda3b2d5b0800000000000000
+      internalID: -5345012248308003418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_96
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 11
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcff8bc6bcef63b60800000000000000
+      internalID: 7725642360456544207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_97
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 31
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e897ed101c655a40800000000000000
+      internalID: 5356306148304066784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_98
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 15
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4e23bf4715c99e0800000000000000
+      internalID: -1613325003633007422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_99
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 17
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a5304c88d760ff0800000000000000
+      internalID: -70230717820085679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_100
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 21
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bec93ef0c0b47f40800000000000000
+      internalID: 5725395369240153781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: care_101
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 17
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283b9add1126abfb0800000000000000
+      internalID: -4631281437924281470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      care_0: 8014400071326566332
+      care_1: -8946017699995999436
+      care_10: -6847260898231541020
+      care_100: 5725395369240153781
+      care_101: -4631281437924281470
+      care_11: 8823835282024779707
+      care_12: -145102770100178171
+      care_13: -2576941665026549041
+      care_14: -3038956327776885797
+      care_15: 1885514704106094503
+      care_16: -8157237975382947984
+      care_17: -7431506781889714653
+      care_18: -3721851036755700331
+      care_19: -270019588695676442
+      care_2: 5446422491066658566
+      care_20: 1119224310952239776
+      care_21: -8517391342497791159
+      care_22: 2455769210333337820
+      care_23: 2567827037778751980
+      care_24: -5099319454120531350
+      care_25: -1498193009135402824
+      care_26: 6636646144188922971
+      care_27: -6769168595236640887
+      care_28: 3772613774501873344
+      care_29: 6513255648821525716
+      care_3: -8298711254991423533
+      care_30: -2475460759506598633
+      care_31: -4975324551901030913
+      care_32: -6506219063439900389
+      care_33: -6079330278043338271
+      care_34: -1492510091978540190
+      care_35: -3342280755780463531
+      care_36: 4736837377617019050
+      care_37: 7566023887016388013
+      care_38: 6816719079680681899
+      care_39: -2646211240584357862
+      care_4: -2345095586990366155
+      care_40: 7030442669117713975
+      care_41: 8259272775300591440
+      care_42: -7528320456349678430
+      care_43: -6548782140357561101
+      care_44: 6864213647683363382
+      care_45: 7962323645842468032
+      care_46: -5417082865019927471
+      care_47: -8431582817959971367
+      care_48: 7226475576972950019
+      care_49: 7599039714062410863
+      care_5: 7552097382001367729
+      care_50: 5675101524160608617
+      care_51: 2172669802391530990
+      care_52: -2841868542596870071
+      care_53: 661452638453781082
+      care_54: -7927685228898199950
+      care_55: 1216709815852777630
+      care_56: -709641472000556544
+      care_57: 4049662398891471243
+      care_58: 7234196928135741546
+      care_59: -8576372341105404143
+      care_6: -5656122487721571375
+      care_60: 342669981153856380
+      care_61: 1399837609070037203
+      care_62: -2429255212948947987
+      care_63: 5828578159628334113
+      care_64: 6087615824936477256
+      care_65: -9143321483694441883
+      care_66: 3700449218474519096
+      care_67: 4436971743584769360
+      care_68: -7717731278402322443
+      care_69: -3519108903138497037
+      care_7: -2635813496121090687
+      care_70: -2031758946576052509
+      care_71: 5143119345528807604
+      care_72: 4690335519098189356
+      care_73: -2421984117100505339
+      care_74: 5179842380450866550
+      care_75: -7849078049281564813
+      care_76: -6447187645916396861
+      care_77: -5894910885807256153
+      care_78: -6825479611140429574
+      care_79: 886070732139101322
+      care_8: -1017187104219172253
+      care_80: 5347017801622795285
+      care_81: -2732718350772633516
+      care_82: -7140236507797382461
+      care_83: 320772327937412277
+      care_84: -1263497359491065118
+      care_85: 8182476957420330247
+      care_86: -7832646977573213473
+      care_87: -6830330836915526669
+      care_88: 5112788117075318738
+      care_89: 1542031907694830639
+      care_9: 6258390090282509449
+      care_90: -2169270521227692626
+      care_91: -8907007744375522557
+      care_92: 5595615434272702631
+      care_93: -4487441665038307814
+      care_94: 6089375464879837331
+      care_95: -5345012248308003418
+      care_96: 7725642360456544207
+      care_97: 5356306148304066784
+      care_98: -1613325003633007422
+      care_99: -70230717820085679
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

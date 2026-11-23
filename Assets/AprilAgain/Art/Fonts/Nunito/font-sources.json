@@ -1,0 +1,11 @@
+{
+  "family": "Nunito",
+  "license": "SIL Open Font License 1.1; see OFL.txt",
+  "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/nunito/Nunito%5Bwght%5D.ttf",
+  "sha256": "bb55a5ca5c2042335b3991af27c4d0705d0ef41cac6164ac737fd8f2a1e85207",
+  "process": "FontTools 4.68.0 static instances, wght 600 and 800; no outline edits",
+  "weights": {
+    "game_default": 800,
+    "archived_comparison": 600
+  }
+}

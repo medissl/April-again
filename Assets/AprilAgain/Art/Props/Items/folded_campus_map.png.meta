@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: a4a5e7fe1b192f043a23c9ee7a9dd3ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5565927394142677318
+    second: folded_campus_map_0
+  - first:
+      213: -883377414126448951
+    second: folded_campus_map_1
+  - first:
+      213: -3497498179735412655
+    second: folded_campus_map_2
+  - first:
+      213: -5340706577155954322
+    second: folded_campus_map_3
+  - first:
+      213: -359131796030735474
+    second: folded_campus_map_4
+  - first:
+      213: -4421651202620496352
+    second: folded_campus_map_5
+  - first:
+      213: 5767931491373631437
+    second: folded_campus_map_6
+  - first:
+      213: -2072896593395169369
+    second: folded_campus_map_7
+  - first:
+      213: 8124670647812693738
+    second: folded_campus_map_8
+  - first:
+      213: -2910011073933299654
+    second: folded_campus_map_9
+  - first:
+      213: -3961909213092184466
+    second: folded_campus_map_10
+  - first:
+      213: 5076129005081643485
+    second: folded_campus_map_11
+  - first:
+      213: -6476267873219897539
+    second: folded_campus_map_12
+  - first:
+      213: 1371482526926374649
+    second: folded_campus_map_13
+  - first:
+      213: -8805152321299991849
+    second: folded_campus_map_14
+  - first:
+      213: -8388614101790616413
+    second: folded_campus_map_15
+  - first:
+      213: 6387125957741810632
+    second: folded_campus_map_16
+  - first:
+      213: 4631745083678128930
+    second: folded_campus_map_17
+  - first:
+      213: 662877080657443238
+    second: folded_campus_map_18
+  - first:
+      213: -3133973775910680246
+    second: folded_campus_map_19
+  - first:
+      213: 2672340937698882458
+    second: folded_campus_map_20
+  - first:
+      213: 4971660224622686974
+    second: folded_campus_map_21
+  - first:
+      213: 2277130414612501422
+    second: folded_campus_map_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: folded_campus_map_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 586
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6496d75b9752e3d40800000000000000
+      internalID: 5565927394142677318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_campus_map_1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 618
+        width: 53
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cec3641cec9db3f0800000000000000
+      internalID: -883377414126448951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_campus_map_2
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 562
+        width: 116
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150ab42afe3667fc0800000000000000
+      internalID: -3497498179735412655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_campus_map_3
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 613
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69e6031aaff1e5b0800000000000000
+      internalID: -5340706577155954322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_campus_map_4
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 608
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b3a06c88b140bf0800000000000000
+      internalID: -359131796030735474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_campus_map_5
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 608
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026602b78a323a2c0800000000000000
+      internalID: -4421651202620496352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_campus_map_6
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 535
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc74d10b12fcb0050800000000000000
+      internalID: 5767931491373631437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_campus_map_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 556
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7409ee7879b33e0800000000000000
+      internalID: -2072896593395169369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_campus_map_8
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 550
+        width: 100
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee1be768e0a0c070800000000000000
+      internalID: 8124670647812693738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_campus_map_9
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 584
+        width: 45
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30b0cd98509d97d0800000000000000
+      internalID: -2910011073933299654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_campus_map_10
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 564
+        width: 45
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6efa41df887409c0800000000000000
+      internalID: -3961909213092184466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_campus_map_11
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 558
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9c2f58f68027640800000000000000
+      internalID: 5076129005081643485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_campus_map_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 627
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37147a9eacaf16a0800000000000000
+      internalID: -6476267873219897539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_campus_map_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 540
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f60a11871c780310800000000000000
+      internalID: 1371482526926374649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_campus_map_14
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 537
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d235bf8d90ddc580800000000000000
+      internalID: -8805152321299991849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_campus_map_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 244
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a410f05be7a59b80800000000000000
+      internalID: -8388614101790616413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_campus_map_16
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 63
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c390e6d731a3a850800000000000000
+      internalID: 6387125957741810632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_campus_map_17
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 38
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bfbc21d93474040800000000000000
+      internalID: 4631745083678128930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_campus_map_18
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 15
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9b55a5133033900800000000000000
+      internalID: 662877080657443238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_campus_map_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49447f8473e184d0800000000000000
+      internalID: -3133973775910680246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_campus_map_20
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 21
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93b6469cef061520800000000000000
+      internalID: 2672340937698882458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_campus_map_21
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 15
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2f29022a2eef440800000000000000
+      internalID: 4971660224622686974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_campus_map_22
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 15
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3573e1c0ef99f10800000000000000
+      internalID: 2277130414612501422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      folded_campus_map_0: 5565927394142677318
+      folded_campus_map_1: -883377414126448951
+      folded_campus_map_10: -3961909213092184466
+      folded_campus_map_11: 5076129005081643485
+      folded_campus_map_12: -6476267873219897539
+      folded_campus_map_13: 1371482526926374649
+      folded_campus_map_14: -8805152321299991849
+      folded_campus_map_15: -8388614101790616413
+      folded_campus_map_16: 6387125957741810632
+      folded_campus_map_17: 4631745083678128930
+      folded_campus_map_18: 662877080657443238
+      folded_campus_map_19: -3133973775910680246
+      folded_campus_map_2: -3497498179735412655
+      folded_campus_map_20: 2672340937698882458
+      folded_campus_map_21: 4971660224622686974
+      folded_campus_map_22: 2277130414612501422
+      folded_campus_map_3: -5340706577155954322
+      folded_campus_map_4: -359131796030735474
+      folded_campus_map_5: -4421651202620496352
+      folded_campus_map_6: 5767931491373631437
+      folded_campus_map_7: -2072896593395169369
+      folded_campus_map_8: 8124670647812693738
+      folded_campus_map_9: -2910011073933299654
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

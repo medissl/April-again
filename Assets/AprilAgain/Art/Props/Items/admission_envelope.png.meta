@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: c2e3050449e0c4649844039740acb56b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2683515387132931753
+    second: admission_envelope_0
+  - first:
+      213: -6436748790445888635
+    second: admission_envelope_1
+  - first:
+      213: -1566637631521539945
+    second: admission_envelope_2
+  - first:
+      213: -2713109099939952625
+    second: admission_envelope_3
+  - first:
+      213: -3306775952368326135
+    second: admission_envelope_4
+  - first:
+      213: -5074046294384989413
+    second: admission_envelope_5
+  - first:
+      213: -1790697189992748800
+    second: admission_envelope_6
+  - first:
+      213: 1976029422630375200
+    second: admission_envelope_7
+  - first:
+      213: 351482543001697551
+    second: admission_envelope_8
+  - first:
+      213: 2233759635584347974
+    second: admission_envelope_9
+  - first:
+      213: -1184963258188373566
+    second: admission_envelope_10
+  - first:
+      213: 8906739780349491927
+    second: admission_envelope_11
+  - first:
+      213: -7850659017107324815
+    second: admission_envelope_12
+  - first:
+      213: 5250315868694096716
+    second: admission_envelope_13
+  - first:
+      213: 6822970451261214524
+    second: admission_envelope_14
+  - first:
+      213: 2473285504576797728
+    second: admission_envelope_15
+  - first:
+      213: -1903554667896429084
+    second: admission_envelope_16
+  - first:
+      213: 3266604929258807917
+    second: admission_envelope_17
+  - first:
+      213: 7718467908290519038
+    second: admission_envelope_18
+  - first:
+      213: -1379768404571340910
+    second: admission_envelope_19
+  - first:
+      213: -1612560322570942243
+    second: admission_envelope_20
+  - first:
+      213: -6236988376969573292
+    second: admission_envelope_21
+  - first:
+      213: 7768811083898484433
+    second: admission_envelope_22
+  - first:
+      213: 8906367645896102910
+    second: admission_envelope_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: admission_envelope_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 614
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75195a829fc32cad0800000000000000
+      internalID: -2683515387132931753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admission_envelope_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 601
+        width: 99
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b2c0514131ca6a0800000000000000
+      internalID: -6436748790445888635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admission_envelope_2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 607
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7983661ef5f224ae0800000000000000
+      internalID: -1566637631521539945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admission_envelope_3
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 606
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f080335f5a9195ad0800000000000000
+      internalID: -2713109099939952625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admission_envelope_4
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 602
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a28479ac8fb12d0800000000000000
+      internalID: -3306775952368326135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admission_envelope_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 614
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bab4957cd5599b0800000000000000
+      internalID: -5074046294384989413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admission_envelope_6
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 596
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009213aa46a2627e0800000000000000
+      internalID: -1790697189992748800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admission_envelope_7
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 574
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f8a995a444c6b10800000000000000
+      internalID: 1976029422630375200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admission_envelope_8
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 583
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0dfd58b287b0e400800000000000000
+      internalID: 351482543001697551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admission_envelope_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 562
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f6c98bd88effe10800000000000000
+      internalID: 2233759635584347974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admission_envelope_10
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 374
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1eac3e13a2e8fe0800000000000000
+      internalID: -1184963258188373566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admission_envelope_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da729ae3a81b9b70800000000000000
+      internalID: 8906739780349491927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admission_envelope_12
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 340
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170c990f73bdc0390800000000000000
+      internalID: -7850659017107324815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admission_envelope_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 278
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bab18177edcd840800000000000000
+      internalID: 5250315868694096716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admission_envelope_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f496cc97f00be50800000000000000
+      internalID: 6822970451261214524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admission_envelope_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 213
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c3c68ff00e25220800000000000000
+      internalID: 2473285504576797728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admission_envelope_16
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 89
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e52f717d173595e0800000000000000
+      internalID: -1903554667896429084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admission_envelope_17
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 47
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62e20e30ef455d20800000000000000
+      internalID: 3266604929258807917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admission_envelope_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 57
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff98eb1ba18d1b60800000000000000
+      internalID: 7718467908290519038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admission_envelope_19
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 55
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fb73542f31adce0800000000000000
+      internalID: -1379768404571340910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admission_envelope_20
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 49
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8054a2ee80f99e0800000000000000
+      internalID: -1612560322570942243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admission_envelope_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 55
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c0d7abd14c179a0800000000000000
+      internalID: -6236988376969573292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admission_envelope_22
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 49
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6f2e6158c50db60800000000000000
+      internalID: 7768811083898484433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admission_envelope_23
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 8
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef35bac9f26c99b70800000000000000
+      internalID: 8906367645896102910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      admission_envelope_0: -2683515387132931753
+      admission_envelope_1: -6436748790445888635
+      admission_envelope_10: -1184963258188373566
+      admission_envelope_11: 8906739780349491927
+      admission_envelope_12: -7850659017107324815
+      admission_envelope_13: 5250315868694096716
+      admission_envelope_14: 6822970451261214524
+      admission_envelope_15: 2473285504576797728
+      admission_envelope_16: -1903554667896429084
+      admission_envelope_17: 3266604929258807917
+      admission_envelope_18: 7718467908290519038
+      admission_envelope_19: -1379768404571340910
+      admission_envelope_2: -1566637631521539945
+      admission_envelope_20: -1612560322570942243
+      admission_envelope_21: -6236988376969573292
+      admission_envelope_22: 7768811083898484433
+      admission_envelope_23: 8906367645896102910
+      admission_envelope_3: -2713109099939952625
+      admission_envelope_4: -3306775952368326135
+      admission_envelope_5: -5074046294384989413
+      admission_envelope_6: -1790697189992748800
+      admission_envelope_7: 1976029422630375200
+      admission_envelope_8: 351482543001697551
+      admission_envelope_9: 2233759635584347974
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

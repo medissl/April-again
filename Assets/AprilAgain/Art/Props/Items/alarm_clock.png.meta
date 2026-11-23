@@ -1,0 +1,1326 @@
+fileFormatVersion: 2
+guid: 4b5138c00c7e4834781fb27136011263
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2255718686654145954
+    second: alarm_clock_0
+  - first:
+      213: 5484322750812098946
+    second: alarm_clock_1
+  - first:
+      213: -7974661598582596128
+    second: alarm_clock_2
+  - first:
+      213: -3494175005917690692
+    second: alarm_clock_3
+  - first:
+      213: 7459977152186293732
+    second: alarm_clock_4
+  - first:
+      213: -6879237527996853968
+    second: alarm_clock_5
+  - first:
+      213: 1983166988520073093
+    second: alarm_clock_6
+  - first:
+      213: -5854144832281790725
+    second: alarm_clock_7
+  - first:
+      213: 1977344370190998900
+    second: alarm_clock_8
+  - first:
+      213: 29590530195315090
+    second: alarm_clock_9
+  - first:
+      213: -3006984594158030363
+    second: alarm_clock_10
+  - first:
+      213: 4713337139720858422
+    second: alarm_clock_11
+  - first:
+      213: -573506904107086799
+    second: alarm_clock_12
+  - first:
+      213: -6142304476492691872
+    second: alarm_clock_13
+  - first:
+      213: 8979030798427242318
+    second: alarm_clock_14
+  - first:
+      213: -2254367029880372021
+    second: alarm_clock_15
+  - first:
+      213: 5629140531497112129
+    second: alarm_clock_16
+  - first:
+      213: 5317897869779419270
+    second: alarm_clock_17
+  - first:
+      213: 3987937072830717229
+    second: alarm_clock_18
+  - first:
+      213: -2859563689838423536
+    second: alarm_clock_19
+  - first:
+      213: 129471827404400520
+    second: alarm_clock_20
+  - first:
+      213: -7924127984106740913
+    second: alarm_clock_21
+  - first:
+      213: 727667308391353634
+    second: alarm_clock_22
+  - first:
+      213: -7121099141594014159
+    second: alarm_clock_23
+  - first:
+      213: 4275749125845095321
+    second: alarm_clock_24
+  - first:
+      213: -2212738548318581406
+    second: alarm_clock_25
+  - first:
+      213: 782543999311437962
+    second: alarm_clock_26
+  - first:
+      213: -5320790414742855017
+    second: alarm_clock_27
+  - first:
+      213: 2948818690263227175
+    second: alarm_clock_28
+  - first:
+      213: -4714146663023407742
+    second: alarm_clock_29
+  - first:
+      213: 2175167341158033959
+    second: alarm_clock_30
+  - first:
+      213: 535503859481970452
+    second: alarm_clock_31
+  - first:
+      213: 1298203836732226003
+    second: alarm_clock_32
+  - first:
+      213: -8411861154803849876
+    second: alarm_clock_33
+  - first:
+      213: -5553422574947176801
+    second: alarm_clock_34
+  - first:
+      213: 8125408051922794484
+    second: alarm_clock_35
+  - first:
+      213: -5984051781116515601
+    second: alarm_clock_36
+  - first:
+      213: 6619791041791963033
+    second: alarm_clock_37
+  - first:
+      213: 5259233357798987705
+    second: alarm_clock_38
+  - first:
+      213: -5699663806941643021
+    second: alarm_clock_39
+  - first:
+      213: 8348197247751747366
+    second: alarm_clock_40
+  - first:
+      213: 1680537073107084700
+    second: alarm_clock_41
+  - first:
+      213: -7968386832541756216
+    second: alarm_clock_42
+  - first:
+      213: -8110964633368334243
+    second: alarm_clock_43
+  - first:
+      213: -8425467460853387572
+    second: alarm_clock_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alarm_clock_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 435
+        width: 65
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ad4c84ec312b0e0800000000000000
+      internalID: -2255718686654145954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 566
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2819fb31c7a3c1c40800000000000000
+      internalID: 5484322750812098946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 493
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed1984178f445190800000000000000
+      internalID: -7974661598582596128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 526
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb44a355852328fc0800000000000000
+      internalID: -3494175005917690692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 513
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed189cf1b9278760800000000000000
+      internalID: 7459977152186293732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 481
+        width: 97
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03116328ae90880a0800000000000000
+      internalID: -6879237527996853968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_6
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 517
+        width: 100
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58725096edf958b10800000000000000
+      internalID: 1983166988520073093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_7
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 578
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6b728aa46e1cea0800000000000000
+      internalID: -5854144832281790725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 591
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d5adf6a30f07b10800000000000000
+      internalID: 1977344370190998900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_9
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 613
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299d1013e60296000800000000000000
+      internalID: 29590530195315090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 602
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1732c717b0546d0800000000000000
+      internalID: -3006984594158030363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 401
+        width: 246
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ba7bff723296140800000000000000
+      internalID: 4713337139720858422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_12
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 596
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c8670628e7a08f0800000000000000
+      internalID: -573506904107086799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_13
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 580
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0668c583f9622caa0800000000000000
+      internalID: -6142304476492691872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_14
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 502
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f3c8f20fceb9c70800000000000000
+      internalID: 8979030798427242318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 501
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4c0a66121e6b0e0800000000000000
+      internalID: -2254367029880372021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_16
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 503
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14293aa2d79be1e40800000000000000
+      internalID: 5629140531497112129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 467
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6804208efe7fcc940800000000000000
+      internalID: 5317897869779419270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_18
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 487
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d9fa483aff75730800000000000000
+      internalID: 3987937072830717229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 554
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012539689f9c058d0800000000000000
+      internalID: -2859563689838423536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 435
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8872cd8e0f9fbc100800000000000000
+      internalID: 129471827404400520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_21
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 419
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43e5901597d70290800000000000000
+      internalID: -7924127984106740913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_22
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 432
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dc457cf81391a00800000000000000
+      internalID: 727667308391353634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_23
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 389
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e13f65f06cc2d90800000000000000
+      internalID: -7121099141594014159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_24
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 103
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9931fa21d23865b30800000000000000
+      internalID: 4275749125845095321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_25
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 111
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d48ae8306ca41e0800000000000000
+      internalID: -2212738548318581406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_26
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 111
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80621c0f972cda00800000000000000
+      internalID: 782543999311437962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_27
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 117
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792e2fcfe41c826b0800000000000000
+      internalID: -5320790414742855017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_28
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 111
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b1c2ca9fe4ce820800000000000000
+      internalID: 2948818690263227175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_29
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 115
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d856b269cf39eb0800000000000000
+      internalID: -4714146663023407742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_30
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 90
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a61c81c2fbf2e10800000000000000
+      internalID: 2175167341158033959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 95
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41706484ced7e6700800000000000000
+      internalID: 535503859481970452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_32
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 71
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d93976e285240210800000000000000
+      internalID: 1298203836732226003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_33
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 66
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65620009d0134b80800000000000000
+      internalID: -8411861154803849876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_34
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 73
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e63a467974ee2b0800000000000000
+      internalID: -5553422574947176801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_35
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 63
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7f4fda29f33c070800000000000000
+      internalID: 8125408051922794484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_36
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 3
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feaa1052c9064fca0800000000000000
+      internalID: -5984051781116515601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_37
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 55
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fa25d11e83edb50800000000000000
+      internalID: 6619791041791963033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_38
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 47
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b75e72dfdc8cf840800000000000000
+      internalID: 5259233357798987705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_39
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 37
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3feb71837f9b6e0b0800000000000000
+      internalID: -5699663806941643021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_40
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 11
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627f22b8a21cad370800000000000000
+      internalID: 8348197247751747366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 7
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c952c6a6097725710800000000000000
+      internalID: 1680537073107084700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_42
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4d275e46a9a6190800000000000000
+      internalID: -7968386832541756216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_43
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50f252c3a0107f80800000000000000
+      internalID: -8110964633368334243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm_clock_44
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccea8310cf9b21b80800000000000000
+      internalID: -8425467460853387572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      alarm_clock_0: -2255718686654145954
+      alarm_clock_1: 5484322750812098946
+      alarm_clock_10: -3006984594158030363
+      alarm_clock_11: 4713337139720858422
+      alarm_clock_12: -573506904107086799
+      alarm_clock_13: -6142304476492691872
+      alarm_clock_14: 8979030798427242318
+      alarm_clock_15: -2254367029880372021
+      alarm_clock_16: 5629140531497112129
+      alarm_clock_17: 5317897869779419270
+      alarm_clock_18: 3987937072830717229
+      alarm_clock_19: -2859563689838423536
+      alarm_clock_2: -7974661598582596128
+      alarm_clock_20: 129471827404400520
+      alarm_clock_21: -7924127984106740913
+      alarm_clock_22: 727667308391353634
+      alarm_clock_23: -7121099141594014159
+      alarm_clock_24: 4275749125845095321
+      alarm_clock_25: -2212738548318581406
+      alarm_clock_26: 782543999311437962
+      alarm_clock_27: -5320790414742855017
+      alarm_clock_28: 2948818690263227175
+      alarm_clock_29: -4714146663023407742
+      alarm_clock_3: -3494175005917690692
+      alarm_clock_30: 2175167341158033959
+      alarm_clock_31: 535503859481970452
+      alarm_clock_32: 1298203836732226003
+      alarm_clock_33: -8411861154803849876
+      alarm_clock_34: -5553422574947176801
+      alarm_clock_35: 8125408051922794484
+      alarm_clock_36: -5984051781116515601
+      alarm_clock_37: 6619791041791963033
+      alarm_clock_38: 5259233357798987705
+      alarm_clock_39: -5699663806941643021
+      alarm_clock_4: 7459977152186293732
+      alarm_clock_40: 8348197247751747366
+      alarm_clock_41: 1680537073107084700
+      alarm_clock_42: -7968386832541756216
+      alarm_clock_43: -8110964633368334243
+      alarm_clock_44: -8425467460853387572
+      alarm_clock_5: -6879237527996853968
+      alarm_clock_6: 1983166988520073093
+      alarm_clock_7: -5854144832281790725
+      alarm_clock_8: 1977344370190998900
+      alarm_clock_9: 29590530195315090
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

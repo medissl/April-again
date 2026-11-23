@@ -1,0 +1,479 @@
+[
+  {
+    "id": "cg_katya_good",
+    "category": "ending_cg",
+    "character": "katya",
+    "ending": "good",
+    "target": "CG/cg_katya_good.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\CG\\cg_katya_good.png"
+    ],
+    "prompt": "Edit this exact illustration. Preserve all characters, faces, hands, clothes, expressions, composition, room architecture, lighting and colors. Remove the artificial dark navy rectangular band/overlay across the BOTTOM. Reconstruct ONLY that lower strip as the natural continuation of the existing characters' lower clothes, chair legs, table and floor/path. The ENTIRE image must be one continuous full-bleed anime illustration, edge to edge. NO dialogue box, dark overlay, strip, panel, frame, border, text or UI anywhere. Do not otherwise redraw or move the characters. Keep original16:9 landscape and crisp clean cel style.",
+    "revisionOf": "cg_katya_good"
+  },
+  {
+    "id": "cg_katya_neutral",
+    "category": "ending_cg",
+    "character": "katya",
+    "ending": "neutral",
+    "target": "CG/cg_katya_neutral.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\CG\\cg_katya_neutral.png"
+    ],
+    "prompt": "Edit this exact illustration. Preserve all characters, faces, hands, clothes, expressions, composition, room architecture, lighting and colors. Remove the artificial dark navy rectangular band/overlay across the BOTTOM. Reconstruct ONLY that lower strip as the natural continuation of the existing characters' lower clothes, chair legs, table and floor/path. The ENTIRE image must be one continuous full-bleed anime illustration, edge to edge. NO dialogue box, dark overlay, strip, panel, frame, border, text or UI anywhere. Do not otherwise redraw or move the characters. Keep original16:9 landscape and crisp clean cel style.",
+    "revisionOf": "cg_katya_neutral"
+  },
+  {
+    "id": "cg_katya_bad",
+    "category": "ending_cg",
+    "character": "katya",
+    "ending": "bad",
+    "target": "CG/cg_katya_bad.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\katya\\katya_base.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_class_b_day.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate one finished emotionally specific visual-novel ENDING CG, landscape16:9 composition ideally1920x1080. Reference1 exact girl identity and clothing; reference2 exact location architecture/materials; reference3 approved rendering. Tall176cm girl, long WAIST-LENGTH SILVER WHITE straight hair with pristine center part and simple broad locks, ICE BLUE narrower eyes, slightly elongated face, precise fine brows, proud restrained gaze, small silver stud earrings. Impeccably tailored shared navy blazer, maroon ribbon, knee-length charcoal skirt, BLACK TIGHTS, black loafers. Relaxed arms loosely crossed, complete opaque body.. STORY MOMENT: Katya alone in Class B in cool late light, calmly closing the completed folder; second chair empty, her expression disappointed but steady. No tears as spectacle. Compose a NEW cinematic medium-wide three-quarter viewpoint within the SAME room, with clear facial acting, believable hands and furniture perspective. Girl focal point upper/right middle; CONTINUOUS FULL-BLEED ILLUSTRATION reaching ALL FOUR EDGES, including entire lower edge. Do NOT draw ANY shaded band, dark rectangle, dialogue area, vignette panel, lettering or interface anywhere. Only the illustrated real environment and characters. MC when needed is an ordinary male peer rendered as a solid neutral charcoal-grey school-uniform silhouette, no eyes/face/hair identity, no transparent skin. Girl remains fully normally colored. Hands anatomically clear with five fingers, simple natural poses, no awkward overlap. No cleavage, glamour, adult proportions, lens effects, glitter, text, UI, watermark or border. Wholesome ordinary school romance/friendship; visually distinct illustration matching this specific ending, not a tinted reuse."
+  },
+  {
+    "id": "cg_akira_good",
+    "category": "ending_cg",
+    "character": "akira",
+    "ending": "good",
+    "target": "CG/cg_akira_good.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\akira\\akira_base.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_class_a_day.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate one finished emotionally specific visual-novel ENDING CG, landscape16:9 composition ideally1920x1080. Reference1 exact girl identity and clothing; reference2 exact location architecture/materials; reference3 approved rendering. 167cm girl, SHORT CHIN-LENGTH pastel PINK bob with one small ahoge, BROWN round lively eyes, thin round dark GLASSES and tiny simple charm on glasses arm, shorter rounded face, lively brows and friendly open expression. Shared navy blazer maroon ribbon white shirt knee-length charcoal skirt dark knee socks and loafers. Both hands loosely at sides. NO satchel on this neutral base; the satchel will be a separate scene prop.. STORY MOMENT: A clean warm Class A project desk after school; pink-bobbed Akira with brown eyes behind glasses grins as she and the charcoal-silhouette MC place their hands together on a shared notebook. Simple completed demo on the nearby laptop, no readable text. Compose a NEW cinematic medium-wide three-quarter viewpoint within the SAME room, with clear facial acting, believable hands and furniture perspective. Girl focal point upper/right middle; CONTINUOUS FULL-BLEED ILLUSTRATION reaching ALL FOUR EDGES, including entire lower edge. Do NOT draw ANY shaded band, dark rectangle, dialogue area, vignette panel, lettering or interface anywhere. Only the illustrated real environment and characters. MC when needed is an ordinary male peer rendered as a solid neutral charcoal-grey school-uniform silhouette, no eyes/face/hair identity, no transparent skin. Girl remains fully normally colored. Hands anatomically clear with five fingers, simple natural poses, no awkward overlap. No cleavage, glamour, adult proportions, lens effects, glitter, text, UI, watermark or border. Wholesome ordinary school romance/friendship; visually distinct illustration matching this specific ending, not a tinted reuse."
+  },
+  {
+    "id": "cg_akira_bad",
+    "category": "ending_cg",
+    "character": "akira",
+    "ending": "bad",
+    "target": "CG/cg_akira_bad.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\akira\\akira_base.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_class_a_day.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate one finished emotionally specific visual-novel ENDING CG, landscape16:9 composition ideally1920x1080. Reference1 exact girl identity and clothing; reference2 exact location architecture/materials; reference3 approved rendering. 167cm girl, SHORT CHIN-LENGTH pastel PINK bob with one small ahoge, BROWN round lively eyes, thin round dark GLASSES and tiny simple charm on glasses arm, shorter rounded face, lively brows and friendly open expression. Shared navy blazer maroon ribbon white shirt knee-length charcoal skirt dark knee socks and loafers. Both hands loosely at sides. NO satchel on this neutral base; the satchel will be a separate scene prop.. STORY MOMENT: Akira alone at an ordinary Class A desk, short pink bob and glasses clear, closing a disconnected laptop; empty project chair beside her, expression thoughtful and resolved rather than shattered. Compose a NEW cinematic medium-wide three-quarter viewpoint within the SAME room, with clear facial acting, believable hands and furniture perspective. Girl focal point upper/right middle; CONTINUOUS FULL-BLEED ILLUSTRATION reaching ALL FOUR EDGES, including entire lower edge. Do NOT draw ANY shaded band, dark rectangle, dialogue area, vignette panel, lettering or interface anywhere. Only the illustrated real environment and characters. MC when needed is an ordinary male peer rendered as a solid neutral charcoal-grey school-uniform silhouette, no eyes/face/hair identity, no transparent skin. Girl remains fully normally colored. Hands anatomically clear with five fingers, simple natural poses, no awkward overlap. No cleavage, glamour, adult proportions, lens effects, glitter, text, UI, watermark or border. Wholesome ordinary school romance/friendship; visually distinct illustration matching this specific ending, not a tinted reuse."
+  },
+  {
+    "id": "cg_seoyun_good",
+    "category": "ending_cg",
+    "character": "seoyun",
+    "ending": "good",
+    "target": "CG/cg_seoyun_good.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\seoyun\\seoyun_base.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_library_day.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate one finished emotionally specific visual-novel ENDING CG, landscape16:9 composition ideally1920x1080. Reference1 exact girl identity and clothing; reference2 exact location architecture/materials; reference3 approved rendering. 163cm girl, long gently WAVY DARK BROWN hair loosely tied in a LOW ponytail with wispy curtain bangs but very few flyaways, DARK BROWN almond-shaped eyes, tiny mole under HER LEFT eye, gentle oval face, soft brows and quietly attentive expression. Neatly buttoned shared navy blazer maroon ribbon white shirt knee-length charcoal skirt dark knee socks loafers. Both hands loosely folded in front. NO journal in this neutral base.. STORY MOMENT: Seo-yun with dark low-tied hair and her small left-eye mole by the library window, sharing an open sky-sketch page with a charcoal MC silhouette; equal side-by-side seating, clean daylight and a hopeful unforced smile. Compose a NEW cinematic medium-wide three-quarter viewpoint within the SAME room, with clear facial acting, believable hands and furniture perspective. Girl focal point upper/right middle; CONTINUOUS FULL-BLEED ILLUSTRATION reaching ALL FOUR EDGES, including entire lower edge. Do NOT draw ANY shaded band, dark rectangle, dialogue area, vignette panel, lettering or interface anywhere. Only the illustrated real environment and characters. MC when needed is an ordinary male peer rendered as a solid neutral charcoal-grey school-uniform silhouette, no eyes/face/hair identity, no transparent skin. Girl remains fully normally colored. Hands anatomically clear with five fingers, simple natural poses, no awkward overlap. No cleavage, glamour, adult proportions, lens effects, glitter, text, UI, watermark or border. Wholesome ordinary school romance/friendship; visually distinct illustration matching this specific ending, not a tinted reuse."
+  },
+  {
+    "id": "cg_seoyun_neutral",
+    "category": "ending_cg",
+    "character": "seoyun",
+    "ending": "neutral",
+    "target": "CG/cg_seoyun_neutral.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\seoyun\\seoyun_base.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_library_day.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate one finished emotionally specific visual-novel ENDING CG, landscape16:9 composition ideally1920x1080. Reference1 exact girl identity and clothing; reference2 exact location architecture/materials; reference3 approved rendering. 163cm girl, long gently WAVY DARK BROWN hair loosely tied in a LOW ponytail with wispy curtain bangs but very few flyaways, DARK BROWN almond-shaped eyes, tiny mole under HER LEFT eye, gentle oval face, soft brows and quietly attentive expression. Neatly buttoned shared navy blazer maroon ribbon white shirt knee-length charcoal skirt dark knee socks loafers. Both hands loosely folded in front. NO journal in this neutral base.. STORY MOMENT: A handwritten-style bookmark without legible generated writing rests on a returned atlas; Seo-yun offers it across the library table, kind reserved smile, respectful friendship distance. Compose a NEW cinematic medium-wide three-quarter viewpoint within the SAME room, with clear facial acting, believable hands and furniture perspective. Girl focal point upper/right middle; CONTINUOUS FULL-BLEED ILLUSTRATION reaching ALL FOUR EDGES, including entire lower edge. Do NOT draw ANY shaded band, dark rectangle, dialogue area, vignette panel, lettering or interface anywhere. Only the illustrated real environment and characters. MC when needed is an ordinary male peer rendered as a solid neutral charcoal-grey school-uniform silhouette, no eyes/face/hair identity, no transparent skin. Girl remains fully normally colored. Hands anatomically clear with five fingers, simple natural poses, no awkward overlap. No cleavage, glamour, adult proportions, lens effects, glitter, text, UI, watermark or border. Wholesome ordinary school romance/friendship; visually distinct illustration matching this specific ending, not a tinted reuse."
+  },
+  {
+    "id": "cg_seoyun_bad",
+    "category": "ending_cg",
+    "character": "seoyun",
+    "ending": "bad",
+    "target": "CG/cg_seoyun_bad.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\seoyun\\seoyun_base.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_library_day.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate one finished emotionally specific visual-novel ENDING CG, landscape16:9 composition ideally1920x1080. Reference1 exact girl identity and clothing; reference2 exact location architecture/materials; reference3 approved rendering. 163cm girl, long gently WAVY DARK BROWN hair loosely tied in a LOW ponytail with wispy curtain bangs but very few flyaways, DARK BROWN almond-shaped eyes, tiny mole under HER LEFT eye, gentle oval face, soft brows and quietly attentive expression. Neatly buttoned shared navy blazer maroon ribbon white shirt knee-length charcoal skirt dark knee socks loafers. Both hands loosely folded in front. NO journal in this neutral base.. STORY MOMENT: Seo-yun at the library window closes her dark-blue journal, shoulders calm, gaze turned toward the exit and her own future; cool natural light, no dramatic distress or spectacle. Compose a NEW cinematic medium-wide three-quarter viewpoint within the SAME room, with clear facial acting, believable hands and furniture perspective. Girl focal point upper/right middle; CONTINUOUS FULL-BLEED ILLUSTRATION reaching ALL FOUR EDGES, including entire lower edge. Do NOT draw ANY shaded band, dark rectangle, dialogue area, vignette panel, lettering or interface anywhere. Only the illustrated real environment and characters. MC when needed is an ordinary male peer rendered as a solid neutral charcoal-grey school-uniform silhouette, no eyes/face/hair identity, no transparent skin. Girl remains fully normally colored. Hands anatomically clear with five fingers, simple natural poses, no awkward overlap. No cleavage, glamour, adult proportions, lens effects, glitter, text, UI, watermark or border. Wholesome ordinary school romance/friendship; visually distinct illustration matching this specific ending, not a tinted reuse."
+  },
+  {
+    "id": "cg_mari_good",
+    "category": "ending_cg",
+    "character": "mari",
+    "ending": "good",
+    "target": "CG/cg_mari_good.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\mari\\mari_base.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_infirmary_day.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate one finished emotionally specific visual-novel ENDING CG, landscape16:9 composition ideally1920x1080. Reference1 exact girl identity and clothing; reference2 exact location architecture/materials; reference3 approved rendering. Tall176cm girl, MUTED SALMON PINK voluminous feathered LOW PONYTAIL, parted curtain bangs and cheek-framing sidelocks described as a few broad locks, large calm CYAN eyes, softly elongated feminine face, gently relaxed eyelids and a kind restrained smile. Same navy blazer maroon ribbon white shirt modest KNEE-LENGTH charcoal pleated skirt dark knee socks and loafers. Hands gently clasped at waist, no props. She is a fellow student.. STORY MOMENT: Mari with a salmon feathered low ponytail and cyan eyes rests beside the infirmary visitor window with her own tea; a charcoal MC silhouette sits quietly at an equal distance beside her. Warm natural light, relaxed posture, ordinary modest uniform; she is well and awake. Compose a NEW cinematic medium-wide three-quarter viewpoint within the SAME room, with clear facial acting, believable hands and furniture perspective. Girl focal point upper/right middle; CONTINUOUS FULL-BLEED ILLUSTRATION reaching ALL FOUR EDGES, including entire lower edge. Do NOT draw ANY shaded band, dark rectangle, dialogue area, vignette panel, lettering or interface anywhere. Only the illustrated real environment and characters. MC when needed is an ordinary male peer rendered as a solid neutral charcoal-grey school-uniform silhouette, no eyes/face/hair identity, no transparent skin. Girl remains fully normally colored. Hands anatomically clear with five fingers, simple natural poses, no awkward overlap. No cleavage, glamour, adult proportions, lens effects, glitter, text, UI, watermark or border. Wholesome ordinary school romance/friendship; visually distinct illustration matching this specific ending, not a tinted reuse."
+  },
+  {
+    "id": "cg_mari_neutral",
+    "category": "ending_cg",
+    "character": "mari",
+    "ending": "neutral",
+    "target": "CG/cg_mari_neutral.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\mari\\mari_base.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_infirmary_day.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate one finished emotionally specific visual-novel ENDING CG, landscape16:9 composition ideally1920x1080. Reference1 exact girl identity and clothing; reference2 exact location architecture/materials; reference3 approved rendering. Tall176cm girl, MUTED SALMON PINK voluminous feathered LOW PONYTAIL, parted curtain bangs and cheek-framing sidelocks described as a few broad locks, large calm CYAN eyes, softly elongated feminine face, gently relaxed eyelids and a kind restrained smile. Same navy blazer maroon ribbon white shirt modest KNEE-LENGTH charcoal pleated skirt dark knee socks and loafers. Hands gently clasped at waist, no props. She is a fellow student.. STORY MOMENT: Mari and the MC silhouette share a calm tea break across two visitor chairs, balanced composition and independent cups, gentle cordial expression, open infirmary doorway in the background. Compose a NEW cinematic medium-wide three-quarter viewpoint within the SAME room, with clear facial acting, believable hands and furniture perspective. Girl focal point upper/right middle; CONTINUOUS FULL-BLEED ILLUSTRATION reaching ALL FOUR EDGES, including entire lower edge. Do NOT draw ANY shaded band, dark rectangle, dialogue area, vignette panel, lettering or interface anywhere. Only the illustrated real environment and characters. MC when needed is an ordinary male peer rendered as a solid neutral charcoal-grey school-uniform silhouette, no eyes/face/hair identity, no transparent skin. Girl remains fully normally colored. Hands anatomically clear with five fingers, simple natural poses, no awkward overlap. No cleavage, glamour, adult proportions, lens effects, glitter, text, UI, watermark or border. Wholesome ordinary school romance/friendship; visually distinct illustration matching this specific ending, not a tinted reuse."
+  },
+  {
+    "id": "cg_mari_bad",
+    "category": "ending_cg",
+    "character": "mari",
+    "ending": "bad",
+    "target": "CG/cg_mari_bad.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\mari\\mari_base.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_infirmary_day.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate one finished emotionally specific visual-novel ENDING CG, landscape16:9 composition ideally1920x1080. Reference1 exact girl identity and clothing; reference2 exact location architecture/materials; reference3 approved rendering. Tall176cm girl, MUTED SALMON PINK voluminous feathered LOW PONYTAIL, parted curtain bangs and cheek-framing sidelocks described as a few broad locks, large calm CYAN eyes, softly elongated feminine face, gently relaxed eyelids and a kind restrained smile. Same navy blazer maroon ribbon white shirt modest KNEE-LENGTH charcoal pleated skirt dark knee socks and loafers. Hands gently clasped at waist, no props. She is a fellow student.. STORY MOMENT: Mari calmly gathers her school bag to leave the infirmary visitor table; her full tea cup remains in the foreground, cool late light, her expression tired but resolved. No collapse, injury or helpless framing. Compose a NEW cinematic medium-wide three-quarter viewpoint within the SAME room, with clear facial acting, believable hands and furniture perspective. Girl focal point upper/right middle; CONTINUOUS FULL-BLEED ILLUSTRATION reaching ALL FOUR EDGES, including entire lower edge. Do NOT draw ANY shaded band, dark rectangle, dialogue area, vignette panel, lettering or interface anywhere. Only the illustrated real environment and characters. MC when needed is an ordinary male peer rendered as a solid neutral charcoal-grey school-uniform silhouette, no eyes/face/hair identity, no transparent skin. Girl remains fully normally colored. Hands anatomically clear with five fingers, simple natural poses, no awkward overlap. No cleavage, glamour, adult proportions, lens effects, glitter, text, UI, watermark or border. Wholesome ordinary school romance/friendship; visually distinct illustration matching this specific ending, not a tinted reuse."
+  },
+  {
+    "id": "cg_svea_good",
+    "category": "ending_cg",
+    "character": "svea",
+    "ending": "good",
+    "target": "CG/cg_svea_good.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\svea\\svea_base.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_field_day.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate one finished emotionally specific visual-novel ENDING CG, landscape16:9 composition ideally1920x1080. Reference1 exact girl identity and clothing; reference2 exact location architecture/materials; reference3 approved rendering. 171cm athletic GIRL, visibly feminine youthful face with soft jaw and gently tapered cheeks, shaggy medium-short BLUE BLACK hair chin-to-nape, long side fringe partly covering HER RIGHT eye, calm half-lidded BLUE GREY eyes, understated lashes and small dry half smile. Match her exact face and hair in the supplied approved reference. Navy school blazer OPEN over white shirt with only top button undone and chest fully covered, plain charcoal straight UNIFORM TROUSERS, grey sneakers. No ribbon/tie. One hand in trouser pocket, other hand at side, NO basketball in neutral base.. STORY MOMENT: Svea at the school hardcourt in clean late-afternoon light, feminine face and shaggy blue-black hair, rare soft smile while offering the basketball to a charcoal MC silhouette; loose blazer and uniform trousers, easy equal posture. Compose a NEW cinematic medium-wide three-quarter viewpoint within the SAME room, with clear facial acting, believable hands and furniture perspective. Girl focal point upper/right middle; CONTINUOUS FULL-BLEED ILLUSTRATION reaching ALL FOUR EDGES, including entire lower edge. Do NOT draw ANY shaded band, dark rectangle, dialogue area, vignette panel, lettering or interface anywhere. Only the illustrated real environment and characters. MC when needed is an ordinary male peer rendered as a solid neutral charcoal-grey school-uniform silhouette, no eyes/face/hair identity, no transparent skin. Girl remains fully normally colored. Hands anatomically clear with five fingers, simple natural poses, no awkward overlap. No cleavage, glamour, adult proportions, lens effects, glitter, text, UI, watermark or border. Wholesome ordinary school romance/friendship; visually distinct illustration matching this specific ending, not a tinted reuse."
+  },
+  {
+    "id": "cg_svea_neutral",
+    "category": "ending_cg",
+    "character": "svea",
+    "ending": "neutral",
+    "target": "CG/cg_svea_neutral.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\svea\\svea_base.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_field_day.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate one finished emotionally specific visual-novel ENDING CG, landscape16:9 composition ideally1920x1080. Reference1 exact girl identity and clothing; reference2 exact location architecture/materials; reference3 approved rendering. 171cm athletic GIRL, visibly feminine youthful face with soft jaw and gently tapered cheeks, shaggy medium-short BLUE BLACK hair chin-to-nape, long side fringe partly covering HER RIGHT eye, calm half-lidded BLUE GREY eyes, understated lashes and small dry half smile. Match her exact face and hair in the supplied approved reference. Navy school blazer OPEN over white shirt with only top button undone and chest fully covered, plain charcoal straight UNIFORM TROUSERS, grey sneakers. No ribbon/tie. One hand in trouser pocket, other hand at side, NO basketball in neutral base.. STORY MOMENT: Svea and a charcoal MC silhouette exchange a relaxed friendly fist bump at the hardcourt boundary; sports bag between them, normal daylight, comfortable friendship without romantic framing. Compose a NEW cinematic medium-wide three-quarter viewpoint within the SAME room, with clear facial acting, believable hands and furniture perspective. Girl focal point upper/right middle; CONTINUOUS FULL-BLEED ILLUSTRATION reaching ALL FOUR EDGES, including entire lower edge. Do NOT draw ANY shaded band, dark rectangle, dialogue area, vignette panel, lettering or interface anywhere. Only the illustrated real environment and characters. MC when needed is an ordinary male peer rendered as a solid neutral charcoal-grey school-uniform silhouette, no eyes/face/hair identity, no transparent skin. Girl remains fully normally colored. Hands anatomically clear with five fingers, simple natural poses, no awkward overlap. No cleavage, glamour, adult proportions, lens effects, glitter, text, UI, watermark or border. Wholesome ordinary school romance/friendship; visually distinct illustration matching this specific ending, not a tinted reuse."
+  },
+  {
+    "id": "cg_svea_bad",
+    "category": "ending_cg",
+    "character": "svea",
+    "ending": "bad",
+    "target": "CG/cg_svea_bad.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Characters\\svea\\svea_base.png",
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_field_day.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate one finished emotionally specific visual-novel ENDING CG, landscape16:9 composition ideally1920x1080. Reference1 exact girl identity and clothing; reference2 exact location architecture/materials; reference3 approved rendering. 171cm athletic GIRL, visibly feminine youthful face with soft jaw and gently tapered cheeks, shaggy medium-short BLUE BLACK hair chin-to-nape, long side fringe partly covering HER RIGHT eye, calm half-lidded BLUE GREY eyes, understated lashes and small dry half smile. Match her exact face and hair in the supplied approved reference. Navy school blazer OPEN over white shirt with only top button undone and chest fully covered, plain charcoal straight UNIFORM TROUSERS, grey sneakers. No ribbon/tie. One hand in trouser pocket, other hand at side, NO basketball in neutral base.. STORY MOMENT: Svea leaves the quiet hardcourt with a basketball under her arm, looking forward; an empty bench behind her, cool natural late light, steady resolved expression. She remains strong and self-directed. Compose a NEW cinematic medium-wide three-quarter viewpoint within the SAME room, with clear facial acting, believable hands and furniture perspective. Girl focal point upper/right middle; CONTINUOUS FULL-BLEED ILLUSTRATION reaching ALL FOUR EDGES, including entire lower edge. Do NOT draw ANY shaded band, dark rectangle, dialogue area, vignette panel, lettering or interface anywhere. Only the illustrated real environment and characters. MC when needed is an ordinary male peer rendered as a solid neutral charcoal-grey school-uniform silhouette, no eyes/face/hair identity, no transparent skin. Girl remains fully normally colored. Hands anatomically clear with five fingers, simple natural poses, no awkward overlap. No cleavage, glamour, adult proportions, lens effects, glitter, text, UI, watermark or border. Wholesome ordinary school romance/friendship; visually distinct illustration matching this specific ending, not a tinted reuse."
+  },
+  {
+    "id": "props_stationery",
+    "category": "prop_atlas",
+    "target": "Props/Atlases/stationery.png",
+    "transparent": true,
+    "grid": [
+      3,
+      2
+    ],
+    "cells": [
+      "clipboard",
+      "papers",
+      "folder",
+      "blue_journal",
+      "book",
+      "stapler"
+    ],
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE production inventory-object sprite atlas, NOT a scene. EXACTLY SIX isolated illustrated objects in a regular THREE columns by TWO rows equal-cell grid on one landscape canvas, high resolution ideally1536x1024. Reading order: 1: plain light wood clipboard with silver clip and a blank cream sheet; 2: neatly offset stack of blank cream A4 paper, slightly curled corner; 3: closed cream school paper folder; 4: closed dark-blue cloth journal with a ribbon bookmark; 5: closed plain sage-green paperback; 6: small navy metal desktop stapler. Only these six objects, one complete separate subject per cell. Every item fully inside its cell with10% clear transparent padding; fit each item separately, no overlaps between cells. Consistent school anime linework, clean designed forms, bounded cel shadows, restrained natural matte material highlights, simple believable perspective and anatomy. Actual transparent alpha background; NO text, branding, cell lines, captions, floating shadows, floor or backdrop. Do NOT draw people."
+  },
+  {
+    "id": "props_tools",
+    "category": "prop_atlas",
+    "target": "Props/Atlases/tools.png",
+    "transparent": true,
+    "grid": [
+      3,
+      2
+    ],
+    "cells": [
+      "pen",
+      "pencil",
+      "calculator",
+      "glue",
+      "floor_tape",
+      "paperweight"
+    ],
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE production inventory-object sprite atlas, NOT a scene. EXACTLY SIX isolated illustrated objects in a regular THREE columns by TWO rows equal-cell grid on one landscape canvas, high resolution ideally1536x1024. Reading order: 1: simple navy capped ballpoint pen; 2: one yellow wooden graphite pencil with pink eraser; 3: small grey calculator with blank dark screen, clean simple keypad; 4: white school glue stick with maroon cap, no label; 5: roll of matte pale-blue floor marking tape; 6: small smooth oval stone paperweight. Only these six objects, one complete separate subject per cell. Every item fully inside its cell with10% clear transparent padding; fit each item separately, no overlaps between cells. Consistent school anime linework, clean designed forms, bounded cel shadows, restrained natural matte material highlights, simple believable perspective and anatomy. Actual transparent alpha background; NO text, branding, cell lines, captions, floating shadows, floor or backdrop. Do NOT draw people."
+  },
+  {
+    "id": "props_electronics",
+    "category": "prop_atlas",
+    "target": "Props/Atlases/electronics.png",
+    "transparent": true,
+    "grid": [
+      3,
+      2
+    ],
+    "cells": [
+      "phone",
+      "laptop",
+      "headphones",
+      "camera",
+      "handheld_game",
+      "pencil_case"
+    ],
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE production inventory-object sprite atlas, NOT a scene. EXACTLY SIX isolated illustrated objects in a regular THREE columns by TWO rows equal-cell grid on one landscape canvas, high resolution ideally1536x1024. Reading order: 1: ordinary black smartphone, dark blank screen facing camera; 2: open dark-grey laptop, blank muted charcoal screen and clean keyboard; 3: simple over-ear dark-grey wired headphones; 4: small black compact digital camera with wrist strap, no brand; 5: original dark navy handheld game console, blank landscape screen between controls; 6: closed soft charcoal pencil case with zip. Only these six objects, one complete separate subject per cell. Every item fully inside its cell with10% clear transparent padding; fit each item separately, no overlaps between cells. Consistent school anime linework, clean designed forms, bounded cel shadows, restrained natural matte material highlights, simple believable perspective and anatomy. Actual transparent alpha background; NO text, branding, cell lines, captions, floating shadows, floor or backdrop. Do NOT draw people."
+  },
+  {
+    "id": "props_bags",
+    "category": "prop_atlas",
+    "target": "Props/Atlases/bags.png",
+    "transparent": true,
+    "grid": [
+      3,
+      2
+    ],
+    "cells": [
+      "satchel",
+      "sports_bag",
+      "fencing_bag",
+      "delivery_box",
+      "supply_box",
+      "plush_dog_keychain"
+    ],
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE production inventory-object sprite atlas, NOT a scene. EXACTLY SIX isolated illustrated objects in a regular THREE columns by TWO rows equal-cell grid on one landscape canvas, high resolution ideally1536x1024. Reading order: 1: navy student satchel with three original small pin/keychain motifs: a tiny rabbit, astronaut helmet, plain star; 2: closed navy cylindrical sports duffel bag, grey strap; 3: closed long navy zippered fencing equipment bag; 4: closed medium brown cardboard delivery box with plain tape; 5: open small brown cardboard supply box containing a few blank folders; 6: small cream plush dog head keychain with simple stitched eyes, understated cute school bag accessory. Only these six objects, one complete separate subject per cell. Every item fully inside its cell with10% clear transparent padding; fit each item separately, no overlaps between cells. Consistent school anime linework, clean designed forms, bounded cel shadows, restrained natural matte material highlights, simple believable perspective and anatomy. Actual transparent alpha background; NO text, branding, cell lines, captions, floating shadows, floor or backdrop. Do NOT draw people."
+  },
+  {
+    "id": "props_snacks",
+    "category": "prop_atlas",
+    "target": "Props/Atlases/snacks.png",
+    "transparent": true,
+    "grid": [
+      3,
+      2
+    ],
+    "cells": [
+      "melonpan",
+      "dark_chocolate",
+      "tea_bottle",
+      "coffee_can",
+      "strawberry_milk",
+      "fruit_cup"
+    ],
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE production inventory-object sprite atlas, NOT a scene. EXACTLY SIX isolated illustrated objects in a regular THREE columns by TWO rows equal-cell grid on one landscape canvas, high resolution ideally1536x1024. Reading order: 1: one golden melonpan sweet bread in clear simple food wrapping; 2: small dark chocolate bar partly inside plain cream paper sleeve; 3: clear capped plastic bottle of amber tea with simple blank cream label; 4: one small grey-blue coffee can with no branding or text; 5: one small pink-and-white strawberry milk carton, simple strawberry pictogram, no writing; 6: clear cup of sliced apple, orange and grapes with plain lid. Only these six objects, one complete separate subject per cell. Every item fully inside its cell with10% clear transparent padding; fit each item separately, no overlaps between cells. Consistent school anime linework, clean designed forms, bounded cel shadows, restrained natural matte material highlights, simple believable perspective and anatomy. Actual transparent alpha background; NO text, branding, cell lines, captions, floating shadows, floor or backdrop. Do NOT draw people."
+  },
+  {
+    "id": "props_meals",
+    "category": "prop_atlas",
+    "target": "Props/Atlases/meals.png",
+    "transparent": true,
+    "grid": [
+      3,
+      2
+    ],
+    "cells": [
+      "bento",
+      "lunch_tray",
+      "noodle_bowl",
+      "thermos",
+      "tea_cup",
+      "spare_container"
+    ],
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE production inventory-object sprite atlas, NOT a scene. EXACTLY SIX isolated illustrated objects in a regular THREE columns by TWO rows equal-cell grid on one landscape canvas, high resolution ideally1536x1024. Reading order: 1: opened modest rectangular Japanese bento box, rice vegetables egg and chicken, no excessive detail; 2: school lunch tray with rice bowl, small soup bowl and vegetable plate, all modest; 3: ordinary ceramic bowl of udon noodles with vegetables and chopsticks resting across rim; 4: closed matte sage-green thermos flask; 5: one ordinary white ceramic cup containing amber tea, no saucer; 6: closed small cream reusable food container. Only these six objects, one complete separate subject per cell. Every item fully inside its cell with10% clear transparent padding; fit each item separately, no overlaps between cells. Consistent school anime linework, clean designed forms, bounded cel shadows, restrained natural matte material highlights, simple believable perspective and anatomy. Actual transparent alpha background; NO text, branding, cell lines, captions, floating shadows, floor or backdrop. Do NOT draw people."
+  },
+  {
+    "id": "props_care",
+    "category": "prop_atlas",
+    "target": "Props/Atlases/care.png",
+    "transparent": true,
+    "grid": [
+      3,
+      2
+    ],
+    "cells": [
+      "tea_tin",
+      "custard_dessert",
+      "red_bean_dessert",
+      "folded_cloth",
+      "clean_blankets",
+      "sewing_kit"
+    ],
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE production inventory-object sprite atlas, NOT a scene. EXACTLY SIX isolated illustrated objects in a regular THREE columns by TWO rows equal-cell grid on one landscape canvas, high resolution ideally1536x1024. Reading order: 1: plain muted green cylindrical tea tin with lid; 2: one small caramel custard pudding on a plain white plate; 3: one small red-bean filled dorayaki cut into two halves on plain white plate; 4: neatly folded cream cotton cleaning cloth; 5: one neat folded pale-blue clean blanket; 6: small open tin with thread spools, needle safely in pincushion, tiny scissors. Only these six objects, one complete separate subject per cell. Every item fully inside its cell with10% clear transparent padding; fit each item separately, no overlaps between cells. Consistent school anime linework, clean designed forms, bounded cel shadows, restrained natural matte material highlights, simple believable perspective and anatomy. Actual transparent alpha background; NO text, branding, cell lines, captions, floating shadows, floor or backdrop. Do NOT draw people."
+  },
+  {
+    "id": "props_sport",
+    "category": "prop_atlas",
+    "target": "Props/Atlases/sport.png",
+    "transparent": true,
+    "grid": [
+      3,
+      2
+    ],
+    "cells": [
+      "basketball",
+      "fencing_mask",
+      "court_cone",
+      "practice_mat",
+      "loose_button",
+      "reference_books"
+    ],
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE production inventory-object sprite atlas, NOT a scene. EXACTLY SIX isolated illustrated objects in a regular THREE columns by TWO rows equal-cell grid on one landscape canvas, high resolution ideally1536x1024. Reading order: 1: one ordinary orange basketball with clean accurate black seam pattern; 2: one proper fencing mask, grey wire face cage and dark padded bib; 3: one small orange training cone; 4: one rolled blue sports practice mat with simple carrying strap; 5: one plain small brass four-hole blazer button; 6: three closed plain reference books in a short stack, blue sage cream spines, no writing. Only these six objects, one complete separate subject per cell. Every item fully inside its cell with10% clear transparent padding; fit each item separately, no overlaps between cells. Consistent school anime linework, clean designed forms, bounded cel shadows, restrained natural matte material highlights, simple believable perspective and anatomy. Actual transparent alpha background; NO text, branding, cell lines, captions, floating shadows, floor or backdrop. Do NOT draw people."
+  },
+  {
+    "id": "props_display",
+    "category": "prop_atlas",
+    "target": "Props/Atlases/display.png",
+    "transparent": true,
+    "grid": [
+      3,
+      2
+    ],
+    "cells": [
+      "envelope",
+      "photo_prints",
+      "paper_label",
+      "display_board",
+      "fabric_backing",
+      "bookmark"
+    ],
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE production inventory-object sprite atlas, NOT a scene. EXACTLY SIX isolated illustrated objects in a regular THREE columns by TWO rows equal-cell grid on one landscape canvas, high resolution ideally1536x1024. Reading order: 1: closed cream letter envelope with plain flap, no writing; 2: three small overlapping blank photo prints, white borders and muted sky-blue faces; 3: one clean blank rectangular cream paper label; 4: small portable blank cork display board on wooden easel; 5: one folded rectangle of muted blue felt craft backing; 6: one plain long cream bookmark with a tiny hand-drawn cloud at the top. Only these six objects, one complete separate subject per cell. Every item fully inside its cell with10% clear transparent padding; fit each item separately, no overlaps between cells. Consistent school anime linework, clean designed forms, bounded cel shadows, restrained natural matte material highlights, simple believable perspective and anatomy. Actual transparent alpha background; NO text, branding, cell lines, captions, floating shadows, floor or backdrop. Do NOT draw people."
+  },
+  {
+    "id": "props_room_objects",
+    "category": "prop_atlas",
+    "target": "Props/Atlases/room_objects.png",
+    "transparent": true,
+    "grid": [
+      3,
+      2
+    ],
+    "cells": [
+      "cat",
+      "neighborhood_dog",
+      "bench",
+      "chair",
+      "equipment_cart",
+      "leaflet_rack"
+    ],
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Finished high-definition 2D anime visual-novel production illustration for April, again. Match the supplied approved rendering reference: crisp economical dark lineart, clearly drawn faces, broad smooth designed hair locks, bounded cel shadows, restrained highlights, matte cloth and clean natural light. Group hair into large and medium shapes with very few internal strand lines. Clear iris and pupil, small simple nose and mouth, no oily skin or sculpted lips. No etched hair texture, flyaway frizz, grain, plastic gloss, 3D rendering, haze, bloom, halos or sparkles. Original first-year high-school students portrayed respectfully, normal youthful anatomy, modest clothing, no glamour posing. Shared uniform: very dark navy wool blazer with simple gold buttons, white collared shirt, muted maroon ribbon, charcoal knee-length pleated skirt, loafers. All characters must look from ONE consistent game.\nCreate ONE production inventory-object sprite atlas, NOT a scene. EXACTLY SIX isolated illustrated objects in a regular THREE columns by TWO rows equal-cell grid on one landscape canvas, high resolution ideally1536x1024. Reading order: 1: ordinary small grey-and-white cat sitting alert with tail curled beside paws, natural animal anatomy, not humanized; 2: ordinary friendly medium cream dog sitting with collar, natural animal anatomy; 3: simple school wooden slat bench with dark green metal supports, three-quarter front view; 4: ordinary school visitor chair, pale oak seat and back, grey metal legs, three-quarter front view; 5: low grey school wheeled sports equipment cart containing three basketballs; 6: small simple wooden tabletop leaflet rack with blank cream leaflets. Only these six objects, one complete separate subject per cell. Every item fully inside its cell with10% clear transparent padding; fit each item separately, no overlaps between cells. Consistent school anime linework, clean designed forms, bounded cel shadows, restrained natural matte material highlights, simple believable perspective and anatomy. Actual transparent alpha background; NO text, branding, cell lines, captions, floating shadows, floor or backdrop. Do NOT draw people."
+  },
+  {
+    "id": "prop_art_pages",
+    "category": "illustrated_pages",
+    "target": "Props/Atlases/art_pages.png",
+    "transparent": false,
+    "grid": [
+      3,
+      2
+    ],
+    "cells": [
+      "sky_photo",
+      "alternate_photo",
+      "blurred_photo",
+      "window_sketch",
+      "folded_sketch",
+      "cloud_bookmark_art"
+    ],
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_library_day.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Use the approved reference ONLY for rendering quality, linework and palette; do not include any character from it. Finished hand-painted 2D anime VN environment, precise clean perspective, simplified purposeful architectural detail, matte natural textures, restrained clear spring daylight, calm white/cream walls with muted blue-green trim, warm oak doors and furniture, no photorealism or 3D render. One believable modest prestigious Japanese high school in Fukuoka. High-resolution WIDE16:9, ideally1920x1080. No people, text, logos, UI, sparkles, fog or lens flare. Leave bottom quarter low-detail for dialogue and a clear foreground zone for later character sprites. Do not overdecorate.\nOne landscape production atlas containing SIX equal rectangular art panels in exact3columns2rows, no labels, narrow plain cream gutters. Each is a quiet student's photograph or pencil/watercolor drawing, NOT a promotional collage. Reading order: 1 clean photograph of ordinary pale-blue spring sky with one broad cloud framed by edge of school window;2 photograph of low green hills from SAME school window;3 same sky photograph mildly out of focus;4 delicate blue-pencil drawing of the library window with TWO ordinary empty chairs side by side;5 gentle pencil drawing of distant green hills and small cloud;6 restrained small hand-drawn cloud study on cream paper with ample blank space. Natural highschool art project, clear simple unpretentious compositions, no people/text/logos/glow."
+  },
+  {
+    "id": "char_mc_silhouettes",
+    "category": "mc",
+    "target": "Characters/mc/mc_silhouettes.png",
+    "transparent": true,
+    "grid": [
+      3,
+      1
+    ],
+    "cells": [
+      "standing",
+      "seated",
+      "profile"
+    ],
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Production sprite atlas for a quiet anime high-school visual novel. THREE clearly separate full-body poses of the SAME ordinary first-year boy, average height173cm, normal modest school uniform silhouette: simple blazer, straight trousers, loafers, short ordinary hair outline. Every entire person rendered SOLID DARK CHARCOAL GREY (#30343C); NO face, eyes, skin, colored clothing or hair details; flat neutral silhouette with only a few subtle same-family charcoal seams for readability. Exact3columns1row landscape equalcells. LEFT standing casual, CENTER seated naturally on invisible chair hands on lap feet on floor, RIGHT standing three-quarter profile looking left. Each all head feet hair within cell10% padding. Actual transparent alpha, no backdrop/chairs/floor/shadow/text/grid. A placeholder player identity intentionally unidentifiable, NOT sinister or supernatural."
+  },
+  {
+    "id": "map_campus",
+    "category": "map",
+    "target": "Map/campus_illustration.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Use the approved reference ONLY for rendering quality, linework and palette; do not include any character from it. Finished hand-painted 2D anime VN environment, precise clean perspective, simplified purposeful architectural detail, matte natural textures, restrained clear spring daylight, calm white/cream walls with muted blue-green trim, warm oak doors and furniture, no photorealism or 3D render. One believable modest prestigious Japanese high school in Fukuoka. High-resolution WIDE16:9, ideally1920x1080. No people, text, logos, UI, sparkles, fog or lens flare. Leave bottom quarter low-detail for dialogue and a clear foreground zone for later character sprites. Do not overdecorate.\nCreate ONE restrained readable TOP-DOWN illustrated campus wayfinding map, landscape16:9. NO people, NO text labels, NO arrows, no UI, no perspective/isometric exaggeration. Simple cream school floor plan with fine dark outlines and pale blue-green walls, flat ordinary oak furniture hints, modest green outdoors. Preserve this EXACT topology and approximate normalized layout: infirmary room at west x.08-.24 y.20-.53; Class B north-west x.31-.44 y.12-.30; Class C north-east x.54-.67 y.10-.28; library far east x.75-.89 y.17-.45; continuous horizontal academic corridor x.23-.76 y.31-.39 with visible door gaps into infirmary,B,C,library; Class A southeast of corridor x.55-.69 y.40-.53 with its door to corridor. Vertical central passage x.47-.53 y.36-.60 into central lobby x.43-.57 y.56-.72. Canteen southwest x.25-.40 y.62-.84 connected lobby via short left path. Rectangular sports field/hardcourt southeast x.60-.88 y.57-.86 connected lobby via short right path. Gate at south-center x.47-.53 y.91 connected lobby by straight short path. Unbuilt areas simple pale lawn. Campus fits within6% all-edge margin, clear blank floor areas for live labels, quiet architectural diagram with clean accurate walls and door openings. Ordinary compact Japanese highschool, not mansion, not sprawling fantasy campus. All room footprints distinct, navigation obvious."
+  },
+  {
+    "id": "title_establishing",
+    "category": "title",
+    "target": "Title/title_school.png",
+    "transparent": false,
+    "refs": [
+      "C:\\Unity Code\\April, Again\\Assets\\AprilAgain\\Art\\Backgrounds\\bg_gate_day.png",
+      "C:\\Unity Code\\April, Again\\Documentation\\Art\\svea-rendering-master-v2.png"
+    ],
+    "prompt": "Use the approved reference ONLY for rendering quality, linework and palette; do not include any character from it. Finished hand-painted 2D anime VN environment, precise clean perspective, simplified purposeful architectural detail, matte natural textures, restrained clear spring daylight, calm white/cream walls with muted blue-green trim, warm oak doors and furniture, no photorealism or 3D render. One believable modest prestigious Japanese high school in Fukuoka. High-resolution WIDE16:9, ideally1920x1080. No people, text, logos, UI, sparkles, fog or lens flare. Leave bottom quarter low-detail for dialogue and a clear foreground zone for later character sprites. Do not overdecorate.\nMain title-screen background for April, again. Same modest school gate, stone posts and navy-green school trim as reference1, slightly wider cinematic establishing view from outside. School and open gate occupy RIGHT60%; LEFT40% calm low-detail pale sky and light cream gate wall for live title/menu. One ordinary cherry tree branch at upper-right, no petals in the air. Fresh April morning natural light, muted green hedge, pedestrian path leading inward. Empty quiet school, no characters or text, no grand staircase, palace or ornate academy. Refined finished anime background with clean architecture, subtle warm atmosphere."
+  }
+]

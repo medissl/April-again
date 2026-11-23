@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 6a535c241b737e1478e4651acf07c67d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4954718518470749444
+    second: folded_cloth_0
+  - first:
+      213: -4273102853534218396
+    second: folded_cloth_1
+  - first:
+      213: 8066358242349517839
+    second: folded_cloth_2
+  - first:
+      213: 787616928313227972
+    second: folded_cloth_3
+  - first:
+      213: -5241487624838731358
+    second: folded_cloth_4
+  - first:
+      213: 4434063212832290880
+    second: folded_cloth_5
+  - first:
+      213: 5269832027805387293
+    second: folded_cloth_6
+  - first:
+      213: -4505715997340755286
+    second: folded_cloth_7
+  - first:
+      213: -3103789008713295977
+    second: folded_cloth_8
+  - first:
+      213: -9135012844336766831
+    second: folded_cloth_9
+  - first:
+      213: 3322801049061110210
+    second: folded_cloth_10
+  - first:
+      213: 3787140366305853494
+    second: folded_cloth_11
+  - first:
+      213: -4074008260973484882
+    second: folded_cloth_12
+  - first:
+      213: -5716167056882568678
+    second: folded_cloth_13
+  - first:
+      213: -2577206573678704633
+    second: folded_cloth_14
+  - first:
+      213: -8336312454417918929
+    second: folded_cloth_15
+  - first:
+      213: -4024197148854332568
+    second: folded_cloth_16
+  - first:
+      213: 5198219302189099713
+    second: folded_cloth_17
+  - first:
+      213: 8138973625446813862
+    second: folded_cloth_18
+  - first:
+      213: 7909610347500965972
+    second: folded_cloth_19
+  - first:
+      213: 8236950332644476922
+    second: folded_cloth_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: folded_cloth_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 451
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2508832cd4d3bb0800000000000000
+      internalID: -4954718518470749444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_cloth_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 439
+        width: 172
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46782663893e2b4c0800000000000000
+      internalID: -4273102853534218396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_cloth_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 471
+        width: 89
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c8942851671ff60800000000000000
+      internalID: 8066358242349517839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_cloth_3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 323
+        width: 114
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cab13f5c6d2eea00800000000000000
+      internalID: 787616928313227972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_cloth_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 461
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9a1ea96ce7247b0800000000000000
+      internalID: -5241487624838731358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_cloth_5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 435
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048fe78dff4f88d30800000000000000
+      internalID: 4434063212832290880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_cloth_6
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 447
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a015bfe44322940800000000000000
+      internalID: 5269832027805387293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_cloth_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 439
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa95b73c2b7871c0800000000000000
+      internalID: -4505715997340755286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_cloth_8
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 433
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797d1e557502de4d0800000000000000
+      internalID: -3103789008713295977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_cloth_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 512
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1902daaa73ae93180800000000000000
+      internalID: -9135012844336766831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_cloth_10
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 173
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1359cf2f5fc1e20800000000000000
+      internalID: 3322801049061110210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_cloth_11
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 159
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63004381910ae8430800000000000000
+      internalID: 3787140366305853494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_cloth_12
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 181
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea42ba852173677c0800000000000000
+      internalID: -4074008260973484882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_cloth_13
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 129
+        width: 8
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1279b9e8581ca0b0800000000000000
+      internalID: -5716167056882568678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_cloth_14
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 47
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708441f964ceb3cd0800000000000000
+      internalID: -2577206573678704633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_cloth_15
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 27
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2451c98df77f4c80800000000000000
+      internalID: -8336312454417918929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_cloth_16
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 31
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863d564a30e2728c0800000000000000
+      internalID: -4024197148854332568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_cloth_17
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 46
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca6f8bf9e8c32840800000000000000
+      internalID: 5198219302189099713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_cloth_18
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 21
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0d705e36173f070800000000000000
+      internalID: 8138973625446813862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_cloth_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 31
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4509c8244b494cd60800000000000000
+      internalID: 7909610347500965972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folded_cloth_20
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 0
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af74fc1bfa68f4270800000000000000
+      internalID: 8236950332644476922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      folded_cloth_0: -4954718518470749444
+      folded_cloth_1: -4273102853534218396
+      folded_cloth_10: 3322801049061110210
+      folded_cloth_11: 3787140366305853494
+      folded_cloth_12: -4074008260973484882
+      folded_cloth_13: -5716167056882568678
+      folded_cloth_14: -2577206573678704633
+      folded_cloth_15: -8336312454417918929
+      folded_cloth_16: -4024197148854332568
+      folded_cloth_17: 5198219302189099713
+      folded_cloth_18: 8138973625446813862
+      folded_cloth_19: 7909610347500965972
+      folded_cloth_2: 8066358242349517839
+      folded_cloth_20: 8236950332644476922
+      folded_cloth_3: 787616928313227972
+      folded_cloth_4: -5241487624838731358
+      folded_cloth_5: 4434063212832290880
+      folded_cloth_6: 5269832027805387293
+      folded_cloth_7: -4505715997340755286
+      folded_cloth_8: -3103789008713295977
+      folded_cloth_9: -9135012844336766831
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

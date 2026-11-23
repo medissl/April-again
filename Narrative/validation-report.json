@@ -1,0 +1,40 @@
+{
+  "routes": 5,
+  "encounters": 75,
+  "writtenChoices": 225,
+  "endings": 15,
+  "observationVignettes": 5,
+  "scoreTotalCasesChecked": 136,
+  "choiceOrderPatterns": 6,
+  "allBranchWordCounts": {
+    "katya": 2834,
+    "akira": 3145,
+    "seoyun": 2843,
+    "mari": 2886,
+    "svea": 2527
+  },
+  "soloRouteCompletionSchoolDays": {
+    "katya": 17,
+    "akira": 18,
+    "seoyun": 19,
+    "mari": 18,
+    "svea": 16
+  },
+  "checks": [
+    "All scene chains contiguous",
+    "Three written reactions per encounter",
+    "Three endings per route",
+    "One neutral delta, added to both effective categories",
+    "15 distinct ending CG briefs",
+    "Connected reversible map graph",
+    "All authored scene locations exist",
+    "All routes reachable with club gates",
+    "Every voice edit target matched",
+    "No placeholder markers"
+  ],
+  "notVerified": [
+    "Unity runtime scheduling, saves and duplicate-input guards are a written contract, not implemented",
+    "B2-C1 is an editorial target, not a certified language assessment",
+    "Native-language performance review and player playtesting remain useful before final voice recording"
+  ]
+}

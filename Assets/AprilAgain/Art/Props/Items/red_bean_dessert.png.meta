@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: 65fdde0de66f6e54187851a4d96f28e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6004562077870753938
+    second: red_bean_dessert_0
+  - first:
+      213: -8258244195287496137
+    second: red_bean_dessert_1
+  - first:
+      213: 7406414772775156064
+    second: red_bean_dessert_2
+  - first:
+      213: 8014482289061725723
+    second: red_bean_dessert_3
+  - first:
+      213: -6263266484449846161
+    second: red_bean_dessert_4
+  - first:
+      213: 5147930881550982009
+    second: red_bean_dessert_5
+  - first:
+      213: 2371291377186107981
+    second: red_bean_dessert_6
+  - first:
+      213: 1387372998790513209
+    second: red_bean_dessert_7
+  - first:
+      213: -691723124460515370
+    second: red_bean_dessert_8
+  - first:
+      213: 2364256569154878752
+    second: red_bean_dessert_9
+  - first:
+      213: -1710303873407679062
+    second: red_bean_dessert_10
+  - first:
+      213: -2056477671677260824
+    second: red_bean_dessert_11
+  - first:
+      213: 8271969558675326673
+    second: red_bean_dessert_12
+  - first:
+      213: -8394622502217071499
+    second: red_bean_dessert_13
+  - first:
+      213: -2414330539823601830
+    second: red_bean_dessert_14
+  - first:
+      213: 2198031984579736308
+    second: red_bean_dessert_15
+  - first:
+      213: -6157963865599937884
+    second: red_bean_dessert_16
+  - first:
+      213: -2707420437895738595
+    second: red_bean_dessert_17
+  - first:
+      213: -4257613532430504327
+    second: red_bean_dessert_18
+  - first:
+      213: -6632187400892349775
+    second: red_bean_dessert_19
+  - first:
+      213: -8898699548949600108
+    second: red_bean_dessert_20
+  - first:
+      213: -1632824896591374493
+    second: red_bean_dessert_21
+  - first:
+      213: -6245725269812717459
+    second: red_bean_dessert_22
+  - first:
+      213: -5812588134489213721
+    second: red_bean_dessert_23
+  - first:
+      213: 6568510001298583099
+    second: red_bean_dessert_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: red_bean_dessert_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 417
+        width: 113
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e677bbc8a928baca0800000000000000
+      internalID: -6004562077870753938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_bean_dessert_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 417
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a057f88a2d46d80800000000000000
+      internalID: -8258244195287496137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_bean_dessert_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 405
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069f776befed8c660800000000000000
+      internalID: 7406414772775156064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_bean_dessert_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 423
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b160f2aed29293f60800000000000000
+      internalID: 8014482289061725723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_bean_dessert_4
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 423
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cd1cc01586419a0800000000000000
+      internalID: -6263266484449846161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_bean_dessert_5
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 421
+        width: 82
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b1c13acdf117740800000000000000
+      internalID: 5147930881550982009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_bean_dessert_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 485
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42ff14a1f488e020800000000000000
+      internalID: 2371291377186107981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_bean_dessert_7
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 479
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93280eb4460f04310800000000000000
+      internalID: 1387372998790513209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_bean_dessert_8
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 431
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df8b93bb718666f0800000000000000
+      internalID: -691723124460515370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_bean_dessert_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 417
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d3c52c2d68fc020800000000000000
+      internalID: 2364256569154878752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_bean_dessert_10
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 463
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa58f8f40b7c348e0800000000000000
+      internalID: -1710303873407679062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_bean_dessert_11
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 461
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb872b047ce573e0800000000000000
+      internalID: -2056477671677260824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_bean_dessert_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 433
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d600b1ac70fbc270800000000000000
+      internalID: 8271969558675326673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_bean_dessert_13
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 441
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574c9d39f4f408b80800000000000000
+      internalID: -8394622502217071499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_bean_dessert_14
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 407
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57ef6b6a239e7ed0800000000000000
+      internalID: -2414330539823601830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_bean_dessert_15
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 427
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f272ddb17af08e10800000000000000
+      internalID: 2198031984579736308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_bean_dessert_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 415
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a279339d748a8aa0800000000000000
+      internalID: -6157963865599937884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_bean_dessert_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 495
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b879dc47f4d6ad0800000000000000
+      internalID: -2707420437895738595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_bean_dessert_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 23
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e6590dc0be9e4c0800000000000000
+      internalID: -4257613532430504327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_bean_dessert_19
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 29
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b28dfd92bcb5f3a0800000000000000
+      internalID: -6632187400892349775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_bean_dessert_20
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 35
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4982ee558e7718480800000000000000
+      internalID: -8898699548949600108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_bean_dessert_21
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 45
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367d14a586a0759e0800000000000000
+      internalID: -1632824896591374493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_bean_dessert_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 17
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68d12855f9b259a0800000000000000
+      internalID: -6245725269812717459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_bean_dessert_23
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 73
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4be1a53e9855fa0800000000000000
+      internalID: -5812588134489213721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_bean_dessert_24
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 34
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ea0037b09082b50800000000000000
+      internalID: 6568510001298583099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      red_bean_dessert_0: -6004562077870753938
+      red_bean_dessert_1: -8258244195287496137
+      red_bean_dessert_10: -1710303873407679062
+      red_bean_dessert_11: -2056477671677260824
+      red_bean_dessert_12: 8271969558675326673
+      red_bean_dessert_13: -8394622502217071499
+      red_bean_dessert_14: -2414330539823601830
+      red_bean_dessert_15: 2198031984579736308
+      red_bean_dessert_16: -6157963865599937884
+      red_bean_dessert_17: -2707420437895738595
+      red_bean_dessert_18: -4257613532430504327
+      red_bean_dessert_19: -6632187400892349775
+      red_bean_dessert_2: 7406414772775156064
+      red_bean_dessert_20: -8898699548949600108
+      red_bean_dessert_21: -1632824896591374493
+      red_bean_dessert_22: -6245725269812717459
+      red_bean_dessert_23: -5812588134489213721
+      red_bean_dessert_24: 6568510001298583099
+      red_bean_dessert_3: 8014482289061725723
+      red_bean_dessert_4: -6263266484449846161
+      red_bean_dessert_5: 5147930881550982009
+      red_bean_dessert_6: 2371291377186107981
+      red_bean_dessert_7: 1387372998790513209
+      red_bean_dessert_8: -691723124460515370
+      red_bean_dessert_9: 2364256569154878752
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

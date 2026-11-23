@@ -1,0 +1,142 @@
+[
+  {
+    "key": "katya_1",
+    "girl": "katya",
+    "faces": [
+      "neutral",
+      "soft_smile",
+      "annoyed",
+      "flustered"
+    ],
+    "prompt": "Create a NEW production sprite sheet for the original school romance visual novel April, again. The supplied images are identity/style references: first image is the approved full-body character, then four approved facial-expression portraits in the required order. Match their clean finished anime linework, broad controlled hair shapes, clear faces, restrained cel shading and natural lighting exactly. Preserve identity, youthful ordinary first-year appearance, clothing, hair silhouette, eye shape and accessories. Katya: long straight silver hair, ice-blue narrower eyes, composed feminine face, small silver stud, immaculate navy blazer, maroon ribbon, charcoal knee-length skirt. Arms folded naturally as in the body reference.\nOUTPUT: one genuine transparent PNG sprite atlas, exactly TWO COLUMNS by TWO ROWS, portrait canvas composition 1024x1536. Four independent MID-THIGH-UP character sprites, each in its own equal 512x768 portrait cell with a small transparent gutter. Read cells top-left, top-right, bottom-left, bottom-right. Required expressions in that order: neutral, soft_smile, annoyed, flustered. Each face must clearly perform the specified emotion, guided by the corresponding face reference. Keep the head at the same height and body at the same scale in every cell. The body should continue to the middle of the thighs at the bottom, suitable for hiding its bottom behind a VN dialogue window. Do not produce floating heads or tight face-only portraits. All hair, shoulders, elbows and hands must stay fully inside their own cell. Never let one sprite overlap another.\nKeep the same relaxed body angle and hand/arm pose across cells; only the facial acting changes. Ordinary, nonsexualized student anatomy and modest school clothing. Clean natural hands, no extra fingers or limbs, no glossy skin or breast emphasis. No change of wardrobe or face identity. No gradient backdrops, scenery, frames, labels, words, emote symbols or decorative particles. Truly transparent around each figure, not a checkerboard. Crisp high-definition game art, not a concept sketch. This sheet will be sliced into four real conversation sprites.",
+    "sourceReference": "approved original body and expression references",
+    "outputHint": "Generated images are saved to C:\\Users\\media\\.codex\\generated_images\\01a202a7-4f19-7883-b523-cefe2a4903b6 as C:\\Users\\media\\.codex\\generated_images\\01a202a7-4f19-7883-b523-cefe2a4903b6\\exec-ad9504f8-d0ab-4689-849a-1c9922dc4384.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "key": "akira_1",
+    "girl": "akira",
+    "faces": [
+      "neutral",
+      "delighted",
+      "excited",
+      "flustered"
+    ],
+    "prompt": "Create a NEW production sprite sheet for the original school romance visual novel April, again. The supplied images are identity/style references: first image is the approved full-body character, then four approved facial-expression portraits in the required order. Match their clean finished anime linework, broad controlled hair shapes, clear faces, restrained cel shading and natural lighting exactly. Preserve identity, youthful ordinary first-year appearance, clothing, hair silhouette, eye shape and accessories. Akira: short chin-length pastel pink bob, ahoge, brown eyes, thin round dark glasses with charm, youthful friendly face, navy school blazer and maroon ribbon. Preserve her glasses in EVERY cell.\nOUTPUT: one genuine transparent PNG sprite atlas, exactly TWO COLUMNS by TWO ROWS, portrait canvas composition 1024x1536. Four independent MID-THIGH-UP character sprites, each in its own equal 512x768 portrait cell with a small transparent gutter. Read cells top-left, top-right, bottom-left, bottom-right. Required expressions in that order: neutral, delighted, excited, flustered. Each face must clearly perform the specified emotion, guided by the corresponding face reference. Keep the head at the same height and body at the same scale in every cell. The body should continue to the middle of the thighs at the bottom, suitable for hiding its bottom behind a VN dialogue window. Do not produce floating heads or tight face-only portraits. All hair, shoulders, elbows and hands must stay fully inside their own cell. Never let one sprite overlap another.\nKeep the same relaxed body angle and hand/arm pose across cells; only the facial acting changes. Ordinary, nonsexualized student anatomy and modest school clothing. Clean natural hands, no extra fingers or limbs, no glossy skin or breast emphasis. No change of wardrobe or face identity. No gradient backdrops, scenery, frames, labels, words, emote symbols or decorative particles. Truly transparent around each figure, not a checkerboard. Crisp high-definition game art, not a concept sketch. This sheet will be sliced into four real conversation sprites.",
+    "sourceReference": "approved original body and expression references",
+    "outputHint": "Generated images are saved to C:\\Users\\media\\.codex\\generated_images\\01a202a7-4f19-7883-b523-cefe2a4903b6 as C:\\Users\\media\\.codex\\generated_images\\01a202a7-4f19-7883-b523-cefe2a4903b6\\exec-fdbe91dc-1aa6-40ae-af94-19e32a85f8c4.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "key": "seoyun_1",
+    "girl": "seoyun",
+    "faces": [
+      "neutral",
+      "warm",
+      "curious",
+      "flustered"
+    ],
+    "prompt": "Create a NEW production sprite sheet for the original school romance visual novel April, again. The supplied images are identity/style references: first image is the approved full-body character, then four approved facial-expression portraits in the required order. Match their clean finished anime linework, broad controlled hair shapes, clear faces, restrained cel shading and natural lighting exactly. Preserve identity, youthful ordinary first-year appearance, clothing, hair silhouette, eye shape and accessories. Han Seo-yun: long slightly wavy dark brown hair in a low ponytail, curtain bangs, dark-brown almond eyes, small mole beneath HER LEFT eye, reserved warm feminine face, neat navy blazer and maroon ribbon.\nOUTPUT: one genuine transparent PNG sprite atlas, exactly TWO COLUMNS by TWO ROWS, portrait canvas composition 1024x1536. Four independent MID-THIGH-UP character sprites, each in its own equal 512x768 portrait cell with a small transparent gutter. Read cells top-left, top-right, bottom-left, bottom-right. Required expressions in that order: neutral, warm, curious, flustered. Each face must clearly perform the specified emotion, guided by the corresponding face reference. Keep the head at the same height and body at the same scale in every cell. The body should continue to the middle of the thighs at the bottom, suitable for hiding its bottom behind a VN dialogue window. Do not produce floating heads or tight face-only portraits. All hair, shoulders, elbows and hands must stay fully inside their own cell. Never let one sprite overlap another.\nKeep the same relaxed body angle and hand/arm pose across cells; only the facial acting changes. Ordinary, nonsexualized student anatomy and modest school clothing. Clean natural hands, no extra fingers or limbs, no glossy skin or breast emphasis. No change of wardrobe or face identity. No gradient backdrops, scenery, frames, labels, words, emote symbols or decorative particles. Truly transparent around each figure, not a checkerboard. Crisp high-definition game art, not a concept sketch. This sheet will be sliced into four real conversation sprites.",
+    "sourceReference": "approved original body and expression references",
+    "outputHint": "Generated images are saved to C:\\Users\\media\\.codex\\generated_images\\01a202a7-4f19-7883-b523-cefe2a4903b6 as C:\\Users\\media\\.codex\\generated_images\\01a202a7-4f19-7883-b523-cefe2a4903b6\\exec-3930723a-5421-4322-81d6-adaf013f09e8.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "key": "mari_1",
+    "girl": "mari",
+    "faces": [
+      "neutral",
+      "warm",
+      "concerned",
+      "flustered"
+    ],
+    "prompt": "Create one polished 2x2 conversation sprite atlas for the original Japanese school visual novel April, again. First attached image is the locked full-body design; the next four images are approved expression portraits in reading order. Match the original clean anime rendering, broad hair masses and clear face. Exactly TWO COLUMNS and TWO ROWS on a portrait 1024x1536 composition; four separate WAIST-UP sprites with equal portrait cells, head at the same height in every cell and fully visible shoulders/arms/hands. Crop below the hips so no skirt hem is visible. Expressions in order: neutral, warm, concerned, flustered. Keep the same natural relaxed body angle and hand pose across all four cells. Mari is an ordinary first-year girl, with muted salmon feathered hair in a low ponytail, cyan eyes, gentle clearly feminine face, navy blazer and maroon ribbon. No nurse uniform.\nOrdinary nonsexualized first-year student, no glamour or bust emphasis. Crisp restrained cel shading and natural hands. Each figure stays entirely within its own cell; small clear gutters. Genuine transparent background around all four sprites, no scenery, checkerboard, labels, words, emote symbols, borders or extra objects. This is a real production game sprite atlas, not a character study.",
+    "sourceReference": "C:/Unity Code/April, Again/Assets/AprilAgain/Art/Characters/mari/mari_base.png",
+    "outputHint": "Generated images are saved to C:\\Users\\media\\.codex\\generated_images\\01a202a7-4f19-7883-b523-cefe2a4903b6 as C:\\Users\\media\\.codex\\generated_images\\01a202a7-4f19-7883-b523-cefe2a4903b6\\exec-6a9c535e-f39d-42f8-bae4-49af856efdae.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "key": "svea_1",
+    "girl": "svea",
+    "faces": [
+      "neutral",
+      "soft_smile",
+      "smirk",
+      "flustered"
+    ],
+    "prompt": "Create one polished 2x2 conversation sprite atlas for the original Japanese school visual novel April, again. First attached image is the locked full-body design; the next four images are approved expression portraits in reading order. Match the original clean anime rendering, broad hair masses and clear face. Exactly TWO COLUMNS and TWO ROWS on a portrait 1024x1536 composition; four separate WAIST-UP sprites with equal portrait cells, head at the same height in every cell and fully visible shoulders/arms/hands. Crop below the hips so no skirt hem is visible. Expressions in order: neutral, soft_smile, smirk, flustered. Keep the same natural relaxed body angle and hand pose across all four cells. Svea is a clearly feminine tomboy girl with a soft youthful jaw, shaggy blue-black chin-to-nape fringe covering HER RIGHT eye, blue-grey half-lidded eyes, open navy blazer, white shirt with no ribbon, straight charcoal trousers. Preserve her feminine face and loose modest uniform. No skirt.\nOrdinary nonsexualized first-year student, no glamour or bust emphasis. Crisp restrained cel shading and natural hands. Each figure stays entirely within its own cell; small clear gutters. Genuine transparent background around all four sprites, no scenery, checkerboard, labels, words, emote symbols, borders or extra objects. This is a real production game sprite atlas, not a character study.",
+    "sourceReference": "C:/Unity Code/April, Again/Assets/AprilAgain/Art/Characters/svea/svea_base.png",
+    "outputHint": "Generated images are saved to C:\\Users\\media\\.codex\\generated_images\\01a202a7-4f19-7883-b523-cefe2a4903b6 as C:\\Users\\media\\.codex\\generated_images\\01a202a7-4f19-7883-b523-cefe2a4903b6\\exec-40399df2-7dee-439c-a98b-3e87e8dd971c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "key": "katya_2",
+    "girl": "katya",
+    "faces": [
+      "concerned",
+      "determined",
+      "sad",
+      "surprised"
+    ],
+    "prompt": "Edit the FIRST attached 2x2 anime conversation sprite sheet. Preserve its EXACT four body poses, costume, body scale, head positions, framing, hand anatomy, transparent alpha and cell layout. Change ONLY the facial expressions, in reading order top-left, top-right, bottom-left, bottom-right, to: concerned, determined, sad, surprised. The following four attached close portraits show the required original faces/emotions in that same order. Keep every head at the same scale and position so the expressions switch seamlessly. Do not redesign the character, lighting, hair detail or outfit. Katya's exact silver-hair/ice-blue-eye identity and body pose are locked in the first sheet.\nOrdinary nonsexualized first-year student, no glamour or bust emphasis. Crisp restrained cel shading and natural hands. Each figure stays entirely within its own cell; small clear gutters. Genuine transparent background around all four sprites, no scenery, checkerboard, labels, words, emote symbols, borders or extra objects. This is a real production game sprite atlas, not a character study.",
+    "sourceReference": "C:/Users/media/.codex/generated_images/01a202a7-4f19-7883-b523-cefe2a4903b6/exec-ad9504f8-d0ab-4689-849a-1c9922dc4384.png",
+    "outputHint": "Generated images are saved to C:\\Users\\media\\.codex\\generated_images\\01a202a7-4f19-7883-b523-cefe2a4903b6 as C:\\Users\\media\\.codex\\generated_images\\01a202a7-4f19-7883-b523-cefe2a4903b6\\exec-d1a8e63d-2fd2-40ee-9657-358926b0d7fa.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "key": "akira_2",
+    "girl": "akira",
+    "faces": [
+      "puzzled",
+      "sad",
+      "surprised",
+      "worried"
+    ],
+    "prompt": "Edit the FIRST attached 2x2 anime conversation sprite sheet for April, again. Preserve its EXACT four bodies, wardrobe, hair silhouette, face identity, body scale, head positions, arm/hand pose, lighting and cell layout. Change ONLY the facial expressions, in reading order top-left, top-right, bottom-left, bottom-right, to: puzzled, sad, surprised, worried. The following four approved close portraits show the required facial acting in that same order. Keep heads and shoulders aligned so these sprites can switch without jumping. Do not redesign the face or body, add skin gloss, finer hair texture or new accessories. Akira must keep her round glasses in every cell if present. Seo-yun must keep the mole beneath her left eye. Mari keeps salmon hair and cyan eyes. Ordinary nonsexualized first-year student anatomy; no glamour or bust emphasis.\nExactly two columns and two rows, same portrait canvas and transparent gutters as the first sheet. Each figure stays fully within its own cell. Clear genuine transparent background, no scenery, labels, writing, frames, checkerboard, particles or emote symbols. Refined clear cel-shaded anime production art.",
+    "sourceReference": "exec-fdbe91dc-1aa6-40ae-af94-19e32a85f8c4.png",
+    "outputHint": "Generated images are saved to C:\\Users\\media\\.codex\\generated_images\\01a202a7-4f19-7883-b523-cefe2a4903b6 as C:\\Users\\media\\.codex\\generated_images\\01a202a7-4f19-7883-b523-cefe2a4903b6\\exec-44ec7727-6684-4491-8f9a-442ec766a2ad.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "key": "seoyun_2",
+    "girl": "seoyun",
+    "faces": [
+      "concerned",
+      "determined",
+      "sad",
+      "surprised"
+    ],
+    "prompt": "Edit the FIRST attached 2x2 anime conversation sprite sheet for April, again. Preserve its EXACT four bodies, wardrobe, hair silhouette, face identity, body scale, head positions, arm/hand pose, lighting and cell layout. Change ONLY the facial expressions, in reading order top-left, top-right, bottom-left, bottom-right, to: concerned, determined, sad, surprised. The following four approved close portraits show the required facial acting in that same order. Keep heads and shoulders aligned so these sprites can switch without jumping. Do not redesign the face or body, add skin gloss, finer hair texture or new accessories. Akira must keep her round glasses in every cell if present. Seo-yun must keep the mole beneath her left eye. Mari keeps salmon hair and cyan eyes. Ordinary nonsexualized first-year student anatomy; no glamour or bust emphasis.\nExactly two columns and two rows, same portrait canvas and transparent gutters as the first sheet. Each figure stays fully within its own cell. Clear genuine transparent background, no scenery, labels, writing, frames, checkerboard, particles or emote symbols. Refined clear cel-shaded anime production art.",
+    "sourceReference": "exec-3930723a-5421-4322-81d6-adaf013f09e8.png",
+    "outputHint": "Generated images are saved to C:\\Users\\media\\.codex\\generated_images\\01a202a7-4f19-7883-b523-cefe2a4903b6 as C:\\Users\\media\\.codex\\generated_images\\01a202a7-4f19-7883-b523-cefe2a4903b6\\exec-6dd33bce-2291-41d5-afa8-22d2bb648f2e.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "key": "mari_2",
+    "girl": "mari",
+    "faces": [
+      "determined",
+      "peaceful",
+      "sad",
+      "surprised"
+    ],
+    "prompt": "Edit the FIRST attached 2x2 anime conversation sprite sheet for April, again. Preserve its EXACT four bodies, wardrobe, hair silhouette, face identity, body scale, head positions, arm/hand pose, lighting and cell layout. Change ONLY the facial expressions, in reading order top-left, top-right, bottom-left, bottom-right, to: determined, peaceful, sad, surprised. The following four approved close portraits show the required facial acting in that same order. Keep heads and shoulders aligned so these sprites can switch without jumping. Do not redesign the face or body, add skin gloss, finer hair texture or new accessories. Akira must keep her round glasses in every cell if present. Seo-yun must keep the mole beneath her left eye. Mari keeps salmon hair and cyan eyes. Ordinary nonsexualized first-year student anatomy; no glamour or bust emphasis.\nExactly two columns and two rows, same portrait canvas and transparent gutters as the first sheet. Each figure stays fully within its own cell. Clear genuine transparent background, no scenery, labels, writing, frames, checkerboard, particles or emote symbols. Refined clear cel-shaded anime production art.",
+    "sourceReference": "exec-6a9c535e-f39d-42f8-bae4-49af856efdae.png",
+    "outputHint": "Generated images are saved to C:\\Users\\media\\.codex\\generated_images\\01a202a7-4f19-7883-b523-cefe2a4903b6 as C:\\Users\\media\\.codex\\generated_images\\01a202a7-4f19-7883-b523-cefe2a4903b6\\exec-decd7e34-520a-4d6a-a301-accc633358cd.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "key": "svea_2",
+    "girl": "svea",
+    "faces": [
+      "annoyed",
+      "sleepy",
+      "sad",
+      "surprised"
+    ],
+    "prompt": "Edit the FIRST attached 2x2 conversation sprite sheet of Svea. Keep every body pose, body scale, head position, hair silhouette, outfit, hand anatomy and cell boundary exactly unchanged. Change ONLY the four facial expressions in reading order to ANNOYED, SLEEPY, SAD, SURPRISED, following the next four close portrait references in that order. Sleepy must have genuinely almost-closed tired eyelids; sad must have lowered brows and mouth; surprised must be alert with parted lips, not sleepy. Preserve her feminine soft jaw, blue-grey eyes, shaggy blue-black fringe over HER RIGHT eye, open navy blazer, white shirt without ribbon and trousers. Same restrained clean cel-shaded style, ordinary youthful nonsexualized student. Exactly 2 columns and 2 rows, same portrait canvas, fully separate figures. Genuine transparent background, no text, emote marks, scenery, checkerboard, frames or new objects.",
+    "sourceReference": "approved original body and expression references",
+    "outputHint": "Generated images are saved to C:\\Users\\media\\.codex\\generated_images\\01a202a7-4f19-7883-b523-cefe2a4903b6 as C:\\Users\\media\\.codex\\generated_images\\01a202a7-4f19-7883-b523-cefe2a4903b6\\exec-a2f854e0-73da-4ce6-bc0e-7dead85ed91d.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "key": "svea_3",
+    "girl": "svea",
+    "faces": [
+      "concerned"
+    ],
+    "prompt": "Create ONE additional WAIST-UP conversation sprite of Svea for April, again, not a grid. First reference is the approved 2x2 body sprite sheet: match the exact character identity, feminine face, body pose, uniform, hair silhouette, clean cel shading, head-to-body proportions and the framing of ONE individual cell. Second reference shows her required CONCERNED face: slightly raised inner brows, worried attentive eyes and a restrained uneasy mouth. Preserve her feminine soft jaw, shaggy blue-black fringe covering HER RIGHT eye, blue-grey eyes, open navy blazer and white shirt without a ribbon. One hand relaxed in her pocket, other arm resting naturally as in the body sheet. Ordinary nonsexualized first-year student anatomy. Portrait 1024x1536 composition with a little clear margin, head close to the top and body continuing just below the hips; no skirt, no change of clothing. Truly transparent outside the figure; no backdrop, checkerboard, labels, words, particles or emote symbols. Crisp production VN sprite, not a concept sketch.",
+    "sourceReference": "approved original body and expression references",
+    "outputHint": "Generated images are saved to C:\\Users\\media\\.codex\\generated_images\\01a202a7-4f19-7883-b523-cefe2a4903b6 as C:\\Users\\media\\.codex\\generated_images\\01a202a7-4f19-7883-b523-cefe2a4903b6\\exec-c4a5de15-fc9a-4d0f-8d2a-2a80b29930d8.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  }
+]

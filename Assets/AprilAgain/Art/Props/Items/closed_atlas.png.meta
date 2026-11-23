@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 1dc8de4097e229e4fa915e2e98203674
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7207019061049228886
+    second: closed_atlas_0
+  - first:
+      213: 5186347406330565853
+    second: closed_atlas_1
+  - first:
+      213: -8111680166182013774
+    second: closed_atlas_2
+  - first:
+      213: -8546655920511508324
+    second: closed_atlas_3
+  - first:
+      213: 8697993086034952365
+    second: closed_atlas_4
+  - first:
+      213: -2099179628482998283
+    second: closed_atlas_5
+  - first:
+      213: 1333097377060552323
+    second: closed_atlas_6
+  - first:
+      213: -8864670587290737488
+    second: closed_atlas_7
+  - first:
+      213: 2327878639959388994
+    second: closed_atlas_8
+  - first:
+      213: -5445986217018397149
+    second: closed_atlas_9
+  - first:
+      213: 1085563152708542911
+    second: closed_atlas_10
+  - first:
+      213: -7719328203827609860
+    second: closed_atlas_11
+  - first:
+      213: 2652032400852087358
+    second: closed_atlas_12
+  - first:
+      213: 7712579055977016315
+    second: closed_atlas_13
+  - first:
+      213: -5653471718381999689
+    second: closed_atlas_14
+  - first:
+      213: 1902154503186963514
+    second: closed_atlas_15
+  - first:
+      213: -1219557242305349644
+    second: closed_atlas_16
+  - first:
+      213: 6574147685468918775
+    second: closed_atlas_17
+  - first:
+      213: 1618103608965165028
+    second: closed_atlas_18
+  - first:
+      213: -270949383153717253
+    second: closed_atlas_19
+  - first:
+      213: 5639122822900479881
+    second: closed_atlas_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: closed_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 427
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65efe4fc6a9740460800000000000000
+      internalID: 7207019061049228886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closed_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 482
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd41a14dc7b99f740800000000000000
+      internalID: 5186347406330565853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closed_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 445
+        width: 65
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4b32bcdd58d6f80800000000000000
+      internalID: -8111680166182013774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closed_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 447
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c902c60f8bd246980800000000000000
+      internalID: -8546655920511508324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closed_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 479
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0cae7b0aa75b870800000000000000
+      internalID: 8697993086034952365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closed_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 439
+        width: 98
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffc884ff373ed2e0800000000000000
+      internalID: -2099179628482998283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closed_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 421
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ef2ba500d108210800000000000000
+      internalID: 1333097377060552323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closed_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 401
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4aea1611d5af480800000000000000
+      internalID: -8864670587290737488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closed_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 418
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243bff61a494e4020800000000000000
+      internalID: 2327878639959388994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closed_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 383
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ee1f2c368fb64b0800000000000000
+      internalID: -5445986217018397149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closed_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109
+        width: 81
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb122729fe1b01f00800000000000000
+      internalID: 1085563152708542911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closed_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 225
+        width: 19
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe733ab5ef6fd490800000000000000
+      internalID: -7719328203827609860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closed_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 59
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e327d91ea69edc420800000000000000
+      internalID: 2652032400852087358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closed_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 78
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfba0a5d9c5980b60800000000000000
+      internalID: 7712579055977016315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closed_atlas_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 39
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9af1eec65da81b0800000000000000
+      internalID: -5653471718381999689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closed_atlas_15
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 30
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c5e5e417fc56a10800000000000000
+      internalID: 1902154503186963514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closed_atlas_16
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 33
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7722d4623431fe0800000000000000
+      internalID: -1219557242305349644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closed_atlas_17
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 23
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3d4551d701c3b50800000000000000
+      internalID: 6574147685468918775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closed_atlas_18
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 34
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef6526c8a8a47610800000000000000
+      internalID: 1618103608965165028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closed_atlas_19
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 39
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffe209b8f46d3cf0800000000000000
+      internalID: -270949383153717253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closed_atlas_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987f7cf7450324e40800000000000000
+      internalID: 5639122822900479881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      closed_atlas_0: 7207019061049228886
+      closed_atlas_1: 5186347406330565853
+      closed_atlas_10: 1085563152708542911
+      closed_atlas_11: -7719328203827609860
+      closed_atlas_12: 2652032400852087358
+      closed_atlas_13: 7712579055977016315
+      closed_atlas_14: -5653471718381999689
+      closed_atlas_15: 1902154503186963514
+      closed_atlas_16: -1219557242305349644
+      closed_atlas_17: 6574147685468918775
+      closed_atlas_18: 1618103608965165028
+      closed_atlas_19: -270949383153717253
+      closed_atlas_2: -8111680166182013774
+      closed_atlas_20: 5639122822900479881
+      closed_atlas_3: -8546655920511508324
+      closed_atlas_4: 8697993086034952365
+      closed_atlas_5: -2099179628482998283
+      closed_atlas_6: 1333097377060552323
+      closed_atlas_7: -8864670587290737488
+      closed_atlas_8: 2327878639959388994
+      closed_atlas_9: -5445986217018397149
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
