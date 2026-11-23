@@ -113,7 +113,7 @@ namespace AprilAgain
             var tip=Image(calendar.transform,"Time",20,202,400,54,Color.white,catalog.Sprite("final_tooltip"));tip.gameObject.SetActive(false);
             Text(tip.transform,session.opening?"Orientation · "+session.observed.Count+" / 5":time+" · encounters take 3h",20,12,360,36,Font,22,Ink,TextAlignmentOptions.Center);
             calendar.gameObject.AddComponent<SoftHighlight>().change=on=>tip.gameObject.SetActive(on);
-            Icon(hud,"Map","map",1650,16,72,Map,Paper);Icon(hud,"Journal","journal",1744,16,72,Journal,Paper);Icon(hud,"Menu","menu",1836,16,72,Pause,Paper);
+            Icon(hud,"Map","map",1624,28,72,Map,Paper);Icon(hud,"Journal","journal",1718,28,72,Journal,Paper);Icon(hud,"Menu","menu",1812,28,72,Pause,Paper);
         }
         public void Travel(string location,bool throughDoor=false)
         {
@@ -168,30 +168,30 @@ namespace AprilAgain
         void RoomObjects(PropData[] props)
         {
             var p=OpenPanel("Nearby",1240,880);
-            var content=Scroll(p,150,180,960,540,Mathf.Ceil(props.Length/3f)*250);
+            var content=Scroll(p,150,224,960,480,Mathf.Ceil(props.Length/3f)*250);
             for(int i=0;i<props.Length;i++)
             {
                 var prop=props[i];float x=(i%3)*312,y=(i/3)*250;
                 var b=Quiet(content,prop.label,x,y,290,232,()=>Inspect(prop,()=>RoomObjects(props)));
                 b.GetComponentInChildren<TextMeshProUGUI>().gameObject.SetActive(false);
-                Image(b.transform,prop.label,30,0,230,180,Color.white,catalog.Sprite(prop.asset),true);
+                CenterArtwork(Image(b.transform,prop.label,30,0,230,180,Color.white,catalog.Sprite(prop.asset),true));
                 Text(b.transform,prop.label,12,190,266,42,Font,23,Ink,TextAlignmentOptions.Center);
             }
-            Btn(p,"Return",450,758,340,64,()=>CloseOverlay());
+            Btn(p,"Return",450,752,340,64,()=>CloseOverlay());
         }
         void Inspect(PropData prop,Action returned=null)
         {
-            var p=OpenPanel(prop.label,980,810);
+            var p=OpenPanel(prop.label,980,900);
             overlayReturn=returned;
-            Image(p,"Item",230,130,520,430,Color.white,catalog.Sprite(prop.asset),true);
+            CenterArtwork(Image(p,"Item",230,210,520,414,Color.white,catalog.Sprite(prop.asset),true));
             string text=prop.id.Contains("journal")?"Her notebook. I'll leave it closed unless she wants to share something.":prop.id.Contains("camera")?"A well-kept camera. I'd rather ask her about it than touch it.":prop.id=="bento"?"A tidy lunchbox. There's a spare pair of chopsticks beside it.":prop.id=="thermos"?"The tea flask is still warm.":prop.id=="folder"?"The corners are already a little bent. It's been a busy first week.":"";
-            if(text!="")Text(p,text,130,590,720,100,Font,27);
-            Btn(p,"Return",330,718,320,60,DismissOverlay);
+            if(text!="")Text(p,text,130,648,720,100,Font,27);
+            Btn(p,"Return",330,776,320,60,DismissOverlay);
         }
         void Map()
         {
             var p=OpenPanel("Campus",1792,996);
-            const float mapX=192,mapY=154,mapW=1408,mapH=792;
+            const float mapX=256,mapY=208,mapW=1280,mapH=720;
             Image(p,"Campus",mapX,mapY,mapW,mapH,Color.white,catalog.Sprite("map_campus"),true);
             foreach(var loc in Content.locations.Where(x=>x.id!="bedroom"))
             {
@@ -216,7 +216,7 @@ namespace AprilAgain
                     if(GameRules.Eligible(Content,session,person.id))Image(p,"Free now",px+13,labelY+105,28,3,Rose);
                 }
             }
-            Icon(p,"Map help","info",1550,42,64,()=>Message("Select a room to visit it. Travel is free.\n\nPortraits show where classmates are now. A rose mark means a story encounter is available. Check the journal for their next appointment.",Map));
+            Icon(p,"Map help","info",1480,100,64,()=>Message("Select a room to visit it. Travel is free.\n\nPortraits show where classmates are now. A rose mark means a story encounter is available. Check the journal for their next appointment.",Map));
             if(session.mode=="explore"&&(!session.opening||session.observed.Count==5))Icon(p,"Home","home",1640,840,72,()=>{CloseOverlay(false);GoHome();});
         }
     }

@@ -51,6 +51,11 @@ namespace AprilAgain
             t.font=font;t.text=value;t.fontSize=size;t.color=color??Ink;t.alignment=align;t.raycastTarget=false;
             t.textWrappingMode=TextWrappingModes.Normal;t.overflowMode=TextOverflowModes.Overflow;t.richText=false;return t;
         }
+        public static void CenterArtwork(Image image)
+        {
+            var rect=image.rectTransform;var center=new Vector2(.5f,.5f);
+            rect.anchoredPosition+=Vector2.Scale(center-rect.pivot,rect.rect.size);rect.pivot=center;
+        }
         public static Button Button(Transform p,string value,float x,float y,float w,float h,TMP_FontAsset font,Action click,bool enabled=true,bool accent=false,Action hover=null)
         {
             var sprite=Skin?.Sprite(accent?"final_button_primary":"final_button");
@@ -96,7 +101,7 @@ namespace AprilAgain
                 Image(frame,"Corner",xx,yy+(yy>0?14:0),16,2,Paper);
                 Image(frame,"Corner",xx+(xx>0?14:0),yy,2,16,Paper);
             }
-            float cw=320,cx=Mathf.Clamp((w-cw)/2,16-x,1904-x-cw);
+            float cw=320,cx=Mathf.Clamp((w-cw)/2,32-x,1888-x-cw);
             var caption=Image(b.transform,"Hover label",cx,Mathf.Max(0,h-56),cw,56,Color.white,Skin?.Sprite("final_tooltip"));caption.gameObject.SetActive(false);
             Text(caption.transform,label,12,8,cw-24,40,font,23,Ink,TextAlignmentOptions.Center);
             b.gameObject.AddComponent<SoftHighlight>().change=on=>{frame.gameObject.SetActive(on);caption.gameObject.SetActive(on);if(on)hover?.Invoke();};
@@ -115,7 +120,7 @@ namespace AprilAgain
             var arrow=Image(b.transform,"Door marker",w/2-18,h/2-18,36,36,Paper,Skin?.Sprite("spring_icon_next"),true);
             arrow.gameObject.SetActive(showMarker);
             var outline=arrow.gameObject.AddComponent<Outline>();outline.effectColor=new Color(.2f,.1f,.15f,.7f);outline.effectDistance=new Vector2(1,-1);
-            float cw=230,cx=Mathf.Clamp((w-cw)/2,16-x,1904-x-cw);
+            float cw=230,cx=Mathf.Clamp((w-cw)/2,32-x,1888-x-cw);
             var caption=Image(b.transform,"Destination",cx,h/2-28,cw,56,Color.white,Skin?.Sprite("final_tooltip"));caption.gameObject.SetActive(false);
             Text(caption.transform,label,12,8,cw-24,40,font,23,Ink,TextAlignmentOptions.Center);
             b.gameObject.AddComponent<SoftHighlight>().change=on=>{arrow.gameObject.SetActive(showMarker&&!on);caption.gameObject.SetActive(on);if(on)hover?.Invoke();};
@@ -133,8 +138,8 @@ namespace AprilAgain
             if(Stage==null)return;
             var corners=new Vector3[4];target.GetWorldCorners(corners);
             var points=corners.Select(p=>Stage.InverseTransformPoint(p)).ToArray();var safe=Stage.rect;
-            float dx=Mathf.Max(0,safe.xMin+16-points.Min(p=>p.x))+Mathf.Min(0,safe.xMax-16-points.Max(p=>p.x));
-            float dy=Mathf.Max(0,safe.yMin+16-points.Min(p=>p.y))+Mathf.Min(0,safe.yMax-16-points.Max(p=>p.y));
+            float dx=Mathf.Max(0,safe.xMin+32-points.Min(p=>p.x))+Mathf.Min(0,safe.xMax-32-points.Max(p=>p.x));
+            float dy=Mathf.Max(0,safe.yMin+32-points.Min(p=>p.y))+Mathf.Min(0,safe.yMax-32-points.Max(p=>p.y));
             target.anchoredPosition+=new Vector2(dx,dy);
         }
         public static RectTransform Scroll(Transform parent,float x,float y,float w,float h,float contentHeight)

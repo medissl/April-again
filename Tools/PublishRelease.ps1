@@ -21,12 +21,17 @@ try{
         $body=@{tag_name=$Tag;target_commitish=$commit;name='April, again 1.0.0';body=$notes;draft=$true;prerelease=$false}|ConvertTo-Json
         $release=Invoke-RestMethod -Uri "$api/releases" -Method Post -Headers $headers -ContentType 'application/json; charset=utf-8' -Body ([Text.Encoding]::UTF8.GetBytes($body))
     }
+    elseif($release.draft){
+        $body=@{target_commitish=(git -C $project rev-parse HEAD).Trim();body=$notes}|ConvertTo-Json
+        $release=Invoke-RestMethod -Uri "$api/releases/$($release.id)" -Method Patch -Headers $headers -ContentType 'application/json; charset=utf-8' -Body ([Text.Encoding]::UTF8.GetBytes($body))
+    }
     foreach($name in $artifacts){
         $path=Join-Path $project "Builds/$name";$hash=(Get-FileHash -LiteralPath $path -Algorithm SHA256).Hash.ToLowerInvariant()
         $asset=@($release.assets | Where-Object name -EQ $name)
         if($asset.Count){
-            if($asset[0].size -ne (Get-Item -LiteralPath $path).Length -or $asset[0].digest -ne "sha256:$hash"){throw "A different release asset already exists: $name"}
-            continue
+            if($asset[0].size -eq (Get-Item -LiteralPath $path).Length -and $asset[0].digest -eq "sha256:$hash"){continue}
+            if(-not $release.draft){throw "A different published release asset exists: $name"}
+            Invoke-RestMethod -Uri "$api/releases/assets/$($asset[0].id)" -Method Delete -Headers $headers | Out-Null
         }
         if(-not $release.draft){throw 'Refusing to modify a published release with missing artifacts.'}
         $uri=($release.upload_url -replace '\{.*$','')+'?name='+[Uri]::EscapeDataString($name)

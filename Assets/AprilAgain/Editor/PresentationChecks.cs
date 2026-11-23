@@ -59,7 +59,24 @@ namespace AprilAgain.Editor
         }
         static void SaveScreen(string name)
         {
-            CheckText(name);Capture(name);Capture(name,1280,720);
+            CheckText(name);CheckPanelMargins(name);Capture(name);Capture(name,1280,720);
+        }
+        static void CheckPanelMargins(string screen)
+        {
+            foreach(var heading in UnityEngine.Object.FindObjectsByType<TextMeshProUGUI>(FindObjectsSortMode.None).Where(t=>t.name=="Panel heading"&&t.gameObject.activeInHierarchy))
+            {
+                var panel=(RectTransform)heading.transform.parent;var title=heading.rectTransform;
+                Check(-title.anchoredPosition.y>=100&&title.anchoredPosition.x>=200,screen+": heading touches decorative frame");
+                var close=(RectTransform)panel.Find("Close");
+                Check(-close.anchoredPosition.y>=100&&panel.rect.width-close.anchoredPosition.x-close.rect.width>=150,screen+": close button touches fold");
+                foreach(RectTransform child in panel)
+                {
+                    if(child.name=="Paper"||child==title||child==close||child.name=="Map help")continue;
+                    var position=new Vector2(child.anchoredPosition.x-child.pivot.x*child.rect.width,-child.anchoredPosition.y-(1-child.pivot.y)*child.rect.height);
+                    Check(position.x>=64&&position.x+child.rect.width<=panel.rect.width-64,screen+": side margin: "+child.name);
+                    Check(position.y>=208&&position.y+child.rect.height<=panel.rect.height-56,screen+": vertical margin: "+child.name);
+                }
+            }
         }
         static void Hover(GameObject target,bool enter)
         {
@@ -135,6 +152,16 @@ namespace AprilAgain.Editor
             g.TestCloseMenu();var prop=g.Content.scenes.SelectMany(s=>s.props).First();Invoke("Inspect",prop,null);yield return null;SaveScreen("inspection");
             g.TestCloseMenu();Invoke("RoomObjects",new object[]{g.Content.scenes.OrderByDescending(s=>s.props.Length).First().props});yield return null;SaveScreen("nearby");
             g.TestCloseMenu();
+            foreach(var help in new[]{new[]{"Settings","Controls"},new[]{"Journal","How days work"},new[]{"Map","Map help"}})
+            {
+                Invoke(help[0]);yield return null;
+                UnityEngine.Object.FindObjectsByType<Button>(FindObjectsSortMode.None).First(b=>b.gameObject.activeInHierarchy&&b.name==help[1]).onClick.Invoke();
+                yield return null;SaveScreen(help[0].ToLower()+"-help");g.TestCloseMenu();
+            }
+            foreach(var ending in g.Content.endings)
+            {
+                g.State.pendingEnding=ending.id;g.State.mode="ended";Invoke("Credits",true);yield return null;SaveScreen(ending.id+"-credits");g.TestCloseMenu();
+            }
             File.WriteAllLines(Output+"/visual-issues.txt",Issues);
             File.WriteAllText(Output+"/visual-status.txt","Completed "+checks+" checks; "+Issues.Count+" layout issues.");
             g.TestTitle();

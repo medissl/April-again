@@ -5,7 +5,7 @@ The game uses Unity 6000.3.7f1, uGUI, TextMesh Pro and the Input System. The tes
 - Rules: 2,102 assertions, 15 route outcome runs, all 75 encounters and 225 choices, appointment reachability, duplicate-commit rejection, save-state validation and all 136 possible final score combinations.
 - Controller: 15 complete good/neutral/bad playthroughs, 225 committed encounters, all 15 CG/ending/credits branches. The actual credits Return to title button is clicked and visible title controls are verified.
 - Smoke: 21 assertions covering the opening, all five observations, home/sleep/day two, real choice commitment, mid-response save/load, busy interaction, menus, sliders, music mute and recovery from a corrupt primary save.
-- Layout: 1,757 checks across all 48 world illustrations, system screens and door/map hover states. Captures at 1920×1080 and 1280×720. No reported overflow or mixed-font failures.
+- Layout: 2,259 checks across all 48 world illustrations, system screens and door/map hover states. Captures at 1920×1080 and 1280×720. No reported overflow or mixed-font failures.
 - Dialogue: all 1,625 spoken/narration lines measured at 40px; maximum height 109.12px inside the 112px reading area. All 225 choice labels are covered by encounter screen checks.
 - Shared rooms: four actual paired-classmate arrangements from the initial schedules over days 2–28; no overlapping classmate hit regions. Images reviewed after correcting placement, scale and floor alignment.
 - History: 100 populated entries, measured wrapping, both ends of the scroll area checked.
@@ -16,6 +16,12 @@ The game uses Unity 6000.3.7f1, uGUI, TextMesh Pro and the Input System. The tes
 
 Dialogue advance/reveal is silent. Accepted menu cues are retained; quiet door and rain recordings have explicit CC0 notices. Audio playback routing is tested, but this environment cannot provide a subjective listening review. There is no voice acting.
 
-The Windows build succeeded (375,179,556 bytes) with one Unity services warning: native debug symbols could not be uploaded. The extracted executable icon matches the custom monogram. Native mouse input was checked on title, settings, slider minimum/restore, Done, credits Return and close. Injected Escape did not confirm standalone keyboard shortcuts; hardware keyboard verification remains a limitation.
+The Windows build succeeded (375,180,068 bytes) with one Unity services warning: native debug symbols could not be uploaded. The extracted executable icon matches the custom monogram. Native mouse input was checked on title, settings, slider minimum/restore, Done, credits Return and close. Injected Escape did not confirm standalone keyboard shortcuts; hardware keyboard verification remains a limitation.
 
 Installer verification matched all 183 installed files by hash. Uninstall succeeded and preserved the existing player saves. The portable ZIP passed a full CRC read. Artifact sizes and SHA-256 hashes are in release-package.json and the release downloads. The binaries are unsigned.
+
+The final margin pass additionally checks live headings, close controls, side/bottom bounds, the map header, help popups and all 15 ending credits at both sizes. Item art is centered, help height is measured, and modal pages hide and restore the underlying world targets. The earlier text-fit checks missed the frame-border problem; the new captures and margin checks supersede that layout review.
+
+
+The corrected native export was launched and its revised settings header, margins and inset close button were checked with real mouse input. The installer was rebuilt and all 183 installed files matched again; uninstall preserved player saves. Both release packages were regenerated after the margin corrections.
+

@@ -14,3 +14,5 @@
   and rendered layout review at 1080p and 720p.
 - Custom application icon, disabled Unity splash, Windows portable ZIP and per-user
   installer. Saves are preserved by uninstallation.
+- Corrected system-panel margins: inset headings/close controls, dedicated map
+  header, spaced content/footer areas, measured help popups and centered item art.

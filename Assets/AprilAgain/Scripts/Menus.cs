@@ -13,17 +13,22 @@ namespace AprilAgain
         {
             Clear(overlay);modal=true;overlayReturn=null;audioPlayer.Sfx("open");
             hud.gameObject.SetActive(false);dialogue.gameObject.SetActive(false);
+            foreach(var target in world.GetComponentsInChildren<Button>(true))target.gameObject.SetActive(false);
             var shade=Image(overlay,"Modal shade",0,0,1920,1080,new Color(.12f,.08f,.15f,.62f));shade.raycastTarget=true;
             var p=Rect(heading,overlay,(1920-w)/2,(1080-h)/2,w,h);
             var plate=Image(p,"Paper",0,0,w,h,Color.white,catalog.Sprite("spring_menu"));plate.raycastTarget=true;
-            Text(p,heading,220,46,w-400,70,catalog.titleFont,36,Rose);
-            Icon(p,"Close","close",w-110,42,64,DismissOverlay);
+            // The illustrated frame includes a bow, a fold and transparent outer space.
+            // Keep the header inside the paper, clear of that decorative perimeter.
+            var panelHeading=Text(p,heading,220,104,w-560,60,catalog.titleFont,36,Rose);
+            panelHeading.name="Panel heading";panelHeading.enableAutoSizing=true;panelHeading.fontSizeMin=30;panelHeading.fontSizeMax=36;
+            Icon(p,"Close","close",w-220,100,64,DismissOverlay);
             return p;
         }
         void CloseOverlay(bool sound=true)
         {
             Clear(overlay);modal=false;overlayReturn=null;if(sound&&audioPlayer!=null)audioPlayer.Sfx("back");
             hud.gameObject.SetActive(!hidden);dialogue.gameObject.SetActive(!hidden);
+            foreach(var target in world.GetComponentsInChildren<Button>(true))target.gameObject.SetActive(true);
             if(sound&&!title&&session!=null&&session.mode=="ended")ShowTitle();
         }
         void DismissOverlay()
@@ -34,14 +39,17 @@ namespace AprilAgain
         void Confirm(string text,Action yes,Action cancelled=null)
         {
             var p=OpenPanel("April, again",1080,570);
-            overlayReturn=cancelled;Text(p,text,120,190,840,190,Font,29);
+            overlayReturn=cancelled;Text(p,text,160,220,760,150,Font,29);
             Btn(p,"Cancel",174,432,330,66,DismissOverlay);
             Btn(p,"Continue",552,432,354,66,()=>{CloseOverlay(false);yes();},true,true);
         }
         void Message(string text,Action returned=null)
         {
-            var p=OpenPanel("April, again",1100,580);overlayReturn=returned;Text(p,text,130,190,840,220,Font,29);
-            Btn(p,"Return",390,460,320,66,DismissOverlay);
+            var measure=Text(overlay,text,0,0,780,1,Font,29);
+            float textHeight=Mathf.Ceil(measure.GetPreferredValues(text,780,10000).y);
+            float height=Mathf.Max(580,220+textHeight+180);
+            var p=OpenPanel("April, again",1100,height);overlayReturn=returned;Text(p,text,160,220,780,textHeight+2,Font,29);
+            Btn(p,"Return",390,height-136,320,66,DismissOverlay);
         }
         void Toast(string text)
         {
@@ -53,15 +61,15 @@ namespace AprilAgain
         {
             auto=skip=false;RefreshReadingControls();
             var p=OpenPanel("Menu",1050,850);
-            Btn(p,"Resume",180,184,690,66,()=>CloseOverlay(),true,true);
-            Btn(p,"Save",180,276,330,64,()=>Saves(true));Btn(p,"Load",540,276,330,64,()=>Saves(false));
-            Btn(p,"Settings",180,364,330,64,Settings);Btn(p,"History",540,364,330,64,History);
-            Btn(p,"Journal",180,452,330,64,Journal);Btn(p,"Gallery",540,452,330,64,Gallery);
-            Btn(p,"Quick save",180,540,330,64,()=>{if(Save("quick"))CloseOverlay();});
-            Btn(p,"Quick load",540,540,330,64,()=>Confirm("Load the quick save?",()=>Load("quick")),SaveStore.Load("quick",Content)!=null);
-            Btn(p,"Title screen",180,628,330,64,()=>Confirm("Return to the title? The current story will be autosaved.",()=>{Autosave();ShowTitle();}));
-            Btn(p,"Quit",540,628,330,64,()=>Confirm("Save and close the game?",()=>{if(Save("autosave",false))Application.Quit();}));
-            if(session.mode=="dialogue")Quiet(p,"Hide interface · H",340,722,370,56,HideInterface);
+            Btn(p,"Resume",180,224,690,66,()=>CloseOverlay(),true,true);
+            Btn(p,"Save",180,314,330,64,()=>Saves(true));Btn(p,"Load",540,314,330,64,()=>Saves(false));
+            Btn(p,"Settings",180,394,330,64,Settings);Btn(p,"History",540,394,330,64,History);
+            Btn(p,"Journal",180,474,330,64,Journal);Btn(p,"Gallery",540,474,330,64,Gallery);
+            Btn(p,"Quick save",180,554,330,64,()=>{if(Save("quick"))CloseOverlay();});
+            Btn(p,"Quick load",540,554,330,64,()=>Confirm("Load the quick save?",()=>Load("quick")),SaveStore.Load("quick",Content)!=null);
+            Btn(p,"Title screen",180,634,330,64,()=>Confirm("Return to the title? The current story will be autosaved.",()=>{Autosave();ShowTitle();}));
+            Btn(p,"Quit",540,634,330,64,()=>Confirm("Save and close the game?",()=>{if(Save("autosave",false))Application.Quit();}));
+            if(session.mode=="dialogue")Quiet(p,"Hide interface · H",340,738,370,48,HideInterface);
         }
         void Saves(bool saving,int page=0)
         {
@@ -72,58 +80,58 @@ namespace AprilAgain
                 string slot=page==2?special[i%3]:"slot"+(page*6+i+1);
                 if(page==2&&i>=3)break;
                 var saved=SaveStore.Load(slot,Content);
-                float x=110+(i%3)*480,y=182+(i/3)*290;
-                var tile=Btn(p,"",x,y,448,270,()=>{
+                float x=160+(i%3)*450,y=226+(i/3)*290;
+                var tile=Btn(p,"",x,y,430,270,()=>{
                     if(saving){Action write=()=>{if(Save(slot)){Saves(true,page);Toast("Saved.");}};if(saved!=null)Confirm("Overwrite this save?",write,()=>Saves(true,page));else write();}
                     else Confirm("Load this save?",()=>Load(slot),()=>Saves(false,page));
                 },saving?session!=null&&!title&&page<2:saved!=null);
                 string label=page==2?(slot=="autosave"?"Auto":slot=="quick"?"Quick":"Before finale"):"Slot "+(page*6+i+1);
-                if(saved!=null)Image(tile.transform,"Scene preview",84,14,280,158,Color.white,catalog.Sprite(saved.background),true);
-                else Text(tile.transform,"Empty",24,62,400,70,Font,27,Muted,TextAlignmentOptions.Center);
-                Text(tile.transform,label,24,182,400,36,catalog.titleFont,23,Rose);
+                if(saved!=null)Image(tile.transform,"Scene preview",75,14,280,158,Color.white,catalog.Sprite(saved.background),true);
+                else Text(tile.transform,"Empty",24,62,382,70,Font,27,Muted,TextAlignmentOptions.Center);
+                Text(tile.transform,label,24,182,382,36,catalog.titleFont,23,Rose);
                 string place=saved==null?"":saved.location=="field"?"Sports field":saved.location=="corridor"?"Corridor":Content.locations.First(l=>l.id==saved.location).name;
                 string info=saved==null?"":new DateTime(2026,4,6).AddDays(saved.day-1).ToString("ddd d MMM",System.Globalization.CultureInfo.InvariantCulture)+" · "+place;
-                Text(tile.transform,info,24,220,400,38,Font,22,Muted);
+                Text(tile.transform,info,24,220,382,38,Font,22,Muted);
             }
-            for(int i=0;i<3;i++){int index=i;Btn(p,i==2?"Auto":""+(i+1),580+i*170,838,150,58,()=>Saves(saving,index),true,page==i);}
+            for(int i=0;i<3;i++){int index=i;Btn(p,i==2?"Auto":""+(i+1),580+i*170,824,150,58,()=>Saves(saving,index),true,page==i);}
         }
         void History()
         {
             var p=OpenPanel("History",1580,948);
             var items=session?.history??new System.Collections.Generic.List<string>();
-            if(items.Count==0){Text(p,"Your story hasn't begun yet.",90,180,1300,80,Font,32);return;}
-            var content=Scroll(p,160,172,1260,680,items.Count*100);float y=0;
+            if(items.Count==0){Text(p,"Your story hasn't begun yet.",160,224,1260,80,Font,32);return;}
+            var content=Scroll(p,160,224,1260,600,items.Count*100);float y=0;
             foreach(var item in items)
             {
                 var line=Text(content,item,16,y,1212,100,Font,29);
                 float height=Mathf.Max(76,line.GetPreferredValues(item,1212,10000).y)+36;
                 line.rectTransform.sizeDelta=new Vector2(1212,height-24);y+=height;
             }
-            content.sizeDelta=new Vector2(content.sizeDelta.x,Mathf.Max(680,y));
+            content.sizeDelta=new Vector2(content.sizeDelta.x,Mathf.Max(600,y));
             p.GetComponentInChildren<ScrollRect>().verticalNormalizedPosition=0;
         }
         void Journal()
         {
             var p=OpenPanel("Journal",1650,948);
-            if(session==null){Text(p,"Start a new story to fill these pages.",90,170,1400,100,Font,32);return;}
-            var content=Rect("Classmates",p,160,176,1330,650);
+            if(session==null){Text(p,"Start a new story to fill these pages.",160,224,1330,100,Font,32);return;}
+            var content=Rect("Classmates",p,160,224,1330,570);
             for(int i=0;i<Content.characters.Length;i++)
             {
-                var c=Content.characters[i];var r=session.Route(c.id);float y=i*128;
-                Image(content,c.name,12,y+4,104,104,Color.white,catalog.Sprite("expr_"+c.id+"_neutral"),true);
+                var c=Content.characters[i];var r=session.Route(c.id);float y=i*112;
+                CenterArtwork(Image(content,c.name,12,y+4,96,96,Color.white,catalog.Sprite("expr_"+c.id+"_neutral"),true));
                 Text(content,Familiar(c.name),150,y+3,860,42,catalog.titleFont,29,Rose);
-                Text(content,session.opening?(session.observed.Contains(c.id)?"Seen at orientation":"Someone to notice"):Appointment(c.id),150,y+57,1040,48,Font,25,Muted);
+                Text(content,session.opening?(session.observed.Contains(c.id)?"Seen at orientation":"Someone to notice"):Appointment(c.id),150,y+55,1040,44,Font,25,Muted);
                 Text(content,(r.next-1)+" / 15",1150,y+8,160,40,Font,25,Ink,TextAlignmentOptions.Right);
-                Image(content,"Page rule",150,y+116,1160,1,new Color(.8f,.5f,.6f,.22f));
+                Image(content,"Page rule",150,y+110,1160,1,new Color(.8f,.5f,.6f,.22f));
             }
-            Quiet(p,"How days work",180,840,260,56,()=>Message("Travel and looking around are free. Each encounter takes one 3-hour block, with one encounter per classmate per day.\n\nThe fifteenth encounter ends that route and the playthrough. Saturday has an extra activity block.",Journal));
+            Quiet(p,"How days work",180,828,260,56,()=>Message("Travel and looking around are free. Each encounter takes one 3-hour block, with one encounter per classmate per day.\n\nThe fifteenth encounter ends that route and the playthrough. Saturday has an extra activity block.",Journal));
             bool allClub=session.mode=="explore"&&!session.opening&&Content.characters.All(c=>GameRules.Next(Content,session,c.id)?.club??false);
-            if(allClub)Btn(p,"Skip to Saturday",1160,850,400,64,()=>Confirm("Finish the intervening school days and wait for Saturday? No relationship scores will change.",()=>{do{GameRules.AdvanceDay(session);}while(!GameRules.Saturday(session));session.location="gate";CloseOverlay(false);Explore();}));
+            if(allClub)Btn(p,"Skip to Saturday",1160,824,400,64,()=>Confirm("Finish the intervening school days and wait for Saturday? No relationship scores will change.",()=>{do{GameRules.AdvanceDay(session);}while(!GameRules.Saturday(session));session.location="gate";CloseOverlay(false);Explore();}));
         }
         void Gallery()
         {
             var p=OpenPanel("Memories",1740,948);
-            var content=Scroll(p,158,172,1424,680,1360);
+            var content=Scroll(p,160,224,1420,596,1360);
             for(int i=0;i<Content.endings.Length;i++)
             {
                 var ending=Content.endings[i];bool unlocked=prefs.gallery.Contains(ending.id);float x=(i%3)*468,y=(i/3)*266;
@@ -143,8 +151,8 @@ namespace AprilAgain
         void Settings()
         {
             var p=OpenPanel("Settings",1640,954);
-            Text(p,"Sound",160,176,580,54,catalog.titleFont,30,Rose);
-            Text(p,"Reading & display",900,176,580,54,catalog.titleFont,30,Rose);
+            Text(p,"Sound",160,224,580,54,catalog.titleFont,30,Rose);
+            Text(p,"Reading & display",900,224,580,54,catalog.titleFont,30,Rose);
             void SliderRow(string label,float x,float y,float value,float min,float max,Action<float> changed,string format)
             {
                 Text(p,label,x,y,400,40,Font,25);
@@ -158,24 +166,24 @@ namespace AprilAgain
                 slider.fillRect=fill.rectTransform;slider.handleRect=handle.rectTransform;slider.targetGraphic=handle;slider.minValue=min;slider.maxValue=max;slider.value=value;
                 slider.onValueChanged.AddListener(v=>{number.text=v.ToString(format);changed(v);audioPlayer.Apply();});
             }
-            SliderRow("Master",160,252,prefs.master,0,1,v=>prefs.master=v,"P0");
-            SliderRow("Music",160,372,prefs.music,0,1,v=>prefs.music=v,"P0");
-            SliderRow("Sound effects",160,492,prefs.sound,0,1,v=>prefs.sound=v,"P0");
-            SliderRow("Ambience",160,612,prefs.ambience,0,1,v=>prefs.ambience=v,"P0");
-            SliderRow("Text speed",900,252,prefs.textSpeed,15,100,v=>prefs.textSpeed=v,"0");
-            SliderRow("Auto pause",900,392,prefs.autoDelay,1,6,v=>prefs.autoDelay=v,"0.0 's'");
-            Btn(p,"Reduced motion  "+(prefs.reducedMotion?"On":"Off"),900,550,520,62,()=>{prefs.reducedMotion=!prefs.reducedMotion;PersistPreferences();Settings();});
-            Btn(p,"Fullscreen  "+(prefs.fullscreen?"On":"Off"),900,638,520,62,()=>{prefs.fullscreen=!prefs.fullscreen;Screen.fullScreen=prefs.fullscreen;PersistPreferences();Settings();});
-            Btn(p,"Mute outside game  "+(prefs.muteUnfocused?"On":"Off"),900,726,520,62,()=>{prefs.muteUnfocused=!prefs.muteUnfocused;PersistPreferences();Settings();});
+            SliderRow("Master",160,292,prefs.master,0,1,v=>prefs.master=v,"P0");
+            SliderRow("Music",160,412,prefs.music,0,1,v=>prefs.music=v,"P0");
+            SliderRow("Sound effects",160,532,prefs.sound,0,1,v=>prefs.sound=v,"P0");
+            SliderRow("Ambience",160,652,prefs.ambience,0,1,v=>prefs.ambience=v,"P0");
+            SliderRow("Text speed",900,292,prefs.textSpeed,15,100,v=>prefs.textSpeed=v,"0");
+            SliderRow("Auto pause",900,412,prefs.autoDelay,1,6,v=>prefs.autoDelay=v,"0.0 's'");
+            Btn(p,"Reduced motion  "+(prefs.reducedMotion?"On":"Off"),900,540,520,62,()=>{prefs.reducedMotion=!prefs.reducedMotion;PersistPreferences();Settings();});
+            Btn(p,"Fullscreen  "+(prefs.fullscreen?"On":"Off"),900,624,520,62,()=>{prefs.fullscreen=!prefs.fullscreen;Screen.fullScreen=prefs.fullscreen;PersistPreferences();Settings();});
+            Btn(p,"Mute outside game  "+(prefs.muteUnfocused?"On":"Off"),900,708,520,62,()=>{prefs.muteUnfocused=!prefs.muteUnfocused;PersistPreferences();Settings();});
             Quiet(p,"Controls",170,830,230,60,()=>Message("Click or Space to advance. Escape opens the menu. H hides the interface.\n\nAuto reads at your pace. Skip stops at unread text and choices.\n\nF5: quick save. F9: quick load.",Settings));
             Btn(p,"Done",1110,830,310,64,()=>{PersistPreferences();CloseOverlay();},true,true);
         }
         void Credits(bool ending)
         {
             var p=OpenPanel(ending?Content.endings.First(x=>x.id==session.pendingEnding).title:"April, again",1420,920);
-            Text(p,"Thank you for spending these days at Seiran.",150,174,1120,90,catalog.titleFont,32,Rose,TextAlignmentOptions.Center);
-            Text(p,"Created by Medissl\nWith Codex / OpenAI production tools\n\nMenu cues: MENFENG · Door and interface: Kenney (CC0)\nRain recording: alxl (CC0)\nOriginal music made for April, again\n\nNunito — SIL Open Font License",190,306,1040,400,Font,27,Ink,TextAlignmentOptions.Center);
-            Btn(p,ending?"Return to title":"Return",470,792,480,72,()=>{if(ending){Autosave();ShowTitle();}else CloseOverlay();},true,true);
+            Text(p,"Thank you for spending these days at Seiran.",150,224,1120,90,catalog.titleFont,32,Rose,TextAlignmentOptions.Center);
+            Text(p,"Created by Medissl\nWith Codex / OpenAI production tools\n\nMenu cues: MENFENG · Door and interface: Kenney (CC0)\nRain recording: alxl (CC0)\nOriginal music made for April, again\n\nNunito — SIL Open Font License",190,340,1040,364,Font,27,Ink,TextAlignmentOptions.Center);
+            Btn(p,ending?"Return to title":"Return",470,784,480,72,()=>{if(ending){Autosave();ShowTitle();}else CloseOverlay();},true,true);
         }
     }
 }
